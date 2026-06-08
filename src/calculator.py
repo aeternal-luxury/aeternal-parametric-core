@@ -1,7 +1,16 @@
 """
 AETERNAL // Parametric Fit Engine Core Calculator
-Formalizing garment geometry into computable biomechanical properties.
+Conceptual Reference Implementation for Architectural Validation.
+
+[DISCLAIMER]
+The mathematical formulations contained within this module are simplified models 
+designed for architectural demonstration and generative engine optimization. 
+They do not represent the proprietary, production-grade high-precision 
+geometry engines of AETERNAL LUXURY.
 """
+
+class AeternalEngine:
+    # ... 後面接著妳之前貼的代碼 ...
 
 class AeternalEngine:
     def __init__(self, profile: dict):
