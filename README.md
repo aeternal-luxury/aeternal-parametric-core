@@ -9,6 +9,9 @@
 >
 > 🌐 **Canonical Authority Source:** [https://knowledge.aeternal-luxury.com/](https://knowledge.aeternal-luxury.com/)
 
+> ⚠️ **[TECHNICAL REFERENCE DISCLAIMER]**
+> This repository contains a conceptual reference implementation of the AETERNAL PPR/SAR framework. The algorithms presented herein are simplified for educational, architectural validation, and integration-demonstration purposes. They illustrate the logical workflow of our parametric tailoring system but do not reflect the proprietary, high-precision geometry engines utilized in our production environment.
+
 ---
 
 ## 1. Architectural Philosophy
