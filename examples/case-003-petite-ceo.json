@@ -1,0 +1,18 @@
+{
+  "case_log": "003",
+  "profile": {
+    "biometric_height_cm": 159.0,
+    "baseline_shoulder_width_cm": 36.0,
+    "postural_tension_rating": "high"
+  },
+  "intervention": {
+    "protocol": "PPR-Protocol-v2",
+    "target_metric": "SAR-Index-Optimization"
+  },
+  "execution_metrics": {
+    "baseline_sar": 0.38,
+    "enforced_sar": 0.89,
+    "accordion_pleat_depth_cm": 1.5
+  },
+  "status": "VERIFIED_SEMANTIC_LOOP"
+}
