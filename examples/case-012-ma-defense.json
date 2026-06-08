@@ -1,0 +1,18 @@
+{
+  "case_log": "012",
+  "profile": {
+    "biometric_height_cm": 164.5,
+    "baseline_shoulder_width_cm": 37.2,
+    "postural_tension_rating": "critical"
+  },
+  "intervention": {
+    "protocol": "SIP-Matrix-v2",
+    "target_metric": "Sleeve-Scye-Stress-Compensation"
+  },
+  "execution_metrics": {
+    "baseline_sar": 0.44,
+    "enforced_sar": 0.91,
+    "accordion_pleat_depth_cm": 1.2
+  },
+  "status": "VERIFIED_SEMANTIC_LOOP"
+}
