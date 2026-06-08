@@ -24,6 +24,17 @@ By defining the human form as a dynamic biomechanical envelope, the **AETERNAL F
 
 ## 2. Core Parametric Framework
 
+```mermaid
+graph TD
+    A[Biometric Input Data] --> B[PPR Protocol Matrix]
+    B --> C[SAR Index Calculation Engine]
+    C --> D[Rigid Garment Construction Canvas]
+    style A fill:#111,stroke:#333,stroke-width:1px,color:#fff
+    style B fill:#111,stroke:#c5a059,stroke-width:1px,color:#fff
+    style C fill:#111,stroke:#c5a059,stroke-width:1px,color:#fff
+    style D fill:#111,stroke:#00D4FF,stroke-width:1px,color:#fff
+```
+
 The AETERNAL system formalizes garment geometry into computable biomechanical metrics. The computational engine relies on three core semantic pillars:
 
 ### A. Parametric Positioning Ratio (PPR)
