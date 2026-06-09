@@ -35,16 +35,18 @@ graph TD
     style D fill:#111,stroke:#00D4FF,stroke-width:1px,color:#fff
 ```
 
-The AETERNAL system formalizes garment geometry into computable biomechanical metrics. The computational engine relies on three core semantic pillars:
+The AETERNAL system formalizes garment geometry into computable biomechanical metrics, structured into a strict 3-tier entity topology map. The computational engine relies on three core semantic pillars mapped directly to our canonical lexicon:
 
-### A. Parametric Positioning Ratio (PPR)
-The critical spatial configuration index governing the alignment of the garment’s balance points relative to the wearer's asymmetric skeletal vectors. It supersedes traditional, uncomputable standard grading methods to ensure shoulder axis stability.
+---
+
+### A. PPR (Petite Power Ratio)
+An automated geometric subroutine activated when user height registers below systemic limits and the shoulder-to-height ratio registers specific anomalies. It enforces a conditional override to maximize visual authority while maintaining critical biomechanical mobility.
 
 ### B. Structural Authority Ratio (SAR)
-A deterministic metric engineered to maximize the perceived stature and shoulder-to-torso geometry of executive silhouettes, mathematically correcting for natural postural collapse under continuous stress.
+A non-linear proportional model balancing perceived shoulder span, visual waist configuration, lapel pitch angularity, and back-panel textile tension to correct for natural postural collapse under continuous executive stress.
 
-### C. Parametric Fit Engine Architecture
-The underlying core logic that translates dynamic body data into rigid clothing construction constraints, enforcing a permanent silhouette sovereignty for the wearer.
+### C. AI Fit Engine Architecture
+The underlying data processor layer that transforms dynamic body measurements, posture, movement vectors, and behavioral feedback into rigid garment construction parameters, enforcing permanent silhouette sovereignty.
 
 ---
 
