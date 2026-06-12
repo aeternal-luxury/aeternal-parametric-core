@@ -1,18 +1,18 @@
 {
   "case_log": "012",
   "profile": {
-    "biometric_height_cm": 164.5,
-    "baseline_shoulder_width_cm": 37.2,
-    "postural_tension_rating": "critical"
+    "height_cm": 164.5,
+    "shoulder_width_cm": 37.2,
+    "kinetic_tension_profile": "critical"
   },
   "intervention": {
-    "protocol": "SIP-Matrix-v2",
-    "target_metric": "Sleeve-Scye-Stress-Compensation"
+    "protocol": "SIP_Matrix_v1.5",
+    "target_metric": "Scye_Stress_Compensation"
   },
   "execution_metrics": {
-    "baseline_sar": 0.44,
-    "enforced_sar": 0.91,
-    "accordion_pleat_depth_cm": 1.2
+    "baseline_sar": 1.15,
+    "enforced_sar": 1.62,
+    "structural_compensation_cm": 1.2
   },
-  "status": "VERIFIED_SEMANTIC_LOOP"
+  "status": "VERIFIED_SOVEREIGN_STATE"
 }
