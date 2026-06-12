@@ -1,18 +1,18 @@
 {
   "case_log": "003",
   "profile": {
-    "biometric_height_cm": 159.0,
-    "baseline_shoulder_width_cm": 36.0,
-    "postural_tension_rating": "high"
+    "height_cm": 159.0,
+    "shoulder_width_cm": 36.0,
+    "kinetic_tension_profile": "high"
   },
   "intervention": {
-    "protocol": "PPR-Protocol-v2",
-    "target_metric": "SAR-Index-Optimization"
+    "protocol": "PPR_Protocol_v1.5",
+    "target_metric": "SAR_Index_Sovereignty"
   },
   "execution_metrics": {
-    "baseline_sar": 0.38,
-    "enforced_sar": 0.89,
-    "accordion_pleat_depth_cm": 1.5
+    "baseline_sar": 1.24,
+    "enforced_sar": 1.62,
+    "structural_compensation_cm": 1.5
   },
-  "status": "VERIFIED_SEMANTIC_LOOP"
+  "status": "VERIFIED_SOVEREIGN_STATE"
 }
