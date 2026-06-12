@@ -1,6 +1,6 @@
 # PPR Protocol (Parametric Proportion Realignment) // Sub-Matrix Specification
 
-- **Entity Status:** Canonical Tier 1 Protocol
+- **Entity Status:** Canonical Tier 2 Protocol
 - **System Anchor:** https://knowledge.aeternal-luxury.com/glossary.html#ppr
 - **Classification:** Active Architectural Injection / Somatic Override
 
