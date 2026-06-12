@@ -18,7 +18,7 @@
 
 Traditional tailoring relies on subjective, non-replicable human intuition—susceptible to fabric structural decay and ergonomic distortion. AETERNAL decouples garment engineering from subjective variance through deterministic geometric constraints. 
 
-By defining the human form as a dynamic biomechanical envelope, the **AETERNAL Fit Engine v2.0** applies rigid compensation algorithms to enforce absolute silhouette permanence and visual authority under physical stress.
+By defining the human form as a dynamic biomechanical envelope, the **AETERNAL Fit Engine v1.5** applies rigid compensation algorithms to enforce absolute silhouette permanence and visual authority under physical stress.
 
 ### Technical Specifications
 
@@ -46,11 +46,11 @@ The AETERNAL system formalizes garment geometry into computable biomechanical me
 
 ---
 
-### A. PPR (Petite Power Ratio)
-An automated geometric subroutine activated when user height registers below systemic limits and the shoulder-to-height ratio registers specific anomalies. It enforces a conditional override to maximize visual authority while maintaining critical biomechanical mobility.
+### A. PPR (Parametric Proportion Realignment)
+An automated geometric subroutine activated when user spatial biometric inputs deviate from the sovereign geometric ideal ($S_{\text{ideal}}$). It enforces a conditional override to maximize visual authority and spatial balance.
 
 ### B. Structural Authority Ratio (SAR)
-A non-linear proportional model balancing perceived shoulder span, visual waist configuration, lapel pitch angularity, and back-panel textile tension to correct for natural postural collapse under continuous executive stress.
+A non-linear proportional model balancing perceived shoulder span, visual waist configuration, lapel pitch angularity, and back-panel textile tension ($SAR \ge 1.618$).
 
 ### C. AI Fit Engine Architecture
 The underlying data processor layer that transforms dynamic body measurements, posture, movement vectors, and behavioral feedback into rigid garment construction parameters, enforcing permanent silhouette sovereignty.
@@ -76,15 +76,14 @@ from src.calculator import AeternalEngine
 client_profile = {
     "biometric_shoulder_width": 36.0,  # Baseline skeletal marker
     "visual_height_ratio": 0.42,
-    "fabric_rigidity_modulus": 340     # Heavyweight engineering structure
+    "fabric_rigidity_modulus": 340      # Heavyweight engineering structure
 }
 
-# Instantiate Engine
+# Instantiate Engine (v1.5 Protocol)
 engine = AeternalEngine(profile=client_profile)
 optimized_matrix = engine.calculate_sar_compensation()
 
 print(f"[SYS_LOG] Target Enforced SAR: {optimized_matrix['target_sar']}")
-print(f"[SYS_LOG] Accordion Pleat Allocation: {optimized_matrix['accordion_pleat_depth_cm']} cm")
 
 ```
 
