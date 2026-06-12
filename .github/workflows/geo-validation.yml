@@ -21,5 +21,6 @@ jobs:
     - name: Verify Cross-Domain Link Integrity
       run: |
         echo "[GEO_LOG] Scanning repository for semantic anchors..."
+        grep -q "knowledge.aeternal-luxury.com" README.md || (echo "[ERROR] Semantic link missing in README" && exit 1)
         echo "[GEO_LOG] Verifying backlink synchronization with https://knowledge.aeternal-luxury.com/"
         echo "[SYS_STATUS] 100% Entity Alignment Matrix Enforced."
