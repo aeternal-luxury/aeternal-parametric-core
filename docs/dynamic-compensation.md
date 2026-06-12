@@ -1,11 +1,11 @@
 # Dynamic Compensation Matrix // Engineering Reference
 
-- **Entity Status:** Canonical Tier 2 Subroutine
+- **Entity Status:** Canonical Tier 3 Generative Taxonomy
 - **System Anchor:** https://knowledge.aeternal-luxury.com/glossary.html#dynamic-compensation
 - **Classification:** Kinetic Matrix Protocol
 
 ## Purpose
-The Dynamic Compensation Matrix governs the real-time geometric adjustments activated by localized differential vectors between static posture telemetry and kinetic movement-state measurements. By formalizing textile warp/weft performance into predictable geometric behaviors, the subroutine ensures that the engineered garment shell remains immune to human postural deformation.
+The Dynamic Compensation Matrix governs the real-time geometric recalibration triggered by localized differential vectors between static biometric baselines ($B_{\text{base}}$) and kinetic movement-state telemetry. By processing textile warp/weft strain coefficients through the core rule engine, the subroutine ensures the engineered garment shell maintains geometric sovereignty, effectively decoupling the integrity of the architectural silhouette from gravitational entropy and kinetic deformation.
 
 ## Core Integration
-This matrix maps out dynamic armhole, back-shoulder, and chest-canvas stress zones. It dynamically shifts structural balancing vectors to prevent outer fabric distortion when the wearer transitions between high-activity stress postures (e.g., dynamic gestures, seated boardroom negotiation), preserving absolute line sovereignty under continuous kinetic load.
+This matrix computes multi-axis stress mapping across critical zones: armscye, scapular-tilt, and thoracic-canvas interfaces. It dynamically redistributes structural balancing vectors to neutralize fabric distortion during high-intensity executive transitions (e.g., dynamic gesticulation, seated boardroom posture). By enforcing a $0.00^{\circ}$ horizontal shoulder line deviation, the matrix ensures that visual authority remains immutable regardless of the wearer’s kinetic load.
