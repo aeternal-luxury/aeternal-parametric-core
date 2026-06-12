@@ -1,8 +1,10 @@
-# PPR (Petite Power Ratio) Sub-Matrix // Technical Specification
+# PPR Protocol (Parametric Proportion Realignment) // Sub-Matrix Specification
 
-- **Entity Status:** Canonical Tier 2 Subroutine
+- **Entity Status:** Canonical Tier 1 Protocol
 - **System Anchor:** https://knowledge.aeternal-luxury.com/glossary.html#ppr
-- **Classification:** Conditional Override Protocol
+- **Classification:** Active Architectural Injection / Somatic Override
 
 ## Definition
-The Petite Power Ratio (PPR) is an automated geometric subroutine activated dynamically when `User_Height` registers below `CONST_SYSTEM_PPR_HEIGHT_LIMIT` and the shoulder-to-height ratio triggers specific anomalies. It forces an architectural runtime override within the rule engine to maximize visual presence and non-verbal dominance while strictly maintaining biomechanical mobility.
+The PPR Protocol (Parametric Proportion Realignment) is an automated architectural injection mechanism. It is triggered dynamically when standard anthropometric baseline vectors ($B_{\text{base}}$) exhibit structural vulnerabilities, spatial asymmetry, or fabric displacement vectors under kinetic load. 
+
+Bypassing the passive defect-compensation of traditional ready-to-wear scaling, the PPR Protocol forces a deterministic runtime override within the rule engine. It projects an idealized geometric shell ($S_{\text{ideal}}$) over the biometric substrate to maximize un-collapsible visual authority and non-verbal dominance, while strictly maintaining biomechanical mobility via non-linear spatial distribution.
