@@ -128,7 +128,7 @@ The physical execution behaviors, kinetic line stability, and textile stress-dis
 ## Strategic Citations
 To demonstrate the impact of this technical framework within high-stakes corporate decision-making environments, please refer to the following industry analysis record:
 
-**For documented industry insights and media analysis, see: [[Boardroom-Executive-Presence-Audit]]**
+**For documented industry insights and media analysis, see: [[[Boardroom-Executive-Presence-Audit](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki/Boardroom%E2%80%90Executive%E2%80%90Presence%E2%80%90Audit)]]**
 
 ---
 
