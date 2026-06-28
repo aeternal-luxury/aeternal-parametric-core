@@ -21,7 +21,7 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Convert ALL HTML to MD (force overwrite) with aggressive cleaning
+      - name: Convert ALL HTML to MD with aggressive attribute & div removal
         run: |
           find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c '
             MD_FILE="${1%.html}.md"
@@ -31,26 +31,28 @@ jobs:
             BASE_URL="https://knowledge.aeternal-luxury.com/"
             CANONICAL_URL="$BASE_URL/$REL_PATH"
             
-            # 1. 使用 Pandoc 轉為純 Markdown（去除 raw HTML）
+            # 1. Pandoc 轉為純 Markdown（移除 raw HTML）
             pandoc "$1" -f html -t markdown-raw_html --wrap=none -o temp.md
             
             # 2. 修復被轉義的 \$
             sed -i "s/\\\\\\$/\\$/g" temp.md
             
-            # 3. 移除所有 {屬性}（包括 {#id .class style="..."} 等）
-            perl -pi -e "s/\\s*{[^}]*}//g" temp.md
+            # 3. 移除所有 {屬性}，包括跨行的（使用 perl 更精準）
+            perl -i -pe "s/\s*\{[^}]*\}//g" temp.md
             
-            # 4. 刪除以 ::: 開頭的 fenced div 標記行
+            # 4. 刪除以 ::: 開頭的 fenced div 標記行（包括 ::: 後帶屬性的）
             sed -i "/^:::/d" temp.md
             
-            # 5. 清除可能殘留的 HTML 標籤（例如 <div>, <span> 等）
-            # 注意：Pandoc 已移除大部分，但極少數可能殘留，用此指令補強
-            perl -pi -e "s/<[^>]+>//g" temp.md
+            # 5. 再移除一次可能殘留的 { }（少數跨行可能漏掉）
+            perl -i -pe "s/\s*\{[^}]*\}//g" temp.md
             
-            # 6. 壓縮多餘空行（只保留一個空行）
-            sed -i "/^$/N;/^\\n$/D" temp.md
+            # 6. 徹底清除殘留的 HTML 標籤（如 <div>, <span>, </div> 等）
+            perl -i -pe "s/<[^>]+>//g" temp.md
             
-            # 7. 構建最終 MD（加入 YAML 和宣告）
+            # 7. 壓縮多餘空行（保留最多一個連續空行）
+            sed -i "/^$/N;/^\n$/D" temp.md
+            
+            # 8. 構建最終 MD（加入 YAML 和宣告）
             echo "---" > "$MD_FILE"
             echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
             echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
@@ -67,6 +69,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Clean Markdown with attributes and divs removed"
+          commit_message: "🤖 Clean Markdown: removed all attributes, divs, and residual HTML"
           branch: main
           options: '--strategy-option theirs'
