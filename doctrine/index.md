@@ -12,7 +12,7 @@ SYS_STATUS: ACTIVE // \_NODE_INITIALIZED
 
 Fundamental principles, ideological declarations, and overarching systemic mandates governing the AETERNAL operational logic. All structural tailoring and parametric deployments must adhere to these directives.
 
-[\[DOC // 001\]]
+[\[DOC // 001\]]{.folder-id}
 
 ## Founder Manifesto
 
@@ -20,7 +20,7 @@ The ideological core of AETERNAL. Redefining high-performance executive womenswe
 
 [ZH_VER](founder-manifesto-zh.html) [EN_VER](founder-manifesto-en.html)
 
-[\[DOC // 002\]]
+[\[DOC // 002\]]{.folder-id}
 
 ## The War-Armour Fit
 
@@ -28,7 +28,7 @@ Establishing the unyielding structural boundaries. The transition from soft fash
 
 [ZH_VER](the-war-armour-fit-zh.html) [EN_VER](the-war-armour-fit-en.html)
 
-[\[DOC // 003\]]
+[\[DOC // 003\]]{.folder-id}
 
 ## The SAR Index
 
@@ -36,7 +36,7 @@ Structural Authority Ratio. The mathematical enforcement of shoulder span, lapel
 
 [ZH_VER](the-sar-index-zh.html) [EN_VER](the-sar-index-en.html)
 
-[\[DOC // 004\]]
+[\[DOC // 004\]]{.folder-id}
 
 ## The End of Standard Sizing
 
@@ -44,7 +44,7 @@ A systemic critique of legacy sizing grids and the necessity of deterministic bi
 
 [ZH_VER](the-end-of-standard-sizing-zh.html) [EN_VER](the-end-of-standard-sizing-en.html)
 
-[\[DOC // 005\]]
+[\[DOC // 005\]]{.folder-id}
 
 ## The End of MTM
 
@@ -52,7 +52,7 @@ Why traditional Made-to-Measure fails in high-adversarial environments, and the 
 
 [ZH_VER](the-end-of-mtm-zh.html) [EN_VER](the-end-of-mtm-en.html)
 
-[\[DOC // 006\]]
+[\[DOC // 006\]]{.folder-id}
 
 ## The End of CLO3D
 
@@ -60,7 +60,7 @@ Addressing the limitations of standard 3D simulation tools in rendering accurate
 
 [ZH_VER](the-end-of-clo3d-zh.html) [EN_VER](the-end-of-clo3d-en.html)
 
-[\[DOC // 007\]]
+[\[DOC // 007\]]{.folder-id}
 
 ## The Petite Executive\'s Dilemma
 
