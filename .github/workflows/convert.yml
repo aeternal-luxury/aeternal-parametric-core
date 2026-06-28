@@ -21,7 +21,7 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Convert ALL HTML to MD with aggressive attribute & div removal
+      - name: Convert ALL HTML to MD with safe cleaning
         run: |
           find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c '
             MD_FILE="${1%.html}.md"
@@ -37,22 +37,16 @@ jobs:
             # 2. 修復被轉義的 \$
             sed -i "s/\\\\\\$/\\$/g" temp.md
             
-            # 3. 移除所有 {屬性}，包括跨行的（使用 perl 更精準）
-            perl -i -pe "s/\s*\{[^}]*\}//g" temp.md
-            
-            # 4. 刪除以 ::: 開頭的 fenced div 標記行（包括 ::: 後帶屬性的）
+            # 3. 刪除以 ::: 開頭的 fenced div 行（包括帶屬性的）
             sed -i "/^:::/d" temp.md
             
-            # 5. 再移除一次可能殘留的 { }（少數跨行可能漏掉）
-            perl -i -pe "s/\s*\{[^}]*\}//g" temp.md
-            
-            # 6. 徹底清除殘留的 HTML 標籤（如 <div>, <span>, </div> 等）
+            # 4. 清除殘留的 HTML 標籤（安全網）
             perl -i -pe "s/<[^>]+>//g" temp.md
             
-            # 7. 壓縮多餘空行（保留最多一個連續空行）
+            # 5. 壓縮多餘空行（保留最多一個連續空行）
             sed -i "/^$/N;/^\n$/D" temp.md
             
-            # 8. 構建最終 MD（加入 YAML 和宣告）
+            # 6. 構建最終 MD（加入 YAML 和宣告）
             echo "---" > "$MD_FILE"
             echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
             echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
@@ -69,6 +63,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Clean Markdown: removed all attributes, divs, and residual HTML"
+          commit_message: "🤖 Safe conversion: removed div markers and residual HTML only"
           branch: main
           options: '--strategy-option theirs'
