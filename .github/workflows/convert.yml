@@ -19,16 +19,13 @@ jobs:
       - name: Convert HTML to MD
         run: |
           find . -name "*.html" -exec sh -c 'pandoc "$1" -f html -t markdown-raw_html -o "${1%.html}.md"' _ {} \;
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name 'AETERNAL-Bot'
-          git config --global user.email 'bot@aeternal-luxury.com'
-          git add *.md */*.md
-          if git diff --quiet && git diff --staged --quiet; then
-            echo "沒有變更，跳過。"
-          else
-            git commit -m "Auto-convert: Sync HTML to MD"
-            git pull --rebase origin main
-            git push origin main
-          fi
+          
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown-knowledge-base
+          path: |
+            *.md
+            */*.md
+            !*.html
+            !node_modules
