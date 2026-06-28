@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - '**.html'
-  workflow_dispatch:   # 👈 加入這個，讓你可以手動啟動
+  workflow_dispatch:   # 允許手動觸發（方便一次性補轉所有缺失）
 
 jobs:
   convert:
@@ -21,13 +21,18 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Convert HTML to MD
+      - name: Convert missing HTML to MD
         run: |
-          find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c 'pandoc "$1" -f html -t markdown-raw_html -o "${1%.html}.md"' _ {} \;
+          find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c '
+            if [ ! -f "${1%.html}.md" ]; then
+              echo "Converting $1 ..."
+              pandoc "$1" -f html -t markdown-raw_html -o "${1%.html}.md"
+            fi
+          ' _ {} \;
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Auto-convert HTML to Markdown"
+          commit_message: "🤖 Auto-convert missing HTML to Markdown"
           branch: main
-          options: '--strategy-option theirs'   # 衝突時採用本地檔案
+          options: '--strategy-option theirs'   # 衝突時採用本地
