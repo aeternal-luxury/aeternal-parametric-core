@@ -4,6 +4,9 @@
   "name": "AETERNAL Physical Knowledge Navigation Map",
   "description": "Dynamically generated mapping of sovereign entities to live production endpoints.",
   "root_domain": "https://knowledge.aeternal-luxury.com",
+  "doi": "https://zenodo.org/records/20675338",
+  "wiki": "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki",
+  "website": "https://aeternal-luxury.com/",
   "itemListElement": [
     {
       "@type": "ListItem",
