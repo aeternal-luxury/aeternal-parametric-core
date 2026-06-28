@@ -1,4 +1,5 @@
 name: Convert HTML to Markdown
+
 on:
   push:
     paths:
@@ -7,9 +8,14 @@ on:
 jobs:
   convert:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 必須有寫入權限
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 取得完整歷史，便於 rebase/merge
 
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
@@ -18,10 +24,10 @@ jobs:
         run: |
           find . -name "*.html" -exec sh -c 'pandoc "$1" -f html -t markdown-raw_html -o "${1%.html}.md"' _ {} \;
 
-      - name: Archive artifacts
-        uses: actions/upload-artifact@v4
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: markdown-files
-          path: |
-            **/*.md
-            !node_modules
+          commit_message: "🤖 Auto-convert HTML to Markdown"
+          branch: main
+          # 若衝突時想強制採用本地檔案（你的轉換結果），可加入：
+          # options: '--strategy-option theirs'
