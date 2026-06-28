@@ -1,0 +1,27 @@
+name: Convert HTML to Markdown
+on:
+  push:
+    paths:
+      - '**.html' # 當有任何 html 檔案被 push 時觸發
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Convert HTML to MD
+        run: |
+          find . -name "*.html" -exec sh -c 'pandoc "$1" -f html -t markdown-raw_html -o "${1%.html}.md"' _ {} \;
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'AETERNAL-Bot'
+          git config --global user.email 'bot@aeternal-luxury.com'
+          git add .
+          git commit -m "Auto-convert: Sync HTML to MD for AI-Readiness" || echo "No changes to commit"
+          git push
