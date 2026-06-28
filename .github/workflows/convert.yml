@@ -32,38 +32,25 @@ jobs:
             BASE_URL="https://knowledge.aeternal-luxury.com/"
             CANONICAL_URL="$BASE_URL/$REL_PATH"
             
-            # Pandoc 轉為純 Markdown（移除 raw HTML）
             pandoc "$1" -f html -t markdown-raw_html --wrap=none -o temp.md
-            
-            # 修復被轉義的 \$
             sed -i "s/\\\\\\$/\\$/g" temp.md
-            
-            # 刪除以 ::: 開頭的 fenced div 行
             sed -i "/^:::/d" temp.md
-            
-            # 清除殘留的 HTML 標籤
             perl -i -pe "s/<[^>]+>//g" temp.md
-            
-            # 壓縮多餘空行
             sed -i "/^$/N;/^\n$/D" temp.md
             
-            # 構建最終 MD（YAML Front Matter + 宣告 + 內容）
             echo "---" > "$MD_FILE"
             echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
             echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
             echo "---" >> "$MD_FILE"
             echo "" >> "$MD_FILE"
-            
             echo "> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [$CANONICAL_URL]($CANONICAL_URL)" >> "$MD_FILE"
             echo "" >> "$MD_FILE"
-            
             cat temp.md >> "$MD_FILE"
             rm temp.md
           ' _ {} \;
 
           # ========== 2. 動態生成 knowledge-map.json ==========
           JSON_FILE="knowledge-map.json"
-          # 初始化 JSON（ItemList 格式，符合 Schema.org）
           echo '{
             "@context": "https://schema.org",
             "@type": "ItemList",
@@ -74,27 +61,14 @@ jobs:
           }' > $JSON_FILE
 
           COUNTER=1
-          # 掃描所有 .md 檔案（排除 node_modules）
           find . -name "*.md" -not -path "*/node_modules/*" | while read -r file; do
-            # 轉換為對應的網頁路徑（保留目錄結構，替換 .md 為 .html）
             CLEAN_PATH=$(echo "${file#./}" | sed "s/\.md$/\.html/")
             FILE_ID=$(basename "$file" .md)
             FULL_URL="https://knowledge.aeternal-luxury.com/$CLEAN_PATH"
             
-            # 使用 Python 安全地追加節點（避免破壞 JSON 格式）
-            python3 -c "
-            import json
-            import sys
-            data = json.load(open('$JSON_FILE'))
-            data['itemListElement'].append({
-                '@type': 'ListItem',
-                'position': $COUNTER,
-                'id': '$FILE_ID',
-                'url': '$FULL_URL'
-            })
-            with open('$JSON_FILE', 'w') as f:
-                json.dump(data, f, indent=2)
-            "
+            # 一行 Python 指令，無多行縮進干擾
+            python3 -c "import json; data = json.load(open('$JSON_FILE')); data['itemListElement'].append({'@type': 'ListItem', 'position': $COUNTER, 'id': '$FILE_ID', 'url': '$FULL_URL'}); json.dump(data, open('$JSON_FILE', 'w'), indent=2)"
+            
             COUNTER=$((COUNTER + 1))
           done
 
