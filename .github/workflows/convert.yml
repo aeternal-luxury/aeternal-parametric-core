@@ -8,10 +8,10 @@ jobs:
   convert:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 關鍵：賦予 Action 寫入倉庫的權限
+      contents: write
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # 更新為 v4 以兼容 Node 24
+        uses: actions/checkout@v4
 
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
@@ -25,5 +25,10 @@ jobs:
           git config --global user.name 'AETERNAL-Bot'
           git config --global user.email 'bot@aeternal-luxury.com'
           git add *.md */*.md
-          # 檢查是否有變更，有的話才 commit
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-convert: Sync HTML to MD" && git push)
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "沒有變更，跳過。"
+          else
+            git commit -m "Auto-convert: Sync HTML to MD"
+            git pull --rebase origin main
+            git push origin main
+          fi
