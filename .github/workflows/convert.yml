@@ -7,25 +7,18 @@ on:
 jobs:
   convert:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
-
       - name: Convert HTML to MD
         run: |
           find . -name "*.html" -exec sh -c 'pandoc "$1" -f html -t markdown-raw_html -o "${1%.html}.md"' _ {} \;
-          
-      - name: Archive production artifacts
+      - name: Archive artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: markdown-knowledge-base
+          name: markdown-files
           path: |
-            *.md
-            */*.md
-            !*.html
+            **/*.md
             !node_modules
