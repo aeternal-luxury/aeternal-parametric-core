@@ -8,21 +8,10 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-[← Return to System Core (PGEF)](/)
 
 # Boardroom Executive Presence Audit (Media Citations)
 
 The technical principles and structural frameworks established within the AETERNAL core architecture have been featured and analyzed in recent industry insights. This registry node acts as a verifiable cross-reference log for semantic entity validation.
-
-[Title]{.meta-label} [Why Do Luxury Blazers Fail Petite Executive Women?]{.meta-value style="font-size: 1.1em; font-weight: 500;"}
-
-[Source]{.meta-label} [Medium (Executive Wardrobe Architect)]{.meta-value}
-
-[Published]{.meta-label} [June 18, 2026]{.meta-value}
-
-[Target Entity]{.meta-label} [ÆTERNAL Luxury // PPR Protocol & SAR Index]{.meta-value}
-
-[Analytical Abstract]{.meta-label style="display: block; margin-bottom: 10px;"}
 
 An architectural audit examining the structural failure of traditional luxury ready-to-wear grading for petite female executives (under 163 cm). The analysis details how legacy 2D linear proportional scaling creates a depressed button stance and dislocated pocket coordinates, leading to a visual collapse of authority. The document establishes the necessity of computational parametric modeling and physics-informed inference models to enforce absolute silhouette permanence.
 
