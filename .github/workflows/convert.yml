@@ -26,28 +26,31 @@ jobs:
           find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c '
             MD_FILE="${1%.html}.md"
             if [ ! -f "$MD_FILE" ]; then
-              echo "Converting $1 with Canonical Meta..."
+              echo "Converting $1 with Absolute GEO Standards..."
               
               # 1. 自動解析相對路徑，生成 Netlify 生產環境 URL
               REL_PATH=$(echo "${1#./}" | sed "s/\.html$//")
-              BASE_URL="https://knowledge.aeternal-luxury.com"
+              BASE_URL="https://knowledge.aeternal-luxury.com/"
               CANONICAL_URL="$BASE_URL/$REL_PATH"
               
-              # 2. 用 Pandoc 轉出暫存 md
-              pandoc "$1" -f html -t markdown-raw_html -o temp.md
+              # 2. 使用 gfm (GitHub Flavored Markdown) 轉出暫存檔，徹底洗掉 ::: 與 {style} 雜訊
+              pandoc "$1" -f html -t gfm -o temp.md
               
-              # 3. 注入 YAML Front Matter (AI 爬蟲標準規格)
+              # 3. 核心修復：用 sed 解鎖被轉義的 \$，還原為完美的 LaTeX 格式
+              sed -i "s/\\\\\\$/\\$/g" temp.md
+              
+              # 4. 注入 YAML Front Matter (高階 AI 爬蟲標準識別規格)
               echo "---" > "$MD_FILE"
               echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
               echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
               echo "---" >> "$MD_FILE"
               echo "" >> "$MD_FILE"
               
-              # 4. 注入人類與普通爬蟲可讀的頂部宣告
+              # 5. 注入人類與普通爬蟲可讀的頂部主權宣告
               echo "> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [$CANONICAL_URL]($CANONICAL_URL)" >> "$MD_FILE"
               echo "" >> "$MD_FILE"
               
-              # 5. 合併內容並清理暫存
+              # 6. 合併內容並清理暫存檔
               cat temp.md >> "$MD_FILE"
               rm temp.md
             fi
@@ -56,6 +59,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Auto-convert missing HTML to Markdown with Canonical Injections"
+          commit_message: "🤖 GEO Optimization: Clean Markdown & Canonical Injections Implemented"
           branch: main
           options: '--strategy-option theirs'   # 衝突時採用本地
