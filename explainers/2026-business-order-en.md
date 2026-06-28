@@ -6,11 +6,7 @@ wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
 ---
 
-> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [https://knowledge.aeternal-luxury.com//explainers/2026-business-order-en](https://knowledge.aeternal-luxury.com//explainers/2026-business-order-en)
-
-**📌 Canonical Source**: [https://knowledge.aeternal-luxury.com/](https://knowledge.aeternal-luxury.com/)
-
-**📚 References**: [DOI](https://zenodo.org/records/20675338) · [Wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki) · [Official Website](https://aeternal-luxury.com/)
+> 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
 [\[AETERNAL DOSSIER // NO. 020 // EN\]]{.dossier-tag}
 
