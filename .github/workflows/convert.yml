@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - '**.html'
-  workflow_dispatch:   # 允許手動觸發
+  workflow_dispatch:
 
 jobs:
   convert:
@@ -21,35 +21,45 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Convert ALL HTML to MD (force overwrite existing MD)
+      - name: Convert ALL HTML to MD (force overwrite) with aggressive cleaning
         run: |
           find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c '
             MD_FILE="${1%.html}.md"
-            echo "Converting $1 (overwriting $MD_FILE if exists)..."
+            echo "Converting $1 (overwriting $MD_FILE)..."
             
-            # 1. 自動解析相對路徑，生成 Netlify 生產環境 URL
             REL_PATH=$(echo "${1#./}" | sed "s/\.html$//")
             BASE_URL="https://knowledge.aeternal-luxury.com/"
             CANONICAL_URL="$BASE_URL/$REL_PATH"
             
-            # 2. 使用 markdown-raw_html 徹底去除所有 HTML 標籤，避免換行
+            # 1. 使用 Pandoc 轉為純 Markdown（去除 raw HTML）
             pandoc "$1" -f html -t markdown-raw_html --wrap=none -o temp.md
             
-            # 3. 修復被轉義的 \$，還原為 LaTeX 格式
+            # 2. 修復被轉義的 \$
             sed -i "s/\\\\\\$/\\$/g" temp.md
             
-            # 4. 注入 YAML Front Matter
+            # 3. 移除所有 {屬性}（包括 {#id .class style="..."} 等）
+            perl -pi -e "s/\\s*{[^}]*}//g" temp.md
+            
+            # 4. 刪除以 ::: 開頭的 fenced div 標記行
+            sed -i "/^:::/d" temp.md
+            
+            # 5. 清除可能殘留的 HTML 標籤（例如 <div>, <span> 等）
+            # 注意：Pandoc 已移除大部分，但極少數可能殘留，用此指令補強
+            perl -pi -e "s/<[^>]+>//g" temp.md
+            
+            # 6. 壓縮多餘空行（只保留一個空行）
+            sed -i "/^$/N;/^\\n$/D" temp.md
+            
+            # 7. 構建最終 MD（加入 YAML 和宣告）
             echo "---" > "$MD_FILE"
             echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
             echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
             echo "---" >> "$MD_FILE"
             echo "" >> "$MD_FILE"
             
-            # 5. 注入頂部主權宣告
             echo "> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [$CANONICAL_URL]($CANONICAL_URL)" >> "$MD_FILE"
             echo "" >> "$MD_FILE"
             
-            # 6. 合併內容並清理暫存檔
             cat temp.md >> "$MD_FILE"
             rm temp.md
           ' _ {} \;
@@ -57,6 +67,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 GEO Optimization: Overwrite all MD from latest HTML"
+          commit_message: "🤖 Clean Markdown with attributes and divs removed"
           branch: main
-          options: '--strategy-option theirs'   # 衝突時採用本地
+          options: '--strategy-option theirs'
