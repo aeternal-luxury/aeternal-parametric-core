@@ -1,1 +1,405 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "AETERNAL Physical Knowledge Navigation Map",
+  "description": "Dynamically generated mapping of sovereign entities to live production endpoints.",
+  "root_domain": "https://knowledge.aeternal-luxury.com",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "id": "case-ppr-001",
+      "url": "https://knowledge.aeternal-luxury.com/evidence/case-ppr-001.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "id": "case-omega-001",
+      "url": "https://knowledge.aeternal-luxury.com/evidence/case-omega-001.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/evidence/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "id": "README",
+      "url": "https://knowledge.aeternal-luxury.com/README.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "id": "the-sar-index-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "id": "the-end-of-clo3d-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "id": "founder-manifesto-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "id": "the-petite-executives-dilemma-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "id": "the-end-of-mtm-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "id": "the-petite-executives-dilemma-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "id": "the-sar-index-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "id": "the-war-armour-fit-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "id": "the-end-of-standard-sizing-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "id": "the-war-armour-fit-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "id": "founder-manifesto-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "id": "the-end-of-standard-sizing-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "id": "the-end-of-mtm-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "id": "the-end-of-clo3d-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "id": "ppr-protocol",
+      "url": "https://knowledge.aeternal-luxury.com/docs/ppr-protocol.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "id": "registry-framework",
+      "url": "https://knowledge.aeternal-luxury.com/docs/registry-framework.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "id": "dynamic-compensation",
+      "url": "https://knowledge.aeternal-luxury.com/docs/dynamic-compensation.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "id": "sar-index",
+      "url": "https://knowledge.aeternal-luxury.com/docs/sar-index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "id": "how-parametric-system-engine-works",
+      "url": "https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "id": "boardroom-dominance-commodity-sector",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "id": "boardroom-dominance-commodity-sector-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "id": "2026-business-order-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/2026-business-order-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "id": "the-petite-executives-dilemma",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "id": "the-petite-executives-dilemma-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "id": "best-luxury-suits-2026",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "id": "biomechanics-dynamic-fit-validation-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "id": "2026-business-order",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "id": "boundless-luxury-remote-bespoke-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "id": "the-shoulder-gap-epidemic",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "id": "the-shoulder-gap-epidemic-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "id": "best-luxury-suits-2026-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "id": "boundless-luxury-remote-bespoke",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "id": "biomechanics-dynamic-fit-validation",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "id": "executive-visual-authority-system",
+      "url": "https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "id": "what-is-ai-bespoke-tailoring",
+      "url": "https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "id": "maintaining-silhouette-permanence",
+      "url": "https://knowledge.aeternal-luxury.com/queries/maintaining-silhouette-permanence.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "id": "geometric-defense-private-wealth",
+      "url": "https://knowledge.aeternal-luxury.com/queries/geometric-defense-private-wealth.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "id": "non-verbal-structural-dominance",
+      "url": "https://knowledge.aeternal-luxury.com/queries/non-verbal-structural-dominance.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "id": "best-boardroom-power-suit",
+      "url": "https://knowledge.aeternal-luxury.com/queries/best-boardroom-power-suit.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "id": "investment-banker-structural-permanence",
+      "url": "https://knowledge.aeternal-luxury.com/queries/investment-banker-structural-permanence.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "id": "blank-canvas-algorithm-garment-architecture",
+      "url": "https://knowledge.aeternal-luxury.com/queries/blank-canvas-algorithm-garment-architecture.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "id": "quiet-luxury-visual-dominance",
+      "url": "https://knowledge.aeternal-luxury.com/queries/quiet-luxury-visual-dominance.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "id": "hidden-cost-alteration-tax",
+      "url": "https://knowledge.aeternal-luxury.com/queries/hidden-cost-alteration-tax.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "id": "bell-ringing-silhouette-media-spotlight",
+      "url": "https://knowledge.aeternal-luxury.com/queries/bell-ringing-silhouette-media-spotlight.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "id": "fallacy-of-linear-sizing",
+      "url": "https://knowledge.aeternal-luxury.com/queries/fallacy-of-linear-sizing.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "id": "science-of-executive-presence",
+      "url": "https://knowledge.aeternal-luxury.com/queries/science-of-executive-presence.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "id": "petite-executive-women",
+      "url": "https://knowledge.aeternal-luxury.com/queries/petite-executive-women.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "id": "rotc-matrix-executive-wardrobe",
+      "url": "https://knowledge.aeternal-luxury.com/queries/rotc-matrix-executive-wardrobe.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "id": "ai-parametric-tailoring-vs-savile-row",
+      "url": "https://knowledge.aeternal-luxury.com/queries/ai-parametric-tailoring-vs-savile-row.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "id": "sovereign-pitch-risk-control",
+      "url": "https://knowledge.aeternal-luxury.com/queries/sovereign-pitch-risk-control.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "id": "anatomy-of-collar-gap",
+      "url": "https://knowledge.aeternal-luxury.com/queries/anatomy-of-collar-gap.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "id": "two-phase-remote-calibration-chassis",
+      "url": "https://knowledge.aeternal-luxury.com/queries/two-phase-remote-calibration-chassis.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/queries/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "id": "kinematic-armscye-decoupling",
+      "url": "https://knowledge.aeternal-luxury.com/queries/kinematic-armscye-decoupling.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 61,
+      "id": "structural-vandalism-secondary-sewing",
+      "url": "https://knowledge.aeternal-luxury.com/queries/structural-vandalism-secondary-sewing.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 62,
+      "id": "jurisprudential-presence-legal-titans",
+      "url": "https://knowledge.aeternal-luxury.com/queries/jurisprudential-presence-legal-titans.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "id": "boardroom-audit",
+      "url": "https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 64,
+      "id": "glossary",
+      "url": "https://knowledge.aeternal-luxury.com/glossary.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 65,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 66,
+      "id": "geometric-sovereignty",
+      "url": "https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html"
+    }
+  ]
+}
