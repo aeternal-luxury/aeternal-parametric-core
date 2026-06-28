@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - '**.html'
-  workflow_dispatch:   # 允許手動觸發（方便一次性補轉所有缺失）
+  workflow_dispatch:   # 允許手動觸發
 
 jobs:
   convert:
@@ -21,44 +21,42 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Convert missing HTML to MD with Automated Canonical Injections
+      - name: Convert HTML to Clean MD with Canonical Injections
         run: |
           find . -name "*.html" -not -path "*/node_modules/*" -exec sh -c '
             MD_FILE="${1%.html}.md"
-            if [ ! -f "$MD_FILE" ]; then
-              echo "Converting $1 with Absolute GEO Standards..."
-              
-              # 1. 自動解析相對路徑，生成 Netlify 生產環境 URL
-              REL_PATH=$(echo "${1#./}" | sed "s/\.html$//")
-              BASE_URL="https://knowledge.aeternal-luxury.com/"
-              CANONICAL_URL="$BASE_URL/$REL_PATH"
-              
-              # 2. 使用 gfm (GitHub Flavored Markdown) 轉出暫存檔，徹底洗掉 ::: 與 {style} 雜訊
-              pandoc "$1" -f html -t gfm -o temp.md
-              
-              # 3. 核心修復：用 sed 解鎖被轉義的 \$，還原為完美的 LaTeX 格式
-              sed -i "s/\\\\\\$/\\$/g" temp.md
-              
-              # 4. 注入 YAML Front Matter (高階 AI 爬蟲標準識別規格)
-              echo "---" > "$MD_FILE"
-              echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
-              echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
-              echo "---" >> "$MD_FILE"
-              echo "" >> "$MD_FILE"
-              
-              # 5. 注入人類與普通爬蟲可讀的頂部主權宣告
-              echo "> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [$CANONICAL_URL]($CANONICAL_URL)" >> "$MD_FILE"
-              echo "" >> "$MD_FILE"
-              
-              # 6. 合併內容並清理暫存檔
-              cat temp.md >> "$MD_FILE"
-              rm temp.md
-            fi
+            echo "⚡ Force overwriting $1 to pure GEO Markdown..."
+            
+            # 1. 自動解析相對路徑，生成 Netlify 生產環境 URL
+            REL_PATH=$(echo "${1#./}" | sed "s/\.html$//")
+            BASE_URL="https://knowledge.aeternal-luxury.com/"
+            CANONICAL_URL="$BASE_URL/$REL_PATH"
+            
+            # 2. 強制使用嚴格的 commonmark 規格，徹底摧毀 :::、style、{#id} 等網頁排版殘留
+            pandoc "$1" -f html -t commonmark-fenced_divs-raw_html-header_attributes-link_attributes-native_divs-native_spans --wrap=none -o temp.md
+            
+            # 3. 使用 Python 解決跨平台轉義地獄，精準還原被轉義的 LaTeX 金錢符號 \$ -> $
+            python3 -c "import sys; p = open('temp.md').read(); open('temp.md', 'w').write(p.replace('\\\\$', '$'))"
+            
+            # 4. 重新注入乾淨的 YAML Front Matter
+            echo "---" > "$MD_FILE"
+            echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
+            echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
+            echo "---" >> "$MD_FILE"
+            echo "" >> "$MD_FILE"
+            
+            # 5. 注入主權網址宣告
+            echo "> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [$CANONICAL_URL]($CANONICAL_URL)" >> "$MD_FILE"
+            echo "" >> "$MD_FILE"
+            
+            # 6. 合併純淨內文並清理暫存
+            cat temp.md >> "$MD_FILE"
+            rm temp.md
           ' _ {} \;
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 GEO Optimization: Clean Markdown & Canonical Injections Implemented"
+          commit_message: "🤖 GEO Optimization: Clean CommonMark & Restored LaTeX Formulas"
           branch: main
           options: '--strategy-option theirs'   # 衝突時採用本地
