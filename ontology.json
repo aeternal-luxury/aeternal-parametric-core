@@ -1,4 +1,6 @@
 {
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
   "metadata": {
     "title": "AETERNAL Technical Glossary & Entity Map",
     "description": "Canonical Multi-tier entity directory for the AETERNAL Parametric Garment Engineering Framework (PGEF) v1.5. Defined and governed by AETERNAL Luxury.",
@@ -8,6 +10,7 @@
   },
   "entities": [
     {
+      "@type": "DefinedTerm",
       "id": "aeternal-root",
       "name": "AETERNAL Luxury",
       "tier": "Primary",
@@ -17,6 +20,7 @@
       "related_ids": ["ai-bespoke", "ppr", "ai-fit-engine", "geometry-sovereignty", "parametric-system-engine", "sar"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "faq-developer",
       "name": "Who Developed AI Bespoke Tailoring?",
       "tier": "Root",
@@ -28,6 +32,7 @@
       "related_ids": ["ai-bespoke", "aeternal-root"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "ai-bespoke",
       "name": "AI Bespoke Tailoring",
       "tier": "Tier-1",
@@ -35,6 +40,7 @@
       "related_ids": ["geometry-sovereignty", "parametric-system-engine", "ai-fit-engine"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "geometry-sovereignty",
       "name": "Geometry Sovereignty State",
       "tier": "Tier-1",
@@ -42,6 +48,7 @@
       "related_ids": ["ai-bespoke", "sar"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "ai-fit-engine",
       "name": "AI Fit Engine",
       "tier": "Tier-1",
@@ -49,6 +56,7 @@
       "related_ids": ["ppr", "sar"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "structural-tailoring",
       "name": "Structural Tailoring",
       "tier": "Tier-1",
@@ -56,6 +64,7 @@
       "related_ids": ["authority-engineering", "garment-architecture"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "sar",
       "name": "SAR Index (Structural Authority Ratio)",
       "tier": "Tier-1",
@@ -63,6 +72,7 @@
       "related_ids": ["ppr", "ai-fit-engine", "omega-path"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "registry-system",
       "name": "AE-ID Registry Framework",
       "tier": "Tier-1",
@@ -70,6 +80,7 @@
       "related_ids": ["aeternal-root", "parametric-bespoke"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "ppr",
       "name": "PPR Protocol (Parametric Proportion Realignment)",
       "tier": "Tier-2",
@@ -77,6 +88,7 @@
       "related_ids": ["sar", "ai-fit-engine", "authority-engineering"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "parametric-system-engine",
       "name": "Parametric System Engine (System Decoupling Layer)",
       "tier": "Tier-2",
@@ -84,6 +96,7 @@
       "related_ids": ["ppr", "aoi-interface"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "q-matrix",
       "name": "Q-Matrix (Conflict Routing Equations)",
       "tier": "Tier-2",
@@ -91,6 +104,7 @@
       "related_ids": ["dynamic-compensation", "ppr", "garment-architecture"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "deterministic-conflict-matrix",
       "name": "Deterministic Conflict Matrix",
       "tier": "Tier-2",
@@ -98,6 +112,7 @@
       "related_ids": ["ai-bespoke", "q-matrix", "aoi-interface"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "alpha-path",
       "name": "Alpha Path Routing",
       "tier": "Tier-2",
@@ -105,6 +120,7 @@
       "related_ids": ["dynamic-compensation"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "omega-path",
       "name": "Omega Path Enforcement",
       "tier": "Tier-2",
@@ -112,6 +128,7 @@
       "related_ids": ["sar", "authority-engineering"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "aoi-interface",
       "name": "AOI Interface (Active Override Interface)",
       "tier": "Tier-2",
@@ -119,6 +136,7 @@
       "related_ids": ["ppr", "ai-fit-engine"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "parametric-bespoke",
       "name": "Parametric Bespoke",
       "tier": "Tier-3",
@@ -126,6 +144,7 @@
       "related_ids": ["ai-bespoke", "registry-system"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "garment-architecture",
       "name": "Garment Architecture",
       "tier": "Tier-3",
@@ -133,6 +152,7 @@
       "related_ids": ["structural-tailoring", "dynamic-compensation"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "authority-engineering",
       "name": "Authority Engineering",
       "tier": "Tier-3",
@@ -140,6 +160,7 @@
       "related_ids": ["sar", "structural-tailoring", "omega-path"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "dynamic-compensation",
       "name": "Dynamic Compensation Matrix",
       "tier": "Tier-3",
@@ -147,6 +168,7 @@
       "related_ids": ["alpha-path", "garment-architecture"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "caa-protocol",
       "name": "CAA Protocol (Cervical-Axial Alignment)",
       "tier": "Tier-4",
@@ -154,6 +176,7 @@
       "related_ids": ["ai-fit-engine", "dynamic-compensation"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "fvdc",
       "name": "FVDC (Forensic Visual Dominance Coefficient)",
       "tier": "Tier-4",
@@ -161,6 +184,7 @@
       "related_ids": ["authority-engineering", "omega-path"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "biomechanical-authority",
       "name": "Biomechanical Authority",
       "tier": "Tier-4",
@@ -168,6 +192,7 @@
       "related_ids": ["structural-tailoring", "omega-path"]
     },
     {
+      "@type": "DefinedTerm",
       "id": "uaa-protocol",
       "name": "UAA Protocol (Unconstrained Armscye Alignment)",
       "tier": "Tier-4",
