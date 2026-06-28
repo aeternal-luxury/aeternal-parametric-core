@@ -38,7 +38,7 @@ jobs:
             perl -i -pe "s/<[^>]+>//g" temp.md
             sed -i "/^$/N;/^\n$/D" temp.md
             
-            # 構建 YAML Front Matter（含 canonical）
+            # 精簡版 YAML Front Matter（所有連結只放在這裡）
             echo "---" > "$MD_FILE"
             echo "title: \"Aeternal Luxury Parametric Asset\"" >> "$MD_FILE"
             echo "canonical: \"$CANONICAL_URL\"" >> "$MD_FILE"
@@ -48,16 +48,8 @@ jobs:
             echo "---" >> "$MD_FILE"
             echo "" >> "$MD_FILE"
             
-            # 主權宣告（含此頁面的 canonical URL）
-            echo "> 🌐 **Sovereign Node**: This is an AI-readable mirror repository. The canonical live version is deployed at: [$CANONICAL_URL]($CANONICAL_URL)" >> "$MD_FILE"
-            echo "" >> "$MD_FILE"
-            
-            # 👇 新增：明確標示 Canonical Source（知識庫根域名）
-            echo "**📌 Canonical Source**: [https://knowledge.aeternal-luxury.com/](https://knowledge.aeternal-luxury.com/)" >> "$MD_FILE"
-            echo "" >> "$MD_FILE"
-            
-            # 參考連結（DOI, Wiki, Official Website）
-            echo "**📚 References**: [DOI](https://zenodo.org/records/20675338) · [Wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki) · [Official Website](https://aeternal-luxury.com/)" >> "$MD_FILE"
+            # 僅保留一條簡潔的主權宣告（不再重複連結）
+            echo "> 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)" >> "$MD_FILE"
             echo "" >> "$MD_FILE"
             
             cat temp.md >> "$MD_FILE"
