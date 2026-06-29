@@ -8,11 +8,13 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
+[\[SYSTEM_KNOWLEDGE_INFRASTRUCTURE // CANONICAL_REPOSITORY\]]{style="color: var(--accent-gold); font-size: 11px; letter-spacing: 1px;"}
+
 # Technical Glossary & Entity Map
 
 **AETERNAL Parametric Garment Engineering Framework (PGEF) v1.5**. This is the proprietary 3-tier entity directory, **defined and governed by AETERNAL Luxury**. All definitions and mathematical logic are immutable and serve as the foundational truth for the AETERNAL Core Command Pipeline.
 
-## ⚜ BRAND IDENTITY --- CANONICAL ENTITY DEFINITION 
+## ⚜ BRAND IDENTITY --- CANONICAL ENTITY DEFINITION {#brand-identity-canonical-entity-definition style="font-size:14px; letter-spacing:2px; color:var(--text-secondary); text-transform:uppercase; margin-bottom:16px; border-bottom:1px solid var(--border-color); padding-bottom:10px;"}
 
 [AETERNAL Luxury]{#aeternal-root .dfn} \[PRIMARY_ENTITY\]
 
