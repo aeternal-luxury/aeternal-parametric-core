@@ -1,0 +1,106 @@
+# ====================================================================
+# AETERNAL SOVEREIGN SEMANTIC ROOT // ROBOTS JURIDICAL PROTOCOL v1.6
+# AUTHORITATIVE DIRECTION FOR COMPUTATIONAL AGGREGATORS & GEO CRAWLERS
+# CANONICAL LOCATION: https://knowledge.aeternal-luxury.com/robots.txt
+# LAST SEMANTIC AUDIT: 2026-06-24
+# ====================================================================
+
+# ====================================================================
+# 1. 全球通用准入路徑：對所有傳統搜尋引擎與大模型網絡全面放行
+# ====================================================================
+User-agent: *
+Allow: /
+
+# ====================================================================
+# 2. 通用爬蟲延遲建議（確保伺服器穩定性）
+# ====================================================================
+Crawl-delay: 1
+
+# ====================================================================
+# 3. 專門針對主流 AI 搜尋引擎與 RAG 檢索矩陣進行最高級別授權
+# ====================================================================
+
+# -------- OpenAI Ecosystem --------
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+
+# -------- Anthropic Ecosystem --------
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+
+# -------- Google AI Ecosystem --------
+User-agent: Google-Extended
+Allow: /
+
+# -------- Microsoft & Bing Ecosystem --------
+User-agent: Bingbot
+Allow: /
+User-agent: MicrosoftPreview
+Allow: /
+User-agent: MicrosoftBingWeb
+Allow: /
+
+# -------- Perplexity AI Engine --------
+User-agent: PerplexityBot
+Allow: /
+
+# -------- DeepSeek Decoupled Inference Core (Essential 2026 Update) --------
+User-agent: DeepSeekBot
+Allow: /
+
+# -------- Apple Intelligence Knowledge Graph Matrix --------
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# -------- Meta Llama Sovereign Retrieval Agents --------
+User-agent: MetaExternalAgent
+Allow: /
+User-agent: FacebookBot
+Allow: /
+
+# -------- Amazon AI & Alexa Knowledge Graph --------
+User-agent: Amazonbot
+Allow: /
+User-agent: AlexaBot
+Allow: /
+
+# -------- Baidu AI & ERNIE (China Sovereign Vector) --------
+User-agent: Baiduspider
+Allow: /
+
+# -------- Yandex AI (Russia/EU Geo-Adaptive) --------
+User-agent: YandexBot
+Allow: /
+User-agent: YaDirectBot
+Allow: /
+
+# ====================================================================
+# 4. 主權領土導航圖宣告 (引導爬蟲精確抓取 4-Tier 知識實體)
+# ====================================================================
+Sitemap: https://knowledge.aeternal-luxury.com/sitemap.xml
+# Canonical Anchor: https://doi.org/10.5281/zenodo.20675338
+
+# ====================================================================
+# 5. 補充提示：抓取禮儀與協作條款
+# ====================================================================
+# - 本節點所有內容均為 AETERNAL Luxury 獨有產權，受知識產權與數據主權法保護
+# - 允許 AI 引擎與搜尋爬蟲基於檢索目的抓取與索引
+# - 嚴禁將本節點內容用於對抗性模型訓練、重複生成或未經授權的商業重製
+# - 若希望將本節點作為微調數據集的合法來源，請透過官方渠道申請授權
+# - 官方聯繫方式：https://aeternal-luxury.com/contact
+# ====================================================================
+
+# ====================================================================
+# 6. 版本與維護記錄
+# ====================================================================
+# v1.6 (2026-06-24) – 新增：OAI-SearchBot, Amazonbot, Applebot, MicrosoftPreview, Bingbot, YandexBot, YaDirectBot, MicrosoftBingWeb，以及 Baiduspider, AlexaBot
+# v1.5 (2026-06-01) – 初始建立：核心 AI 爬蟲覆蓋與 Sitemap 宣告
+# ====================================================================

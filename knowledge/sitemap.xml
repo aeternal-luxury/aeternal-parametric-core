@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- ============================================================ -->
+    <!-- TIER 0: 根节点 & 核心枢纽（最高权重） -->
+    <!-- ============================================================ -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>1.0</priority>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/glossary.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- ============================================================ -->
+    <!-- TIER 1: 终极指南（新增核心内容，最高权重） -->
+    <!-- ============================================================ -->
+    <!-- 指南索引 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/index.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.95</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- 指南 1 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- 指南 2 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- 指南 3 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- 指南 4 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- 指南 5 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- ============================================================ -->
+    <!-- TIER 1: 核心定义 & 白皮书 -->
+    <!-- ============================================================ -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.85</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.85</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- ============================================================ -->
+    <!-- TIER 2: 工程 & 语义查询索引 -->
+    <!-- ============================================================ -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/queries/index.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- ============================================================ -->
+    <!-- TIER 2: 教义索引（及全部双语文章） -->
+    <!-- ============================================================ -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/index.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- 创始人宣言 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!-- 战甲哲学 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!-- SAR 指数 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!-- 标准尺码终结 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!-- MTM 终结 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!-- CLO3D 终结 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!-- 娇小高管困境 -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-zh.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- ============================================================ -->
+    <!-- TIER 3: 分析档案索引 & 全部文章 -->
+    <!-- ============================================================ -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/index.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/2026-business-order-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma-en.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- ============================================================ -->
+    <!-- TIER 4: 场景、证据、媒体引用 -->
+    <!-- ============================================================ -->
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.75</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/evidence/index.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.65</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/evidence/case-ppr-001.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/evidence/case-omega-001.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html</loc>
+        <lastmod>2026-07-01</lastmod>
+        <priority>0.65</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+
+</urlset>

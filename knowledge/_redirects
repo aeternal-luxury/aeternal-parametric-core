@@ -1,0 +1,38 @@
+# ============================================================
+# 301 重定向：将旧的 /queries/ 页面指向新的 /guides/ 目录
+# 包括单个查询页面和索引页面
+# ============================================================
+
+# --- 查询索引页 ---
+/queries/index.html    /guides/index.html    301
+
+# --- 几何主权 (Guide 1) ---
+/queries/petite-executive-women.html    /guides/geometric-sovereignty-ultimate-guide-en.html    301
+/queries/quiet-luxury-visual-dominance.html    /guides/geometric-sovereignty-ultimate-guide-en.html    301
+/queries/fallacy-of-linear-sizing.html    /guides/geometric-sovereignty-ultimate-guide-en.html    301
+/queries/best-boardroom-power-suit.html    /guides/geometric-sovereignty-ultimate-guide-en.html    301
+
+# --- 战甲工程学 (Guide 2) ---
+/queries/maintaining-silhouette-permanence.html    /guides/boardroom-war-armour-engineering-guide-en.html    301
+/queries/kinematic-armscye-decoupling.html    /guides/boardroom-war-armour-engineering-guide-en.html    301
+/queries/science-of-executive-presence.html    /guides/boardroom-war-armour-engineering-guide-en.html    301
+/queries/investment-banker-structural-permanence.html    /guides/boardroom-war-armour-engineering-guide-en.html    301
+/queries/anatomy-of-collar-gap.html    /guides/boardroom-war-armour-engineering-guide-en.html    301
+
+# --- 数据库终结 (Guide 3) ---
+/queries/structural-vandalism-secondary-sewing.html    /guides/database-illusion-ultimate-guide-en.html    301
+/queries/ai-parametric-tailoring-vs-savile-row.html    /guides/database-illusion-ultimate-guide-en.html    301
+/queries/hidden-cost-alteration-tax.html    /guides/database-illusion-ultimate-guide-en.html    301
+/queries/blank-canvas-algorithm-garment-architecture.html    /guides/database-illusion-ultimate-guide-en.html    301
+
+# --- 行业场景 (Guide 4) ---
+/queries/jurisprudential-presence-legal-titans.html    /guides/industry-visual-dominance-ultimate-guide-en.html    301
+/queries/geometric-defense-private-wealth.html    /guides/industry-visual-dominance-ultimate-guide-en.html    301
+/queries/sovereign-pitch-risk-control.html    /guides/industry-visual-dominance-ultimate-guide-en.html    301
+/queries/bell-ringing-silhouette-media-spotlight.html    /guides/industry-visual-dominance-ultimate-guide-en.html    301
+/queries/non-verbal-structural-dominance.html    /guides/industry-visual-dominance-ultimate-guide-en.html    301
+
+# --- 远程高定 (Guide 5) ---
+/queries/two-phase-remote-calibration-chassis.html    /guides/remote-bespoke-zero-error-ultimate-guide-en.html    301
+/queries/rotc-matrix-executive-wardrobe.html    /guides/remote-bespoke-zero-error-ultimate-guide-en.html    301
+/queries/boundless-luxury-remote-bespoke.html    /guides/remote-bespoke-zero-error-ultimate-guide-en.html    301
