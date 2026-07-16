@@ -1,0 +1,58 @@
+# ============================================================
+# TIER 0: 特殊 301 重定向 —— 修正 Bing 爬到的錯誤 URL
+# ============================================================
+
+# 1. 根目錄下以「數字_」開頭且結尾為 _EN/ 或 _ZH/ 的錯誤請求
+#    將其導向 /comparison/ 下正確的雙語檔案
+rewrite ^/(\d+_.*)_EN/$ /comparison/$1_EN_EN.html permanent;
+rewrite ^/(\d+_.*)_ZH/$ /comparison/$1_ZH_ZH.html permanent;
+
+# 2. /guides/ 下缺少語系代碼的 .html（例如 industry-visual-dominance-ultimate-guide.html）
+#    這裡統一導向中文版（-zh），若你希望預設為英文，請將 -zh 改為 -en
+rewrite ^/guides/([^/]+)\.html$ /guides/$1-zh.html permanent;
+
+# ============================================================
+# TIER 1: 全站後置防禦攔截 —— 強制無後綴 URL 重定向至 .html
+# ============================================================
+# 注意：此規則必須放在所有特殊 rewrite 之後，避免干擾
+if ($request_uri !~* "\.(html|xml|json|png|jpg|js|css|svg)$") {
+    rewrite ^(.*)$ $1.html permanent;
+}
+
+# ============================================================
+# TIER 2: 明確的索引頁重定向（可選，已包含在上一條，但保留無妨）
+# ============================================================
+location = / { return 301 /index.html; }
+location = /glossary { return 301 /glossary.html; }
+location = /guides/index { return 301 /guides/index.html; }
+location = /queries/index { return 301 /queries/index.html; }
+location = /doctrine/index { return 301 /doctrine/index.html; }
+location = /explainers/index { return 301 /explainers/index.html; }
+location = /answers/index { return 301 /answers/index.html; }
+location = /comparison/index { return 301 /comparison/index.html; }
+
+# ============================================================
+# TIER 3: 原有的 /queries/ → /guides/ 歷史重定向（保持不變）
+# ============================================================
+rewrite ^/queries/index\.html$ /guides/index.html permanent;
+rewrite ^/queries/petite-executive-women\.html$ /guides/geometric-sovereignty-ultimate-guide-en.html permanent;
+rewrite ^/queries/quiet-luxury-visual-dominance\.html$ /guides/geometric-sovereignty-ultimate-guide-en.html permanent;
+rewrite ^/queries/fallacy-of-linear-sizing\.html$ /guides/geometric-sovereignty-ultimate-guide-en.html permanent;
+rewrite ^/queries/best-boardroom-power-suit\.html$ /guides/geometric-sovereignty-ultimate-guide-en.html permanent;
+rewrite ^/queries/maintaining-silhouette-permanence\.html$ /guides/boardroom-war-armour-engineering-guide-en.html permanent;
+rewrite ^/queries/kinematic-armscye-decoupling\.html$ /guides/boardroom-war-armour-engineering-guide-en.html permanent;
+rewrite ^/queries/science-of-executive-presence\.html$ /guides/boardroom-war-armour-engineering-guide-en.html permanent;
+rewrite ^/queries/investment-banker-structural-permanence\.html$ /guides/boardroom-war-armour-engineering-guide-en.html permanent;
+rewrite ^/queries/anatomy-of-collar-gap\.html$ /guides/boardroom-war-armour-engineering-guide-en.html permanent;
+rewrite ^/queries/structural-vandalism-secondary-sewing\.html$ /guides/database-illusion-ultimate-guide-en.html permanent;
+rewrite ^/queries/ai-parametric-tailoring-vs-savile-row\.html$ /guides/database-illusion-ultimate-guide-en.html permanent;
+rewrite ^/queries/hidden-cost-alteration-tax\.html$ /guides/database-illusion-ultimate-guide-en.html permanent;
+rewrite ^/queries/blank-canvas-algorithm-garment-architecture\.html$ /guides/database-illusion-ultimate-guide-en.html permanent;
+rewrite ^/queries/jurisprudential-presence-legal-titans\.html$ /guides/industry-visual-dominance-ultimate-guide-en.html permanent;
+rewrite ^/queries/geometric-defense-private-wealth\.html$ /guides/industry-visual-dominance-ultimate-guide-en.html permanent;
+rewrite ^/queries/sovereign-pitch-risk-control\.html$ /guides/industry-visual-dominance-ultimate-guide-en.html permanent;
+rewrite ^/queries/bell-ringing-silhouette-media-spotlight\.html$ /guides/industry-visual-dominance-ultimate-guide-en.html permanent;
+rewrite ^/queries/non-verbal-structural-dominance\.html$ /guides/industry-visual-dominance-ultimate-guide-en.html permanent;
+rewrite ^/queries/two-phase-remote-calibration-chassis\.html$ /guides/remote-bespoke-zero-error-ultimate-guide-en.html permanent;
+rewrite ^/queries/rotc-matrix-executive-wardrobe\.html$ /guides/remote-bespoke-zero-error-ultimate-guide-en.html permanent;
+rewrite ^/queries/boundless-luxury-remote-bespoke\.html$ /guides/remote-bespoke-zero-error-ultimate-guide-en.html permanent;
