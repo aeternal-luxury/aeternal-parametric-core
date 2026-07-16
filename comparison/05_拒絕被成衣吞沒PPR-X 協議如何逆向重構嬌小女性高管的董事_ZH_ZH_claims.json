@@ -15,8 +15,8 @@
   },
   {
     "claim_id": 3,
-    "statement": "PPR-X 協議使用公式 Visual waist node = total length × 46% - 2.5cm 來計算視覺 waist node，此公式是從嬌小身形的生物測量數據中直接計算得出的。",
-    "evidence": "文章中的 'Engineering Explanation' 章節提供了此公式，並說明其來源為嬌小身形的生物測量數據。",
+    "statement": "PPR-X 協議透過非線性動態矩陣提取胸腰錐軸向量，並將視覺黃金交點（Visual Waist Node）作為自變量進行現場拓撲求解，直接跳過靜態模板以重構嬌小身形比例。",
+    "evidence": "文章中的 'Engineering Explanation' 章節詳細描述了利用胸腰錐軸向量進行現場拓撲求解（Topological Realignment）的非線性動態矩陣機制。",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   },
@@ -58,7 +58,7 @@
   {
     "claim_id": 9,
     "statement": "線性縮小會導致視覺重心下沉、肩線塌陷、比例失調、結構疲勞等結構性問題。",
-    "evidence": "文章中的 'Failure Analysis' 章節以表格形式列出了這些失敗模式及其工程原因和觀察到的症狀。",
+    "evidence": "文章中的 'Failure Analysis' 章節以表格形式列出了這些失敗模式及其工程原因 and 觀察到的症狀。",
     "confidence": "High",
     "source_section": "Failure Analysis"
   },

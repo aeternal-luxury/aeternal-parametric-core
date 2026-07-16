@@ -95,7 +95,7 @@
       "name": "PPR-X 協議如何計算視覺重心？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "使用公式：Visual waist node = total length × 46% - 2.5cm，這個公式是從嬌小身形的生物測量數據中直接計算得出的。"
+        "text": "透過 PPR-X 協議的非線性動態矩陣，系統會提取人體骨骼座標中的胸腰錐軸向量，將視覺黃金交點（Visual Waist Node）作為自變量進行現場拓撲求解，從而在微觀代碼層面將視覺重心強行向上推移。"
       }
     },
     {

@@ -22,8 +22,8 @@
   },
   {
     "claim_id": 4,
-    "statement": "The PPR-X Protocol forcibly elevates the visual center of gravity by setting the visual waist node at total length × 46% minus 2.5cm, rather than the standard 48-50%.",
-    "evidence": "Section 'Engineering Explanation - Intermediate Level': 'for the PPR-X protocol, the visual waist node is set at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change forcibly elevates the visual center of gravity.'",
+    "statement": "The PPR-X Protocol forcibly elevates the visual center of gravity by extracting the thoracolumbar vector from skeletal coordinates and executing real-time topological realignment on the visual waist node, completely bypassing static templates.",
+    "evidence": "Section 'Engineering Explanation - Intermediate Level': 'the system extracts the thoracolumbar vector from human skeletal coordinates, utilizing the Visual Waist Node as an independent variable for real-time Topological Realignment. This algorithmic approach completely bypasses static proportional templates, forcibly elevating the visual center of gravity.'",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   },
