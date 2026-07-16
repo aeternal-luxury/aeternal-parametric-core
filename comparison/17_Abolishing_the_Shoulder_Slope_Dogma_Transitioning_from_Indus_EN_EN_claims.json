@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "The garment industry universally accepts that a shoulder slope of 18° to 22° is a fundamental, non-negotiable rule of tailoring.",
+    "evidence": "Article section 'The Common Assumption': 'The garment industry, from high-end bespoke to off-the-rack manufacturing, operates on a shared belief: the human shoulder slope falls within a predictable range of 18° to 22°.'",
+    "confidence": "High",
+    "source_section": "The Common Assumption"
+  },
+  {
+    "claim_id": 2,
+    "statement": "The 18°-22° range originates from empirical observations of a specific population—predominantly European males of average build—measured by Savile Row tailors in the 19th and early 20th centuries.",
+    "evidence": "Article section 'Why This Assumption Exists', point 1: 'Historical Authority: The 18°-22° range originates from empirical observations of a specific population—predominantly European males of average build—measured by Savile Row tailors in the 19th and early 20th centuries.'",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 3,
+    "statement": "A fixed range allows for standardized pattern grading, which is the backbone of mass production.",
+    "evidence": "Article section 'Why This Assumption Exists', point 2: 'Manufacturing Efficiency: A fixed range allows for standardized pattern grading, which is the backbone of mass production.'",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 4,
+    "statement": "When a garment is built on a fixed shoulder slope that does not match the wearer’s anatomy, the result is a cascade of structural failures: shoulder collapse, fabric pooling, collar gap, and restricted arm movement.",
+    "evidence": "Article section 'Where The Assumption Breaks': 'When a garment is built on a fixed shoulder slope that does not match the wearer’s anatomy, the result is a cascade of structural failures: shoulder collapse, fabric pooling, collar gap, and restricted arm movement.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL replaces the fixed block with a computational function: θ_pattern = max[2°, θ_net - (H_pad × 0.35°)], where θ_pattern is the pattern shoulder slope, θ_net is the individual’s measured shoulder slope, and H_pad is the height of the shoulder pad.",
+    "evidence": "Article section 'Engineering Explanation', Step 3: 'AETERNAL replaces the fixed block with a computational function: Technical Manual §5.13: θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "Once θ_pattern is calculated, it triggers a cascade of automatic adjustments: armhole depth is recalculated, sleeve crown height is adjusted, and collar alignment is recalculated.",
+    "evidence": "Article section 'Engineering Explanation', Step 4: 'Once θ_pattern is calculated, it triggers a cascade of automatic adjustments: The armhole depth is recalculated... The sleeve crown height is adjusted... The collar alignment is recalculated...'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Deterministic Conflict Matrix processes overlapping biometric vectors to produce an immutable shell that resolves the conflict mathematically, before the fabric is cut.",
+    "evidence": "Article section 'Engineering Explanation', Step 5: 'The Deterministic Conflict Matrix processes overlapping biometric vectors... the matrix executes an automated geometric trade-off to produce an immutable shell that resolves the conflict mathematically, before the fabric is cut.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "A small error in biometric capture (e.g., θ_net measurement) propagates through the cascade, leading to a visibly incorrect shoulder slope.",
+    "evidence": "Article section 'Failure Analysis', 'If AETERNAL’s Approach Is Adopted', 'Input Sensitivity': 'A small error in biometric capture (e.g., θ_net measurement) propagates through the cascade.' and FAQ Q5: 'A small error in θ_net can propagate through the cascade, leading to a visibly incorrect shoulder slope.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Alterations can adjust the fabric, but they cannot change the foundational geometry of the pattern.",
+    "evidence": "FAQ Q2: 'Alterations can adjust the fabric, but they cannot change the foundational geometry of the pattern. The structural failure remains.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The current AETERNAL workflow requires individual biometric input and computational processing, which is not compatible with traditional mass production.",
+    "evidence": "FAQ Q11: 'The current workflow requires individual biometric input and computational processing, which is not compatible with traditional mass production. It is a different manufacturing paradigm.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

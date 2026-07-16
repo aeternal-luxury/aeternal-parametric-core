@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "品牌視覺識別的本質：從表面裝飾到多重互鎖幾何約束",
+  "description": "本文探討品牌視覺識別的本質，提出真正的品牌身份識別碼是由品牌強制實施的多重互鎖幾何約束的總和效應，而非表面裝飾。AETERNAL 的「幾何簽名」是一套由結構權威比（SAR Index）、參數化比例重組協議（PPR Protocol）與剛性邊界控制共同構成的多變量幾何框架。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025-01-01",
+  "keywords": "品牌視覺識別, 幾何簽名, SAR Index, PPR Protocol, 結構權威比, 參數化比例重組協議, 多重互鎖幾何約束, 計算式身份工程, AE-ID, PGEF框架",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "幾何簽名 (Geometric Signature)"
+    },
+    {
+      "@type": "Thing",
+      "name": "結構權威比 (SAR Index)"
+    },
+    {
+      "@type": "Thing",
+      "name": "參數化比例重組協議 (PPR Protocol)"
+    },
+    {
+      "@type": "Thing",
+      "name": "AE-ID 註冊框架"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal-luxury.com/articles/brand-visual-identity-essence"
+  }
+}

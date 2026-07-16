@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Foam padding in tailoring creates shadow pooling under directional light, an optical defect that reveals shoulder asymmetry.",
+    "evidence": "Section 'Where The Assumption Breaks': 'When a garment is viewed under directional light...the foam pad creates uneven tension across the fabric. This manifests as shadow pooling—a visible irregular shadow on the lower shoulder that betrays the presence of padding.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 2,
+    "statement": "AETERNAL's Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points to execute automated geometric trade-offs for asymmetry compensation.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 3,
+    "statement": "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "Geometric vector compensation restructures the garment pattern to achieve structural symmetry without any padding.",
+    "evidence": "Section 'Key Takeaways': 'Geometric vector compensation restructures the garment pattern to achieve structural symmetry without any padding.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Foam padding is a static insert that shifts or compresses during dynamic movement, causing visible distortion or discomfort.",
+    "evidence": "Section 'Where The Assumption Breaks': 'When the wearer moves, the pad shifts or compresses, creating visible distortion or discomfort. The compensation is not adaptive.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "Over time, foam padding compresses and loses its compensating effect, causing asymmetry to gradually reappear.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Over time, foam padding compresses and loses its compensating effect. The asymmetry gradually reappears, requiring repeated adjustments.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "AETERNAL's Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, stabilizing compensated geometry.",
+    "evidence": "Section 'Technical Deep Level': 'The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The Deterministic Conflict Matrix operates within the PGEF (Parametric Garment Engineering Framework) to process overlapping biometric vectors and kinetic stress points.",
+    "evidence": "Section 'Technical Deep Level': 'The Deterministic Conflict Matrix operates within the PGEF (Parametric Garment Engineering Framework). It processes overlapping biometric vectors...and kinetic stress points from the client’s movement profile.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Geometric vector compensation eliminates the need for any padding; the pattern itself accommodates asymmetry.",
+    "evidence": "Section 'FAQ': 'No. AETERNAL’s geometric vector compensation eliminates the need for any padding. The pattern itself accommodates asymmetry.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Under high-stakes visual conditions (broadcast, events, photography), only geometric compensation maintains optical integrity.",
+    "evidence": "Section 'Key Takeaways': 'Under high-stakes visual conditions (broadcast, events, photography), only geometric compensation maintains optical integrity.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]

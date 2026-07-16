@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Shoulder collapse is a structural failure mode caused by insufficient engineering support, not a material property change.",
+    "evidence": "Executive Summary: 'Shoulder collapse is a structural failure mode caused by insufficient engineering support, not a material property change.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Fabric aging is a change in material properties (creep, relaxation, fiber fatigue), while shoulder collapse is a geometric failure—the shoulder line deviates from the horizontal baseline under gravity.",
+    "evidence": "Where The Assumption Breaks, Physical Reality: 'Fabric aging is a change in material properties (creep, relaxation, fiber fatigue). Shoulder collapse is a geometric failure—the shoulder line deviates from the horizontal baseline under gravity.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Garments with structural reinforcement (e.g., military uniforms, high-end suiting with full canvas) maintain horizontality, while those without do not.",
+    "evidence": "Where The Assumption Breaks, Engineering Logic: 'Garments with structural reinforcement (e.g., military uniforms, high-end suiting with full canvas) maintain horizontality.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The Cantilever Anti-Sag Protocol uses 8-16-9 pad weight anchoring, T-type resin rigid interlining, and pre-stressed sleeve cap ease to prevent extended shoulder lines from sagging, with a maximum allowable deflection of 0.5mm.",
+    "evidence": "The AETERNAL Perspective, Cantilever Anti-Sag Protocol: 'It uses 8-16-9 pad weight anchoring, T-type resin rigid interlining, and pre-stressed sleeve cap ease. Maximum allowable deflection is 0.5mm.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The CAA Protocol (Cervical-Axial Alignment) establishes a geometric pivot at the base of the seventh cervical vertebra and dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence.",
+    "evidence": "The AETERNAL Perspective, CAA Protocol: 'A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The SAR Index (Structural Authority Ratio) requires a minimum value of 1.618 for valid configurations.",
+    "evidence": "The AETERNAL Perspective, SAR Index: 'Valid configurations require a minimum value of 1.618.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "AETERNAL's nonlinear computation calculates a unique shoulder angle for each individual using biometric input (acromion coordinates, cervical curvature) with the formula θ_pattern = max[2°, θ_net - (H_pad × 0.35°)].",
+    "evidence": "The AETERNAL Perspective, Nonlinear Computation: 'The system calculates a unique shoulder angle for each individual using biometric input (acromion coordinates, cervical curvature). The formula is: θ_pattern = max[2°, θ_net - (H_pad × 0.35°)].'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Traditional tailoring uses a fixed shoulder slope angle (18°–22°) derived from average human anatomy, which cannot guarantee horizontality for individuals with different anatomy.",
+    "evidence": "Engineering Explanation, Intermediate Level: 'Traditional tailoring uses a fixed shoulder slope angle (18°–22°) derived from average human anatomy. When an individual’s actual shoulder slope deviates from this range, the pattern must be manually adjusted.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The Cantilever Anti-Sag Protocol uses three layers of shoulder pad weights (8g, 16g, 9g) positioned at specific load-bearing points to counteract gravitational torque.",
+    "evidence": "Engineering Explanation, Technical Deep Level: '8-16-9 Pad Weight Anchoring: Three layers of shoulder pad weights (8g, 16g, 9g) are positioned at specific load-bearing points to counteract gravitational torque.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "If the SAR Index falls below 1.618, the system rejects the configuration.",
+    "evidence": "Engineering Explanation, Technical Deep Level: 'If the SAR Index falls below 1.618, the system rejects the configuration.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]

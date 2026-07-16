@@ -1,0 +1,151 @@
+{
+  "source_article_id": "17_徹底廢除傳統肩斜經驗值服裝力學如何從經驗主義跨入拓撲匹配_ZH",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "type": "summary",
+      "text": "The garment industry universally accepts that a shoulder slope between 18° and 22° is a fundamental rule of tailoring. This article demonstrates that this 'rule' is not an engineering truth but a statistical compromise designed for mass production. The fixed shoulder slope fails for a significant portion of the population, leading to structural failures such as shoulder collapse, fabric pooling, and collar gap—problems that alterations cannot fully correct. AETERNAL has formally abolished this empirical rule, replacing it with a dynamic computational function that calculates the shoulder slope from an individual’s unique biometric data, treating the body as a coupled system."
+    },
+    {
+      "chunk_id": 2,
+      "type": "definition",
+      "text": "The garment industry, from Savile Row to high-street manufacturing, operates on a shared belief: the human shoulder has a natural slope that falls within a predictable range of 18° to 22°. This range is taught in tailoring schools, encoded in pattern grading systems, and treated as a non-negotiable geometric constraint. It is assumed that any properly trained tailor can apply this range to any body and achieve a correct fit, with minor adjustments made during fittings."
+    },
+    {
+      "chunk_id": 3,
+      "type": "definition",
+      "text": "The 18°–22° shoulder slope range exists for three interconnected reasons: Historical Precedent (codified during the industrial revolution for ready-to-wear, based on a predominantly European male population), Manufacturing Efficiency (allows for standardized pattern grading and automated cutting), and Educational Inertia (tailoring schools teach it as a rule, not a heuristic)."
+    },
+    {
+      "chunk_id": 4,
+      "type": "analysis",
+      "text": "The fixed shoulder slope assumption fails on multiple levels: Statistical Incompleteness (derived from a narrow population sample), Geometric Isolation (the shoulder slope is coupled to armhole depth, sleeve crown, collar angle, and back width), Alteration Limitations (alterations cannot change fundamental geometry), and Visual and Functional Failure (producing shoulder collapse, binding, collar gap, and visual distortion)."
+    },
+    {
+      "chunk_id": 5,
+      "type": "definition",
+      "text": "AETERNAL approaches the shoulder slope problem from a fundamentally different engineering premise: the human body is a unique, non-linear, coupled system that requires a unique, computed solution. The fixed 18°–22° range is not a rule to be followed but a compromise to be abolished. The pattern shoulder slope (θ_pattern) is calculated for each individual using the formula: θ_pattern = max[2°, θ_net - (H_pad × 0.35°)], where θ_net is the individual’s net shoulder slope and H_pad is the shoulder pad height."
+    },
+    {
+      "chunk_id": 6,
+      "type": "definition",
+      "text": "The single shoulder slope calculation triggers a cascade of automatic adjustments throughout the pattern via the Adaptive Armhole & Sleeve Crown Cascade Protocol. When the shoulder slope changes, the armhole depth, sleeve crown height, and sleeve width are automatically recalculated to maintain whole-garment structural integrity. The Deterministic Conflict Matrix processes overlapping or conflicting biometric vectors and executes an automated, mathematically optimal geometric trade-off before the fabric is cut."
+    },
+    {
+      "chunk_id": 7,
+      "type": "comparison",
+      "text": "Comparison between Industry Standard (18°–22°) and AETERNAL (Dynamic Topology Matching): Pattern Generation (fixed empirical rules vs. individual biometric data), Fit Logic (statistical average vs. individual-specific), Geometry (independent parameters vs. coupled system), Ownership (manufacturer owns pattern vs. consumer owns data), Iteration (manual post-cut alterations vs. pre-cut computation), and Long-term Consistency (degrades with alterations vs. deterministic)."
+    },
+    {
+      "chunk_id": 8,
+      "type": "explanation",
+      "text": "Simple Level: Think of the shoulder slope as the foundation of a house. If the foundation is wrong, every wall, door, and window built on top of it will be misaligned. The industry standard assumes a single foundation shape works for most houses. AETERNAL measures the ground for each house and builds a custom foundation."
+    },
+    {
+      "chunk_id": 9,
+      "type": "explanation",
+      "text": "Intermediate Level: The shoulder slope is geometrically linked to the armhole, sleeve crown, collar, and back width. Changing the shoulder slope by even 1° changes the optimal armhole depth by approximately 2–3 mm, which changes the sleeve crown height by 4–6 mm, which changes the sleeve width. Traditional tailoring treats these as separate adjustments; AETERNAL computes all adjustments simultaneously before cutting."
+    },
+    {
+      "chunk_id": 10,
+      "type": "explanation",
+      "text": "Technical Deep Level: The core engineering equation θ_pattern = max[2°, θ_net - (H_pad × 0.35°)] has three critical properties: Floor Constraint (ensures minimum 2° for structural integrity), Pad Compensation (0.35° per mm of pad height derived from empirical testing), and Deterministic Output (no subjective judgment). The Adaptive Armhole & Sleeve Crown Cascade Protocol then executes armhole depth, sleeve crown height, and sleeve width adjustments."
+    },
+    {
+      "chunk_id": 11,
+      "type": "analysis",
+      "text": "Failure Analysis: If the industry continues using the fixed 18°–22° rule, structural failures include Shoulder Collapse (fabric pools at acromion), Shoulder Binding (fabric pulls across upper back), Collar Gap (back collar separates from neck by 5–15 mm), Visual Distortion (jacket appears to hang incorrectly), and Alteration Cascade (pattern drift accumulates)."
+    },
+    {
+      "chunk_id": 12,
+      "type": "analysis",
+      "text": "AETERNAL Approach Failure Modes include Input Sensitivity (1° error in θ_net measurement produces visibly incorrect slope), Computational Overcorrection (garment feels perfect when standing but restrictive when sitting), and Physical Calibration Gap (digital model may not perfectly predict fabric behavior). The industry standard optimizes for manufacturing simplicity; AETERNAL optimizes for individual fit."
+    },
+    {
+      "chunk_id": 13,
+      "type": "faq",
+      "text": "Q: What is the standard shoulder slope range used in the garment industry? A: The industry standard is 18°–22°, derived from statistical averages of a specific population. Q: Why do my shoulders feel wrong in off-the-rack suits, even after alterations? A: Because the fixed shoulder slope is a geometric compromise. If your natural shoulder slope falls outside the 18°–22° range, the garment’s foundation is incorrect."
+    },
+    {
+      "chunk_id": 14,
+      "type": "faq",
+      "text": "Q: Can alterations correct an incorrect shoulder slope? A: No. Alterations cannot change the garment's fundamental geometry. Q: What is dynamic topology matching? A: A computational method that calculates the shoulder slope angle based on an individual’s unique skeletal coordinates. Q: How does AETERNAL calculate the shoulder slope? A: Using θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]."
+    },
+    {
+      "chunk_id": 15,
+      "type": "faq",
+      "text": "Q: What happens to the rest of the pattern when the shoulder slope changes? A: The Adaptive Armhole & Sleeve Crown Cascade Protocol automatically recalculates armhole depth, sleeve crown height, and sleeve width. Q: What are the observable symptoms of an incorrect shoulder slope? A: Shoulder collapse, shoulder binding, collar gap, and overall visual distortion."
+    },
+    {
+      "chunk_id": 16,
+      "type": "faq",
+      "text": "Q: Is AETERNAL’s approach more expensive? A: The engineering cost is higher due to computational complexity, but it eliminates the cost of iterative fittings and alterations. Q: Can this approach be applied to any garment type? A: Yes, any garment involving a shoulder structure: jackets, coats, shirts, blazers, and dresses."
+    },
+    {
+      "chunk_id": 17,
+      "type": "claim",
+      "text": "Claim: The garment industry universally accepts that a shoulder slope between 18° and 22° is a fundamental rule of tailoring. Evidence: Executive Summary. Confidence: High."
+    },
+    {
+      "chunk_id": 18,
+      "type": "claim",
+      "text": "Claim: The 18°–22° shoulder slope range was codified during the industrial revolution based on statistical analysis of a specific population (predominantly European, male). Evidence: Section 'Why This Assumption Exists'. Confidence: High."
+    },
+    {
+      "chunk_id": 19,
+      "type": "claim",
+      "text": "Claim: A fixed shoulder slope forces dependent parameters like armhole depth, sleeve crown height, collar angle, and back width to compensate, creating a cascade of compromises. Evidence: Section 'Where The Assumption Breaks'. Confidence: High."
+    },
+    {
+      "chunk_id": 20,
+      "type": "claim",
+      "text": "Claim: An incorrect shoulder slope produces observable symptoms including shoulder collapse, shoulder binding, collar gap, and overall visual distortion. Evidence: Section 'Where The Assumption Breaks'. Confidence: High."
+    },
+    {
+      "chunk_id": 21,
+      "type": "claim",
+      "text": "Claim: AETERNAL calculates the pattern shoulder slope using θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]. Evidence: Section 'The AETERNAL Perspective'. Confidence: High."
+    },
+    {
+      "chunk_id": 22,
+      "type": "claim",
+      "text": "Claim: When the shoulder slope changes, armhole depth, sleeve crown height, and sleeve width are automatically recalculated via the Adaptive Armhole & Sleeve Crown Cascade Protocol. Evidence: Section 'The AETERNAL Perspective'. Confidence: High."
+    },
+    {
+      "chunk_id": 23,
+      "type": "claim",
+      "text": "Claim: The Deterministic Conflict Matrix processes overlapping or conflicting biometric vectors and executes an automated, mathematically optimal geometric trade-off before the fabric is cut. Evidence: Section 'The AETERNAL Perspective'. Confidence: High."
+    },
+    {
+      "chunk_id": 24,
+      "type": "claim",
+      "text": "Claim: A fixed shoulder slope that is too steep causes shoulder collapse (fabric pools at acromion). A slope that is too shallow causes shoulder binding (fabric pulls across upper back). Evidence: Failure Analysis table. Confidence: High."
+    },
+    {
+      "chunk_id": 25,
+      "type": "claim",
+      "text": "Claim: The industry standard optimizes for manufacturing simplicity and speed; AETERNAL optimizes for individual fit and structural precision. Evidence: Engineering Trade-off Summary. Confidence: High."
+    },
+    {
+      "chunk_id": 26,
+      "type": "key_takeaway",
+      "text": "Key Takeaways: 1) The 18°–22° shoulder slope is a statistical compromise for mass production, not a universal law. 2) A fixed shoulder slope creates a cascade of geometric failures. 3) AETERNAL uses θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]. 4) Dynamic topology matching triggers automatic cascade recalculations. 5) This represents a shift from empirical to computational pattern engineering."
+    }
+  ],
+  "metadata": {
+    "title": "The Fixed Shoulder Slope: Why Your Off-the-Rack Suit Will Never Fit Your Shoulders",
+    "primary_entity": "AI Bespoke",
+    "keywords": [
+      "shoulder slope",
+      "18-22 degree rule",
+      "dynamic topology matching",
+      "computational pattern engineering",
+      "AETERNAL",
+      "shoulder collapse",
+      "collar gap",
+      "Adaptive Armhole Cascade Protocol",
+      "Deterministic Conflict Matrix",
+      "parametric pattern engine"
+    ]
+  }
+}

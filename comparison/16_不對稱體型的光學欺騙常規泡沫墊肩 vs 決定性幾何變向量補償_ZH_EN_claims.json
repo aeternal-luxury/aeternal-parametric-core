@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Foam padding creates an optical defect known as shadow pooling under directional light, which exposes the asymmetry it was intended to conceal.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Under directional light, such as stage lighting or 4K broadcast lenses, foam padding creates uneven fabric tension, resulting in visible shadow pooling on the lower shoulder. This optical defect exposes the asymmetry the padding was meant to conceal.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points to execute automated geometric trade-offs, outputting an immutable architectural shell.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 3,
+    "statement": "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 4,
+    "statement": "Foam padding compresses over time, leading to structural creep where the asymmetry gradually reappears.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Padding compresses over time, leading to structural creep where the asymmetry gradually reappears.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Geometric vector compensation restructures the garment pattern itself, eliminating the need for any padding.",
+    "evidence": "Section 'Key Takeaways': 'Geometric vector compensation restructures the garment pattern itself, eliminating the need for any padding.'",
+    "confidence": "High",
+    "source_section": "Key Takeaways"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Under diffuse light, padding may appear invisible, but under directional light (e.g., stage lighting, 4K broadcast), shadow pooling is almost always visible.",
+    "evidence": "Section 'FAQ': 'Under diffuse light, padding may appear invisible. Under directional light (e.g., stage lighting, 4K broadcast), shadow pooling is almost always visible.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The Deterministic Conflict Matrix processes any overlapping biometric vectors, not just shoulders, enabling application to other types of asymmetry (e.g., hips).",
+    "evidence": "Section 'FAQ': 'Yes. The Deterministic Conflict Matrix processes any overlapping biometric vectors, not just shoulders.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The AE-ID Registry stores the geometric shell, allowing for recalibration without starting from scratch if the wearer's body changes over time.",
+    "evidence": "Section 'FAQ': 'The AE-ID Registry stores the geometric shell, allowing for recalibration without starting from scratch.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Small measurement errors can propagate through nonlinear computation in geometric vector compensation, causing visible distortion.",
+    "evidence": "Section 'Failure Analysis': 'Input Sensitivity: Small measurement errors can propagate through nonlinear computation, causing visible distortion.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]

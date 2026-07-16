@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "AETERNAL's framework defines brand identity as the cumulative effect of multiple interlocked geometric constraints, specifically the Structural Authority Ratio (SAR), the Parametric Proportion Realignment (PPR) Protocol, and the 0.720 fixed ratio.",
+    "evidence": "Executive Summary: 'AETERNAL’s framework challenges this by demonstrating that true identity is the cumulative effect of multiple interlocked geometric constraints—specifically, the Structural Authority Ratio (SAR), the Parametric Proportion Realignment (PPR) Protocol, and the 0.720 fixed ratio.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Surface decoration, such as embroidery and logos, can be independently replicated by counterfeiters without access to the original pattern engineering.",
+    "evidence": "Where The Assumption Breaks, point 1: 'Surface decoration can be independently replicated. A counterfeit factory can reproduce an embroidery pattern or a metal buckle without access to the original pattern engineering.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AETERNAL's framework enforces a Structural Authority Ratio (SAR) with a minimum value of 1.618, and any pattern that does not meet this value is rejected.",
+    "evidence": "The AETERNAL Perspective: 'Structural Authority Ratio (SAR): A minimum value of 1.618... This is not a suggestion; it is a hard constraint. Any pattern that does not meet SAR ≥ 1.618 is rejected.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The AE-ID Registry Framework locks a client's geometric profile as a unique digital asset via SHA-256 encryption, generating a hash that is unique to each client's geometric profile.",
+    "evidence": "The AETERNAL Perspective: 'The final step is the AE-ID Registry Framework, which locks the client’s geometric profile as a unique digital asset via SHA-256 encryption.' and Technical Deep Level: 'AE-ID = SHA-256(Client_UUID || CAD_Binary_Data). This hash is unique to each client’s geometric profile.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective, Technical Deep Level"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Any attempt to replicate an AETERNAL pattern without the original biometric input and computational workflow will produce a different AE-ID hash, making forgery detectable.",
+    "evidence": "Technical Deep Level: 'Any attempt to replicate the pattern without the original biometric input and computational workflow will produce a different hash, making forgery detectable.'",
+    "confidence": "High",
+    "source_section": "Technical Deep Level"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The Deterministic Conflict Matrix is a computational resolution engine that automatically resolves conflicts between overlapping biometric vectors and kinetic stress points.",
+    "evidence": "The AETERNAL Perspective: 'These constraints are enforced through the Deterministic Conflict Matrix, a computational resolution engine that automatically resolves conflicts between overlapping biometric vectors and kinetic stress points.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining the garment's geometric boundaries.",
+    "evidence": "Technical Deep Level: 'The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors. These vectors autonomously resist external compression, maintaining the garment’s geometric boundaries even under stress.'",
+    "confidence": "High",
+    "source_section": "Technical Deep Level"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Traditional pattern engineering treats the garment as a neutral canvas onto which identity is applied, while AETERNAL's Computational Pattern Engineering treats the garment as a 3D architectural structure with mandatory geometric ratios.",
+    "evidence": "Engineering Explanation, Intermediate Level: 'Traditional pattern engineering treats the garment as a 2D surface that can be decorated... AETERNAL’s Computational Pattern Engineering (CPG) treats the garment as a 3D architectural structure with mandatory geometric ratios.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Small measurement errors in AETERNAL's framework can propagate through nonlinear computation, causing visible distortion.",
+    "evidence": "Failure Analysis, point 3: 'Input sensitivity: Small measurement errors can propagate through nonlinear computation, causing visible distortion.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Traditional brands like Hermès, Chanel, and Louis Vuitton impose no mandatory geometric constraints on their patterns, leading to inconsistent visual identity across products and artisans.",
+    "evidence": "Where The Assumption Breaks, point 2: 'Traditional brands impose no mandatory geometric constraints on their patterns. Two garments from the same brand, made by different artisans, can have different proportions while carrying the same decorative elements.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  }
+]

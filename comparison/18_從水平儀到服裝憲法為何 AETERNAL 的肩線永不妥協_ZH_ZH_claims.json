@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "肩線塌陷是結構在重力作用下的變形，而非面料熟化。",
+    "evidence": "文章在「Where The Assumption Breaks」章節中指出：『面料熟化是材料特性隨時間的變化（如纖維軟化、光澤改變）。肩線塌陷是結構在重力作用下的變形。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "肩線水平度是服裝廓形的幾何基礎，其維持與否決定了視覺權威的傳遞。",
+    "evidence": "文章在「Executive Summary」中陳述：『肩線水平度是服裝結構的幾何基礎，其維持與否決定了視覺權威的傳遞。』",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "傳統版型工程使用固定的 18°-22° 肩斜角度，此角度基於平均人體數據的近似值。",
+    "evidence": "文章在「Engineering Explanation」的中等層級中說明：『傳統版型工程使用固定的肩斜角度（18°-22°），這個角度是基於平均人體數據的近似值。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL 框架使用非線性計算動態生成專屬肩斜角度，公式為 θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]。",
+    "evidence": "文章在「Engineering Explanation」的中等層級中提供此公式：『θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]』，並說明其用於確保肩線在任何動態下維持水平。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "懸臂肩線抗下垂協議透過 8-16-9 墊片重量錨定、T 型樹脂剛性襯和預應力袖山鬆量，防止延伸肩線塌陷，最大容許撓度為 0.5mm。",
+    "evidence": "文章在「The AETERNAL Perspective」章節中詳細描述此協議：『懸臂肩線抗下垂協議 (Cantilever Anti-Sag Protocol)：透過 8-16-9 墊片重量錨定、T 型樹脂剛性襯和預應力袖山鬆量，防止延伸肩線在重力下塌陷。最大容許撓度為 0.5mm。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "CAA 協議在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8% 的領肩貼合度。",
+    "evidence": "文章在「The AETERNAL Perspective」章節中說明：『CAA 協議 (Cervical-Axial Alignment)：在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8% 的領肩貼合度。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "SAR 指數（結構權威比）是一個幾何係數，用於評估肩寬、腰位和衣長之間的比例關係，有效配置要求最小值為 1.618。",
+    "evidence": "文章在「The AETERNAL Perspective」章節中定義：『SAR 指數 (Structural Authority Ratio)：一個幾何係數，用於評估肩寬、腰位和衣長之間的比例關係。有效配置要求最小值為 1.618。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 8,
+    "statement": "肩線塌陷會引發連鎖效應：領口鬆弛、袖窿變形、前胸面料出現皺褶，最終導致整件服裝失去結構完整性。",
+    "evidence": "文章在「Failure Analysis」章節的「結構性後果」段落中陳述：『肩線塌陷會引發連鎖效應：領口鬆弛、袖窿變形、前胸面料出現皺褶。最終，整件服裝失去結構完整性，無法再提供預期的視覺效果。』",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "傳統品牌與 AETERNAL 屬於不同的工程學科，前者優化美學表達，後者優化結構權威。",
+    "evidence": "文章在「Key Takeaways」中總結：『傳統品牌與 AETERNAL 屬於不同的工程學科。前者優化美學表達，後者優化結構權威。它們解決不同的工程問題。』",
+    "confidence": "High",
+    "source_section": "Key Takeaways"
+  },
+  {
+    "claim_id": 10,
+    "statement": "將結構性失效重新命名為『面料熟化』或『自然痕跡』，是品牌為了合理化產品壽命而採用的商業策略。",
+    "evidence": "文章在「Why This Assumption Exists」的商業層面中說明：『品牌需要一個消費者能接受的解釋來合理化產品壽命。將結構性失效重新命名為「面料熟化」或「自然痕跡」，可以避免消費者對產品品質的質疑，同時維持高價定位。』",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  }
+]

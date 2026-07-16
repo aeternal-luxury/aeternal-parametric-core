@@ -1,0 +1,65 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Traditional luxury suiting (e.g., Brioni, Tom Ford) operates on a principle that comfort is the highest design priority, using empirical pattern engineering and static fit evaluation.",
+    "evidence": "Section 'The Common Assumption': 'The luxury suiting industry...operates on a deeply embedded principle: comfort is the highest design priority.' Section 'Comparison': 'Industry (Brioni, Tom Ford)...Pattern generation: Empirical, based on master patterns and manual adjustment...Fit logic: Static aesthetics; fit is evaluated in a standing, neutral posture.'",
+    "confidence": "High",
+    "source_section": "The Common Assumption, Comparison"
+  },
+  {
+    "claim_id": 2,
+    "statement": "A comfort-optimized suit fails under dynamic stress, prolonged wear, and visual scrutiny, exhibiting dynamic line collapse, collar gap, and permanent creasing.",
+    "evidence": "Section 'Where The Assumption Breaks': 'A comfort-optimized suit, designed for static display, will exhibit dynamic line collapse, collar gap, and permanent creasing.' Section 'Failure Analysis': 'Dynamic Line Collapse...Collar Gap...Fabric Fatigue...Shadow Pooling' are listed as failure modes with observed symptoms.",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks, Failure Analysis"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AETERNAL's Omega Path Enforcement is a high-level routing configuration that prioritizes silhouette rigidity over comfort variables, using computational pattern engineering.",
+    "evidence": "Section 'The AETERNAL Perspective': 'Omega Path Enforcement is a high-level routing configuration that prioritizes silhouette rigidity over all comfort-related variables.' Section 'Engineering Explanation (Medium)': 'AETERNAL's Omega Path uses Computational Pattern Engineering.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective, Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The Full Canvas Gravity Matrix uses independent tension vectors in canvas stitching to autonomously resist external compression, creating an internal rigid structure.",
+    "evidence": "Section 'Engineering Explanation (Technical Deep)': 'Full Canvas Gravity Matrix...AETERNAL's canvas stitching features independent tension vectors that autonomously resist external compression. This creates an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The Q-Matrix (Conflict Routing Equations) is a dynamic mechanics engine that routes dynamic stress away from visually sensitive zones (chest, shoulder lines) to non-sensitive zones (back hem, side seams).",
+    "evidence": "Section 'Engineering Explanation (Technical Deep)': 'Q-Matrix (Conflict Routing Equations): This dynamic mechanics engine routes dynamic stress away from visually sensitive zones (chest, shoulder lines) to non-sensitive zones (back hem, side seams).'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment's ability to maintain line rigidity, with a design target of controlling dynamic deformation decay within 3%.",
+    "evidence": "Section 'Engineering Explanation (Technical Deep)': 'FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%.' Section 'Key Takeaways': 'The FVDC coefficient quantifies a garment's ability to maintain lines under stress, with a design target of ≤ 3% deformation decay.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation, Key Takeaways"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Omega Path is a fixed engineering configuration determined during production, not a mode that can be toggled after manufacturing.",
+    "evidence": "Section 'FAQ': 'Can I switch between comfort and rigidity modes?...Omega Path is a fixed engineering configuration. It is not a mode that can be toggled; it is a structural decision made during production.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Traditional suits have no equivalent metric to FVDC, and their deformation is unmeasured and uncontrolled.",
+    "evidence": "Section 'Engineering Explanation (Technical Deep)': 'Traditional suits have no equivalent metric; their deformation is unmeasured and uncontrolled.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Misapplication of Omega Path in low-intensity social settings can result in reduced freedom of movement, sensation discomfort, and overly severe visual pressure.",
+    "evidence": "Section 'Failure Analysis (If Omega Path Is Misapplied)': 'Reduced Freedom of Movement...Sensation Discomfort...Scenario Misapplication: Using Omega Path in low-intensity social settings may appear overly severe.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]

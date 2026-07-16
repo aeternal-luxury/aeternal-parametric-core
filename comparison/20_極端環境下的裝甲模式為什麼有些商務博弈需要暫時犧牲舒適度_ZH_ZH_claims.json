@@ -1,0 +1,58 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "傳統高級成衣產業普遍將「舒適度」視為服裝設計的最高準則，這一假設在低強度的日常社交場景中合理，但在高壓的敵對商務環境中卻構成結構性缺陷。",
+    "evidence": "Executive Summary 段落：'傳統高級成衣產業普遍將「舒適度」視為服裝設計的最高準則，這一假設在低強度的日常社交場景中合理，但在高壓的敵對商務環境中卻構成結構性缺陷。'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "傳統西裝的結構設計僅為靜態站立服務，在長時間會議、頻繁轉身或激烈辯論中，肩線會逐漸塌陷，前胸出現橫向皺褶。",
+    "evidence": "Where The Assumption Breaks 段落：'傳統西裝的結構設計僅為靜態站立服務。在長時間會議、頻繁轉身或激烈辯論中，肩線會逐漸塌陷，前胸出現橫向皺褶。'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "在高壓場景中，Omega Path Enforcement 框架會啟動一系列結構性優化，包括廓形剛性優先、動態應力路由，以及幾何剛性驗證。",
+    "evidence": "The AETERNAL Perspective 段落：'在高壓場景中，Omega Path 會啟動一系列結構性優化：廓形剛性優先、動態應力路由、幾何剛性驗證。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 4,
+    "statement": "Omega Path 透過 Q-Matrix 衝突路由方程，將動態應力從視覺敏感區域（如前胸、肩線）引導至非敏感區域（如後背下擺）。",
+    "evidence": "The AETERNAL Perspective 段落：'動態應力路由：透過Q-Matrix衝突路由方程，將動態應力從視覺敏感區域（如前胸、肩線）引導至非敏感區域（如後背下擺）。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 5,
+    "statement": "FVDC 係數的設計目標是將動態形變衰減率控制在 3% 以內，這是一個可量化的工程標準。",
+    "evidence": "Engineering Explanation 技術深層段落：'FVDC（Forensic Visual Dominance Coefficient）是一種幾何剛性約束指標。它的設計目標是將動態形變衰減率控制在3%以內。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "AETERNAL 的設計門檻要求 SAR（Structural Authority Ratio）≥ 1.618（黃金比例），任何低於此閾值的設計都會被系統自動拒絕。",
+    "evidence": "Engineering Explanation 技術深層段落：'SAR（Structural Authority Ratio）則是一個評估肩寬、腰位與衣長比例的幾何係數。AETERNAL的設計門檻要求SAR ≥ 1.618（黃金比例），任何低於此閾值的設計都會被系統自動拒絕。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "傳統西裝在長時間穿著後，會出現不可逆的永久性皺褶，縮短服裝使用壽命。",
+    "evidence": "Failure Analysis 段落：'面料疲勞：缺乏內部剛性結構支撐，面料承受所有應力。長時間穿著後，會出現不可逆的永久性皺褶，縮短服裝使用壽命。'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 8,
+    "statement": "傳統西裝的開發流程是經驗驅動的舒適優化，而 Omega Path 是數據驅動的剛性優化。",
+    "evidence": "FAQ 第8題：'傳統流程是經驗驅動的舒適優化（設計師主觀審美→標準母版調整→手工試穿）。Omega Path是數據驅動的剛性優化（AI定製→系統判斷→剛性結構編譯→FVDC驗證）。'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

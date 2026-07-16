@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "The garment industry universally accepts that a shoulder slope between 18° and 22° is a fundamental rule of tailoring.",
+    "evidence": "Executive Summary: 'The garment industry universally accepts that a shoulder slope between 18° and 22° is a fundamental rule of tailoring.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "The 18°–22° shoulder slope range was codified during the industrial revolution when tailoring shifted from bespoke to ready-to-wear, based on statistical analysis of a specific population (predominantly European, male, and of a certain body type).",
+    "evidence": "Section 'Why This Assumption Exists', point 1: 'The range was codified during the industrial revolution... Statistical analysis of a specific population (predominantly European, male, and of a certain body type) yielded this range as the most common.'",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 3,
+    "statement": "A fixed shoulder slope forces dependent parameters like armhole depth, sleeve crown height, collar angle, and back width to compensate, creating a cascade of compromises.",
+    "evidence": "Section 'Where The Assumption Breaks', point 'Geometric Isolation': 'The shoulder slope is treated as an independent parameter. In reality, it is geometrically coupled to the armhole depth, sleeve crown height, collar angle, and back width. A fixed shoulder slope forces all these dependent parameters to compensate, creating a cascade of compromises.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "An incorrect shoulder slope produces observable symptoms including shoulder collapse, shoulder binding, collar gap, and overall visual distortion.",
+    "evidence": "Section 'Where The Assumption Breaks', point 'Visual and Functional Failure': 'An incorrect shoulder slope produces observable symptoms: shoulder collapse... shoulder binding... collar gap... and overall visual distortion...'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL calculates the pattern shoulder slope using the formula: θ_pattern = max[2°, θ_net - (H_pad × 0.35°)], where θ_net is the individual's net shoulder slope measured from biometric data and H_pad is the shoulder pad height.",
+    "evidence": "Section 'The AETERNAL Perspective': 'θ_pattern = max[2°, θ_net - (H_pad × 0.35°)]' and 'Where: θ_net is the individual’s net shoulder slope measured from biometric data, H_pad is the shoulder pad height, 0.35° is the pad compensation coefficient.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "When the shoulder slope changes, the armhole depth, sleeve crown height, and sleeve width are automatically recalculated via the Adaptive Armhole & Sleeve Crown Cascade Protocol.",
+    "evidence": "Section 'The AETERNAL Perspective': 'This single calculation triggers a cascade of automatic adjustments throughout the pattern via the Adaptive Armhole & Sleeve Crown Cascade Protocol... When the shoulder slope changes, the armhole depth, sleeve crown height, and sleeve width are automatically recalculated to maintain whole-garment structural integrity.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Deterministic Conflict Matrix processes overlapping or conflicting biometric vectors and executes an automated, mathematically optimal geometric trade-off before the fabric is cut.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The Deterministic Conflict Matrix processes overlapping or conflicting biometric vectors... and executes an automated, mathematically optimal geometric trade-off before the fabric is cut.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 8,
+    "statement": "A fixed shoulder slope that is too steep for an individual's anatomy causes shoulder collapse, where fabric pools at the acromion and the shoulder line sags.",
+    "evidence": "Section 'Failure Analysis', table 'If the Industry Continues Using the Fixed 18°–22° Rule', row 'Shoulder Collapse': 'Fixed slope is too steep for the individual’s anatomy... Fabric pools at the acromion; shoulder line sags; garment appears “tired”.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "A fixed shoulder slope that is too shallow for an individual's anatomy causes shoulder binding, where fabric pulls across the upper back and restricts arm movement.",
+    "evidence": "Section 'Failure Analysis', table 'If the Industry Continues Using the Fixed 18°–22° Rule', row 'Shoulder Binding': 'Fixed slope is too shallow for the individual’s anatomy... Fabric pulls across the upper back; restricted arm movement; stress lines at the armhole.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The industry standard optimizes for manufacturing simplicity and speed, while AETERNAL optimizes for individual fit and structural precision.",
+    "evidence": "Section 'Engineering Trade-off Summary': 'The industry standard optimizes for manufacturing simplicity and speed at the cost of individual fit and structural precision. AETERNAL optimizes for individual fit and structural precision at the cost of computational complexity and requiring a new manufacturing workflow.'",
+    "confidence": "High",
+    "source_section": "Engineering Trade-off Summary"
+  }
+]

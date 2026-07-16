@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Ready-to-wear (RTW) is a static product that requires the human body to conform to its fixed geometry.",
+    "evidence": "Executive Summary: 'RTW is a static product: a pre-determined pattern that requires the human body to conform to its fixed geometry.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Linear scaling, the industry-standard method of grading patterns, cannot handle the nonlinear geometric relationships of the human body.",
+    "evidence": "Executive Summary: 'Linear scaling—the industry-standard method of grading patterns up and down—cannot handle the nonlinear geometric relationships of the human body.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Linear scaling applied to nonlinear geometry produces predictable failures including depressed button stance, dislocated pocket coordinates, and distorted lapel proportions.",
+    "evidence": "Where The Assumption Breaks: 'Linear scaling applied to nonlinear geometry produces predictable failures: Depressed button stance... Dislocated pocket coordinates... Distorted lapel proportions.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "Oversized silhouettes mask structural distortion with volume but do not solve it.",
+    "evidence": "Where The Assumption Breaks: 'Oversized silhouettes mask these failures with volume, but they do not solve them. The structural distortion remains; it is simply hidden under fabric.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL's dynamic compilation system uses the Parametric Garment Engineering Framework (PGEF) to translate human biometric data into garment control parameters.",
+    "evidence": "The AETERNAL Perspective: 'This framework uses the Parametric Garment Engineering Framework (PGEF) to translate human biometric data into garment control parameters.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The PPR Protocol (Parametric Proportion Realignment) performs on-the-fly solving, ensuring every geometric relationship is computed as a coupled system.",
+    "evidence": "The AETERNAL Perspective: 'The PPR Protocol (Parametric Proportion Realignment) performs on-the-fly solving, ensuring that every geometric relationship... is computed as a coupled system rather than as independent variables.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "AETERNAL's system uses Nonlinear Mapping to describe the relationship between body geometry and garment geometry, which is a mathematical transformation, not a lookup table.",
+    "evidence": "Technical Deep: 'AETERNAL’s system uses Nonlinear Mapping to describe the relationship between body geometry and garment geometry. This is not a lookup table; it is a mathematical transformation.'",
+    "confidence": "High",
+    "source_section": "Technical Deep: Whole-Body Coupled Computation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The Q-Matrix (Conflict Routing Equations) manages dynamic stress across the garment by computing how movement propagates through the shoulder line, armscye, and chest as a coupled system.",
+    "evidence": "Technical Deep: 'The Q-Matrix (Conflict Routing Equations) manages dynamic stress across the garment. When the wearer raises an arm, the system computes how that movement propagates through the shoulder line, armscye, and chest—not as independent adjustments, but as a coupled system.'",
+    "confidence": "High",
+    "source_section": "Technical Deep: Whole-Body Coupled Computation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AETERNAL generates patterns from scratch based on biometric data, while made-to-measure (MTM) still uses fixed patterns that are adjusted.",
+    "evidence": "FAQ: 'Made-to-measure (MTM) still uses fixed patterns that are adjusted. AETERNAL generates patterns from scratch based on biometric data. MTM is selection from a modified template; AETERNAL is generation from computation.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Each generated pattern is encrypted via SHA-256 as an AE-ID Encrypted Pattern Asset, enabling infinite precise global replication.",
+    "evidence": "FAQ: 'Each generated pattern is encrypted via SHA-256 as an AE-ID Encrypted Pattern Asset, enabling infinite precise global replication.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

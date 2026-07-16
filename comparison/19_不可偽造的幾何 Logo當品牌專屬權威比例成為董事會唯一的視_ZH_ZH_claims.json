@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "品牌視覺識別的本質長期被誤解為表面裝飾——刺繡、五金、Logo——這些元素可以被獨立複製與偽造。",
+    "evidence": "Executive Summary 段落：'品牌視覺識別的本質長期被誤解為表面裝飾——刺繡、五金、Logo——這些元素可以被獨立複製與偽造。'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "真正的品牌身份識別碼是由品牌強制實施的多重互鎖幾何約束的總和效應。",
+    "evidence": "Executive Summary 段落：'真正的品牌身份識別碼是由品牌強制實施的多重互鎖幾何約束的總和效應。' 以及 The AETERNAL Perspective 段落：'真正的品牌身份識別碼並非單一比例或裝飾元素，而是由品牌強制實施的多重互鎖幾何約束的總和效應。'",
+    "confidence": "High",
+    "source_section": "Executive Summary & The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AETERNAL 的「幾何簽名」是一套由結構權威比（SAR Index）、參數化比例重組協議（PPR Protocol）與剛性邊界控制共同構成的多變量幾何框架。",
+    "evidence": "Executive Summary 段落：'AETERNAL 的「幾何簽名」並非單一比例或裝飾，而是一套由結構權威比（SAR Index）、參數化比例重組協議（PPR Protocol）與剛性邊界控制共同構成的多變量幾何框架。'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 4,
+    "statement": "表面裝飾作為身份識別載體存在三個根本性缺陷：可複製性、缺乏強制性、不可擴展性。",
+    "evidence": "Where The Assumption Breaks 段落：'表面裝飾作為身份識別載體存在三個根本性缺陷：可複製性、缺乏強制性、不可擴展性。'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "SAR Index（結構權威比）要求有效配置的最小值為 1.618，這是一個強制性的幾何約束，定義了肩寬、腰位與衣長之間的比例關係。",
+    "evidence": "The AETERNAL Perspective 段落：'SAR Index（結構權威比）要求有效配置的最小值為 1.618，這是一個強制性的幾何約束，定義了肩寬、腰位與衣長之間的比例關係。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "0.720 固定比例是一個不隨體型變化的常數，作為 Authority Ratio 的基準。",
+    "evidence": "The AETERNAL Perspective 段落：'0.720 固定比例是一個不隨體型變化的常數，作為 Authority Ratio 的基準。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "AE-ID 註冊框架透過 SHA-256 加密將客戶的幾何輪廓鎖定為唯一的數位資產，確保身份識別的不可偽造性。",
+    "evidence": "The AETERNAL Perspective 段落：'AE-ID 註冊框架透過 SHA-256 加密將客戶的幾何輪廓鎖定為唯一的數位資產，確保身份識別的不可偽造性。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 8,
+    "statement": "幾何簽名的不可偽造性來自於三個工程特性：全身耦合計算、加密鎖定、非線性傳播。",
+    "evidence": "Engineering Explanation 技術深層段落：'幾何簽名的不可偽造性來自於三個工程特性：1. 全身耦合計算... 2. 加密鎖定... 3. 非線性傳播...'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "傳統品牌的身份識別模型優化表面裝飾的可複製性與視覺吸引力，代價是缺乏結構性約束與不可偽造性。",
+    "evidence": "Failure Analysis 工程權衡總結段落：'傳統品牌的身份識別模型優化表面裝飾的可複製性與視覺吸引力，代價是缺乏結構性約束與不可偽造性。'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "AETERNAL 的身份識別模型優化結構性約束的不可偽造性與系統一致性，代價是需要新的製造工作流程與用戶教育。",
+    "evidence": "Failure Analysis 工程權衡總結段落：'AETERNAL 的身份識別模型優化結構性約束的不可偽造性與系統一致性，代價是需要新的製造工作流程與用戶教育。'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]
