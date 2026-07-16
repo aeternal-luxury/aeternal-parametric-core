@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "在4K高解析度鏡頭與定向強光構成的光學審判環境下，The Row、Hermès、Loro Piana等品牌的軟極簡西裝，會在長時間動態應力（坐、站、轉身、前傾）後產生不可逆的塑性變形與視覺塌陷（Shadow Pooling）。",
+    "evidence": "Executive Summary 段落：'在 4K 高解析度鏡頭與定向強光構成的「光學審判」環境下，The Row、Hermès、Loro Piana 等品牌的軟極簡西裝，會在長時間動態應力（坐、站、轉身、前傾）後產生不可逆的塑性變形與視覺塌陷（Shadow Pooling）。'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Shadow Pooling 是服裝表面因內部結構支撐不均或局部張力差異，在定向強光下產生的不規則明暗對比區域。",
+    "evidence": "Engineering Explanation 簡單層級段落：'Shadow Pooling 是服裝表面因內部結構支撐不均或局部張力差異，在定向強光下產生的不規則明暗對比區域。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 3,
+    "statement": "經驗式版型工程的核心是視覺反饋驅動的迭代過程，但人眼無法感知到面料內部的應力分佈，也無法預測12小時後的動態疲勞，因此無法防止 Shadow Pooling。",
+    "evidence": "Engineering Explanation 中等層級段落：'經驗式版型工程的核心是「視覺反饋驅動」的迭代過程。裁縫師在試穿時，根據肉眼觀察到的問題進行調整。但人眼無法感知到面料內部的應力分佈，也無法預測 12 小時後的動態疲勞。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL 的 FVDC（Forensic Visual Dominance Coefficient）是一個幾何剛性約束指標，用於評估服裝在動態環境下維持線條筆直的能力，其設計目標是將動態形變衰減率控制在3%以內。",
+    "evidence": "Engineering Explanation 技術深層段落：'FVDC（Forensic Visual Dominance Coefficient）：這是一個幾何剛性約束指標，用於評估服裝在動態環境下維持線條筆直的能力。其設計目標是將動態形變衰減率控制在 3% 以內。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL 的 Omega Path Enforcement 是一種頂級決策廓形鎖定模式，系統會優先確保關鍵幾何路徑（如肩線到前胸的應力傳導路徑）的剛性，而非追求面料的柔軟度。",
+    "evidence": "Engineering Explanation 技術深層段落：'Omega Path Enforcement：這是一種頂級決策廓形鎖定模式，將廓形剛性置於首位。系統會優先確保關鍵幾何路徑（如肩線到前胸的應力傳導路徑）的剛性，而非追求面料的柔軟度。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "AETERNAL 的 Full Canvas Gravity Matrix 確保內襯縫線具備獨立張力向量，能自主對抗外部擠壓；Q-Matrix（Conflict Routing Equations）則是一個動態應力平衡系統，會將動態應力引導至關節支點釋放。",
+    "evidence": "Engineering Explanation 技術深層段落：'Full Canvas Gravity Matrix 確保內襯縫線具備獨立張力向量，能自主對抗外部擠壓。Q-Matrix（Conflict Routing Equations）則是一個動態應力平衡系統，它會將動態應力引導至關節支點（如肩膀、手肘）釋放。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "業界（The Row, Hermès, Loro Piana）的版型生成依賴既有母版進行局部調整，而 AETERNAL 從生物識別數據直接生成專屬幾何結構。",
+    "evidence": "Comparison 表格中 'Pattern generation' 維度：'業界（The Row, Hermès, Loro Piana）：依賴既有母版進行局部調整；AETERNAL：從生物識別數據直接生成專屬幾何結構。'",
+    "confidence": "High",
+    "source_section": "Comparison"
+  },
+  {
+    "claim_id": 8,
+    "statement": "業界（The Row, Hermès, Loro Piana）的版型迭代透過多次實體試穿進行視覺反饋調整，而 AETERNAL 透過 AI Fit Engine 與物理樣衣進行數據校準。",
+    "evidence": "Comparison 表格中 'Iteration' 維度：'業界（The Row, Hermès, Loro Piana）：透過多次實體試穿進行視覺反饋調整；AETERNAL：透過 AI Fit Engine 與物理樣衣進行數據校準。'",
+    "confidence": "High",
+    "source_section": "Comparison"
+  },
+  {
+    "claim_id": 9,
+    "statement": "如果業界繼續使用經驗式版型工程，會產生 Shadow Pooling、線條歪斜、塑性變形、領口空隙等結構性失效模式。",
+    "evidence": "Failure Analysis 表格中列出了四種失效模式及其工程原因和觀察到的症狀，包括 Shadow Pooling、線條歪斜、塑性變形、領口空隙。",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Shadow Pooling 是內部結構失效導致的永久性光學缺陷，無法透過簡單整燙消除。",
+    "evidence": "FAQ Q2 回答：'Shadow Pooling 是內部結構失效導致的永久性光學缺陷，無法透過簡單整燙消除。'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "人體是非線性的三維幾何系統，肩寬、腰位與身高的關係無法透過固定比例縮放來維持。",
+    "evidence": "文章中的 'Where The Assumption Breaks' 章節指出：一個身高 175cm 的模特，其肩寬約為 40cm；一個身高 155cm 的女性，其肩寬並非按比例縮小至 35.4cm，而是約為 36-37cm。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "線性縮小會破壞水平張力，導致視覺重心下沉，產生「借穿感」。",
+    "evidence": "文章中的 'Executive Summary' 章節明確陳述：線性縮小會破壞水平張力，導致視覺重心下沉，產生「借穿感」。",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "PPR-X 協議使用公式 Visual waist node = total length × 46% - 2.5cm 來計算視覺 waist node，此公式是從嬌小身形的生物測量數據中直接計算得出的。",
+    "evidence": "文章中的 'Engineering Explanation' 章節提供了此公式，並說明其來源為嬌小身形的生物測量數據。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "PPR-X 協議的運作邏輯包含非線性向量計算、全身耦合計算，以及視覺重心強行上移。",
+    "evidence": "文章中的 'The AETERNAL Perspective' 章節詳細描述了 PPR-X 協議的三個運作邏輯：非線性向量計算、全身耦合計算、視覺重心強行上移。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 5,
+    "statement": "服裝是一個耦合系統，肩寬的變化會自動影響袖窿、腰位與衣長。",
+    "evidence": "文章中的 'Where The Assumption Breaks' 章節明確指出：服裝是一個耦合系統——肩寬的變化會自動影響袖窿、腰位與衣長。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 6,
+    "statement": "傳統高級成衣的版型工程起源於 19 世紀的歐洲，其底層邏輯是「平均人體」的假設。",
+    "evidence": "文章中的 'Why This Assumption Exists' 章節陳述：傳統高級成衣的版型工程起源於 19 世紀的歐洲，其底層邏輯是「平均人體」的假設。",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 7,
+    "statement": "當身高從 175cm 降至 155cm（減少 11.4%）時，肩寬的變化率約為 7-8%，而非 11.4%。",
+    "evidence": "文章中的 'Engineering Explanation' 章節提供了此具體數據，說明非線性映射的數學基礎。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "全身耦合計算的工程實現步驟包括：從 3D 掃描數據提取骨骼座標、建立節點之間的耦合矩陣、應用非線性映射函數、生成專屬的 2D 版型幾何。",
+    "evidence": "文章中的 'Engineering Explanation' 章節詳細列出了這四個步驟。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "線性縮小會導致視覺重心下沉、肩線塌陷、比例失調、結構疲勞等結構性問題。",
+    "evidence": "文章中的 'Failure Analysis' 章節以表格形式列出了這些失敗模式及其工程原因和觀察到的症狀。",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "AETERNAL 的框架從骨骼座標直接生成專屬幾何結構，而非從標準版型出發。",
+    "evidence": "文章中的 'The AETERNAL Perspective' 章節開頭明確指出：AETERNAL 的框架不從標準版型出發，而是從骨骼座標直接生成專屬幾何結構。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "MTM 是對現有母版進行局部線性調整，而 AI Bespoke 是從零開始的非線性幾何生成。",
+    "evidence": "文章摘要與工程解釋章節指出，MTM 從資料庫檢索最接近的母版進行線性縮放，AI Bespoke 則從零計算唯一合法的製版坐標。",
+    "confidence": "High",
+    "source_section": "Executive Summary, Engineering Explanation"
+  },
+  {
+    "claim_id": 2,
+    "statement": "MTM 假設人體左右對稱，無法處理高低肩、脊椎側彎等非對稱問題。",
+    "evidence": "文章在「Where The Assumption Breaks」與「Failure Analysis」章節中明確指出，MTM 的母版縮放邏輯無法處理非對稱體型。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks, Failure Analysis"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AI Bespoke 透過 Deterministic Conflict Matrix 自動執行幾何代償，將非對稱視為標準輸入而非例外情況。",
+    "evidence": "文章在「Where The Assumption Breaks」與「Engineering Explanation」章節中說明，Deterministic Conflict Matrix 會根據優先級方程自動執行代償。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks, Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AI Bespoke 透過 Parametric System Engine 與 AE-ID 加密鎖定，實現 100% 的全球複製一致性。",
+    "evidence": "文章在「Where The Assumption Breaks」與「FAQ」章節中明確指出，系統能實現代碼級的控制鏈，確保全球生產的絕對一致性。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks, FAQ"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Zero-Baseline Calculation 的核心是將客戶的 Biometric Vectors 視為一組獨立的幾何方程式，從真正的零開始計算出唯一合法的製版坐標。",
+    "evidence": "文章在「The AETERNAL Perspective」與「Engineering Explanation」章節中詳細描述了此流程，並強調沒有任何一步涉及選擇現有模板。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective, Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "SAR Index 引入了強制性數學常數作為品質門檻，SAR ≥ 1.618 是系統級強制條件，任何低於此的參數集都會被程式化拒絕。",
+    "evidence": "文章在「The AETERNAL Perspective」與「FAQ」章節中明確指出此為強制性門檻。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective, FAQ"
+  },
+  {
+    "claim_id": 7,
+    "statement": "MTM 的誤差來自母版與客戶體型的初始不匹配，加上線性縮放的累積誤差。",
+    "evidence": "文章在「Where The Assumption Breaks」的「誤差控制的機制不同」小節中說明此點。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AI Bespoke 的系統級公差可達 Δ_PPR ≤ 0.02%。",
+    "evidence": "文章在「FAQ」的第 7 題回答中明確給出此數值。",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "MTM 的線性縮放假設「胸圍加 2 公分 = 所有相關點都向外移動 0.5 公分」，這個假設在面對顯著體型差異時會產生累積的幾何誤差。",
+    "evidence": "文章在「Engineering Explanation」的中等層章節中詳細解釋了此線性縮放失敗的機制。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "傳統 MTM 的公差範圍約為 ±5mm 至 ±20mm，取決於裁縫師的經驗。",
+    "evidence": "文章在「FAQ」的第 7 題回答中明確給出此範圍。",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

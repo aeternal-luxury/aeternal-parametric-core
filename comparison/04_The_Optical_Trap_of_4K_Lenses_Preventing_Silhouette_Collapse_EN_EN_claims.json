@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Shadow Pooling is a structural defect caused by uneven internal tension, not a fabric or finishing defect.",
+    "evidence": "The article states: 'Shadow Pooling is a structural defect, not a fabric defect. It is caused by uneven internal tension, not poor material quality.' (Key Takeaways, point 1) and 'Shadow Pooling is the irregular visual shadowing across a fabric surface caused by uneven internal structural support or localised tension differences' (FAQ, point 1).",
+    "confidence": "High",
+    "source_section": "Key Takeaways & FAQ"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Garments from brands like The Row, Hermès, and Loro Piana undergo irreversible plastic deformation after 4-6 hours of prolonged dynamic stress.",
+    "evidence": "The article states: 'After 4-6 hours of sitting, standing, turning, and leaning, empirical pattern engineering garments undergo irreversible plastic deformation.' (Where The Assumption Breaks, point 1).",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Computational Pattern Engineering treats a garment as a coupled mechanical system, not a collection of independent panels.",
+    "evidence": "The article states: 'PGEF (Parametric Garment Engineering Framework): The operational logic that treats the garment as a coupled mechanical system, not a collection of independent panels.' (The AETERNAL Perspective).",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment’s ability to maintain straight lines under dynamic conditions, targeting a deformation decay rate of under 3%.",
+    "evidence": "The article states: 'FVDC (Forensic Visual Dominance Coefficient): A geometric rigidity constraint metric that evaluates a garment’s ability to maintain straight lines under dynamic conditions, with a target deformation decay rate of under 3%.' (The AETERNAL Perspective) and 'The FVDC metric continuously evaluates the garment’s line integrity, targeting a deformation decay rate of under 3% under dynamic conditions.' (Engineering Explanation, Level 3).",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective & Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Empirical Pattern Engineering relies on a tailor’s personal experience, intuition, and iterative manual fitting, while Computational Pattern Engineering relies on non-linear computation and whole-body coupled geometry generation.",
+    "evidence": "The article states: 'Empirical Pattern Engineering relies on visual feedback and manual iteration, Computational Pattern Engineering relies on non-linear computation and whole-body coupled geometry generation.' (The AETERNAL Perspective) and 'Empirical Pattern Engineering relies on a tailor’s personal experience, intuition, and iterative manual fitting. Computational Pattern Engineering relies on non-linear computation, whole-body coupled geometry generation, and mathematical stress prediction.' (FAQ, point 11).",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective & FAQ"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The CAA Protocol (Cervical-Axial Alignment) establishes a geometric pivot at the seventh cervical vertebra to eliminate collar gaps.",
+    "evidence": "The article states: 'The CAA Protocol (Cervical-Axial Alignment), which establishes a geometric pivot at the seventh cervical vertebra to eliminate collar gaps.' (Engineering Explanation, Level 3).",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The UAA Protocol (Unconstrained Armscye Alignment) decouples sleeve mechanics from body mechanics to prevent the sleeve from pulling the shoulder line out of alignment during arm movement.",
+    "evidence": "The article states: 'The UAA Protocol (Unconstrained Armscye Alignment) decouples sleeve mechanics from body mechanics, preventing the sleeve from pulling the shoulder line out of alignment during arm movement.' (Engineering Explanation, Level 3).",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Shadow Pooling is a permanent optical defect caused by internal structural failure and is not recoverable by pressing.",
+    "evidence": "The article states: 'Shadow Pooling is a permanent optical defect caused by internal structural failure, not recoverable by pressing.' (FAQ, point 5) and 'No. Shadow Pooling is caused by permanent structural deformation (plastic deformation) of the internal architecture. Simple pressing cannot restore the original tension distribution.' (FAQ, point 4).",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The Q-Matrix (Conflict Routing Equations) reconciles kinetic stress vectors with static structural constraints to ensure visually critical zones remain flat.",
+    "evidence": "The article states: 'The Q-Matrix (Conflict Routing Equations) reconciles kinetic stress vectors with static structural constraints, ensuring that visually critical zones (chest, shoulders, front placket) remain flat.' (Engineering Explanation, Level 2).",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The Full Canvas Gravity Matrix is an internal architecture where canvas stitching possesses independent tension vectors that autonomously resist external compression, unlike traditional fused interlining which deforms under pressure.",
+    "evidence": "The article states: 'The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that autonomously resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths.' (Engineering Explanation, Level 3).",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]

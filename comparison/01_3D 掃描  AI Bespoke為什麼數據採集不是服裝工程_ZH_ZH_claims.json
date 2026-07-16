@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "3D 掃描捕捉的是人體表面幾何，它是一項數據採集技術；AI 訂製是從生物識別數據中計算生成服裝結構的過程，它是一項計算生成技術。",
+    "evidence": "Executive Summary 與 Engineering Explanation 章節明確指出兩者為不同的工程操作。",
+    "confidence": "High",
+    "source_section": "Executive Summary & Engineering Explanation"
+  },
+  {
+    "claim_id": 2,
+    "statement": "精確的輸入無法補償缺失的生成引擎，真正的 AI 訂製取決於後端是否具備動態編譯能力，將原始數據轉化為決定性的服裝幾何。",
+    "evidence": "Executive Summary 與 Failure Analysis 章節指出，缺乏動態編譯能力的系統會導致數據轉化斷層。",
+    "confidence": "High",
+    "source_section": "Executive Summary & Failure Analysis"
+  },
+  {
+    "claim_id": 3,
+    "statement": "人體幾何與服裝幾何之間不存在線性映射關係；人體是一個非線性耦合系統，肩峰間距與腰圍之間不存在簡單的線性關係。",
+    "evidence": "Where The Assumption Breaks 章節第二點與 Engineering Explanation 中等級層級說明。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks & Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "後端若無決定性衝突矩陣，數據誤差將在生產鏈中放大，導致結構性的合身問題。",
+    "evidence": "Where The Assumption Breaks 章節第三點與 Failure Analysis 中的數據轉化斷層失效模式。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks & Failure Analysis"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL 的框架將 3D 掃描定位為「生物識別輸入」的一個選項，真正的核心在於後端的計算生成引擎，由 AI Fit Engine、Parametric System Engine、PPR Protocol 與 Deterministic Conflict Matrix 四個層級組成。",
+    "evidence": "The AETERNAL Perspective 章節詳細描述了此框架的四個層級。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "傳統 MTM 系統假設身體各部位等比例縮放（線性縮放），但人體是非線性耦合系統，此假設是結構性錯誤的根源。",
+    "evidence": "Engineering Explanation 中等級層級與 Failure Analysis 中的線性縮放失效模式。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation & Failure Analysis"
+  },
+  {
+    "claim_id": 7,
+    "statement": "決定性衝突矩陣處理重疊的生物識別向量與動態應力點，執行自動化的幾何代償，消除人工主觀判斷。",
+    "evidence": "The AETERNAL Perspective 章節與 Engineering Explanation 技術深層說明。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective & Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AETERNAL 將空間邊界漂移壓縮至 0.02%（Δ_PPR ≤ 0.02%），這是一個可驗證的工程規格。",
+    "evidence": "Key Takeaways 第 5 點與 FAQ Q7。",
+    "confidence": "High",
+    "source_section": "Key Takeaways & FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "全身耦合計算將整個身體視為一個耦合系統，調整一個參數時，系統會自動計算並調整所有相關參數，保持結構完整性。",
+    "evidence": "Engineering Explanation 技術深層說明。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "業界常見做法（如 Indochino、WIAI、ABODY.AI）使用資料庫匹配與線性縮放生成版型，而 AETERNAL 使用從零計算的參數化生成與非線性映射。",
+    "evidence": "Comparison 表格中明確列出兩者在版型生成、合身邏輯等維度的差異。",
+    "confidence": "High",
+    "source_section": "Comparison"
+  }
+]

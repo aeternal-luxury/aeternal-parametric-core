@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Made-to-Measure (MTM) is a local adjustment of an existing master pattern, while AI Bespoke is a geometric compilation from scratch.",
+    "evidence": "Executive Summary: 'MTM is a local adjustment of an existing master pattern—a modification operation. AI Bespoke is a geometric compilation from scratch—a generation operation.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "MTM assumes bilateral symmetry and fails or requires manual intervention when a client has uneven shoulders or scoliosis.",
+    "evidence": "Where The Assumption Breaks, Asymmetry Handling: 'MTM assumes bilateral symmetry. When a client has uneven shoulders or scoliosis, MTM either fails or requires manual intervention.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AI Bespoke output is deterministic: same input, same output, every time, anywhere.",
+    "evidence": "Where The Assumption Breaks, Replicability: 'AI Bespoke's output is deterministic—same input, same output, every time, anywhere.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL's AI Bespoke uses Zero-Baseline Calculation, storing no pre-existing templates and computing every garment from biometric data as an independent set of geometric equations.",
+    "evidence": "The AETERNAL Perspective, Zero-Baseline Calculation: 'The system stores no pre-existing templates. Every garment is calculated from the client's biometric data as an independent set of geometric equations.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The Deterministic Conflict Matrix automatically executes priority equations to perform geometric compensation for conflicting geometric requirements, requiring no subjective human compromise.",
+    "evidence": "The AETERNAL Perspective, Deterministic Conflict Matrix: 'When the human body presents conflicting geometric requirements... the system automatically executes priority equations to perform geometric compensation. No subjective human compromise is required.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The SAR Index (Structural Authority Ratio) is a mandatory mathematical constant (SAR ≥ 1.618) that enforces structural authority; any parameter set below this threshold is programmatically rejected.",
+    "evidence": "The AETERNAL Perspective, SAR Index: 'A mandatory mathematical constant (SAR ≥ 1.618) that enforces structural authority. Any parameter set below this threshold is programmatically rejected by the engine's compilation pipeline.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "MTM uses linear algebra on isolated measurements, assuming the human body scales proportionally—an assumption that is mathematically false for most individuals.",
+    "evidence": "Engineering Explanation, Technical Deep Level: 'MTM uses linear algebra on isolated measurements... This assumes the human body scales proportionally—an assumption that is mathematically false for most individuals.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AI Bespoke uses non-linear computation on whole-body coupled vectors, treating biometric data as a system of coupled equations where each measurement affects every other measurement.",
+    "evidence": "Engineering Explanation, Technical Deep Level: 'AI Bespoke uses non-linear computation on whole-body coupled vectors. The system treats the client's biometric data as a system of coupled equations where each measurement affects every other measurement.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "A failure mode of MTM is 'Collar Gap,' caused by fixed grading angles of the master pattern mismatching the client's cervical geometry.",
+    "evidence": "Failure Analysis, If Industry Continues Using MTM: 'Collar Gap: Fixed grading angles of master pattern mismatch client's cervical geometry. Back collar gapes when turning or looking down.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "A failure mode of traditional bespoke is non-replicability, as it relies on individual tailor's intuition, leading to different garments for the same client and measurements.",
+    "evidence": "Failure Analysis, If Industry Continues Using Traditional Bespoke: 'Non-replicability: Relies on individual tailor's intuition. Same client, same measurements, different tailors produce different garments.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]

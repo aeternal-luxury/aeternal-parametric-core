@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "3D body scanning captures surface geometry as raw point clouds, functioning as a digital tape measure.",
+    "evidence": "Executive Summary: '3D scanning captures surface geometry as raw point clouds—it is a digital tape measure.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "AI bespoke is a computational process that transforms biometric data into deterministic garment geometry through nonlinear mapping, whole-body coupled computation, and conflict resolution.",
+    "evidence": "Executive Summary: 'AI bespoke, by contrast, is a computational process that transforms biometric data into deterministic garment geometry through nonlinear mapping, whole-body coupled computation, and conflict resolution.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Traditional made-to-measure (MTM) relies on manual measurements and pattern library selection, digitizing the input step without re-engineering the backend.",
+    "evidence": "Why This Assumption Exists: 'When digital scanning replaced the tape measure, the industry simply digitized the input step without re-engineering the backend. The process remained database matching plus linear scaling—just with faster data entry.'",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The human body does not scale proportionally; bi-acromial breadth and waist circumference have no linear relationship.",
+    "evidence": "Where The Assumption Breaks: 'Nonlinear Body Relationships: The human body does not scale proportionally. Bi-acromial breadth (shoulder width) and waist circumference have no linear relationship.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Adjusting one parameter, such as shoulder width, cascades through armscye depth, collar curvature, chest circumference, and balance, creating new structural problems if treated independently.",
+    "evidence": "Where The Assumption Breaks: 'Coupled System Behavior: Adjusting one parameter—say, shoulder width—cascades through armscye depth, collar curvature, chest circumference, and balance. Independent local adjustments create new structural problems.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 6,
+    "statement": "High-precision scan data is routinely translated into mediocre patterns because the backend lacks dynamic compilation capability.",
+    "evidence": "Where The Assumption Breaks: 'Data Translation Gap: High-precision scan data (sub-millimeter accuracy) is routinely translated into mediocre patterns because the backend lacks dynamic compilation capability.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The AETERNAL framework uses a Deterministic Conflict Matrix to process overlapping biometric vectors and kinetic stress points, executing automated geometric compensation without averaging or approximation.",
+    "evidence": "Technical Deep Level: 'The Deterministic Conflict Matrix resolves the conflict through automated geometric compensation. It does not average the vectors; it computes a new geometry that satisfies both constraints simultaneously.'",
+    "confidence": "High",
+    "source_section": "Technical Deep Level"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AETERNAL compresses spatial boundary drift to Δ_PPR ≤ 0.02%, meaning the geometric error between the digital model and the physical garment is effectively zero.",
+    "evidence": "The AETERNAL Perspective: 'Spatial boundary drift is compressed to Δ_PPR ≤ 0.02%, meaning the geometric error between the digital model and the physical garment is effectively zero.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Current industry methods (e.g., Indochino, WIAI) use database matching plus linear scaling, which fails systematically for the 60-70% of the population that does not match standard proportions.",
+    "evidence": "Engineering Trade-off Summary: 'Current industry methods optimize for database efficiency and scalability at the cost of geometric precision and structural integrity. They work well for standard body types but fail systematically for the 60-70% of the population that does not match standard proportions.'",
+    "confidence": "High",
+    "source_section": "Engineering Trade-off Summary"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The AETERNAL framework accepts biometric input from any source—scan, manual measurement, or image—and the generation process is independent of the input method.",
+    "evidence": "FAQ Q11: 'Yes. The AI Fit Engine accepts biometric input from any source—scan, manual measurement, or image. The generation process is independent of the input method.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

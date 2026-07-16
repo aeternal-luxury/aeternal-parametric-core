@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Handmade suiting, as practiced by houses like Brioni, Chanel, and Dior, optimizes for artisan intuition and experience, resulting in unreplicability and high variance.",
+    "evidence": "Executive Summary: 'Handmade suiting, as practiced by houses like Brioni, Chanel, and Dior, optimizes for artisan intuition and experience. Its inherent characteristics are unreplicability and high variance—each garment is a unique artifact dependent on a single artisan's subjective state.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Computational Pattern Engineering, as implemented by AETERNAL, optimizes for geometric determinism and portability, achieving 100% precise global replication through nonlinear computation, deterministic conflict resolution, and encrypted pattern assets.",
+    "evidence": "Executive Summary: 'Computational Pattern Engineering, as implemented by AETERNAL, optimizes for geometric determinism and portability. It achieves 100% precise global replication through nonlinear computation, deterministic conflict resolution, and encrypted pattern assets.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "In handmade suiting, when a biometric measurement conflicts with a pattern assumption, the artisan makes a subjective judgment that is unreplicable.",
+    "evidence": "Technical Deep: The Deterministic Conflict Matrix: 'In handmade suiting, when a biometric measurement conflicts with a pattern assumption (e.g., the client has a forward shoulder and a flat back), the artisan makes a subjective judgment. This judgment is unreplicable.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL's Deterministic Conflict Matrix automatically executes geometric compensation and stress routing when biometric vectors and kinetic stress points conflict, making the decision deterministic, auditable, and replicable.",
+    "evidence": "Technical Deep: The Deterministic Conflict Matrix: 'AETERNAL's Deterministic Conflict Matrix is a computational decision engine within the PGEF architecture. When biometric vectors and kinetic stress points conflict, it automatically executes geometric compensation and stress routing. The decision is deterministic, auditable, and replicable.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL compresses spatial boundary drift to Δ_PPR ≤ 0.02%, meaning the garment is geometrically identical regardless of when, where, or by whom it is produced.",
+    "evidence": "The AETERNAL Perspective: 'Spatial boundary drift is compressed to Δ_PPR ≤ 0.02%, meaning the garment is geometrically identical regardless of when, where, or by whom it is produced.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The client's pattern is encrypted as an AE-ID asset certificate using SHA-256, enabling 100% precise replication at any authorized global node.",
+    "evidence": "The AETERNAL Perspective: 'The client's pattern is encrypted as an AE-ID asset certificate using SHA-256, enabling 100% precise replication at any authorized global node.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "If the industry continues using handmade as the sole luxury model, it will suffer from unreplicability, high variance, structural fatigue, and artisan dependency.",
+    "evidence": "Failure Analysis: 'If the Industry Continues Using Handmade as the Sole Luxury Model' table lists failure modes: Unreplicability, High Variance, Structural Fatigue, and Artisan Dependency, with specific engineering causes and observed symptoms.",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Traditional handmade suiting starts with an artisan's subjective observation of the client's body, while AETERNAL starts with biometric data captured via remote AI customization and processed through nonlinear computation.",
+    "evidence": "Engineering Explanation (Simple): 'Traditional handmade suiting starts with an artisan's subjective observation of the client's body... AETERNAL starts with biometric data captured via remote AI customization. This data is processed through nonlinear computation that models the entire body as a coupled system.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "In computational pattern engineering, 'quality' is defined as 'geometric specification determinism' with an objective standard: the garment must match the specification within a spatial boundary drift of 0.02%.",
+    "evidence": "Engineering Explanation (Intermediate): 'In computational pattern engineering, 'quality' is defined as 'geometric specification determinism.' The standard is objective and measurable: the garment must match the specification within a spatial boundary drift of 0.02%.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The AE-ID asset can be updated with new biometric data if the client gains or loses weight, and the PPR Protocol recalculates proportions without starting from scratch.",
+    "evidence": "FAQ Q11: 'The AE-ID asset can be updated with new biometric data. The PPR Protocol recalculates proportions, and the new specification is locked. The client does not need to start from scratch.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

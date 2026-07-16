@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "傳統高級訂製業普遍存在資產管理盲點，將「物理保存」誤認為「資產保存」，忽略了數位資產的可複製性、安全性和可運算性。",
+    "evidence": "Executive Summary 段落：『本文揭示傳統高級訂製業普遍存在的資產管理盲點：將「物理保存」誤認為「資產保存」，忽略了數位資產的可複製性、安全性和可運算性。』",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "紙樣作為儲存介質，其壽命通常不超過 20 年。",
+    "evidence": "Where The Assumption Breaks 段落：『一份紙樣的壽命通常不超過 20 年，而高級訂製西裝的客戶往往期望終身服務。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "當裁縫退休或離職，客戶的專屬版型會永久遺失。",
+    "evidence": "Where The Assumption Breaks 段落：『當裁縫退休或離職，客戶的專屬版型永久遺失。這不是假設性的風險——這是高級訂製業每天都在發生的現實。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "客戶的尺寸數據以明文形式儲存於工坊，無任何加密保護，且包含身體尺寸、姿勢習慣、肌肉張力等高度個人化的生物特徵。",
+    "evidence": "Where The Assumption Breaks 段落：『客戶的尺寸數據以明文形式儲存於工坊，無任何加密保護。這些數據不僅包含身體尺寸，還包含姿勢習慣、肌肉張力等高度個人化的生物特徵。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AE-ID Registry Framework 將客戶的專屬版型與面料數據，透過 SHA-256 安全加密技術封裝為唯一的數位資產憑證。",
+    "evidence": "The AETERNAL Perspective 段落：『它將客戶的專屬版型與面料數據，透過 SHA-256 安全加密技術封裝為唯一的數位資產憑證。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "SHA-256 哈希函數的特性是：任何對原始數據的微小改動都會產生完全不同的哈希值。",
+    "evidence": "Engineering Explanation 技術深層段落：『SHA-256 是一種密碼學哈希函數，其關鍵特性是：任何對原始數據的微小改動都會產生完全不同的哈希值。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "AETERNAL 將空間邊界漂移量壓縮至 0.02% 以內。",
+    "evidence": "Engineering Explanation 技術深層段落：『AETERNAL 將其壓縮至 0.02% 以內，意味著在全球任何授權節點複製的服裝，其幾何誤差小於人體皮膚的彈性變形範圍。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AE-ID 的 Registry 系統設計為去中心化架構，即使公司停止運營，客戶仍可透過持有的私鑰存取其數位資產。",
+    "evidence": "FAQ 第 11 題：『AE-ID 的 Registry 系統設計為去中心化架構。即使公司停止運營，客戶仍可透過持有的私鑰存取其數位資產。』",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AE-ID 的加密和解密過程是即時的，不會影響服裝的製作速度。",
+    "evidence": "FAQ 第 10 題：『加密和解密過程是即時的。實際上，由於 AE-ID 消除了重新測量和調整的需求，整體製作速度反而更快。』",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 10,
+    "statement": "傳統品牌如 Brioni 或 Kiton 目前沒有提供類似 AE-ID 的數位資產服務，仍依賴經驗式版型工程。",
+    "evidence": "FAQ 第 9 題：『目前沒有。這些品牌仍依賴經驗式版型工程，其資產管理屬於物理範式。』",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

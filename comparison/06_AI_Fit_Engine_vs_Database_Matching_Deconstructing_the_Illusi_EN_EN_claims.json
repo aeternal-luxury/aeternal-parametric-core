@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Database template matching is fundamentally a retrieval problem that finds the closest match in a finite library and applies linear scaling.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Database template matching is fundamentally a retrieval problem: given a set of inputs, find the closest match in a finite library and apply linear scaling.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Geometric generation is a computation problem that computes a new geometric structure from zero based on biometric vectors.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Geometric generation, by contrast, is a computation problem: given a set of biometric vectors, compute a new geometric structure from zero.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Database matching cannot generate a pattern for a body type that does not exist in its library; it can only approximate.",
+    "evidence": "Section 'Where The Assumption Breaks': 'This operation cannot generate a pattern for a body type that does not exist in the library. It can only approximate.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The human body does not scale uniformly; a person who is 10% taller does not have shoulders that are 10% wider, a waist that is 10% higher, or arms that are 10% longer.",
+    "evidence": "Section 'Engineering Explanation / Intermediate: Linear Scaling vs. Nonlinear Mapping': 'A person who is 10% taller does not have shoulders that are 10% wider, a waist that is 10% higher, or arms that are 10% longer. These relationships are nonlinear.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Database matching applies linear scaling to a master pattern, which fails for bodies that deviate significantly from the master pattern's proportions.",
+    "evidence": "Section 'Engineering Explanation / Intermediate: Linear Scaling vs. Nonlinear Mapping': 'Database matching applies linear scaling to a master pattern, assuming uniform proportional change. This works for bodies that are close to the master pattern's proportions, but fails for bodies that deviate significantly.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The AETERNAL AI Fit Engine computes the entire geometric structure as a single, interconnected system using whole-body coupled computation.",
+    "evidence": "Section 'Engineering Explanation / Technical Deep: Whole-Body Coupled Computation and the Deterministic Conflict Matrix': 'The AETERNAL AI Fit Engine treats the body as a coupled structural system... it computes the entire geometric structure as a single, interconnected system.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The PPR Protocol enforces a golden-section geometric shell (S_ideal) to ensure structural harmony.",
+    "evidence": "Section 'Engineering Explanation / Technical Deep': 'The PPR Protocol (Parametric Proportion Realignment) enforces a golden-section geometric shell (S_ideal) that ensures structural harmony.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The SAR Index enforces a mandatory design threshold of 1.618; any configuration below this value is automatically rejected by the AETERNAL system.",
+    "evidence": "Section 'Engineering Explanation / Technical Deep': 'The SAR Index (Structural Authority Ratio) enforces a mandatory design threshold of 1.618; any configuration below this value is automatically rejected.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The Deterministic Conflict Matrix resolves overlapping biometric vectors by executing automated geometric trade-offs, eliminating the need for human interpretation.",
+    "evidence": "Section 'Engineering Explanation / Technical Deep': 'The Deterministic Conflict Matrix resolves overlapping biometric vectors by executing automated geometric trade-offs, eliminating the need for human interpretation.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The output of database matching is always limited by the content of the database; true personalization requires generating a new structure from the user's data.",
+    "evidence": "Section 'FAQ': 'Can database matching ever achieve true personalization? No. The output of database matching is always limited by the content of the database. True personalization requires generating a new structure from the user's data.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

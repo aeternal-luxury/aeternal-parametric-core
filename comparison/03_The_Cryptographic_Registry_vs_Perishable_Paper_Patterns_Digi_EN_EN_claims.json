@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Paper patterns degrade over time, becoming illegible or unusable after several years due to moisture, tearing, and yellowing.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Degradation: Paper patterns are susceptible to moisture, tearing, and yellowing. After several years, they become illegible or unusable.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "A paper pattern cannot be transmitted precisely across borders, leading to inconsistent results when interpreted by different workshops.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Non-replicability: A paper pattern cannot be transmitted precisely across borders. Different workshops interpret the same pattern differently, leading to inconsistent results.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Client measurement data stored in plain text in a workshop is accessible to unauthorized third parties, with no encryption, access control, or audit trail.",
+    "evidence": "Section 'Where The Assumption Breaks': 'Privacy risk: Client measurement data is stored in plain text in the workshop, accessible to unauthorized third parties. There is no encryption, no access control, no audit trail.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The AE-ID is computed as a SHA-256 cryptographic hash of the Client UUID concatenated with the CAD binary data, ensuring the certificate is tamper-proof and globally unique.",
+    "evidence": "Section 'Engineering Explanation' (Technical Deep): 'AE-ID = SHA-256(Client_UUID || CAD_Binary_Data). This cryptographic hash function ensures that the certificate is tamper-proof and globally unique.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL compresses spatial boundary drift, the geometric error during conversion from data to garment parameters, to within 0.02%.",
+    "evidence": "Section 'Engineering Explanation' (Technical Deep): 'Spatial boundary drift—the geometric error during conversion from data to garment parameters—is compressed to within 0.02%, ensuring that a suit made in London and one made in Tokyo are geometrically identical.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "If the industry continues using paper patterns, a client's geometry is lost after 5-10 years as patterns become illegible.",
+    "evidence": "Section 'Failure Analysis': 'Pattern degradation: After 5–10 years, paper patterns become illegible. The client’s geometry is lost.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 7,
+    "statement": "If a tailor retires, the client's fit preferences vanish, making reorders impossible under the traditional paper pattern system.",
+    "evidence": "Section 'Failure Analysis': 'Loss of tailor’s memory: When a tailor retires, the client’s fit preferences vanish. Reorders become impossible.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Replication of an AE-ID garment depends on authorized AETERNAL production nodes; without an authorized node, replication is impossible.",
+    "evidence": "Section 'Failure Analysis' (AETERNAL’s failure modes): 'System dependency: Replication depends on authorized AETERNAL production nodes. Without an authorized node, replication is impossible.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The AE-ID Registry Framework encapsulates a client’s exclusive pattern and fabric data into a unique digital asset certificate using SHA-256 secure encryption technology.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The AE-ID Registry Framework encapsulates a client’s exclusive pattern and fabric data into a unique digital asset certificate using SHA-256 secure encryption technology.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The AE-ID digital twin is a dynamic, computable geometric file that records static measurements as well as dynamic data such as postural habits and muscle tension.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The framework treats body geometry as a digital twin—a dynamic, computable geometric file that records not only static measurements but also dynamic data such as postural habits and muscle tension.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  }
+]

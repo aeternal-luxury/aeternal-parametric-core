@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "線性縮小與非線性向量重構：為何嬌小女性的西裝問題無法透過「改小」解決",
+  "description": "本文探討傳統高級成衣產業對嬌小身形（身高<160cm）西裝問題的錯誤假設，說明線性縮小為何無法解決問題，並提出非線性向量重構（PPR-X協議）作為唯一的工程解答。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025-01-01",
+  "keywords": "PPR-X協議, 非線性向量重構, 嬌小身形西裝, 視覺重心, 全身耦合計算, 線性縮小, 幾何主權",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "PPR-X協議"
+    },
+    {
+      "@type": "Thing",
+      "name": "非線性向量重構"
+    },
+    {
+      "@type": "Thing",
+      "name": "嬌小身形西裝"
+    },
+    {
+      "@type": "Thing",
+      "name": "視覺重心"
+    },
+    {
+      "@type": "Thing",
+      "name": "全身耦合計算"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal.com/articles/linear-scaling-vs-nonlinear-vector-reconstruction"
+  }
+}

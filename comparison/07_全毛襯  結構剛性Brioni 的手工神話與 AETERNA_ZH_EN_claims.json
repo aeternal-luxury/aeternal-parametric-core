@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Traditional Full Canvas construction, as practiced by houses like Brioni and Kiton, is a passive drape system that relies on gravity and multi-layer material assembly to form a silhouette.",
+    "evidence": "Executive Summary: 'Traditional Full Canvas, as practiced by houses like Brioni and Kiton, is a passive drape system: it relies on gravity and multi-layer material assembly to form a silhouette.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Under prolonged wear (meetings, travel, presentations), traditional full canvas suits undergo irreversible stress fatigue, causing shoulder collapse, shadow pooling, and placket distortion.",
+    "evidence": "Executive Summary: 'Under prolonged wear—meetings, travel, presentations—it undergoes irreversible stress fatigue, causing shoulder collapse, shadow pooling, and placket distortion.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AETERNAL's Full Canvas Gravity Matrix is an active structural system that embeds independent tension vectors into the canvas stitching, enabling the garment to autonomously resist external compression and route dynamic stress away from visually sensitive zones.",
+    "evidence": "Executive Summary: 'AETERNAL’s Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to autonomously resist external compression and route dynamic stress away from visually sensitive zones.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 4,
+    "statement": "Traditional full canvas suits exhibit measurable silhouette degradation after 2–4 hours of continuous wear, including shoulder line collapse and front placket warping.",
+    "evidence": "Where The Assumption Breaks: 'After 2–4 hours of continuous wear (sitting, standing, turning), traditional full canvas suits exhibit measurable silhouette degradation. The shoulder line collapses. The front placket warps.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Shadow pooling—uneven fabric tension creating visible dark bands under 4K lighting—is a direct symptom of stress fatigue in traditional full canvas suits.",
+    "evidence": "Where The Assumption Breaks: 'Under 4K lighting, shadow pooling—uneven fabric tension creating visible dark bands—becomes apparent. This is a direct symptom of stress fatigue.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 6,
+    "statement": "AETERNAL's Full Canvas Gravity Matrix operates in the elastic regime for 12+ hours, maintaining a deformation rate of ≤3%.",
+    "evidence": "Comparison table: 'Long-term consistency: Maintains ≤3% deformation over 12+ hours' and Technical Deep: 'AETERNAL’s system operates in the elastic regime for 12+ hours.'",
+    "confidence": "High",
+    "source_section": "Comparison and Technical Deep"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Q-Matrix coordinates independent tension vectors, routing dynamic stress away from the chest and shoulders to the back and side seams.",
+    "evidence": "Medium engineering explanation: 'The Q-Matrix coordinates these vectors, routing dynamic stress away from the chest and shoulders to the back and side seams, where it can be safely dissipated.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation (Medium)"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Traditional full canvas exhibits stress fatigue under cyclic loading, entering the plastic deformation regime after approximately 12 hours of cumulative wear.",
+    "evidence": "Technical Deep: 'Traditional full canvas exhibits stress fatigue under cyclic loading. After approximately 12 hours of cumulative wear (Architecture Note #042), the canvas enters the plastic deformation regime.'",
+    "confidence": "High",
+    "source_section": "Technical Deep"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AETERNAL's Omega Path Enforcement mode can override mobility constraints to prioritise absolute structural rigidity.",
+    "evidence": "Technical Deep: 'The Omega Path Enforcement mode can override mobility constraints to prioritise absolute rigidity.'",
+    "confidence": "High",
+    "source_section": "Technical Deep"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The PGEF v1.5 framework ensures that all tension vectors in AETERNAL's system remain within their elastic limits, preventing irreversible deformation.",
+    "evidence": "Technical Deep: 'The PGEF v1.5 framework ensures that all tension vectors remain within their elastic limits, preventing irreversible deformation.'",
+    "confidence": "High",
+    "source_section": "Technical Deep"
+  }
+]

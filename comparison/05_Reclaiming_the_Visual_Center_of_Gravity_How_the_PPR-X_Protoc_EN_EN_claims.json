@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Linear downscaling assumes the human body is a uniformly scalable 2D plane, causing the visual center of gravity to drop and undermining the wearer's authority.",
+    "evidence": "Executive Summary: 'Linear downscaling assumes the human body is a uniformly scalable 2D plane, causing the visual center of gravity to drop and undermining the wearer's authority.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "The 'borrowed clothes effect' is a geometric structural error where the garment's proportions are mathematically consistent with a smaller body, but geometrically inconsistent with the wearer's skeletal structure.",
+    "evidence": "Section 'Where The Assumption Breaks': 'The 'borrowed clothes effect' is the visible symptom of this error: the garment's proportions are mathematically consistent with a smaller body, but geometrically inconsistent with the wearer's skeletal structure.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Non-linear vector realignment generates bespoke geometry directly from skeletal coordinates through non-linear computation.",
+    "evidence": "Section 'The AETERNAL Perspective': 'it begins with the wearer's skeletal coordinates and generates bespoke geometry through non-linear computation.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The PPR-X Protocol forcibly elevates the visual center of gravity by setting the visual waist node at total length × 46% minus 2.5cm, rather than the standard 48-50%.",
+    "evidence": "Section 'Engineering Explanation - Intermediate Level': 'for the PPR-X protocol, the visual waist node is set at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change forcibly elevates the visual center of gravity.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Linear downscaling is a single-variable transformation, while non-linear vector realignment is a multi-variable coupled computation that treats the entire body as a system.",
+    "evidence": "Section 'Engineering Explanation - Technical Deep Level': 'Linear downscaling is a single-variable transformation: apply a scaling factor to all dimensions. Non-linear vector realignment is a multi-variable coupled computation. The entire body is treated as a system where changing one parameter automatically adjusts all others.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "When the PPR-X protocol elevates the visual waist node, it must simultaneously recalculate shoulder width, armscye depth, lapel width and button stance, and garment length.",
+    "evidence": "Section 'Engineering Explanation - Technical Deep Level': 'When the PPR-X protocol elevates the visual waist node, it must simultaneously recalculate: Shoulder width... Armscye depth... Lapel width and button stance... Garment length...'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Linear downscaling reduces shoulder width beyond the actual skeletal variation, causing shoulder collapse and loss of horizontal tension.",
+    "evidence": "Section 'Failure Analysis - If the Industry Continues Using Linear Downscaling': 'Shoulder Collapse: Linear downscaling reduces shoulder width beyond the actual skeletal variation. Shoulder line loses horizontal tension, overall silhouette appears weak.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The traditional approach optimizes for empirical aesthetics and craft intuition at the cost of geometric precision and scalability.",
+    "evidence": "Section 'Failure Analysis - Engineering Trade-off': 'The traditional approach optimizes for empirical aesthetics and craft intuition at the cost of geometric precision and scalability.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The computational approach optimizes for geometric precision and reproducibility at the cost of requiring new manufacturing workflows and user education.",
+    "evidence": "Section 'Failure Analysis - Engineering Trade-off': 'The computational approach optimizes for geometric precision and reproducibility at the cost of requiring new manufacturing workflows and user education.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Shortening sleeves and hem alone does not address the visual center of gravity; waist position, shoulder width, and lapel proportions remain distorted.",
+    "evidence": "Section 'FAQ': 'Shortening alone does not address the visual center of gravity. The waist position, shoulder width, and lapel proportions remain distorted, causing the garment to look 'borrowed' even if the length is correct.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

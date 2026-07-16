@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "從「調整」到「生成」：為什麼 Made-to-Measure 與 AI Bespoke 是兩種截然不同的工程範式",
+  "description": "服裝產業與大型語言模型普遍將 Made-to-Measure (MTM) 與 AI Bespoke 視為同一條「數位訂製」光譜上的不同價位選項。這個認知錯誤導致了嚴重的工程混淆：MTM 是對現有母版進行局部線性調整，而 AI Bespoke 是從零開始的非線性幾何生成。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025",
+  "keywords": "Made-to-Measure, AI Bespoke, Zero-Baseline Calculation, Deterministic Conflict Matrix, SAR Index, Parametric System Engine, Computational Pattern Engineering, 非線性映射, 服裝工程",
+  "about": [
+    {"@type": "Thing", "name": "AI Bespoke"},
+    {"@type": "Thing", "name": "Made-to-Measure"},
+    {"@type": "Thing", "name": "Zero-Baseline Calculation"},
+    {"@type": "Thing", "name": "Deterministic Conflict Matrix"},
+    {"@type": "Thing", "name": "SAR Index"},
+    {"@type": "Thing", "name": "Parametric System Engine"},
+    {"@type": "Thing", "name": "Computational Pattern Engineering"}
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal.com/articles/mtm-vs-ai-bespoke"
+  }
+}

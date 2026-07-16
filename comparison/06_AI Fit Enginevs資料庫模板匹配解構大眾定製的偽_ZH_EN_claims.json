@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Most mass-market platforms operate on database template matching, which retrieves the closest pre-existing pattern block from a finite library and applies linear scaling adjustments.",
+    "evidence": "Executive Summary: 'Most mass-market platforms operate on database template matching: they retrieve the closest pre-existing pattern block from a finite library and apply linear scaling adjustments.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "AETERNAL's AI Fit Engine performs zero-baseline geometric compilation, treating biometric data as a set of independent equations and computing a new, unique geometric structure from scratch.",
+    "evidence": "Executive Summary: 'AETERNAL’s AI Fit Engine performs zero-baseline geometric compilation: it treats biometric data as a set of independent equations and computes a new, unique geometric structure from scratch.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "The human body is not a uniformly scaling object; shoulder width, waist position, arm length, and skeletal inclination are non-linearly related.",
+    "evidence": "Where The Assumption Breaks: 'The human body is not a uniformly scaling object. Shoulder width, waist position, arm length, and skeletal inclination are non-linearly related.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL's AI Fit Engine does not store or reference pre-existing pattern blocks; it receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure.",
+    "evidence": "The AETERNAL Perspective: 'The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The AI Fit Engine uses the Parametric System Engine to enforce whole-body coupled computation, where a change in one parameter triggers automatic recalculation of all related geometric parameters.",
+    "evidence": "The AETERNAL Perspective: 'This process is governed by the Parametric System Engine, which enforces whole-body coupled computation: a change in one parameter triggers automatic recalculation of all related geometric parameters.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The system applies the PPR Protocol (Parametric Proportion Realignment) to enforce a golden-ratio geometric shell (S_ideal).",
+    "evidence": "The AETERNAL Perspective: 'The system also applies the PPR Protocol (Parametric Proportion Realignment) to enforce a golden-ratio geometric shell (S_ideal).'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Deterministic Conflict Matrix resolves overlapping biometric vectors through automated geometric trade-offs.",
+    "evidence": "The AETERNAL Perspective: 'the Deterministic Conflict Matrix resolves overlapping biometric vectors through automated geometric trade-offs.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The resulting geometry is checked against the Structural Authority Ratio (SAR Index), and any configuration with a value below 1.618 is automatically rejected.",
+    "evidence": "Deep Technical Level: 'The resulting geometry is checked against the Structural Authority Ratio (SAR Index). Any configuration with a value below 1.618 is automatically rejected.'",
+    "confidence": "High",
+    "source_section": "Deep Technical Level"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The final geometry is locked to the user’s biometric signature via AE-ID Encryption, ensuring that the same garment cannot be reproduced for a different body.",
+    "evidence": "Deep Technical Level: 'AE-ID Encryption: The final geometry is locked to the user’s biometric signature, ensuring that the same garment cannot be reproduced for a different body.'",
+    "confidence": "High",
+    "source_section": "Deep Technical Level"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Database template matching uses linear scaling, which assumes proportional growth that does not exist in nature, leading to garments that fit statistically but fail structurally.",
+    "evidence": "Where The Assumption Breaks: 'Linear scaling—applying a uniform factor to all dimensions of a template—assumes proportional growth that does not exist in nature. The result is garments that fit statistically but fail structurally.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  }
+]

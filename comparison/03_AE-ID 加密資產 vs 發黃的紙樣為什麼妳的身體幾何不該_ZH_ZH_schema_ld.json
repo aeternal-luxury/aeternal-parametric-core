@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "從泛黃紙樣到加密資產：為什麼你的身體幾何不該只是裁縫店的秘密",
+  "description": "本文揭示傳統高級訂製業普遍存在的資產管理盲點：將「物理保存」誤認為「資產保存」，忽略了數位資產的可複製性、安全性和可運算性。透過引入 AE-ID 加密數位資產憑證框架，我們展示身體幾何如何從易損壞的物理檔案轉變為可永久保存、全球複製的加密數位資產。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025-01-01",
+  "keywords": "高級訂製, 數位資產, AE-ID, SHA-256, 身體幾何, 資產管理, 加密, 數位孿生, 參數化系統引擎, 空間邊界漂移量",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "AE-ID Registry Framework"
+    },
+    {
+      "@type": "Thing",
+      "name": "數位資產管理"
+    },
+    {
+      "@type": "Thing",
+      "name": "高級訂製"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal.com/articles/from-paper-patterns-to-encrypted-assets"
+  }
+}

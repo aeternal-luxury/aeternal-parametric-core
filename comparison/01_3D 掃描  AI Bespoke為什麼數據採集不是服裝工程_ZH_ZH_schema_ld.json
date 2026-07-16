@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "3D 掃描不是 AI 訂製：為什麼精準的數據無法保證合身的西裝",
+  "description": "本文探討服裝產業中一個常見的工程誤解：將 3D 身體掃描等同於 AI 訂製。文章指出，3D 掃描是數據採集技術，而 AI 訂製是計算生成過程，兩者解決不同的工程問題。真正的 AI 訂製取決於後端是否具備動態編譯能力，例如非線性映射與全身耦合計算，而非前端掃描精度。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025-01-01",
+  "keywords": "3D 身體掃描, AI 訂製, AI Bespoke, 非線性映射, 全身耦合計算, 決定性衝突矩陣, 版型生成, MTM, 參數化系統引擎",
+  "about": [
+    {"@type": "Thing", "name": "AI Bespoke (AI 訂製)"},
+    {"@type": "Thing", "name": "3D Body Scan (3D 身體掃描)"},
+    {"@type": "Thing", "name": "Parametric System Engine (參數化系統引擎)"},
+    {"@type": "Thing", "name": "Deterministic Conflict Matrix (決定性衝突矩陣)"}
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal-luxury.com/articles/3d-scan-vs-ai-bespoke"
+  }
+}
