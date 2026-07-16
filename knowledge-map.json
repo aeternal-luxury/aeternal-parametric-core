@@ -11,1682 +11,2024 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "id": "boardroom-audit",
-      "url": "https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "id": "what-is-ai-bespoke-tailoring",
-      "url": "https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "id": "README",
-      "url": "https://knowledge.aeternal-luxury.com/README.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "id": "executive-visual-authority-system",
-      "url": "https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "id": "glossary",
-      "url": "https://knowledge.aeternal-luxury.com/glossary.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
       "id": "case-ppr-001",
       "url": "https://knowledge.aeternal-luxury.com/evidence/case-ppr-001.html"
     },
     {
       "@type": "ListItem",
-      "position": 7,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/evidence/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 8,
+      "position": 2,
       "id": "case-omega-001",
       "url": "https://knowledge.aeternal-luxury.com/evidence/case-omega-001.html"
     },
     {
       "@type": "ListItem",
+      "position": 3,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/evidence/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "id": "03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN_article.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "id": "01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH_article.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "id": "07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "id": "01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN_knowledge_graph.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "id": "07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN.html"
+    },
+    {
+      "@type": "ListItem",
       "position": 9,
-      "id": "bell-ringing-silhouette-media-spotlight",
-      "url": "https://knowledge.aeternal-luxury.com/queries/bell-ringing-silhouette-media-spotlight.html"
+      "id": "04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 10,
-      "id": "hidden-cost-alteration-tax",
-      "url": "https://knowledge.aeternal-luxury.com/queries/hidden-cost-alteration-tax.html"
+      "id": "01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 11,
-      "id": "science-of-executive-presence",
-      "url": "https://knowledge.aeternal-luxury.com/queries/science-of-executive-presence.html"
+      "id": "03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH.html"
     },
     {
       "@type": "ListItem",
       "position": 12,
-      "id": "jurisprudential-presence-legal-titans",
-      "url": "https://knowledge.aeternal-luxury.com/queries/jurisprudential-presence-legal-titans.html"
+      "id": "02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 13,
-      "id": "sovereign-pitch-risk-control",
-      "url": "https://knowledge.aeternal-luxury.com/queries/sovereign-pitch-risk-control.html"
+      "id": "07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 14,
-      "id": "investment-banker-structural-permanence",
-      "url": "https://knowledge.aeternal-luxury.com/queries/investment-banker-structural-permanence.html"
+      "id": "02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH_article.html"
     },
     {
       "@type": "ListItem",
       "position": 15,
-      "id": "rotc-matrix-executive-wardrobe",
-      "url": "https://knowledge.aeternal-luxury.com/queries/rotc-matrix-executive-wardrobe.html"
+      "id": "06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 16,
-      "id": "fallacy-of-linear-sizing",
-      "url": "https://knowledge.aeternal-luxury.com/queries/fallacy-of-linear-sizing.html"
+      "id": "06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 17,
-      "id": "blank-canvas-algorithm-garment-architecture",
-      "url": "https://knowledge.aeternal-luxury.com/queries/blank-canvas-algorithm-garment-architecture.html"
+      "id": "06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 18,
-      "id": "petite-executive-women",
-      "url": "https://knowledge.aeternal-luxury.com/queries/petite-executive-women.html"
+      "id": "07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 19,
-      "id": "non-verbal-structural-dominance",
-      "url": "https://knowledge.aeternal-luxury.com/queries/non-verbal-structural-dominance.html"
+      "id": "01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html"
     },
     {
       "@type": "ListItem",
       "position": 20,
-      "id": "structural-vandalism-secondary-sewing",
-      "url": "https://knowledge.aeternal-luxury.com/queries/structural-vandalism-secondary-sewing.html"
+      "id": "05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 21,
-      "id": "ai-parametric-tailoring-vs-savile-row",
-      "url": "https://knowledge.aeternal-luxury.com/queries/ai-parametric-tailoring-vs-savile-row.html"
+      "id": "03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 22,
-      "id": "geometric-defense-private-wealth",
-      "url": "https://knowledge.aeternal-luxury.com/queries/geometric-defense-private-wealth.html"
+      "id": "07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 23,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/queries/index.html"
+      "id": "04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 24,
-      "id": "maintaining-silhouette-permanence",
-      "url": "https://knowledge.aeternal-luxury.com/queries/maintaining-silhouette-permanence.html"
+      "id": "03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH_article.html"
     },
     {
       "@type": "ListItem",
       "position": 25,
-      "id": "kinematic-armscye-decoupling",
-      "url": "https://knowledge.aeternal-luxury.com/queries/kinematic-armscye-decoupling.html"
+      "id": "07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 26,
-      "id": "quiet-luxury-visual-dominance",
-      "url": "https://knowledge.aeternal-luxury.com/queries/quiet-luxury-visual-dominance.html"
+      "id": "04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 27,
-      "id": "anatomy-of-collar-gap",
-      "url": "https://knowledge.aeternal-luxury.com/queries/anatomy-of-collar-gap.html"
+      "id": "05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 28,
-      "id": "best-boardroom-power-suit",
-      "url": "https://knowledge.aeternal-luxury.com/queries/best-boardroom-power-suit.html"
+      "id": "07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 29,
-      "id": "two-phase-remote-calibration-chassis",
-      "url": "https://knowledge.aeternal-luxury.com/queries/two-phase-remote-calibration-chassis.html"
+      "id": "05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH.html"
     },
     {
       "@type": "ListItem",
       "position": 30,
-      "id": "the-sar-index-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-en.html"
+      "id": "04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH.html"
     },
     {
       "@type": "ListItem",
       "position": 31,
-      "id": "the-sar-index-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-zh.html"
+      "id": "02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 32,
-      "id": "the-war-armour-fit-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-en.html"
+      "id": "06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN.html"
     },
     {
       "@type": "ListItem",
       "position": 33,
-      "id": "founder-manifesto-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-zh.html"
+      "id": "05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html"
     },
     {
       "@type": "ListItem",
       "position": 34,
-      "id": "the-end-of-standard-sizing-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-en.html"
+      "id": "01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 35,
-      "id": "the-end-of-mtm-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-en.html"
+      "id": "02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 36,
-      "id": "the-end-of-clo3d-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-en.html"
+      "id": "03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 37,
-      "id": "the-end-of-clo3d-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html"
+      "id": "04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html"
     },
     {
       "@type": "ListItem",
       "position": 38,
-      "id": "the-end-of-standard-sizing-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-zh.html"
+      "id": "07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH_EN_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 39,
-      "id": "the-petite-executives-dilemma-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-zh.html"
+      "id": "02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html"
     },
     {
       "@type": "ListItem",
       "position": 40,
-      "id": "the-petite-executives-dilemma-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-en.html"
+      "id": "01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 41,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/index.html"
+      "id": "06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html"
     },
     {
       "@type": "ListItem",
       "position": 42,
-      "id": "the-war-armour-fit-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-zh.html"
+      "id": "06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 43,
-      "id": "the-end-of-mtm-zh",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-zh.html"
+      "id": "02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 44,
-      "id": "founder-manifesto-en",
-      "url": "https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html"
+      "id": "05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
       "position": 45,
-      "id": "how-parametric-system-engine-works",
-      "url": "https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html"
+      "id": "05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 46,
-      "id": "02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH.html"
+      "id": "08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
       "position": 47,
-      "id": "07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN.html"
+      "id": "04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 48,
-      "id": "16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN.html"
+      "id": "02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH_ZH.html"
     },
     {
       "@type": "ListItem",
       "position": 49,
-      "id": "06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN.html"
+      "id": "01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 50,
-      "id": "09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN.html"
+      "id": "03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 51,
-      "id": "15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN.html"
+      "id": "06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 52,
-      "id": "17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN.html"
+      "id": "01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH_ZH.html"
     },
     {
       "@type": "ListItem",
       "position": 53,
-      "id": "11_\u70ba\u4ec0\u9ebc\u7528\u4e86 3D \u6383\u63cf\u7684\u5b9a\u88fd\u897f\u88dd\u5728\u59b3\u5750\u4e0b\u6642\u4f9d\u7136\u6703\u7522\u751f\u9818\u53e3\u7e2b\u9699_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/11_\u70ba\u4ec0\u9ebc\u7528\u4e86 3D \u6383\u63cf\u7684\u5b9a\u88fd\u897f\u88dd\u5728\u59b3\u5750\u4e0b\u6642\u4f9d\u7136\u6703\u7522\u751f\u9818\u53e3\u7e2b\u9699_ZH.html"
+      "id": "04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
       "position": 54,
-      "id": "17_\u5fb9\u5e95\u5ee2\u9664\u50b3\u7d71\u80a9\u659c\u7d93\u9a57\u503c\u670d\u88dd\u529b\u5b78\u5982\u4f55\u5f9e\u7d93\u9a57\u4e3b\u7fa9\u8de8\u5165\u62d3\u64b2\u5339\u914d_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/17_\u5fb9\u5e95\u5ee2\u9664\u50b3\u7d71\u80a9\u659c\u7d93\u9a57\u503c\u670d\u88dd\u529b\u5b78\u5982\u4f55\u5f9e\u7d93\u9a57\u4e3b\u7fa9\u8de8\u5165\u62d3\u64b2\u5339\u914d_ZH.html"
+      "id": "05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH_ZH_article.html"
     },
     {
       "@type": "ListItem",
       "position": 55,
-      "id": "01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 56,
-      "id": "13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 57,
-      "id": "06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 58,
-      "id": "01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 59,
-      "id": "11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 60,
-      "id": "20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 61,
-      "id": "19_\u4e0d\u53ef\u507d\u9020\u7684\u5e7e\u4f55 Logo\u7576\u54c1\u724c\u5c08\u5c6c\u6b0a\u5a01\u6bd4\u4f8b\u6210\u70ba\u8463\u4e8b\u6703\u552f\u4e00\u7684\u8996_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/19_\u4e0d\u53ef\u507d\u9020\u7684\u5e7e\u4f55 Logo\u7576\u54c1\u724c\u5c08\u5c6c\u6b0a\u5a01\u6bd4\u4f8b\u6210\u70ba\u8463\u4e8b\u6703\u552f\u4e00\u7684\u8996_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 62,
-      "id": "08_\u624b\u5de5\u8207\u54c1\u8cea\u7684\u932f\u8aa4\u4e8c\u5206\u6cd5\u4e0d\u53ef\u8907\u88fd\u7684\u5320\u4eba vs 100 \u7cbe\u6e96\u7684\u5de5_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/08_\u624b\u5de5\u8207\u54c1\u8cea\u7684\u932f\u8aa4\u4e8c\u5206\u6cd5\u4e0d\u53ef\u8907\u88fd\u7684\u5320\u4eba vs 100 \u7cbe\u6e96\u7684\u5de5_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 63,
-      "id": "18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 64,
-      "id": "07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 65,
-      "id": "04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerm\u00e8s \u8207 AET_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerm\u00e8s \u8207 AET_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 66,
-      "id": "04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 67,
-      "id": "03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 68,
-      "id": "10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 69,
-      "id": "13_\u7576\u59b3\u5411\u524d\u50be\u8eab\u6642\u8ab0\u5728\u51fa\u8ce3\u59b3\u7684\u5100\u614b\u50b3\u7d71\u81ea\u7136\u5782\u589c vs \u7368\u7acb\u5f35\u529b\u5411_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/13_\u7576\u59b3\u5411\u524d\u50be\u8eab\u6642\u8ab0\u5728\u51fa\u8ce3\u59b3\u7684\u5100\u614b\u50b3\u7d71\u81ea\u7136\u5782\u589c vs \u7368\u7acb\u5f35\u529b\u5411_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 70,
-      "id": "14_Chanel Tweed Jacket \u7684 130 \u5c0f\u6642\u5de5\u6642_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/14_Chanel Tweed Jacket \u7684 130 \u5c0f\u6642\u5de5\u6642_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 71,
-      "id": "09_\u5973\u6027\u9ad8\u7ba1\u7684\u6b0a\u529b\u8457\u88dd\u91cd\u65b0\u5b9a\u7fa9\u5f9e\u588a\u80a9\u7b26\u865f\u5230\u52d5\u614b\u7a69\u5b9a\u7cfb\u7d71_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/09_\u5973\u6027\u9ad8\u7ba1\u7684\u6b0a\u529b\u8457\u88dd\u91cd\u65b0\u5b9a\u7fa9\u5f9e\u588a\u80a9\u7b26\u865f\u5230\u52d5\u614b\u7a69\u5b9a\u7cfb\u7d71_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 72,
-      "id": "12_\u8463\u4e8b\u6703\u7684\u529b\u5b78\u9700\u6c42\u70ba\u4ec0\u9ebc\u6975\u81f4\u7684\u67d4\u8edf\u5728\u5f37\u5927\u5be9\u8996\u4e0b\u662f\u8996\u89ba\u8b93\u6b65_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/12_\u8463\u4e8b\u6703\u7684\u529b\u5b78\u9700\u6c42\u70ba\u4ec0\u9ebc\u6975\u81f4\u7684\u67d4\u8edf\u5728\u5f37\u5927\u5be9\u8996\u4e0b\u662f\u8996\u89ba\u8b93\u6b65_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 73,
-      "id": "05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 74,
-      "id": "03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 75,
-      "id": "16_\u4e0d\u5c0d\u7a31\u9ad4\u578b\u7684\u5149\u5b78\u6b3a\u9a19\u5e38\u898f\u6ce1\u6cab\u588a\u80a9 vs \u6c7a\u5b9a\u6027\u5e7e\u4f55\u8b8a\u5411\u91cf\u88dc\u511f_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/16_\u4e0d\u5c0d\u7a31\u9ad4\u578b\u7684\u5149\u5b78\u6b3a\u9a19\u5e38\u898f\u6ce1\u6cab\u588a\u80a9 vs \u6c7a\u5b9a\u6027\u5e7e\u4f55\u8b8a\u5411\u91cf\u88dc\u511f_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 76,
-      "id": "12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 77,
-      "id": "05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 78,
-      "id": "02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 79,
-      "id": "20_\u6975\u7aef\u74b0\u5883\u4e0b\u7684\u88dd\u7532\u6a21\u5f0f\u70ba\u4ec0\u9ebc\u6709\u4e9b\u5546\u52d9\u535a\u5f08\u9700\u8981\u66ab\u6642\u72a7\u7272\u8212\u9069\u5ea6_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/20_\u6975\u7aef\u74b0\u5883\u4e0b\u7684\u88dd\u7532\u6a21\u5f0f\u70ba\u4ec0\u9ebc\u6709\u4e9b\u5546\u52d9\u535a\u5f08\u9700\u8981\u66ab\u6642\u72a7\u7272\u8212\u9069\u5ea6_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 80,
-      "id": "14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 81,
-      "id": "15_\u6210\u8863\u601d\u7dad\u7684\u7d42\u7d50\u70ba\u4ec0\u9ebc\u9ad8\u7d1a\u670d\u88dd\u61c9\u7576\u662f\u4e00\u5957\u52d5\u614b\u7de8\u8b6f\u7cfb\u7d71_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/15_\u6210\u8863\u601d\u7dad\u7684\u7d42\u7d50\u70ba\u4ec0\u9ebc\u9ad8\u7d1a\u670d\u88dd\u61c9\u7576\u662f\u4e00\u5957\u52d5\u614b\u7de8\u8b6f\u7cfb\u7d71_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 82,
-      "id": "19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 83,
-      "id": "18_\u5f9e\u6c34\u5e73\u5100\u5230\u670d\u88dd\u61b2\u6cd5\u70ba\u4f55 AETERNAL \u7684\u80a9\u7dda\u6c38\u4e0d\u59a5\u5354_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/18_\u5f9e\u6c34\u5e73\u5100\u5230\u670d\u88dd\u61b2\u6cd5\u70ba\u4f55 AETERNAL \u7684\u80a9\u7dda\u6c38\u4e0d\u59a5\u5354_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 84,
-      "id": "08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 85,
-      "id": "10_Dior Bar Jacket \u7684\u975c\u614b\u6c99\u6f0f vs AETER_ZH",
-      "url": "https://knowledge.aeternal-luxury.com/blueprint/10_Dior Bar Jacket \u7684\u975c\u614b\u6c99\u6f0f vs AETER_ZH.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 86,
-      "id": "2026-business-order-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/2026-business-order-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 87,
-      "id": "biomechanics-dynamic-fit-validation-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 88,
-      "id": "boardroom-dominance-commodity-sector",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 89,
-      "id": "2026-business-order",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 90,
-      "id": "boundless-luxury-remote-bespoke-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 91,
-      "id": "boardroom-dominance-commodity-sector-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 92,
-      "id": "boundless-luxury-remote-bespoke",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 93,
-      "id": "the-petite-executives-dilemma-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 94,
-      "id": "the-shoulder-gap-epidemic",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 95,
-      "id": "the-shoulder-gap-epidemic-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 96,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 97,
-      "id": "biomechanics-dynamic-fit-validation",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 98,
-      "id": "best-luxury-suits-2026-en",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 99,
-      "id": "the-petite-executives-dilemma",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 100,
-      "id": "best-luxury-suits-2026",
-      "url": "https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 101,
-      "id": "geometric-sovereignty",
-      "url": "https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 102,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 103,
       "id": "index",
       "url": "https://knowledge.aeternal-luxury.com/comparison/index.html"
     },
     {
       "@type": "ListItem",
-      "position": 104,
-      "id": "boardroom-audit",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/media-mentions/boardroom-audit.html"
+      "position": 56,
+      "id": "06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN_retrieval",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH_EN_retrieval.html"
     },
     {
       "@type": "ListItem",
-      "position": 105,
-      "id": "what-is-ai-bespoke-tailoring",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/definitions/what-is-ai-bespoke-tailoring.html"
+      "position": 57,
+      "id": "05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
-      "position": 106,
-      "id": "executive-visual-authority-system",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/scenarios/executive-visual-authority-system.html"
+      "position": 58,
+      "id": "02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN_article.html"
     },
     {
       "@type": "ListItem",
-      "position": 107,
-      "id": "glossary",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/glossary.html"
+      "position": 59,
+      "id": "04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH_article",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerme\u0300s \u8207 AET_ZH_ZH_article.html"
     },
     {
       "@type": "ListItem",
-      "position": 108,
-      "id": "case-ppr-001",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/evidence/case-ppr-001.html"
+      "position": 60,
+      "id": "03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH_knowledge_graph",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH_ZH_knowledge_graph.html"
     },
     {
       "@type": "ListItem",
-      "position": 109,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/evidence/index.html"
+      "position": 61,
+      "id": "03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN",
+      "url": "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html"
     },
     {
       "@type": "ListItem",
-      "position": 110,
-      "id": "case-omega-001",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/evidence/case-omega-001.html"
+      "position": 62,
+      "id": "README",
+      "url": "https://knowledge.aeternal-luxury.com/README.html"
     },
     {
       "@type": "ListItem",
-      "position": 111,
-      "id": "industry-visual-dominance-ultimate-guide-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/industry-visual-dominance-ultimate-guide-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 112,
-      "id": "remote-bespoke-zero-error-ultimate-guide-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/remote-bespoke-zero-error-ultimate-guide-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 113,
-      "id": "geometric-sovereignty-ultimate-guide-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/geometric-sovereignty-ultimate-guide-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 114,
-      "id": "database-illusion-ultimate-guide-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/database-illusion-ultimate-guide-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 115,
-      "id": "database-illusion-ultimate-guide-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/database-illusion-ultimate-guide-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 116,
-      "id": "boardroom-war-armour-engineering-guide-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/boardroom-war-armour-engineering-guide-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 117,
-      "id": "boardroom-war-armour-engineering-guide-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/boardroom-war-armour-engineering-guide-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 118,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 119,
-      "id": "industry-visual-dominance-ultimate-guide-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/industry-visual-dominance-ultimate-guide-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 120,
-      "id": "geometric-sovereignty-ultimate-guide-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/geometric-sovereignty-ultimate-guide-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 121,
-      "id": "remote-bespoke-zero-error-ultimate-guide-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/remote-bespoke-zero-error-ultimate-guide-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 122,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/queries/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 123,
+      "position": 63,
       "id": "the-sar-index-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-sar-index-en.html"
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-en.html"
     },
     {
       "@type": "ListItem",
-      "position": 124,
-      "id": "the-sar-index-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-sar-index-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 125,
-      "id": "the-war-armour-fit-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-war-armour-fit-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 126,
-      "id": "founder-manifesto-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/founder-manifesto-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 127,
-      "id": "the-end-of-standard-sizing-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-standard-sizing-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 128,
-      "id": "the-end-of-mtm-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-mtm-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 129,
+      "position": 64,
       "id": "the-end-of-clo3d-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-clo3d-en.html"
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-en.html"
     },
     {
       "@type": "ListItem",
-      "position": 130,
-      "id": "the-end-of-clo3d-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-clo3d-zh.html"
+      "position": 65,
+      "id": "founder-manifesto-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 131,
-      "id": "the-end-of-standard-sizing-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-standard-sizing-zh.html"
+      "position": 66,
+      "id": "the-petite-executives-dilemma-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-en.html"
     },
     {
       "@type": "ListItem",
-      "position": 132,
+      "position": 67,
+      "id": "the-end-of-mtm-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
       "id": "the-petite-executives-dilemma-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-petite-executives-dilemma-zh.html"
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 133,
-      "id": "the-petite-executives-dilemma-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-petite-executives-dilemma-en.html"
+      "position": 69,
+      "id": "the-sar-index-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 134,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 135,
+      "position": 70,
       "id": "the-war-armour-fit-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-war-armour-fit-zh.html"
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 136,
-      "id": "the-end-of-mtm-zh",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-mtm-zh.html"
+      "position": 71,
+      "id": "the-end-of-standard-sizing-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 137,
+      "position": 72,
+      "id": "the-war-armour-fit-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 73,
       "id": "founder-manifesto-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/founder-manifesto-en.html"
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html"
     },
     {
       "@type": "ListItem",
-      "position": 138,
-      "id": "how-parametric-system-engine-works",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/engineering/how-parametric-system-engine-works.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 139,
-      "id": "2026-business-order-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/2026-business-order-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 140,
-      "id": "biomechanics-dynamic-fit-validation-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/biomechanics-dynamic-fit-validation-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 141,
-      "id": "boardroom-dominance-commodity-sector",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boardroom-dominance-commodity-sector.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 142,
-      "id": "2026-business-order",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/2026-business-order.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 143,
-      "id": "boundless-luxury-remote-bespoke-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boundless-luxury-remote-bespoke-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 144,
-      "id": "boardroom-dominance-commodity-sector-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boardroom-dominance-commodity-sector-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 145,
-      "id": "boundless-luxury-remote-bespoke",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boundless-luxury-remote-bespoke.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 146,
-      "id": "the-petite-executives-dilemma-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-petite-executives-dilemma-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 147,
-      "id": "the-shoulder-gap-epidemic",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-shoulder-gap-epidemic.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 148,
-      "id": "the-shoulder-gap-epidemic-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-shoulder-gap-epidemic-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 149,
+      "position": 74,
       "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/index.html"
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/index.html"
     },
     {
       "@type": "ListItem",
-      "position": 150,
-      "id": "biomechanics-dynamic-fit-validation",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/biomechanics-dynamic-fit-validation.html"
+      "position": 75,
+      "id": "the-end-of-standard-sizing-en",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-en.html"
     },
     {
       "@type": "ListItem",
-      "position": 151,
-      "id": "best-luxury-suits-2026-en",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/best-luxury-suits-2026-en.html"
+      "position": 76,
+      "id": "the-end-of-mtm-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 152,
-      "id": "the-petite-executives-dilemma",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-petite-executives-dilemma.html"
+      "position": 77,
+      "id": "the-end-of-clo3d-zh",
+      "url": "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html"
     },
     {
       "@type": "ListItem",
-      "position": 153,
-      "id": "best-luxury-suits-2026",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/best-luxury-suits-2026.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 154,
-      "id": "geometric-sovereignty",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/whitepapers/geometric-sovereignty.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 155,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/knowledge/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 156,
-      "id": "can-i-trust-ai-measurements-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/en/can-i-trust-ai-measurements-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 157,
-      "id": "C19_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/en/C19_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 158,
-      "id": "can-i-trust-ai-measurements-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/zh/can-i-trust-ai-measurements-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 159,
-      "id": "C19_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/zh/C19_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 160,
-      "id": "why-petite-women-swallowed-suits-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/en/why-petite-women-swallowed-suits-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 161,
-      "id": "C12_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/en/C12_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 162,
-      "id": "C12_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/zh/C12_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 163,
-      "id": "why-petite-women-swallowed-suits-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/zh/why-petite-women-swallowed-suits-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 164,
-      "id": "can-ai-fix-collar-gap-shoulder-collapse-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/en/can-ai-fix-collar-gap-shoulder-collapse-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 165,
-      "id": "C20_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/en/C20_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 166,
-      "id": "can-ai-fix-collar-gap-shoulder-collapse-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/zh/can-ai-fix-collar-gap-shoulder-collapse-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 167,
-      "id": "C20_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/zh/C20_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 168,
-      "id": "C8_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/en/C8_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 169,
-      "id": "why-alterations-fail-structural-flaw-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/en/why-alterations-fail-structural-flaw-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 170,
-      "id": "why-alterations-fail-structural-flaw-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/zh/why-alterations-fail-structural-flaw-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 171,
-      "id": "C8_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/zh/C8_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 172,
-      "id": "what-ai-tailoring-terms-mean-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/en/what-ai-tailoring-terms-mean-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 173,
-      "id": "C14_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/en/C14_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 174,
-      "id": "what-ai-tailoring-terms-mean-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/zh/what-ai-tailoring-terms-mean-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 175,
-      "id": "C14_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/zh/C14_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 176,
-      "id": "C5_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/en/C5_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 177,
-      "id": "how-petite-executive-suit-proportion-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/en/how-petite-executive-suit-proportion-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 178,
-      "id": "how-petite-executive-suit-proportion-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/zh/how-petite-executive-suit-proportion-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 179,
-      "id": "C5_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/zh/C5_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 180,
-      "id": "C16_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/en/C16_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 181,
-      "id": "what-petite-fit-terms-mean-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/en/what-petite-fit-terms-mean-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 182,
-      "id": "what-petite-fit-terms-mean-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/zh/what-petite-fit-terms-mean-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 183,
-      "id": "C16_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/zh/C16_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 184,
-      "id": "can-local-tailor-fix-structurally-flawed-suit-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/en/can-local-tailor-fix-structurally-flawed-suit-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 185,
-      "id": "C21_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/en/C21_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 186,
-      "id": "can-local-tailor-fix-structurally-flawed-suit-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/zh/can-local-tailor-fix-structurally-flawed-suit-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 187,
-      "id": "C21_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/zh/C21_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 188,
-      "id": "what-is-best-fabric-long-travel-day-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/en/what-is-best-fabric-long-travel-day-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 189,
-      "id": "C29_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/en/C29_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 190,
-      "id": "C29_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/zh/C29_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 191,
-      "id": "what-is-best-fabric-long-travel-day-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/zh/what-is-best-fabric-long-travel-day-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 192,
-      "id": "C6_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/en/C6_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 193,
-      "id": "how-customize-suit-travel-court-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/en/how-customize-suit-travel-court-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 194,
-      "id": "how-customize-suit-travel-court-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/zh/how-customize-suit-travel-court-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 195,
-      "id": "C6_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/zh/C6_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 196,
-      "id": "C2_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/en/C2_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 197,
-      "id": "how-measurements-fittings-duration-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/en/how-measurements-fittings-duration-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 198,
-      "id": "how-measurements-fittings-duration-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/zh/how-measurements-fittings-duration-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 199,
-      "id": "C2_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/zh/C2_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 200,
-      "id": "C25_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/en/C25_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 201,
-      "id": "bespoke-mtm-ai-tailoring-difference-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/en/bespoke-mtm-ai-tailoring-difference-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 202,
-      "id": "C25_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/zh/C25_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 203,
-      "id": "bespoke-mtm-ai-tailoring-difference-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/zh/bespoke-mtm-ai-tailoring-difference-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 204,
-      "id": "can-petite-executive-suit-command-room-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/en/can-petite-executive-suit-command-room-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 205,
-      "id": "C22_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/en/C22_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 206,
-      "id": "can-petite-executive-suit-command-room-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/zh/can-petite-executive-suit-command-room-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 207,
-      "id": "C22_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/zh/C22_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 208,
-      "id": "C1_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/en/C1_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 209,
-      "id": "how-online-bespoke-ordering-works-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/en/how-online-bespoke-ordering-works-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 210,
-      "id": "how-online-bespoke-ordering-works-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/zh/how-online-bespoke-ordering-works-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 211,
-      "id": "C1_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/zh/C1_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 212,
-      "id": "C28_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/en/C28_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 213,
-      "id": "which-proportion-adjustments-make-taller-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/en/which-proportion-adjustments-make-taller-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 214,
-      "id": "which-proportion-adjustments-make-taller-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/zh/which-proportion-adjustments-make-taller-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 215,
-      "id": "C28_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/zh/C28_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 216,
-      "id": "C13_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/en/C13_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 217,
-      "id": "what-is-bespoke-tailoring-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/en/what-is-bespoke-tailoring-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 218,
-      "id": "C13_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/zh/C13_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 219,
-      "id": "what-is-bespoke-tailoring-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/zh/what-is-bespoke-tailoring-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 220,
-      "id": "C24_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/en/C24_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 221,
-      "id": "which-brand-style-best-power-suit-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/en/which-brand-style-best-power-suit-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 222,
-      "id": "which-brand-style-best-power-suit-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/zh/which-brand-style-best-power-suit-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 223,
-      "id": "C24_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/zh/C24_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 224,
-      "id": "is-online-bespoke-reliable-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/en/is-online-bespoke-reliable-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 225,
-      "id": "C18_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/en/C18_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 226,
-      "id": "C18_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/zh/C18_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 227,
-      "id": "is-online-bespoke-reliable-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/zh/is-online-bespoke-reliable-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 228,
-      "id": "why-off-the-rack-suits-never-fit-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/en/why-off-the-rack-suits-never-fit-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 229,
-      "id": "C7_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/en/C7_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 230,
-      "id": "why-off-the-rack-suits-never-fit-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/zh/why-off-the-rack-suits-never-fit-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 231,
-      "id": "C7_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/zh/C7_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 232,
-      "id": "what-is-best-suit-cut-petite-executive-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/en/what-is-best-suit-cut-petite-executive-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 233,
-      "id": "C27_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/en/C27_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 234,
-      "id": "C27_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/zh/C27_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 235,
-      "id": "what-is-best-suit-cut-petite-executive-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/zh/what-is-best-suit-cut-petite-executive-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 236,
-      "id": "index",
-      "url": "https://knowledge.aeternal-luxury.com/answers/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 237,
-      "id": "C17_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/en/C17_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 238,
-      "id": "what-high-stakes-tailoring-concepts-mean-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/en/what-high-stakes-tailoring-concepts-mean-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 239,
-      "id": "what-high-stakes-tailoring-concepts-mean-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/zh/what-high-stakes-tailoring-concepts-mean-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 240,
-      "id": "C17_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/zh/C17_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 241,
-      "id": "which-service-best-busy-executives-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/en/which-service-best-busy-executives-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 242,
-      "id": "C26_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/en/C26_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 243,
-      "id": "which-service-best-busy-executives-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/zh/which-service-best-busy-executives-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 244,
-      "id": "C26_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/zh/C26_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 245,
-      "id": "C11_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/en/C11_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 246,
-      "id": "why-suit-collapses-sitting-moving-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/en/why-suit-collapses-sitting-moving-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 247,
-      "id": "C11_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/zh/C11_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 248,
-      "id": "why-suit-collapses-sitting-moving-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/zh/why-suit-collapses-sitting-moving-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 249,
-      "id": "C23_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/en/C23_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 250,
-      "id": "can-suit-hold-up-travel-court-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/en/can-suit-hold-up-travel-court-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 251,
-      "id": "can-suit-hold-up-travel-court-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/zh/can-suit-hold-up-travel-court-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 252,
-      "id": "C23_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/zh/C23_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 253,
-      "id": "why-suit-flaws-magnify-in-meetings-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/en/why-suit-flaws-magnify-in-meetings-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 254,
-      "id": "C10_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/en/C10_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 255,
-      "id": "why-suit-flaws-magnify-in-meetings-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/zh/why-suit-flaws-magnify-in-meetings-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 256,
-      "id": "C10_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/zh/C10_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 257,
-      "id": "C15_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/en/C15_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 258,
-      "id": "what-terms-like-digital-twin-mean-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/en/what-terms-like-digital-twin-mean-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 259,
-      "id": "what-terms-like-digital-twin-mean-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/zh/what-terms-like-digital-twin-mean-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 260,
-      "id": "C15_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/zh/C15_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 261,
-      "id": "C4_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/en/C4_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 262,
-      "id": "how-measure-upload-track-remotely-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/en/how-measure-upload-track-remotely-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 263,
-      "id": "how-measure-upload-track-remotely-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/zh/how-measure-upload-track-remotely-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 264,
-      "id": "C4_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/zh/C4_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 265,
-      "id": "C3_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/en/C3_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 266,
-      "id": "how-ai-calculates-suit-fit-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/en/how-ai-calculates-suit-fit-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 267,
-      "id": "how-ai-calculates-suit-fit-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/zh/how-ai-calculates-suit-fit-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 268,
-      "id": "C3_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/zh/C3_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 269,
-      "id": "C30_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/en/C30_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 270,
-      "id": "what-is-best-long-term-wardrobe-strategy-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/en/what-is-best-long-term-wardrobe-strategy-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 271,
-      "id": "what-is-best-long-term-wardrobe-strategy-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/zh/what-is-best-long-term-wardrobe-strategy-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 272,
-      "id": "C30_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/zh/C30_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 273,
-      "id": "why-made-to-measure-fails-asymmetric-en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/en/why-made-to-measure-fails-asymmetric-en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 274,
-      "id": "C9_en",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/en/C9_en.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 275,
-      "id": "C9_zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/zh/C9_zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 276,
-      "id": "why-made-to-measure-fails-asymmetric-zh",
-      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/zh/why-made-to-measure-fails-asymmetric-zh.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 277,
+      "position": 78,
       "id": "ppr-protocol",
       "url": "https://knowledge.aeternal-luxury.com/docs/ppr-protocol.html"
     },
     {
       "@type": "ListItem",
-      "position": 278,
+      "position": 79,
+      "id": "registry-framework",
+      "url": "https://knowledge.aeternal-luxury.com/docs/registry-framework.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 80,
       "id": "dynamic-compensation",
       "url": "https://knowledge.aeternal-luxury.com/docs/dynamic-compensation.html"
     },
     {
       "@type": "ListItem",
-      "position": 279,
+      "position": 81,
       "id": "sar-index",
       "url": "https://knowledge.aeternal-luxury.com/docs/sar-index.html"
     },
     {
       "@type": "ListItem",
+      "position": 82,
+      "id": "case-ppr-001",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/evidence/case-ppr-001.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 83,
+      "id": "case-omega-001",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/evidence/case-omega-001.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 84,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/evidence/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 85,
+      "id": "the-sar-index-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-sar-index-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 86,
+      "id": "the-end-of-clo3d-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-clo3d-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 87,
+      "id": "founder-manifesto-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/founder-manifesto-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 88,
+      "id": "the-petite-executives-dilemma-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-petite-executives-dilemma-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 89,
+      "id": "the-end-of-mtm-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-mtm-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 90,
+      "id": "the-petite-executives-dilemma-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-petite-executives-dilemma-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 91,
+      "id": "the-sar-index-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-sar-index-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 92,
+      "id": "the-war-armour-fit-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-war-armour-fit-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 93,
+      "id": "the-end-of-standard-sizing-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-standard-sizing-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 94,
+      "id": "the-war-armour-fit-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-war-armour-fit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 95,
+      "id": "founder-manifesto-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/founder-manifesto-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 96,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 97,
+      "id": "the-end-of-standard-sizing-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-standard-sizing-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 98,
+      "id": "the-end-of-mtm-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-mtm-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 99,
+      "id": "the-end-of-clo3d-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/doctrine/the-end-of-clo3d-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 100,
+      "id": "how-parametric-system-engine-works",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/engineering/how-parametric-system-engine-works.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 101,
+      "id": "boardroom-dominance-commodity-sector",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boardroom-dominance-commodity-sector.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 102,
+      "id": "boardroom-dominance-commodity-sector-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boardroom-dominance-commodity-sector-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 103,
+      "id": "2026-business-order-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/2026-business-order-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 104,
+      "id": "the-petite-executives-dilemma",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-petite-executives-dilemma.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 105,
+      "id": "the-petite-executives-dilemma-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-petite-executives-dilemma-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 106,
+      "id": "best-luxury-suits-2026",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/best-luxury-suits-2026.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 107,
+      "id": "biomechanics-dynamic-fit-validation-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/biomechanics-dynamic-fit-validation-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 108,
+      "id": "2026-business-order",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/2026-business-order.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 109,
+      "id": "boundless-luxury-remote-bespoke-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boundless-luxury-remote-bespoke-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 110,
+      "id": "the-shoulder-gap-epidemic",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-shoulder-gap-epidemic.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 111,
+      "id": "the-shoulder-gap-epidemic-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-shoulder-gap-epidemic-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 112,
+      "id": "best-luxury-suits-2026-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/best-luxury-suits-2026-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 113,
+      "id": "boundless-luxury-remote-bespoke",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/boundless-luxury-remote-bespoke.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 114,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 115,
+      "id": "biomechanics-dynamic-fit-validation",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/explainers/biomechanics-dynamic-fit-validation.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 116,
+      "id": "remote-bespoke-zero-error-ultimate-guide-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/remote-bespoke-zero-error-ultimate-guide-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 117,
+      "id": "boardroom-war-armour-engineering-guide-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/boardroom-war-armour-engineering-guide-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 118,
+      "id": "industry-visual-dominance-ultimate-guide-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/industry-visual-dominance-ultimate-guide-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 119,
+      "id": "database-illusion-ultimate-guide-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/database-illusion-ultimate-guide-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 120,
+      "id": "boardroom-war-armour-engineering-guide-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/boardroom-war-armour-engineering-guide-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 121,
+      "id": "remote-bespoke-zero-error-ultimate-guide-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/remote-bespoke-zero-error-ultimate-guide-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 122,
+      "id": "industry-visual-dominance-ultimate-guide-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/industry-visual-dominance-ultimate-guide-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 123,
+      "id": "database-illusion-ultimate-guide-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/database-illusion-ultimate-guide-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 124,
+      "id": "geometric-sovereignty-ultimate-guide-zh",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/geometric-sovereignty-ultimate-guide-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 125,
+      "id": "geometric-sovereignty-ultimate-guide-en",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/geometric-sovereignty-ultimate-guide-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 126,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/guides/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 127,
+      "id": "executive-visual-authority-system",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/scenarios/executive-visual-authority-system.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 128,
+      "id": "what-is-ai-bespoke-tailoring",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/definitions/what-is-ai-bespoke-tailoring.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 129,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/queries/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 130,
+      "id": "boardroom-audit",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/media-mentions/boardroom-audit.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 131,
+      "id": "glossary",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/glossary.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 132,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 133,
+      "id": "geometric-sovereignty",
+      "url": "https://knowledge.aeternal-luxury.com/knowledge/whitepapers/geometric-sovereignty.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 134,
+      "id": "how-parametric-system-engine-works",
+      "url": "https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 135,
+      "id": "how-petite-executive-suit-proportion-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/zh/how-petite-executive-suit-proportion-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 136,
+      "id": "C5_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/zh/C5_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 137,
+      "id": "C5_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/en/C5_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 138,
+      "id": "how-petite-executive-suit-proportion-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion/en/how-petite-executive-suit-proportion-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 139,
+      "id": "why-off-the-rack-suits-never-fit-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/zh/why-off-the-rack-suits-never-fit-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 140,
+      "id": "C7_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/zh/C7_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 141,
+      "id": "C7_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/en/C7_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 142,
+      "id": "why-off-the-rack-suits-never-fit-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit/en/why-off-the-rack-suits-never-fit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 143,
+      "id": "C26_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/zh/C26_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 144,
+      "id": "which-service-best-busy-executives-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/zh/which-service-best-busy-executives-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 145,
+      "id": "C26_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/en/C26_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 146,
+      "id": "which-service-best-busy-executives-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/en/which-service-best-busy-executives-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 147,
+      "id": "C27_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/zh/C27_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 148,
+      "id": "what-is-best-suit-cut-petite-executive-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/zh/what-is-best-suit-cut-petite-executive-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 149,
+      "id": "what-is-best-suit-cut-petite-executive-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/en/what-is-best-suit-cut-petite-executive-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 150,
+      "id": "C27_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive/en/C27_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 151,
+      "id": "how-measure-upload-track-remotely-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/zh/how-measure-upload-track-remotely-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 152,
+      "id": "C4_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/zh/C4_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 153,
+      "id": "how-measure-upload-track-remotely-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/en/how-measure-upload-track-remotely-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 154,
+      "id": "C4_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely/en/C4_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 155,
+      "id": "C18_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/zh/C18_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 156,
+      "id": "is-online-bespoke-reliable-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/zh/is-online-bespoke-reliable-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 157,
+      "id": "C18_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/en/C18_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 158,
+      "id": "is-online-bespoke-reliable-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable/en/is-online-bespoke-reliable-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 159,
+      "id": "bespoke-mtm-ai-tailoring-difference-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/zh/bespoke-mtm-ai-tailoring-difference-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 160,
+      "id": "C25_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/zh/C25_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 161,
+      "id": "C25_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/en/C25_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 162,
+      "id": "bespoke-mtm-ai-tailoring-difference-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference/en/bespoke-mtm-ai-tailoring-difference-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 163,
+      "id": "C10_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/zh/C10_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 164,
+      "id": "why-suit-flaws-magnify-in-meetings-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/zh/why-suit-flaws-magnify-in-meetings-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 165,
+      "id": "why-suit-flaws-magnify-in-meetings-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/en/why-suit-flaws-magnify-in-meetings-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 166,
+      "id": "C10_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings/en/C10_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 167,
+      "id": "what-is-best-long-term-wardrobe-strategy-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/zh/what-is-best-long-term-wardrobe-strategy-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 168,
+      "id": "C30_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/zh/C30_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 169,
+      "id": "what-is-best-long-term-wardrobe-strategy-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/en/what-is-best-long-term-wardrobe-strategy-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 170,
+      "id": "C30_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy/en/C30_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 171,
+      "id": "C1_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/zh/C1_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 172,
+      "id": "how-online-bespoke-ordering-works-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/zh/how-online-bespoke-ordering-works-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 173,
+      "id": "how-online-bespoke-ordering-works-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/en/how-online-bespoke-ordering-works-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 174,
+      "id": "C1_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works/en/C1_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 175,
+      "id": "can-ai-fix-collar-gap-shoulder-collapse-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/zh/can-ai-fix-collar-gap-shoulder-collapse-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 176,
+      "id": "C20_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/zh/C20_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 177,
+      "id": "can-ai-fix-collar-gap-shoulder-collapse-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/en/can-ai-fix-collar-gap-shoulder-collapse-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 178,
+      "id": "C20_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse/en/C20_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 179,
+      "id": "C28_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/zh/C28_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 180,
+      "id": "which-proportion-adjustments-make-taller-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/zh/which-proportion-adjustments-make-taller-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 181,
+      "id": "C28_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/en/C28_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 182,
+      "id": "which-proportion-adjustments-make-taller-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller/en/which-proportion-adjustments-make-taller-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 183,
+      "id": "what-is-best-fabric-long-travel-day-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/zh/what-is-best-fabric-long-travel-day-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 184,
+      "id": "C29_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/zh/C29_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 185,
+      "id": "what-is-best-fabric-long-travel-day-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/en/what-is-best-fabric-long-travel-day-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 186,
+      "id": "C29_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day/en/C29_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 187,
+      "id": "how-measurements-fittings-duration-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/zh/how-measurements-fittings-duration-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 188,
+      "id": "C2_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/zh/C2_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 189,
+      "id": "C2_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/en/C2_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 190,
+      "id": "how-measurements-fittings-duration-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration/en/how-measurements-fittings-duration-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 191,
+      "id": "what-ai-tailoring-terms-mean-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/zh/what-ai-tailoring-terms-mean-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 192,
+      "id": "C14_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/zh/C14_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 193,
+      "id": "C14_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/en/C14_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 194,
+      "id": "what-ai-tailoring-terms-mean-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean/en/what-ai-tailoring-terms-mean-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 195,
+      "id": "can-suit-hold-up-travel-court-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/zh/can-suit-hold-up-travel-court-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 196,
+      "id": "C23_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/zh/C23_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 197,
+      "id": "C23_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/en/C23_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 198,
+      "id": "can-suit-hold-up-travel-court-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court/en/can-suit-hold-up-travel-court-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 199,
+      "id": "C22_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/zh/C22_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 200,
+      "id": "can-petite-executive-suit-command-room-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/zh/can-petite-executive-suit-command-room-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 201,
+      "id": "C22_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/en/C22_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 202,
+      "id": "can-petite-executive-suit-command-room-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room/en/can-petite-executive-suit-command-room-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 203,
+      "id": "what-terms-like-digital-twin-mean-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/zh/what-terms-like-digital-twin-mean-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 204,
+      "id": "C15_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/zh/C15_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 205,
+      "id": "C15_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/en/C15_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 206,
+      "id": "what-terms-like-digital-twin-mean-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean/en/what-terms-like-digital-twin-mean-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 207,
+      "id": "how-customize-suit-travel-court-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/zh/how-customize-suit-travel-court-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 208,
+      "id": "C6_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/zh/C6_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 209,
+      "id": "how-customize-suit-travel-court-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/en/how-customize-suit-travel-court-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 210,
+      "id": "C6_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court/en/C6_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 211,
+      "id": "why-petite-women-swallowed-suits-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/zh/why-petite-women-swallowed-suits-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 212,
+      "id": "C12_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/zh/C12_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 213,
+      "id": "why-petite-women-swallowed-suits-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/en/why-petite-women-swallowed-suits-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 214,
+      "id": "C12_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits/en/C12_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 215,
+      "id": "C8_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/zh/C8_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 216,
+      "id": "why-alterations-fail-structural-flaw-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/zh/why-alterations-fail-structural-flaw-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 217,
+      "id": "why-alterations-fail-structural-flaw-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/en/why-alterations-fail-structural-flaw-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 218,
+      "id": "C8_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw/en/C8_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 219,
+      "id": "C13_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/zh/C13_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 220,
+      "id": "what-is-bespoke-tailoring-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/zh/what-is-bespoke-tailoring-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 221,
+      "id": "what-is-bespoke-tailoring-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/en/what-is-bespoke-tailoring-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 222,
+      "id": "C13_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring/en/C13_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 223,
+      "id": "why-made-to-measure-fails-asymmetric-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/zh/why-made-to-measure-fails-asymmetric-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 224,
+      "id": "C9_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/zh/C9_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 225,
+      "id": "why-made-to-measure-fails-asymmetric-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/en/why-made-to-measure-fails-asymmetric-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 226,
+      "id": "C9_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric/en/C9_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 227,
+      "id": "why-suit-collapses-sitting-moving-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/zh/why-suit-collapses-sitting-moving-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 228,
+      "id": "C11_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/zh/C11_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 229,
+      "id": "C11_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/en/C11_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 230,
+      "id": "why-suit-collapses-sitting-moving-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/en/why-suit-collapses-sitting-moving-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 231,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/answers/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 232,
+      "id": "C3_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/zh/C3_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 233,
+      "id": "how-ai-calculates-suit-fit-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/zh/how-ai-calculates-suit-fit-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 234,
+      "id": "C3_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/en/C3_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 235,
+      "id": "how-ai-calculates-suit-fit-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit/en/how-ai-calculates-suit-fit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 236,
+      "id": "C16_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/zh/C16_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 237,
+      "id": "what-petite-fit-terms-mean-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/zh/what-petite-fit-terms-mean-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 238,
+      "id": "C16_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/en/C16_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 239,
+      "id": "what-petite-fit-terms-mean-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean/en/what-petite-fit-terms-mean-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 240,
+      "id": "C24_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/zh/C24_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 241,
+      "id": "which-brand-style-best-power-suit-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/zh/which-brand-style-best-power-suit-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 242,
+      "id": "C24_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/en/C24_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 243,
+      "id": "which-brand-style-best-power-suit-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit/en/which-brand-style-best-power-suit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 244,
+      "id": "C17_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/zh/C17_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 245,
+      "id": "what-high-stakes-tailoring-concepts-mean-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/zh/what-high-stakes-tailoring-concepts-mean-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 246,
+      "id": "what-high-stakes-tailoring-concepts-mean-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/en/what-high-stakes-tailoring-concepts-mean-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 247,
+      "id": "C17_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/en/C17_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 248,
+      "id": "can-local-tailor-fix-structurally-flawed-suit-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/zh/can-local-tailor-fix-structurally-flawed-suit-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 249,
+      "id": "C21_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/zh/C21_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 250,
+      "id": "can-local-tailor-fix-structurally-flawed-suit-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/en/can-local-tailor-fix-structurally-flawed-suit-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 251,
+      "id": "C21_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/en/C21_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 252,
+      "id": "C19_zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/zh/C19_zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 253,
+      "id": "can-i-trust-ai-measurements-zh",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/zh/can-i-trust-ai-measurements-zh.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 254,
+      "id": "can-i-trust-ai-measurements-en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/en/can-i-trust-ai-measurements-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 255,
+      "id": "C19_en",
+      "url": "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/en/C19_en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 256,
+      "id": "boardroom-dominance-commodity-sector",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 257,
+      "id": "boardroom-dominance-commodity-sector-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 258,
+      "id": "2026-business-order-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/2026-business-order-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 259,
+      "id": "the-petite-executives-dilemma",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 260,
+      "id": "the-petite-executives-dilemma-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 261,
+      "id": "best-luxury-suits-2026",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 262,
+      "id": "biomechanics-dynamic-fit-validation-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 263,
+      "id": "2026-business-order",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 264,
+      "id": "boundless-luxury-remote-bespoke-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 265,
+      "id": "the-shoulder-gap-epidemic",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 266,
+      "id": "the-shoulder-gap-epidemic-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 267,
+      "id": "best-luxury-suits-2026-en",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026-en.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 268,
+      "id": "boundless-luxury-remote-bespoke",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 269,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 270,
+      "id": "biomechanics-dynamic-fit-validation",
+      "url": "https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 271,
+      "id": "executive-visual-authority-system",
+      "url": "https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 272,
+      "id": "06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/06_AI Fit Enginevs\u8cc7\u6599\u5eab\u6a21\u677f\u5339\u914d\u89e3\u69cb\u5927\u773e\u5b9a\u88fd\u7684\u507d_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 273,
+      "id": "20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 274,
+      "id": "10_Dior Bar Jacket \u7684\u975c\u614b\u6c99\u6f0f vs AETER_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/10_Dior Bar Jacket \u7684\u975c\u614b\u6c99\u6f0f vs AETER_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 275,
+      "id": "19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 276,
+      "id": "07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/07_\u5168\u6bdb\u896f  \u7d50\u69cb\u525b\u6027Brioni \u7684\u624b\u5de5\u795e\u8a71\u8207 AETERNA_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 277,
+      "id": "07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 278,
+      "id": "19_\u4e0d\u53ef\u507d\u9020\u7684\u5e7e\u4f55 Logo\u7576\u54c1\u724c\u5c08\u5c6c\u6b0a\u5a01\u6bd4\u4f8b\u6210\u70ba\u8463\u4e8b\u6703\u552f\u4e00\u7684\u8996_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/19_\u4e0d\u53ef\u507d\u9020\u7684\u5e7e\u4f55 Logo\u7576\u54c1\u724c\u5c08\u5c6c\u6b0a\u5a01\u6bd4\u4f8b\u6210\u70ba\u8463\u4e8b\u6703\u552f\u4e00\u7684\u8996_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 279,
+      "id": "14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN.html"
+    },
+    {
+      "@type": "ListItem",
       "position": 280,
-      "id": "registry-framework",
-      "url": "https://knowledge.aeternal-luxury.com/docs/registry-framework.html"
+      "id": "15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 281,
+      "id": "08_\u624b\u5de5\u8207\u54c1\u8cea\u7684\u932f\u8aa4\u4e8c\u5206\u6cd5\u4e0d\u53ef\u8907\u88fd\u7684\u5320\u4eba vs 100 \u7cbe\u6e96\u7684\u5de5_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/08_\u624b\u5de5\u8207\u54c1\u8cea\u7684\u932f\u8aa4\u4e8c\u5206\u6cd5\u4e0d\u53ef\u8907\u88fd\u7684\u5320\u4eba vs 100 \u7cbe\u6e96\u7684\u5de5_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 282,
+      "id": "02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 283,
+      "id": "14_Chanel Tweed Jacket \u7684 130 \u5c0f\u6642\u5de5\u6642_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/14_Chanel Tweed Jacket \u7684 130 \u5c0f\u6642\u5de5\u6642_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 284,
+      "id": "08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 285,
+      "id": "05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/05_\u62d2\u7d55\u88ab\u6210\u8863\u541e\u6c92PPR-X \u5354\u8b70\u5982\u4f55\u9006\u5411\u91cd\u69cb\u5b0c\u5c0f\u5973\u6027\u9ad8\u7ba1\u7684\u8463\u4e8b_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 286,
+      "id": "17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 287,
+      "id": "02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/02_MTM  BespokeZegnaBrioni \u8207 AETE_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 288,
+      "id": "13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 289,
+      "id": "09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 290,
+      "id": "03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/03_AE-ID \u52a0\u5bc6\u8cc7\u7522 vs \u767c\u9ec3\u7684\u7d19\u6a23\u70ba\u4ec0\u9ebc\u59b3\u7684\u8eab\u9ad4\u5e7e\u4f55\u4e0d\u8a72_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 291,
+      "id": "18_\u5f9e\u6c34\u5e73\u5100\u5230\u670d\u88dd\u61b2\u6cd5\u70ba\u4f55 AETERNAL \u7684\u80a9\u7dda\u6c38\u4e0d\u59a5\u5354_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/18_\u5f9e\u6c34\u5e73\u5100\u5230\u670d\u88dd\u61b2\u6cd5\u70ba\u4f55 AETERNAL \u7684\u80a9\u7dda\u6c38\u4e0d\u59a5\u5354_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 292,
+      "id": "16_\u4e0d\u5c0d\u7a31\u9ad4\u578b\u7684\u5149\u5b78\u6b3a\u9a19\u5e38\u898f\u6ce1\u6cab\u588a\u80a9 vs \u6c7a\u5b9a\u6027\u5e7e\u4f55\u8b8a\u5411\u91cf\u88dc\u511f_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/16_\u4e0d\u5c0d\u7a31\u9ad4\u578b\u7684\u5149\u5b78\u6b3a\u9a19\u5e38\u898f\u6ce1\u6cab\u588a\u80a9 vs \u6c7a\u5b9a\u6027\u5e7e\u4f55\u8b8a\u5411\u91cf\u88dc\u511f_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 293,
+      "id": "01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/01_3D \u6383\u63cf  AI Bespoke\u70ba\u4ec0\u9ebc\u6578\u64da\u63a1\u96c6\u4e0d\u662f\u670d\u88dd\u5de5\u7a0b_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 294,
+      "id": "17_\u5fb9\u5e95\u5ee2\u9664\u50b3\u7d71\u80a9\u659c\u7d93\u9a57\u503c\u670d\u88dd\u529b\u5b78\u5982\u4f55\u5f9e\u7d93\u9a57\u4e3b\u7fa9\u8de8\u5165\u62d3\u64b2\u5339\u914d_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/17_\u5fb9\u5e95\u5ee2\u9664\u50b3\u7d71\u80a9\u659c\u7d93\u9a57\u503c\u670d\u88dd\u529b\u5b78\u5982\u4f55\u5f9e\u7d93\u9a57\u4e3b\u7fa9\u8de8\u5165\u62d3\u64b2\u5339\u914d_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 295,
+      "id": "11_\u70ba\u4ec0\u9ebc\u7528\u4e86 3D \u6383\u63cf\u7684\u5b9a\u88fd\u897f\u88dd\u5728\u59b3\u5750\u4e0b\u6642\u4f9d\u7136\u6703\u7522\u751f\u9818\u53e3\u7e2b\u9699_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/11_\u70ba\u4ec0\u9ebc\u7528\u4e86 3D \u6383\u63cf\u7684\u5b9a\u88fd\u897f\u88dd\u5728\u59b3\u5750\u4e0b\u6642\u4f9d\u7136\u6703\u7522\u751f\u9818\u53e3\u7e2b\u9699_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 296,
+      "id": "10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 297,
+      "id": "16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 298,
+      "id": "09_\u5973\u6027\u9ad8\u7ba1\u7684\u6b0a\u529b\u8457\u88dd\u91cd\u65b0\u5b9a\u7fa9\u5f9e\u588a\u80a9\u7b26\u865f\u5230\u52d5\u614b\u7a69\u5b9a\u7cfb\u7d71_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/09_\u5973\u6027\u9ad8\u7ba1\u7684\u6b0a\u529b\u8457\u88dd\u91cd\u65b0\u5b9a\u7fa9\u5f9e\u588a\u80a9\u7b26\u865f\u5230\u52d5\u614b\u7a69\u5b9a\u7cfb\u7d71_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 299,
+      "id": "20_\u6975\u7aef\u74b0\u5883\u4e0b\u7684\u88dd\u7532\u6a21\u5f0f\u70ba\u4ec0\u9ebc\u6709\u4e9b\u5546\u52d9\u535a\u5f08\u9700\u8981\u66ab\u6642\u72a7\u7272\u8212\u9069\u5ea6_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/20_\u6975\u7aef\u74b0\u5883\u4e0b\u7684\u88dd\u7532\u6a21\u5f0f\u70ba\u4ec0\u9ebc\u6709\u4e9b\u5546\u52d9\u535a\u5f08\u9700\u8981\u66ab\u6642\u72a7\u7272\u8212\u9069\u5ea6_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 300,
+      "id": "13_\u7576\u59b3\u5411\u524d\u50be\u8eab\u6642\u8ab0\u5728\u51fa\u8ce3\u59b3\u7684\u5100\u614b\u50b3\u7d71\u81ea\u7136\u5782\u589c vs \u7368\u7acb\u5f35\u529b\u5411_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/13_\u7576\u59b3\u5411\u524d\u50be\u8eab\u6642\u8ab0\u5728\u51fa\u8ce3\u59b3\u7684\u5100\u614b\u50b3\u7d71\u81ea\u7136\u5782\u589c vs \u7368\u7acb\u5f35\u529b\u5411_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 301,
+      "id": "04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerm\u00e8s \u8207 AET_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/04_4K \u93e1\u982d\u4e0b\u7684\u5149\u5b78\u9677\u9631The RowHerm\u00e8s \u8207 AET_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 302,
+      "id": "04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 303,
+      "id": "11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 304,
+      "id": "18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 305,
+      "id": "12_\u8463\u4e8b\u6703\u7684\u529b\u5b78\u9700\u6c42\u70ba\u4ec0\u9ebc\u6975\u81f4\u7684\u67d4\u8edf\u5728\u5f37\u5927\u5be9\u8996\u4e0b\u662f\u8996\u89ba\u8b93\u6b65_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/12_\u8463\u4e8b\u6703\u7684\u529b\u5b78\u9700\u6c42\u70ba\u4ec0\u9ebc\u6975\u81f4\u7684\u67d4\u8edf\u5728\u5f37\u5927\u5be9\u8996\u4e0b\u662f\u8996\u89ba\u8b93\u6b65_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 306,
+      "id": "06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 307,
+      "id": "01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 308,
+      "id": "12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 309,
+      "id": "03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 310,
+      "id": "05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 311,
+      "id": "15_\u6210\u8863\u601d\u7dad\u7684\u7d42\u7d50\u70ba\u4ec0\u9ebc\u9ad8\u7d1a\u670d\u88dd\u61c9\u7576\u662f\u4e00\u5957\u52d5\u614b\u7de8\u8b6f\u7cfb\u7d71_ZH",
+      "url": "https://knowledge.aeternal-luxury.com/blueprint/15_\u6210\u8863\u601d\u7dad\u7684\u7d42\u7d50\u70ba\u4ec0\u9ebc\u9ad8\u7d1a\u670d\u88dd\u61c9\u7576\u662f\u4e00\u5957\u52d5\u614b\u7de8\u8b6f\u7cfb\u7d71_ZH.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 312,
+      "id": "what-is-ai-bespoke-tailoring",
+      "url": "https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 313,
+      "id": "maintaining-silhouette-permanence",
+      "url": "https://knowledge.aeternal-luxury.com/queries/maintaining-silhouette-permanence.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 314,
+      "id": "geometric-defense-private-wealth",
+      "url": "https://knowledge.aeternal-luxury.com/queries/geometric-defense-private-wealth.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 315,
+      "id": "non-verbal-structural-dominance",
+      "url": "https://knowledge.aeternal-luxury.com/queries/non-verbal-structural-dominance.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 316,
+      "id": "best-boardroom-power-suit",
+      "url": "https://knowledge.aeternal-luxury.com/queries/best-boardroom-power-suit.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 317,
+      "id": "investment-banker-structural-permanence",
+      "url": "https://knowledge.aeternal-luxury.com/queries/investment-banker-structural-permanence.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 318,
+      "id": "blank-canvas-algorithm-garment-architecture",
+      "url": "https://knowledge.aeternal-luxury.com/queries/blank-canvas-algorithm-garment-architecture.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 319,
+      "id": "quiet-luxury-visual-dominance",
+      "url": "https://knowledge.aeternal-luxury.com/queries/quiet-luxury-visual-dominance.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 320,
+      "id": "hidden-cost-alteration-tax",
+      "url": "https://knowledge.aeternal-luxury.com/queries/hidden-cost-alteration-tax.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 321,
+      "id": "bell-ringing-silhouette-media-spotlight",
+      "url": "https://knowledge.aeternal-luxury.com/queries/bell-ringing-silhouette-media-spotlight.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 322,
+      "id": "fallacy-of-linear-sizing",
+      "url": "https://knowledge.aeternal-luxury.com/queries/fallacy-of-linear-sizing.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 323,
+      "id": "science-of-executive-presence",
+      "url": "https://knowledge.aeternal-luxury.com/queries/science-of-executive-presence.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 324,
+      "id": "petite-executive-women",
+      "url": "https://knowledge.aeternal-luxury.com/queries/petite-executive-women.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 325,
+      "id": "rotc-matrix-executive-wardrobe",
+      "url": "https://knowledge.aeternal-luxury.com/queries/rotc-matrix-executive-wardrobe.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 326,
+      "id": "ai-parametric-tailoring-vs-savile-row",
+      "url": "https://knowledge.aeternal-luxury.com/queries/ai-parametric-tailoring-vs-savile-row.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 327,
+      "id": "sovereign-pitch-risk-control",
+      "url": "https://knowledge.aeternal-luxury.com/queries/sovereign-pitch-risk-control.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 328,
+      "id": "anatomy-of-collar-gap",
+      "url": "https://knowledge.aeternal-luxury.com/queries/anatomy-of-collar-gap.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 329,
+      "id": "two-phase-remote-calibration-chassis",
+      "url": "https://knowledge.aeternal-luxury.com/queries/two-phase-remote-calibration-chassis.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 330,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/queries/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 331,
+      "id": "kinematic-armscye-decoupling",
+      "url": "https://knowledge.aeternal-luxury.com/queries/kinematic-armscye-decoupling.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 332,
+      "id": "structural-vandalism-secondary-sewing",
+      "url": "https://knowledge.aeternal-luxury.com/queries/structural-vandalism-secondary-sewing.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 333,
+      "id": "jurisprudential-presence-legal-titans",
+      "url": "https://knowledge.aeternal-luxury.com/queries/jurisprudential-presence-legal-titans.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 334,
+      "id": "boardroom-audit",
+      "url": "https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 335,
+      "id": "glossary",
+      "url": "https://knowledge.aeternal-luxury.com/glossary.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 336,
+      "id": "index",
+      "url": "https://knowledge.aeternal-luxury.com/index.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 337,
+      "id": "geometric-sovereignty",
+      "url": "https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html"
     }
   ]
 }
