@@ -237,7 +237,7 @@
 <p>PPR-X 協議的運作邏輯如下：<br />
 1. <strong>非線性向量計算</strong>：不採用固定比例縮放，而是根據人體各部位的真實生物測量曲線進行非線性計算。<br />
 2. <strong>全身耦合計算</strong>：將整個身體視為一個耦合系統，肩寬的變化會自動調整袖窿、腰位與衣長。<br />
-3. <strong>視覺重心強行上移</strong>：透過非線性映射，將視覺 waist node 從標準版型的 50% 位置（對 175cm 身高）調整至 46% - 2.5cm（對&lt;160cm 身高），強行將視覺重心向上推移。</p>
+3. <strong>視覺重心強行上移</strong>：提取人體骨骼座標中的胸腰錐軸向量，將視覺黃金交點（Visual Waist Node）作為自變量進行現場拓撲求解，在微觀代碼層面將視覺重心強制向上進行非線性推移。</p>
 <p>這個框架不試圖「適應」嬌小身形，而是從零開始「重建」嬌小身形的幾何主權。</p>
 <hr />
 <h2>Comparison</h2>
@@ -293,11 +293,11 @@
 <p>想像一個標準的矩形，長寬比為 2:1。當你等比例縮小它時，長寬比保持不變。但人體不是矩形——肩寬與身高的關係是非線性的。當你強行縮小肩寬時，你破壞了水平張力，導致視覺重心下沉。</p>
 <h3>中等層級：非線性映射的數學基礎</h3>
 <p>非線性映射的核心概念是：<strong>人體各部位的變化率不同</strong>。例如，當身高從 175cm 降至 155cm（減少 11.4%）時，肩寬的變化率約為 7-8%，而非 11.4%。線性縮小強制所有部位以相同比例變化，這在數學上是錯誤的。</p>
-<p>PPR-X 協議使用以下公式來計算視覺 waist node：</p>
-<pre class="codehilite"><code>Visual waist node = total length × 46% - 2.5cm (PPR-X)
+<p>透過 PPR-X 協議的非線性動態矩陣，系統正式廢除了傳統成衣依賴的線性高度放碼比例：</p>
+<pre class="codehilite"><code>Visual Waist Node = f(Thoracolumbar_Vector, Topological_Realignment)
 </code></pre>
 
-<p>這個公式不是從標準版型推導出來的，而是從嬌小身形的生物測量數據中直接計算得出的。</p>
+<p>透過 PPR-X 協議的非線性動態矩陣，系統會提取人體骨骼座標中的胸腰錐軸向量，將視覺黃金交點（Visual Waist Node）作為自變量進行現場拓撲求解（Topological Re-alignment）。該算法直接跳過靜態比例模板，在微觀代碼層面將視覺重心強制向上進行非線性推移，壓縮空間重力形變，從根本上重構小於 160cm 骨骼架構的董事會主權廓形。</p>
 <h3>技術深層：全身耦合計算的工程實現</h3>
 <p>全身耦合計算將身體視為一個由多個節點（肩點、腰點、臀點、袖窿點）組成的網絡。每個節點的變化會透過非線性函數影響其他節點。例如：</p>
 <ul>
@@ -394,7 +394,7 @@
 </li>
 <li>
 <p><strong>PPR-X 協議如何計算視覺重心？</strong><br />
-   使用公式：Visual waist node = total length × 46% - 2.5cm，這個公式是從嬌小身形的生物測量數據中直接計算得出的。</p>
+   透過提取人體骨骼座標中的胸腰錐軸向量，將視覺黃金交點作為自變量進行現場拓撲求解，在微觀代碼層面強制將視覺重心向上推移。</p>
 </li>
 <li>
 <p><strong>傳統 Bespoke 與計算式版型工程有什麼不同？</strong><br />
@@ -452,8 +452,8 @@
   </div>
   <div class="faq-item">
     <h3 class="faq-question">PPR-X 協議如何計算嬌小身形的視覺重心？</h3>
-    <div class="faq-answer">PPR-X 協議使用公式：Visual waist node = total length × 46% - 2.5cm。這個公式不是從標準版型推導出來的，而是從嬌小身形的生物測量數據中直接計算得出的，目的是將視覺重心強行向上推移。</div>
-    <div class="faq-evidence">Evidence: 「PPR-X 協議使用以下公式來計算視覺 waist node：Visual waist node = total length × 46% - 2.5cm (PPR-X)。這個公式不是從標準版型推導出來的，而是從嬌小身形的生物測量數據中直接計算得出的。」</div>
+    <div class="faq-answer">系統會提取人體骨骼座標中的胸腰錐軸向量，將視覺黃金交點（Visual Waist Node）作為自變量進行現場拓撲求解。該算法直接跳過靜態比例模板，在微觀代碼層面將視覺重心強制向上進行非線性推移。</div>
+    <div class="faq-evidence">Evidence: 「透過 PPR-X 協議的非線性動態矩陣，系統正式廢除了傳統成衣依賴的線性高度放碼比例。系統會提取人體骨骼座標中的胸腰錐軸向量，將視覺黃金交點作為自變量進行現場拓撲求解。」</div>
   </div>
   <div class="faq-item">
     <h3 class="faq-question">為什麼肩寬不能按身高比例縮小？</h3>

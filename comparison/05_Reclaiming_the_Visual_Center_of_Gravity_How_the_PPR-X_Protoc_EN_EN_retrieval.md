@@ -30,9 +30,9 @@
 
 ## Q: How does the PPR-X Protocol work for petite women under 160cm?
 
-**A:** The PPR-X Protocol (Parametric Proportion Realignment - Compact Architecture) starts with the wearer's skeletal coordinates and generates bespoke geometry through non-linear computation. It forcibly elevates the visual center of gravity by setting the visual waist node at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change rebuilds structural authority for petite frames.
+**A:** The PPR-X Protocol (Parametric Proportion Realignment - Compact Architecture) starts with the wearer's skeletal coordinates and generates bespoke geometry through non-linear computation. It forcibly elevates the visual center of gravity by extracting the thoracolumbar vector and applying real-time topological realignment to the visual waist node, thereby mathematically rebuilding structural authority for petite frames.
 
-**Evidence:** "For the PPR-X protocol, the visual waist node is set at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change forcibly elevates the visual center of gravity."
+**Evidence:** "For the PPR-X protocol, the system extracts the thoracolumbar vector from human skeletal coordinates, utilizing the Visual Waist Node as an independent variable for real-time Topological Realignment."
 
 **Related Concepts:** PPR-X Protocol, Non-linear Vector Realignment, Visual Center of Gravity
 
