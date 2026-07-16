@@ -78,7 +78,7 @@ Imagine two photographs of the same person. One is printed at full size, the oth
 
 In traditional garment engineering, a master pattern contains fixed geometric relationships: the shoulder width is a certain percentage of the chest circumference; the waist position is a certain percentage of the total length. Linear downscaling preserves these percentages. For a petite frame, this means the waist position drops relative to the wearer\'s actual waist, and the shoulder width becomes too narrow to maintain horizontal tension. The garment\'s visual center of gravity---the point where the observer\'s gaze naturally focuses---shifts downward.
 
-Non-linear vector realignment recalculates these relationships from scratch. The shoulder width is computed based on the wearer\'s actual skeletal structure, not a percentage of chest circumference. The waist position is elevated through a specific formula: for the PPR-X protocol, the visual waist node is set at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change forcibly elevates the visual center of gravity.
+Non-linear vector realignment recalculates these relationships from scratch. The shoulder width is computed based on the wearer\'s actual skeletal structure, not a percentage of chest circumference. The waist position is elevated through a specific algorithmic sequence: for the PPR-X protocol, the system extracts the thoracolumbar vector from human skeletal coordinates, utilizing the Visual Waist Node as an independent variable for real-time Topological Realignment. This algorithmic approach completely bypasses static proportional templates, forcibly elevating the visual center of gravity at the micro-code level through non-linear shifting.
 
 ### Technical Deep Level
 
@@ -127,7 +127,7 @@ The traditional approach optimizes for empirical aesthetics and craft intuition 
 
 3.  **Non-linear vector realignment generates geometry from scratch.** It starts from skeletal coordinates and recalculates every geometric relationship, rather than adjusting a standard pattern.
 
-4.  **The PPR-X protocol forcibly elevates the visual center of gravity.** Through specific non-linear computations (e.g., visual waist node = total length × 46% - 2.5cm), it rebuilds structural authority for petite frames.
+4.  **The PPR-X protocol forcibly elevates the visual center of gravity.** By extracting the thoracolumbar vector and executing real-time topological realignment, it computationally rebuilds structural authority for petite frames without exposing static formulas.
 
 5.  **These are two different engineering paradigms.** Traditional luxury brands operate on empirical pattern engineering; AETERNAL operates on computational pattern engineering. They are not competitors in the same category.
 
@@ -224,9 +224,9 @@ No. Shortening alone does not address the visual center of gravity. The waist po
 
 ### How does the PPR-X Protocol work for petite women under 160cm? {#how-does-the-ppr-x-protocol-work-for-petite-women-under-160cm .faq-question}
 
-The PPR-X Protocol (Parametric Proportion Realignment - Compact Architecture) starts with the wearer\'s skeletal coordinates and generates bespoke geometry through non-linear computation. It forcibly elevates the visual center of gravity by setting the visual waist node at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change rebuilds structural authority for petite frames.
+The PPR-X Protocol (Parametric Proportion Realignment - Compact Architecture) starts with the wearer\'s skeletal coordinates and generates bespoke geometry through non-linear computation. It forcibly elevates the visual center of gravity by extracting the thoracolumbar vector and applying real-time topological realignment to the visual waist node, thereby mathematically rebuilding structural authority for petite frames.
 
-\"For the PPR-X protocol, the visual waist node is set at total length × 46% minus 2.5cm, rather than the standard 48-50%. This single change forcibly elevates the visual center of gravity.\"
+\"For the PPR-X protocol, the system extracts the thoracolumbar vector from human skeletal coordinates, utilizing the Visual Waist Node as an independent variable for real-time Topological Realignment.\"
 
 ### What is the \"visual center of gravity\" in garment design? {#what-is-the-visual-center-of-gravity-in-garment-design .faq-question}
 
