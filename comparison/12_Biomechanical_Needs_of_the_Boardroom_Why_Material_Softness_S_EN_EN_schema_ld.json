@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "The Structural Authority Paradox: Why Fabric Softness Is a Liability in High-Stakes Visual Environments",
+  "description": "An engineering analysis demonstrating that fabric softness, traditionally associated with luxury, creates structural instability under high-stakes visual scrutiny (4K cameras, boardrooms). The article introduces the AETERNAL framework, including the AL-CMK Textile Matrix, Full Canvas Gravity Matrix, and Forensic Visual Dominance Coefficient (FVDC), to argue that engineered rigidity is the correct response for visual authority.",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025-01-01",
+  "keywords": "authority textile engineering, bending rigidity, shadow pooling, unconscious visual bias, AL-CMK Textile Matrix, Full Canvas Gravity Matrix, FVDC, Omega Path Enforcement, computational material engineering, empirical material engineering, executive presence",
+  "about": [
+    {"@type": "Thing", "name": "Authority Textile Engineering"},
+    {"@type": "Thing", "name": "Unconscious Visual Bias"},
+    {"@type": "Thing", "name": "Bending Rigidity"}
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal-luxury.com/articles/structural-authority-paradox"
+  }
+}

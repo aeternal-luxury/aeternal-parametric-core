@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Traditional shoulder pads fail to prevent structural collapse under dynamic conditions such as sitting, turning, raising arms, and leaning forward.",
+    "evidence": "The article states: 'under dynamic conditions—sitting, turning, raising arms, leaning forward—traditional shoulder pads fail to prevent structural collapse: collars gape, chest fabric distorts, and the silhouette degrades.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "The CAA Protocol locks the seventh cervical vertebra as a geometric pivot, ensuring 99.8% collar adherence during head rotation.",
+    "evidence": "The article states: 'CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% adherence to the neck, eliminating the collar gap.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 3,
+    "statement": "The UAA Protocol decouples the armscye's mechanical matrix from the chest panel, allowing the chest to remain undeformed when the arm is raised.",
+    "evidence": "The article states: 'UAA Protocol (Unconstrained Armscye Alignment): Decouples the armscye’s mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because the stress is routed to the joint pivot point, not the chest fabric.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The Q-Matrix routes movement-generated stress to non-visual-sensitive zones (joint pivot points) for dissipation, keeping chest and shoulder lines flat.",
+    "evidence": "The article states: 'Q-Matrix (Conflict Routing Equations): A dynamic stress management system that routes movement-generated stress to non-visual-sensitive zones (joint pivot points) for dissipation. The chest and shoulder lines remain flat and undisturbed.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The SAR Index is a geometric coefficient that quantifies visual authority, requiring a ratio of shoulder width, waist position, and garment length to be ≥ 1.618.",
+    "evidence": "The article states: 'SAR Index (Structural Authority Ratio): A geometric coefficient that quantifies visual authority. The ratio of shoulder width, waist position, and garment length must be ≥ 1.618 (the golden section). Any design below this threshold is automatically rejected.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "AETERNAL's engineering workflow includes biometric data acquisition, CAA Protocol calculation, UAA Protocol calculation, Q-Matrix stress routing, Dynamic Compensation Matrix calibration, SAR Index validation, and Omega Path Enforcement.",
+    "evidence": "The article lists these steps in the 'Technical Deep Level' section: 'Biometric data acquisition... CAA Protocol calculation... UAA Protocol calculation... Q-Matrix stress routing... Dynamic Compensation Matrix calibration... SAR Index validation... Omega Path Enforcement.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Under Omega Path Enforcement, the deformation decay rate is strictly controlled within 3% over a 12-hour wear period.",
+    "evidence": "The article states: 'Omega Path Enforcement: For high-intensity business scenarios, the routing configuration is locked to prioritize silhouette rigidity. The deformation decay rate is strictly controlled within 3% over a 12-hour wear period.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "Traditional pattern engineering relies on empirical iterative fitting and visual judgment, while AETERNAL uses computational pattern engineering with whole-body coupled nonlinear computation.",
+    "evidence": "The article states: 'Traditional tailoring is empirical pattern engineering: it relies on tailor intuition, iterative fitting, and visual judgment. AETERNAL is computational pattern engineering: it uses whole-body coupled nonlinear computation, biometric data, and algorithmic validation.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The industry assumption that wide shoulder pads equal power dressing fails due to collar gap, shoulder drop, chest distortion, and silhouette collapse under dynamic conditions.",
+    "evidence": "The article lists these four failure modes: 'Collar gap during head rotation... Shoulder drop after prolonged wear... Chest distortion when raising arms... Silhouette collapse under dynamic fatigue.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 10,
+    "statement": "AETERNAL's failure modes include computational overcorrection, physical calibration gap, and input sensitivity, each with specific mitigations.",
+    "evidence": "The article states: 'Computational overcorrection... Physical calibration gap... Input sensitivity...' and lists mitigations: 'Human-in-the-loop validation; fabric drape testing... Iterative calibration between digital and physical prototypes... Multiple measurement passes; error tolerance thresholds.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]

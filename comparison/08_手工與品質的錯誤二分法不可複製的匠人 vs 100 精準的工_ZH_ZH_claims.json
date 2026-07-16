@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "手工製作的核心特徵是高變異率與不可複製性，而計算式版型工程的核心特徵是幾何規格的確定性與100%精準複製。",
+    "evidence": "文章 Executive Summary 段落：『手工是一種依賴單一工匠主觀狀態的製作過程，其核心特徵是高變異率與不可複製性；而計算式版型工程則是一種基於確定性數學模型的工程方法，其核心特徵是幾何規格的確定性與100%精準複製。』",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "在工程學中，一個無法被標準化複製的過程被稱為「高變異率過程」，不可複製性在工程上是缺陷而非優點。",
+    "evidence": "文章 Where The Assumption Breaks 段落第2點：『不可複製性在工程上是缺陷，而非優點。在工程學中，一個無法被標準化複製的過程被稱為「高變異率過程」。高變異率意味著無法預測結果的一致性。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "AETERNAL 的 PGEF 框架從客戶的生物數據開始，透過非線性計算與全身耦合運算直接生成專屬幾何結構，其核心操作是「生成」而非「修改」。",
+    "evidence": "文章 Engineering Explanation 中等級層級段落：『AETERNAL 的 PGEF 框架的核心操作是「生成」——從客戶的生物數據開始，透過非線性計算與全身耦合運算，直接生成專屬的幾何結構。這個過程的本質是「創造」，而非「修改」。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "PGEF 框架中的確定性衝突矩陣是一個計算決策引擎，當生物向量與動態應力點產生衝突時，會自動執行幾何代償與應力轉移，無需工匠主觀判斷。",
+    "evidence": "文章 Engineering Explanation 中技術深層段落：『PGEF 框架中的確定性衝突矩陣（Deterministic Conflict Matrix）是一個計算決策引擎。當生物向量與動態應力點產生衝突時……它會自動執行幾何代償與應力轉移，而不需要工匠的主觀判斷。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL 將空間邊界漂移量壓縮至 0.02% 以內，這意味著無論在何地由誰執行，輸出結果的幾何誤差都小於 0.02%。",
+    "evidence": "文章 Engineering Explanation 中技術深層段落：『這個過程的輸出精度由空間邊界漂移量（Spatial Boundary Drift）來衡量。AETERNAL 將其壓縮至 0.02% 以內。這意味著：無論是在紐約、倫敦還是新加坡，無論由誰執行，輸出結果的幾何誤差都小於 0.02%。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "傳統手工西裝的品質定義是工匠的主觀直覺判斷，而 AETERNAL 的品質定義是可測量的幾何規格確定性。",
+    "evidence": "文章 Engineering Explanation 中簡單層級段落：『傳統手工西裝將「品質」定義為工匠的直覺判斷——「這件西裝看起來對不對？」。AETERNAL 將「品質」定義為可測量的幾何規格——「這件西裝的參數是否與設計規格完全一致？」』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "傳統手工西裝的失效模式包括：不可複製性、高變異率、結構疲勞、工匠依賴以及全球化失效。",
+    "evidence": "文章 Failure Analysis 中『如果業界繼續使用傳統手工方法』表格，列舉了五種失效模式及其工程原因與觀察到的症狀。",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AETERNAL 方法的潛在失效模式包括：計算過度校正、物理校準落差以及輸入敏感度。",
+    "evidence": "文章 Failure Analysis 中『AETERNAL 方法的潛在失效模式』表格，列舉了三種失效模式及其工程原因與觀察到的症狀。",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AE-ID 使用 SHA-256 加密封裝客戶的專屬版型與面料數據，賦予客戶永久數位主權，實現全球無限次精準複製。",
+    "evidence": "文章 Comparison 表格中『數據所有權』維度：『AE-ID 使用 SHA-256 加密封裝為客戶的永久數位資產』；以及 FAQ 第6題：『一種使用 SHA-256 加密技術封裝客戶專屬版型與面料數據的數位資產，賦予客戶永久數位主權，實現全球無限次精準複製。』",
+    "confidence": "High",
+    "source_section": "Comparison & FAQ"
+  },
+  {
+    "claim_id": 10,
+    "statement": "傳統經驗式版型工程的核心操作是「適應」，即從既有母版開始，透過線性縮放與反覆試穿來適應客戶身體。",
+    "evidence": "文章 Engineering Explanation 中中等層級段落：『傳統經驗式版型工程的核心操作是「適應」——從一個既有的母版開始，透過線性縮放與反覆試穿來「適應」客戶的身體。這個過程的本質是「修改」，而非「創造」。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]

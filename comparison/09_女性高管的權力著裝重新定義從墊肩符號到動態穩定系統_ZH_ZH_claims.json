@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "傳統權力著裝（Power Dressing）被廣泛等同於寬墊肩與誇張視覺比例，但這是一個根本性的工程誤解。",
+    "evidence": "Executive Summary 段落：『傳統權力著裝（Power Dressing）被廣泛等同於寬墊肩與誇張視覺比例，但這是一個根本性的工程誤解。』",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "墊肩僅是靜態視覺偽裝工具，無法解決服裝在動態中的結構崩潰——當穿著者轉身、舉手或長時間活動時，輪廓必然變形。",
+    "evidence": "Executive Summary 段落：『墊肩僅是靜態視覺偽裝工具，無法解決服裝在動態中的結構崩潰——當穿著者轉身、舉手或長時間活動時，輪廓必然變形。』",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "傳統西裝缺乏 CAA Protocol（Cervical-Axial Alignment），第七頸椎無幾何支點。當穿著者轉身，後領口會因缺乏結構鎖定而撐開，露出內衣或肌膚。",
+    "evidence": "Where The Assumption Breaks 段落：『傳統西裝缺乏 CAA Protocol（Cervical-Axial Alignment），第七頸椎無幾何支點。當穿著者轉身，後領口會因缺乏結構鎖定而撐開，露出內衣或肌膚。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "傳統西裝的袖窿（Armscye）與前胸力學矩陣未解耦（缺乏 UAA Protocol）。當穿著者舉手簽名、握手或指向簡報，袖窿會拉扯前胸面料，造成視覺上的扭曲與皺褶。",
+    "evidence": "Where The Assumption Breaks 段落：『傳統西裝的袖窿（Armscye）與前胸力學矩陣未解耦（缺乏 UAA Protocol）。當穿著者舉手簽名、握手或指向簡報，袖窿會拉扯前胸面料，造成視覺上的扭曲與皺褶。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "傳統西裝無動態應力管理系統（缺乏 Q-Matrix）。經過數小時的坐、站、走動，應力在面料中累積，導致肩線下墜、腰位偏移、衣長變形。",
+    "evidence": "Where The Assumption Breaks 段落：『傳統西裝無動態應力管理系統（缺乏 Q-Matrix）。經過數小時的坐、站、走動，應力在面料中累積，導致肩線下墜、腰位偏移、衣長變形。』",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 6,
+    "statement": "CAA Protocol 鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。",
+    "evidence": "The AETERNAL Perspective 段落：『CAA Protocol：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "UAA Protocol 將袖窿與前胸力學矩陣解耦，確保抬手時前胸不變形。",
+    "evidence": "The AETERNAL Perspective 段落：『UAA Protocol：將袖窿與前胸力學矩陣解耦，確保抬手時前胸不變形。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 8,
+    "statement": "SAR Index 是強制性幾何係數，要求肩寬、腰位與衣長的比例 ≥ 1.618，低於此值的設計被系統自動拒絕。",
+    "evidence": "The AETERNAL Perspective 段落：『SAR Index：強制性幾何係數，要求肩寬、腰位與衣長的比例 ≥ 1.618，低於此值的設計被系統自動拒絕。』",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。",
+    "evidence": "Engineering Explanation 的技術深層段落：『AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "AETERNAL 的系統必須同時滿足 CAA 約束、UAA 約束、Q-Matrix 路由和 SAR Index 門檻這四個耦合條件，若無解則設計被視為不可行。",
+    "evidence": "Engineering Explanation 的技術深層段落：『這四個約束條件形成一個耦合方程組，系統必須找到同時滿足所有條件的解。若無解，則設計被視為不可行。』",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]

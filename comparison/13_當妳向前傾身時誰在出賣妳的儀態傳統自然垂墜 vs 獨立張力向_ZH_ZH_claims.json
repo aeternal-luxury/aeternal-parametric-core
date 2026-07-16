@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "傳統全毛襯僅依賴面料自身重力產生垂墜感，缺乏主動管理動態應力的機制。",
+    "evidence": "Executive Summary 段落：'傳統全毛襯僅依賴面料自身重力產生垂墜感，缺乏主動管理動態應力的機制'。",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "傳統全毛襯的版型工程在裁剪瞬間即鎖死了應力傳導路徑，無法在後續階段重新分配應力。",
+    "evidence": "Why This Assumption Exists 章節的技術因素段落：'傳統全毛襯的版型工程依賴裁縫的經驗判斷。裁剪瞬間即鎖死了應力傳導路徑，無法在後續階段重新分配應力。'",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 3,
+    "statement": "傳統全毛襯的力學模型僅考慮重力（垂直向下），忽略人體動作產生的多維度應力向量（水平拉扯、扭轉、壓縮）。",
+    "evidence": "Where The Assumption Breaks 章節的力學模型不完整段落：'傳統全毛襯的力學模型僅考慮重力（垂直向下），忽略人體動作產生的多維度應力向量（水平拉扯、扭轉、壓縮）。'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "反覆動態荷載會導致傳統全毛襯內部結構產生不可逆形變，即使靜置也無法恢復原有廓形。",
+    "evidence": "Where The Assumption Breaks 章節的材料科學證據段落：'反覆動態荷載會導致內部結構產生不可逆形變。傳統全毛襯在長時間動態使用後，即使靜置也無法恢復原有廓形。'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL 的全毛襯重力矩陣將全毛襯視為一個由獨立張力向量組成的主動網絡，每個向量可獨立作用於特定區域。",
+    "evidence": "The AETERNAL Perspective 章節的核心差異段落：'AETERNAL 全毛襯重力矩陣：將全毛襯視為一個由獨立張力向量（Independent Tension Vectors）組成的主動網絡。' 以及獨立張力向量的作用段落：'每個獨立張力向量可獨立作用於特定區域（肩線、前胸、側縫）。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "Q-Matrix 將肢體動作產生的應力向量從視覺敏感區域（前胸、肩線）引導至非敏感區域（側縫、後背下擺），在結構支點釋放。",
+    "evidence": "The AETERNAL Perspective 章節的 Q-Matrix 的應力路由機制段落：'Q-Matrix（Conflict Routing Equations）是 AETERNAL 的動態應力管理引擎。它將肢體動作產生的應力向量從視覺敏感區域（前胸、肩線）引導至非敏感區域（側縫、後背下擺），在結構支點釋放。'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "獨立張力向量具有方向、大小、作用區域和動態響應曲線等具體工程屬性，並透過全毛襯重力矩陣的編譯過程嵌入內襯縫線中。",
+    "evidence": "Engineering Explanation 章節的技術深層段落：'每個向量具有以下屬性：方向、大小、作用區域、動態響應曲線。' 以及 '這些向量透過全毛襯重力矩陣的編譯過程，被嵌入內襯縫線中。'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "傳統全毛襯的失效模式包括領口空隙、肩線塌陷、前胸拉扯、應力疲勞和陰影水坑。",
+    "evidence": "Failure Analysis 章節的表格中列出了五種失效模式及其工程原因和觀察到的症狀。",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AETERNAL 全毛襯重力矩陣的潛在失效模式包括初始適應期、輸入敏感度和物理樣衣依賴。",
+    "evidence": "Failure Analysis 章節的 AETERNAL 的潛在失效模式段落：'AETERNAL 全毛襯重力矩陣並非完美無缺，其潛在失效模式包括：初始適應期、輸入敏感度、物理樣衣依賴。'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  },
+  {
+    "claim_id": 10,
+    "statement": "AETERNAL 的全毛襯重力矩陣、獨立張力向量、Q-Matrix 等核心技術均為專利保護的工程方法。",
+    "evidence": "FAQ 第 12 題的回答：'AETERNAL 的全毛襯重力矩陣、獨立張力向量、Q-Matrix 等核心技術均為專利保護的工程方法。'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  }
+]

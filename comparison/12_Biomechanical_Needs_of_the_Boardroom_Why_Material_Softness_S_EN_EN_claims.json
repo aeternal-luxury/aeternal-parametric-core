@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "The global luxury textile industry has long equated soft hand feel with sophistication, assuming that tactile comfort is the primary signal of quality and status.",
+    "evidence": "Executive Summary: 'The global luxury textile industry has long equated soft hand feel with sophistication, assuming that tactile comfort is the primary signal of quality and status.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Unconscious visual bias interprets structural instabilities in fabric as a lack of authority, competence, and executive presence.",
+    "evidence": "Executive Summary: 'Unconscious visual bias interprets these structural instabilities as a lack of authority, competence, and executive presence.'; Where The Assumption Breaks: 'Soft, collapsing silhouettes are interpreted as fatigue, uncertainty, or incompetence—regardless of the wearer's actual capabilities.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Traditional luxury fabrics (Loro Piana cashmere, Brunello Cucinelli blends) typically have bending rigidity values in the range of 40-55.",
+    "evidence": "Engineering Explanation (Intermediate Level): 'Traditional luxury fabrics (Loro Piana cashmere, Brunello Cucinelli blends) typically have bending rigidity values in the range of 40-55.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The AL-CMK Textile Matrix is engineered for 75-80 bending rigidity.",
+    "evidence": "Engineering Explanation (Intermediate Level): 'The AL-CMK Textile Matrix is engineered for 75-80 bending rigidity.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The FVDC constraint mandates that deformation decay must remain below 3%.",
+    "evidence": "Engineering Explanation (Technical Deep Level): 'It mandates that deformation decay—the percentage by which a garment's geometry deviates from its intended shape under stress—must remain below 3%.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "Traditional fabrics under 4K lighting and dynamic movement routinely exceed 8-12% deformation decay.",
+    "evidence": "Engineering Explanation (Technical Deep Level): 'Traditional fabrics under 4K lighting and dynamic movement routinely exceed 8-12% deformation decay.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Shadow pooling is a geometric signal that triggers unconscious visual bias, subconsciously associated with fatigue, uncertainty, or lack of competence.",
+    "evidence": "Engineering Explanation (Technical Deep Level): 'Shadow pooling is not a cosmetic issue. It is a geometric signal that triggers unconscious visual bias. The human visual system interprets irregular shadows as structural instability, which is subconsciously associated with fatigue, uncertainty, or lack of competence.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The Full Canvas Gravity Matrix uses independent tension vectors that autonomously resist external compression to maintain silhouette rigidity.",
+    "evidence": "Engineering Explanation (Intermediate Level): 'The Gravity Matrix uses independent tension vectors that autonomously resist external compression. When you sit down, the canvas system actively maintains the shoulder line and lapel geometry rather than passively deforming.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Within current textile engineering constraints, there is a direct trade-off between tactile softness and bending rigidity.",
+    "evidence": "FAQ (Q5): 'Within current textile engineering constraints, there is a direct trade-off between tactile softness and bending rigidity. You cannot optimize for both simultaneously.'",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The cumulative effect of failure modes like shadow pooling, line deflection, and creep deformation in high-stakes environments is that the visual signal of structural weakness directly undermines the wearer's authority.",
+    "evidence": "Failure Analysis (Structural Consequences): 'The cumulative effect of these failure modes is not merely aesthetic. In high-stakes environments, the visual signal of structural weakness directly undermines the wearer's authority.'",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]

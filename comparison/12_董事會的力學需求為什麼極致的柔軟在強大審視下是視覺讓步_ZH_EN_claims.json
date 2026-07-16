@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "Soft fabrics deform unpredictably under directional lighting, creating shadow pooling and line deflection.",
+    "evidence": "Section 'Where The Assumption Breaks', condition 1: 'Soft fabrics, lacking structural rigidity, deform under their own weight and under the tension of movement. These deformations create irregular shadows—shadow pooling—that signal structural weakness.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "Soft fabrics lack structural memory and do not return to their original geometry after deformation under dynamic load.",
+    "evidence": "Section 'Where The Assumption Breaks', condition 2: 'Soft fabrics lack structural memory. They do not return to their original geometry after deformation. The result is line deflection: the shoulder line drifts, the lapel edge loses its crispness.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Humans subconsciously associate geometric instability with a lack of competence or authority, a measurable cognitive response.",
+    "evidence": "Section 'Where The Assumption Breaks', condition 3: 'Research in cognitive psychology and visual perception confirms that humans subconsciously associate geometric instability with a lack of competence or authority. ... It is a measurable cognitive response.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The AL-CMK Textile Matrix, composed of 70% cashmere, 28% kid mohair, and 2% elastane, is engineered for a bending rigidity of 75-80.",
+    "evidence": "Section 'Engineering Explanation', Intermediate Level: 'The AL-CMK Textile Matrix—70% cashmere, 28% kid mohair, 2% elastane—is engineered for 75-80 bending rigidity.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "A bending rigidity of 75-80 represents a 50-60% increase in resistance to bending deformation compared to traditional luxury cashmere blends with values below 50.",
+    "evidence": "Section 'Engineering Explanation', Intermediate Level: 'Traditional luxury cashmere blends typically have bending rigidity values below 50. The AL-CMK Textile Matrix ... is engineered for 75-80 bending rigidity. ... It represents a 50-60% increase in resistance to bending deformation.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "The Forensic Visual Dominance Coefficient (FVDC) is a constraint metric that evaluates a garment's ability to maintain clean lines under dynamic and lighting stress, with a threshold of deformation decay below 3%.",
+    "evidence": "Section 'Engineering Explanation', Intermediate Level: 'The Forensic Visual Dominance Coefficient (FVDC) is a constraint metric. It evaluates a garment’s ability to maintain clean lines under dynamic and lighting stress. The threshold is deformation decay below 3%.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Soft fabrics consistently exceed the 3% deformation decay threshold, producing visible shadow pooling and line deflection.",
+    "evidence": "Section 'Engineering Explanation', Intermediate Level: 'Soft fabrics consistently exceed this threshold, producing visible shadow pooling and line deflection.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that autonomously redistribute force to maintain the garment's intended geometry under dynamic load.",
+    "evidence": "Section 'Engineering Explanation', Technical Deep Level: 'The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. ... When the garment is subjected to dynamic load (sitting, reaching), these vectors autonomously redistribute force to maintain the garment’s intended geometry.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Omega Path Enforcement is a parametric routing configuration that subordinates all styling variables to absolute structural rigidity, forcing the AL-CMK matrix to bending rigidity ≥80 and pre-tensioning the Full Canvas Gravity Matrix to maximum resistance.",
+    "evidence": "Section 'Engineering Explanation', Technical Deep Level: 'The Omega Path Enforcement mode ... subordinates all styling variables—lapel width, shoulder slope, waist suppression—to absolute structural rigidity. In this configuration, the AL-CMK matrix is forced to bending rigidity ≥80, and the Full Canvas Gravity Matrix is pre-tensioned to maximum resistance.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "Traditional luxury houses (e.g., Loro Piana, Brunello Cucinelli) practice Empirical Material Engineering optimised for tactile experience, while AETERNAL practices Computational Material Engineering optimised for visual structural authority under stress.",
+    "evidence": "Section 'Key Takeaways', takeaway 5: 'Traditional luxury houses and AETERNAL practice different material engineering disciplines. Empirical Material Engineering (Loro Piana, Brunello Cucinelli) optimises for tactile experience. Computational Material Engineering (AETERNAL) optimises for visual structural authority under stress.'",
+    "confidence": "High",
+    "source_section": "Key Takeaways"
+  }
+]

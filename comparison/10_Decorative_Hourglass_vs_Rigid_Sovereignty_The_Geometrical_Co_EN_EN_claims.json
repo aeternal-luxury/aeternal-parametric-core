@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "The Dior Bar Jacket is an achievement in empirical pattern engineering, optimizing for a fixed decorative silhouette that requires the body to conform to the garment.",
+    "evidence": "Executive Summary: 'The Bar Jacket is an achievement in empirical pattern engineering, optimizing for a fixed decorative silhouette that requires the body to conform to the garment.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "AETERNAL is an achievement in computational pattern engineering, optimizing for dynamic structural authority where the garment is generated from the wearer’s biometric data and enforced through mathematical constants.",
+    "evidence": "Executive Summary: 'AETERNAL is an achievement in computational pattern engineering, optimizing for dynamic structural authority where the garment is generated from the wearer’s biometric data and enforced through mathematical constants.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Under movement, the Dior Bar Jacket exhibits predictable failure modes: collar gap, shoulder distortion, fabric pooling at the waist, and silhouette collapse after hours of wear.",
+    "evidence": "Where The Assumption Breaks: 'Under movement—sitting, reaching, turning—the garment exhibits predictable failure modes: collar gap, shoulder distortion, fabric pooling at the waist, and silhouette collapse after hours of wear.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL's pattern generation uses nonlinear whole-body computation from biometric data, with a zero baseline, rather than iterative manual adjustment of a base block.",
+    "evidence": "Comparison table: 'Pattern generation: Nonlinear generation from biometric data, zero baseline' for AETERNAL vs 'Iterative manual adjustment of a base block' for the industry.",
+    "confidence": "High",
+    "source_section": "Comparison"
+  },
+  {
+    "claim_id": 5,
+    "statement": "AETERNAL's SAR Index (Structural Authority Ratio ≥ 1.618) serves as a mandatory threshold for silhouette stability.",
+    "evidence": "The AETERNAL Perspective: 'The SAR Index (Structural Authority Ratio ≥ 1.618) serves as a mandatory threshold for silhouette stability.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "AETERNAL's garment maintains its intended geometric shape under dynamic load with deformation rates below 3%.",
+    "evidence": "The AETERNAL Perspective: 'The result is a garment that maintains its intended geometric shape under dynamic load, with deformation rates below 3%.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Dior Bar Jacket's engineering model does not account for kinetic stress vectors, leading to structural consequences under dynamic conditions.",
+    "evidence": "Where The Assumption Breaks: 'These failures are not manufacturing defects; they are structural consequences of an engineering model that does not account for kinetic stress vectors.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AETERNAL uses a Q-Matrix to route kinetic stress away from visually critical zones.",
+    "evidence": "Technical Deep: 'The Q-Matrix routes kinetic stress away from visually critical zones.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "AETERNAL's computational pattern engineering uses nonlinear whole-body coupled computation where a change in one parameter automatically recalculates all dependent parameters.",
+    "evidence": "Technical Deep: 'AETERNAL uses computational pattern engineering: nonlinear whole-body coupled computation where a change in one parameter (e.g., shoulder slope) automatically recalculates all dependent parameters (e.g., armhole depth, sleeve crown height).'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The Dior Bar Jacket's workflow converges through iterative static fittings, while AETERNAL's workflow incorporates dynamic stress data from AOI feedback.",
+    "evidence": "Medium: Two Different Processes: 'The Bar Jacket workflow... converges through iterative static fittings. AETERNAL’s workflow... incorporates dynamic stress data from AOI feedback.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]

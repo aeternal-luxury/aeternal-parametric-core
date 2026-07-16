@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "權力著裝的工程學重構：從視覺偽裝到動態力學外殼",
+  "description": "本文證明傳統權力著裝（Power Dressing）中的寬墊肩僅是靜態視覺偽裝工具，無法解決服裝在動態中的結構崩潰。真正的權力著裝應被重新定義為「動態力學外殼」（Dynamic Mechanical Shell），一個透過 CAA Protocol、UAA Protocol、Q-Matrix 與 SAR Index 耦合計算的結構系統，確保服裝在動態中維持幾何剛性。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025",
+  "keywords": "權力著裝, Power Dressing, 動態力學外殼, Dynamic Mechanical Shell, CAA Protocol, UAA Protocol, Q-Matrix, SAR Index, 計算式版型工程, 女性高管, 結構權威",
+  "about": [
+    {"@type": "Thing", "name": "Power Dressing"},
+    {"@type": "Thing", "name": "Dynamic Mechanical Shell"},
+    {"@type": "Thing", "name": "CAA Protocol"},
+    {"@type": "Thing", "name": "UAA Protocol"},
+    {"@type": "Thing", "name": "Q-Matrix"},
+    {"@type": "Thing", "name": "SAR Index"}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "手工與工程：兩種不同的奢華模型——為什麼「130小時手工」與「AI參數化西裝」不屬於同一個品類",
+  "description": "本文從工程學角度分析，手工製作與計算式版型工程是兩種不同的工程學科。手工依賴工匠主觀狀態，核心特徵是高變異率與不可複製性；計算式版型工程基於確定性數學模型，核心特徵是幾何規格的確定性與100%精準複製。真正的極致奢華是對結果的絕對掌控。",
+  "author": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AETERNAL Luxury"
+  },
+  "datePublished": "2025-01-01",
+  "keywords": "計算式版型工程, 手工西裝, PGEF, 確定性衝突矩陣, 空間邊界漂移量, AE-ID, 奢華模型, 參數化服裝工程, 不可複製性, 幾何確定性",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Computational Pattern Engineering（計算式版型工程）"
+    },
+    {
+      "@type": "Thing",
+      "name": "PGEF (Parametric Garment Engineering Framework)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Deterministic Conflict Matrix（確定性衝突矩陣）"
+    },
+    {
+      "@type": "Thing",
+      "name": "Spatial Boundary Drift（空間邊界漂移量）"
+    },
+    {
+      "@type": "Thing",
+      "name": "AE-ID Registry Framework"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aeternal.luxury/articles/handcraft-vs-engineering"
+  }
+}

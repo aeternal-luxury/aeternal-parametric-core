@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "The Dior Bar Jacket is an achievement in empirical pattern engineering, optimized for static decorative elegance.",
+    "evidence": "Executive Summary: 'The Bar Jacket is an achievement in empirical pattern engineering, optimized for static decorative elegance.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 2,
+    "statement": "AETERNAL is an achievement in computational pattern engineering, optimized for dynamic structural authority.",
+    "evidence": "Executive Summary: 'AETERNAL is an achievement in computational pattern engineering, optimized for dynamic structural authority.'",
+    "confidence": "High",
+    "source_section": "Executive Summary"
+  },
+  {
+    "claim_id": 3,
+    "statement": "The Dior Bar Jacket, optimized for static display, exhibits predictable failure modes under dynamic conditions: collar gap, shoulder distortion, fabric pooling at the waist, and silhouette collapse under fatigue.",
+    "evidence": "Section 'Where The Assumption Breaks': 'The Dior Bar Jacket, optimized for static display, exhibits predictable failure modes: collar gap, shoulder distortion, fabric pooling at the waist, and silhouette collapse under fatigue.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 4,
+    "statement": "AETERNAL’s structural tailoring is engineered to maintain geometric integrity under dynamic load, achieving a deformation rate below 3% under normal movement.",
+    "evidence": "Section 'Where The Assumption Breaks': 'AETERNAL’s structural tailoring, by contrast, is engineered from the ground up to maintain geometric integrity under dynamic load. The Q-Matrix and Dynamic Compensation Matrix are specifically designed to route kinetic stress away from visually critical zones, achieving a deformation rate below 3% under normal movement.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 5,
+    "statement": "Empirical pattern engineering (Dior Bar Jacket) starts from a master pattern block, applies localized manual adjustments, and converges on a fixed decorative shape through iterative fitting.",
+    "evidence": "Section 'The AETERNAL Perspective': 'Empirical Pattern Engineering (Dior Bar Jacket): Starts from a master pattern block, applies localized manual adjustments, and converges on a fixed decorative shape through iterative fitting.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 6,
+    "statement": "Computational pattern engineering (AETERNAL) starts from zero baseline, generates patterns through nonlinear computation from biometric vectors, and converges on a dynamic structural system through parametric constraints.",
+    "evidence": "Section 'The AETERNAL Perspective': 'Computational Pattern Engineering (AETERNAL): Starts from zero baseline, generates patterns through nonlinear computation from biometric vectors, and converges on a dynamic structural system through parametric constraints.'",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 7,
+    "statement": "The Dior Bar Jacket uses linear scaling and localized manual adjustment of a master pattern block, which is a single-point optimization problem.",
+    "evidence": "Section 'Technical Deep Level': 'The Bar Jacket uses linear scaling and localized manual adjustment of a master pattern block. This is a single-point optimization problem: adjust one parameter (waist suppression) and observe the local effect.'",
+    "confidence": "High",
+    "source_section": "Technical Deep Level"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AETERNAL uses whole-body coupled computation, where a change in one parameter automatically recalculates all dependent parameters, solving a multi-variable, nonlinear optimization problem.",
+    "evidence": "Section 'Technical Deep Level': 'AETERNAL uses whole-body coupled computation, where a change in one parameter (e.g., shoulder slope) automatically recalculates all dependent parameters (e.g., armhole depth, sleeve crown height, chest circumference). This is a multi-variable, nonlinear optimization problem solved through the Parametric System Engine.'",
+    "confidence": "High",
+    "source_section": "Technical Deep Level"
+  },
+  {
+    "claim_id": 9,
+    "statement": "The Q-Matrix and Dynamic Compensation Matrix are mathematical constructs that route kinetic stress away from visually critical zones, ensuring structural authority under dynamic load.",
+    "evidence": "Section 'Technical Deep Level': 'The Q-Matrix (Conflict Routing Equations) and Dynamic Compensation Matrix are mathematical constructs that route kinetic stress away from visually critical zones, ensuring that the garment’s structural authority is maintained under dynamic load.'",
+    "confidence": "High",
+    "source_section": "Technical Deep Level"
+  },
+  {
+    "claim_id": 10,
+    "statement": "The Dior Bar Jacket’s failure modes under dynamic conditions are structural consequences of an engineering model that does not account for kinetic stress vectors, not execution errors.",
+    "evidence": "Section 'Where The Assumption Breaks': 'These failures are not execution errors; they are structural consequences of an engineering model that does not account for kinetic stress vectors.'",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  }
+]

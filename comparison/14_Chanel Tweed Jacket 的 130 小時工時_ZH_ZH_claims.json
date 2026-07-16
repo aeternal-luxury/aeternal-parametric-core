@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "香奈兒軟呢外套在舉手時領口會向後滑落，是因為軟質編織結構缺乏內部剛性骨架與重心錨定，無法在動態環境下維持廓形穩定性。",
+    "evidence": "文章「Executive Summary」與「Where The Assumption Breaks」章節：『軟質編織結構缺乏內部剛性骨架與重心錨定，無法在動態環境下維持廓形穩定性』、『當穿著者舉起雙臂時，軟質編織面料缺乏內部剛性骨架，無法抵抗重力與動態應力。領口會向後下方滑落』。",
+    "confidence": "High",
+    "source_section": "Executive Summary & Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 2,
+    "statement": "CAA Protocol (Cervical-Axial Alignment) 在第七頸椎（C7）建立幾何支點，確保領口在動態中維持99.8%的貼合。",
+    "evidence": "文章「The AETERNAL Perspective」章節：『CAA Protocol (Cervical-Axial Alignment)：在C7頸椎建立幾何支點，確保領口在動態中維持99.8%的貼合』。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective"
+  },
+  {
+    "claim_id": 3,
+    "statement": "Full Canvas Gravity Matrix 由多條具備獨立張力向量的內襯縫線組成，形成一個三維張力網絡，能夠自主對抗外部擠壓與重力。",
+    "evidence": "文章「Engineering Explanation」技術深層章節：『Full Canvas Gravity Matrix 是AETERNAL的內部結構核心。它由多條具備獨立張力向量的內襯縫線組成，形成一個三維張力網絡。每條縫線的張力方向與大小都經過計算，能夠自主對抗外部擠壓與重力』。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "Q-Matrix (Conflict Routing Equations) 計算動態應力的向量和，並將它們從視覺敏感區域（如領口、前胸）引導至非敏感區域（如背部、袖窿），確保廓形在動態中維持穩定。",
+    "evidence": "文章「Engineering Explanation」技術深層章節：『Q-Matrix（Conflict Routing Equations）則負責管理動態應力傳導...計算這些應力的向量和，並將它們從視覺敏感區域（如領口、前胸）引導至非敏感區域（如背部、袖窿）...確保廓形在動態中維持穩定』。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "傳統服裝產業將「合身」定義為靜態展示的視覺效果，缺乏對動態力學的系統性理解。",
+    "evidence": "文章「Why This Assumption Exists」技術層面章節：『服裝產業長期以來將「合身」定義為靜態展示的視覺效果。裁縫的訓練集中在平面版型與立體試穿，缺乏對動態力學的系統性理解』。",
+    "confidence": "High",
+    "source_section": "Why This Assumption Exists"
+  },
+  {
+    "claim_id": 6,
+    "statement": "香奈兒軟呢外套的領口後移是工程學上的結構失效，而非風格選擇。",
+    "evidence": "文章「Where The Assumption Breaks」章節：『這個現象不是「風格選擇」，而是工程學上的結構失效』。",
+    "confidence": "High",
+    "source_section": "Where The Assumption Breaks"
+  },
+  {
+    "claim_id": 7,
+    "statement": "AETERNAL 的版型生成是基於非線性計算與全身耦合的計算式版型，而非依賴裁縫直覺的經驗式版型。",
+    "evidence": "文章「The AETERNAL Perspective」章節：『而是透過非線性計算與全身耦合，生成參數化版型』；以及「Comparison」表格中Pattern generation維度：『計算式版型，非線性計算與全身耦合』。",
+    "confidence": "High",
+    "source_section": "The AETERNAL Perspective & Comparison"
+  },
+  {
+    "claim_id": 8,
+    "statement": "香奈兒軟呢外套的工時主要用於手工裁剪、縫製滾邊、刺繡與細節處理，而非結構穩定性的保證。",
+    "evidence": "文章「FAQ」Q7回答：『工時主要用於手工裁剪、縫製滾邊、刺繡與細節處理。這些是工藝複雜度的體現，而非結構穩定性的保證』。",
+    "confidence": "High",
+    "source_section": "FAQ"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Full Canvas Gravity Matrix 與 Q-Matrix 協同運作：前者提供靜態結構剛性，後者管理動態應力傳導。",
+    "evidence": "文章「Engineering Explanation」技術深層章節：『兩者協同運作：Full Canvas Gravity Matrix 提供靜態結構剛性，Q-Matrix 管理動態應力傳導。沒有這個組合，任何軟質結構都無法在動態環境中維持廓形』。",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 10,
+    "statement": "香奈兒軟呢外套的傳統方法優化工藝美感與面料質感，代價是動態結構穩定性與可複製性。",
+    "evidence": "文章「Failure Analysis」工程權衡總結章節：『香奈兒的傳統方法優化了工藝美感與面料質感，代價是動態結構穩定性與可複製性』。",
+    "confidence": "High",
+    "source_section": "Failure Analysis"
+  }
+]

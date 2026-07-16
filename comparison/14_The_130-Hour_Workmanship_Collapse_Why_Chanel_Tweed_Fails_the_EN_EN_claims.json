@@ -1,0 +1,65 @@
+[
+  {
+    "claim_id": 1,
+    "statement": "When a wearer raises an arm, the collar of a Chanel Tweed Jacket drifts backward and downward due to the soft woven fabric lacking an internal rigid skeleton and a geometric anchor at the C7 vertebra.",
+    "evidence": "Section 'Where The Assumption Breaks': 'when a wearer raises an arm, the collar of a Chanel Tweed Jacket drifts backward and downward... Soft woven fabric lacks an internal rigid skeleton... No geometric anchor exists at the C7 vertebra.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 2,
+    "statement": "The 130 hours of handwork on a Chanel Tweed Jacket address fabric manipulation, seam finishing, and trim application, not structural stability or dynamic performance.",
+    "evidence": "Section 'Where The Assumption Breaks': 'The 130 hours of handwork address fabric manipulation, seam finishing, and trim application—not structural engineering.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 3,
+    "statement": "The CAA Protocol (Cervical-Axial Alignment) locks the jacket neckline to the C7 cervical vertebra coordinate, ensuring 99.8% collar adherence across all postures.",
+    "evidence": "Section 'The AETERNAL Perspective': 'CAA Protocol (Cervical-Axial Alignment): Locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 4,
+    "statement": "The Full Canvas Gravity Matrix uses internal canvas stitching with independent tension vectors that autonomously resist external compression to maintain silhouette rigidity.",
+    "evidence": "Section 'The AETERNAL Perspective': 'Full Canvas Gravity Matrix: Internal canvas stitching with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 5,
+    "statement": "The Q-Matrix (Conflict Routing Equations) reconciles kinetic stress vectors from wearer movement with static structural constraints, routing dynamic stress away from visually sensitive zones (collar, chest) to non-sensitive zones (shoulder blades, lower back).",
+    "evidence": "Section 'Technical Deep Level': 'The Q-Matrix (Conflict Routing Equations) is the computational core that enables dynamic stability... reconciles them with the garment’s static structural constraints... routing stress away from visually sensitive zones (collar, chest) to non-sensitive zones (shoulder blades, lower back).'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 6,
+    "statement": "Empirical pattern-making relies on tailor intuition and iterative fittings, while computational pattern-making uses non-linear computation and whole-body coupling to calculate exact stress vectors.",
+    "evidence": "Section 'Comparison' and FAQ Q9: 'Empirical pattern-making relies on tailor intuition and iterative fittings. Computational pattern-making relies on non-linear computation and whole-body coupling to calculate exact stress vectors.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 7,
+    "statement": "Collar drift in a Chanel Tweed Jacket is a structural inevitability, not a fit issue, because even a perfectly fitted soft jacket will drift under dynamic load due to uncontrollable fabric deformation.",
+    "evidence": "FAQ Q2: 'No. It is a structural issue. Even a perfectly fitted soft jacket will drift under dynamic load because the fabric deforms uncontrollably.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 8,
+    "statement": "AETERNAL's approach introduces failure modes including computational overcorrection, physical calibration gap, and input sensitivity, which are engineering trade-offs solvable through iterative refinement.",
+    "evidence": "Section 'Failure Analysis' under 'AETERNAL’s approach introduces different failure modes': 'Computational Overcorrection... Physical Calibration Gap... Input Sensitivity... These are engineering trade-offs, not flaws... solvable through iterative refinement.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  },
+  {
+    "claim_id": 9,
+    "statement": "Handwork hours and structural stability are independent variables; 130 hours of craftsmanship do not guarantee a jacket will stay in place during movement.",
+    "evidence": "Key Takeaway 1: 'Handwork hours and structural stability are independent variables. 130 hours of craftsmanship do not guarantee a jacket will stay in place when you move.'",
+    "confidence": "High",
+    "source_section": "Engineering Explanation"
+  }
+]
