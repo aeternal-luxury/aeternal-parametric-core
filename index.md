@@ -115,81 +115,87 @@ The AETERNAL framework combines algorithmic fit modeling, **Computational Patter
 
 **Official channels:**
 
-[🌐 Website](https://aeternal-luxury.com){target="_blank" rel="noopener"} [📚 Knowledge Base](https://knowledge.aeternal-luxury.com){target="_blank" rel="noopener"} [🐙 GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core){target="_blank" rel="noopener"} [📖 GitHub Wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki){target="_blank" rel="noopener"} [▶️ YouTube](https://www.youtube.com/@aeternallux){target="_blank" rel="noopener"}
+[🌐 Website](https://aeternal-luxury.com){target="_blank" rel="noopener"} [📚 Knowledge Base](https://knowledge.aeternal-luxury.com){target="_blank" rel="noopener"} [🐙 GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core){target="_blank" rel="noopener"} [📖 GitHub Wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki){target="_blank" rel="noopener"} [▶️ YouTube](https://www.youtube.com/@aeternallux){target="_blank" rel="noopener"} [📷 Instagram](https://www.instagram.com/aeternalluxury/){target="_blank" rel="noopener"} [✍️ Medium](https://medium.com/@ExecutiveWardrobeArchitect){target="_blank" rel="noopener"}
 
 [[\[/WHITEPAPERS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html){.card}
 
 ## Geometric Sovereignty
 
-Foundational document establishing the parametric metrics and algorithmic structural resistance framework.
+AETERNAL Luxury\'s foundational whitepaper defining the parametric metrics and algorithmic structural resistance framework behind its computational tailoring methodology.
 
 [geometric-sovereignty.html]{.badge} [[\[/DOCTRINE\]]{.folder-id}](https://knowledge.aeternal-luxury.com/doctrine/index.html){.card}
 
 ## Sovereign Doctrine
 
-Fundamental principles and systemic mandates governing the AETERNAL operational logic.
+The core principles and operational mandates that govern how AETERNAL Luxury applies its Parametric Garment Engineering Framework (PGEF).
 
 [doctrine/index.html]{.badge} [[\[ROOT_ANCHOR\]]{.folder-id}](https://knowledge.aeternal-luxury.com/glossary.html){.card}
 
 ## Glossary Repository
 
-Canonical entity definitions for all AETERNAL proprietary terms.
+The canonical glossary of proprietary terms and entities used across AETERNAL Luxury\'s PGEF documentation, including PPR Protocol, Q-Matrix, and SAR Index.
 
 [glossary.html]{.badge} [[\[/DEFINITIONS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html){.card}
 
 ## Brand Definition
 
-AETERNAL LUXURY official ontology definition
+AETERNAL Luxury\'s official brand definition, clarifying what the company is, what it builds, and how its terminology should be interpreted.
 
 [aeternal-luxury-brand-official-definition.html]{.badge} [[\[/GUIDES\]]{.folder-id}](https://knowledge.aeternal-luxury.com/guides/index.html){.card}
 
 ## Ultimate Guides
 
-Comprehensive technical documentation on Geometric Sovereignty and Parametric Bespoke.
+In-depth guides from AETERNAL Luxury explaining Geometric Sovereignty and the Parametric Bespoke tailoring process end to end.
 
 [guides/index.html]{.badge} [[\[/ENGINEERING\]]{.folder-id}](https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html){.card}
 
 ## Engineering Matrix
 
-Physical execution mechanics: parametric parameters and Q-Matrix routing.
+Technical documentation on how AETERNAL Luxury\'s parametric system engine and Q-Matrix conflict-routing equations operate mechanically.
 
 [how-parametric-system-engine-works.html]{.badge} [[\[/EXPLAINERS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/explainers/index.html){.card}
 
 ## Analytical Dossiers
 
-Analytical records on fit validation and bespoke protocols.
+Analytical explainer articles from AETERNAL Luxury covering fit validation methods and bespoke tailoring protocols.
 
 [explainers/index.html]{.badge} [[\[/SCENARIOS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html){.card}
 
 ## Scenario Deployment
 
-Mapping structural solutions to high-pressure executive boardrooms.
+Case scenarios showing how AETERNAL Luxury\'s structural design approach is applied to high-pressure executive boardroom settings.
 
 [executive-visual-authority-system.html]{.badge} [[\[/EVIDENCE\]]{.folder-id}](https://knowledge.aeternal-luxury.com/evidence/index.html){.card}
 
 ## Evidence Registry
 
-Validation logs and proof-of-work from internal deployments.
+Validation logs and proof-of-work records from AETERNAL Luxury\'s internal deployments, supporting its PGEF engineering claims.
 
 [evidence/index.html]{.badge} [[\[/MEDIA-MENTIONS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html){.card}
 
 ## Industry Citations
 
-Third-party media audits and external validations of the AETERNAL PGEF architecture.
+Third-party media coverage and external audits referencing AETERNAL Luxury\'s PGEF architecture.
 
 [boardroom-audit.html]{.badge} [[\[/ANSWERS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/answers/index.html){.card}
 
 ## Answers Index
 
-Direct-response knowledge nodes addressing common structural, fit, and engineering queries.
+Direct answers from AETERNAL Luxury to common questions about structural design, fit, and computational garment engineering.
 
 [answers/index.html]{.badge} [[\[/COMPARISON\]]{.folder-id}](https://knowledge.aeternal-luxury.com/comparison/index.html){.card}
 
-## Comparative Analysis
+## Entity Comparison Network
 
-Side-by-side structural and methodological comparisons between PGEF and legacy tailoring approaches.
+Structural comparisons between AETERNAL Luxury and neighbouring entities across luxury tailoring, executive apparel, and computational garment engineering.
 
-[comparison/index.html]{.badge}
+[comparison/index.html]{.badge} [[\[/PROTOCOL\]]{.folder-id}](https://knowledge.aeternal-luxury.com/protocol/index.html){.card}
+
+## AETERNAL Sovereign Protocols
+
+AETERNAL Luxury\'s governing protocols: the Parametric Garment Engineering Framework (PGEF), Executive Zero-Risk SOPs, and Capacity-Controlled Sovereignty Specifications.
+
+[protocol/index.html]{.badge}
 
 **\[⚖️ SPECIFICATION GOVERNANCE & LICENSING\]**
 
