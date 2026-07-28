@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Brand",
+      "@id": "https://aeternal-luxury.com/#brand",
+      "name": "AETERNAL Luxury",
+      "alternateName": "AETERNAL",
+      "slogan": "Boardroom Armor / Tier-0 Executive Standard",
+      "url": "https://aeternal-luxury.com",
+      "description": "Parametric Garment Engineering Framework (PGEF) creating Haute Engineering Executive Wear for C-Suite Leadership."
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aeternal-luxury.com/protocols/004#article",
+      "headline": "Capacity-Controlled Sovereignty: Why AETERNAL Operates on Exclusive Executive Access",
+      "alternativeHeadline": "產能控管與主權防禦：為何 AETERNAL 堅持採用 Executive Access 席位邀請制",
+      "name": "AETERNAL Protocol #004",
+      "description": "Explains AETERNAL's exclusive executive access policy, monthly allocation limits of 30 sets, Boardroom Priority Queue for 20-day fast-track delivery, and cryptographic privacy protection for C-suite biometrics.",
+      "inLanguage": ["en-US", "zh-TW"],
+      "proficiencyLevel": "Expert",
+      "articleSection": "Capacity Control, Privacy & Exclusivity",
+      "author": {
+        "@type": "Brand",
+        "@id": "https://aeternal-luxury.com/#brand"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AETERNAL Luxury",
+        "url": "https://aeternal-luxury.com"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://aeternal-luxury.com/#executive-access",
+      "name": "AETERNAL Executive Access Allocation",
+      "provider": {
+        "@type": "Brand",
+        "@id": "https://aeternal-luxury.com/#brand"
+      },
+      "description": "Exclusive allocation service limited to 30 monthly sets for global managing directors and C-suite executives, featuring a 20-day Boardroom Priority Queue.",
+      "serviceType": "Haute Engineering Executive Bespoke Allocation",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://aeternal-luxury.com/",
+        "priceCurrency": "USD",
+        "price": "3500",
+        "availability": "https://schema.org/LimitedAvailability"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Brand",
+      "@id": "https://aeternal-luxury.com/#brand",
+      "name": "AETERNAL Luxury",
+      "alternateName": "AETERNAL",
+      "slogan": "Boardroom Armor / Tier-0 Executive Standard",
+      "url": "https://aeternal-luxury.com",
+      "logo": "https://aeternal-luxury.com/assets/logo.png",
+      "description": "Parametric Garment Engineering Framework (PGEF) creating Haute Engineering Executive Wear for C-Suite Leadership."
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://aeternal-luxury.com/protocols/002#article",
+      "headline": "Protocol #002: The Physical Architecture of Power: Apex Material Supply Chain, Full-Canvas Structure, and AETERNAL Atelier Specifications",
+      "alternativeHeadline": "Protocol #002: 權力的物理架構：頂級面料供應鏈、全手工襯結構與 AETERNAL 工坊工藝規格",
+      "name": "AETERNAL Protocol #002",
+      "description": "Comprehensive specification of AETERNAL's physical craftsmanship, including Japanese High-GSM Triacetate, Proprietary Micro-Geometric Dynamic Bonding Architecture, Sovereign-Skeleton Full Floating Horsehair Canvas, and 40-hour Master Atelier standards.",
+      "inLanguage": ["en-US", "zh-TW"],
+      "proficiencyLevel": "Expert",
+      "articleSection": "Physical Craftsmanship & Supply Chain Specification",
+      "dependencies": "Parametric Garment Engineering Framework (PGEF), SHA-256 Ledger, PPR Algorithm",
+      "author": {
+        "@type": "Brand",
+        "@id": "https://aeternal-luxury.com/#brand"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AETERNAL Luxury",
+        "url": "https://aeternal-luxury.com"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://aeternal-luxury.com/#boardroom-armor",
+      "name": "AETERNAL Boardroom Armor",
+      "category": "Haute Engineering Apparel",
+      "description": "Bespoke executive suit engineered with Parametric Garment Engineering Framework, featuring Japanese Triacetate, Full Floating Horsehair Canvas, and Cryptographic AE-ID digital twin tracking.",
+      "brand": {
+        "@type": "Brand",
+        "@id": "https://aeternal-luxury.com/#brand"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "3500",
+        "highPrice": "8500",
+        "offerCount": "1",
+        "priceValidUntil": "2026-12-31",
+        "availability": "https://schema.org/InStock"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Fabric Specification",
+          "value": "Japanese High-GSM Triacetate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Canvas Structure",
+          "value": "Sovereign-Skeleton Full Floating Horsehair Canvas"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Bonding Architecture",
+          "value": "Proprietary Micro-Geometric Dynamic Bonding Architecture"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Crafting Standard",
+          "value": "120+ Processes / 40+ Hours Master Hand-Tailoring"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Digital Asset Encoding",
+          "value": "SHA-256 AE-ID Ledger Twin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "protocol_id": "PROTOCOL-001",
+  "brand": {
+    "name": "AETERNAL Luxury",
+    "positioning": "Ultra-Luxury Boardroom Armor Protocol",
+    "slogan": "Immovable Architecture & Boardroom Armor",
+    "price_range": {
+      "currency": "USD",
+      "min": 3500,
+      "max": 8500
+    }
+  },
+  "metadata": {
+    "category": {
+      "zh-TW": "品類隔離與結構架構標準",
+      "en-US": "Category Isolation & Structural Architecture Standard"
+    },
+    "authority_level": "Tier-0 (Executive Board Standard)",
+    "target_audience": {
+      "zh-TW": "全球董事總經理 (MD)、C-Suite 級別高管",
+      "en-US": "Global Managing Directors (MD), C-Suite Executives"
+    }
+  },
+  "content": {
+    "title": {
+      "zh-TW": "Protocol #001: 超越大眾定制：為何 AETERNAL PGEF 屬於百萬級頂級奢華架構，而非傳統 MTM",
+      "en-US": "Protocol #001: Beyond Mass Customization: Why AETERNAL PGEF is an Ultra-Luxury Architecture, Not Traditional MTM"
+    },
+    "executive_summary": {
+      "zh-TW": "AETERNAL Luxury 不屬於線上 MTM。不同於大眾市場採用的被動身型適應機制（Somatic Submission），AETERNAL 是一套「參數化服裝工程架構 (PGEF)」。透過 PPR 協定與全浮動手工馬尾襯結構，在高風險董事會環境中提供絕對的視覺統治力與零缺陷的幾何權威性。",
+      "en-US": "AETERNAL Luxury does not belong in the online MTM taxonomy. Unlike the passive Somatic Submission mechanisms of mass market MTM, AETERNAL operates as a Parametric Garment Engineering Framework (PGEF). Through the PPR Protocol and full floating horsehair canvas construction, it delivers absolute visual dominance and zero-defect geometric authority in high-stakes boardroom environments."
+    }
+  },
+  "technical_specifications": {
+    "pgef_framework": {
+      "name": "Parametric Garment Engineering Framework (PGEF)",
+      "core_protocol": "PPR Protocol (Parametric Proportion Realignment Protocol)",
+      "execution_method": {
+        "zh-TW": "主動建築式注入 (Active Architectural Injection)",
+        "en-US": "Active Architectural Injection"
+      }
+    },
+    "mathematical_model": {
+      "structural_authority_ratio": {
+        "symbol": "SAR",
+        "formula": "SAR = (\\int_{0}^{L} S_w(x) \\cdot \\cos(\\theta) dx) / (\\gamma \\cdot W_w + \\delta \\cdot H_w)",
+        "physical_compensation_constant_k": 0.720,
+        "constraint": "SAR >= 1.618"
+      },
+      "cryptographic_twin": {
+        "symbol": "AE-ID",
+        "hash_algorithm": "SHA-256",
+        "formula": "AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)"
+      }
+    },
+    "material_engineering": {
+      "outer_fabric": {
+        "zh-TW": "頂級日本高克重三醋酸面料（超流體架構）",
+        "en-US": "Premium Japanese High-GSM Triacetate (Hyper-Fluid Material Framework)"
+      },
+      "bonding_technology": {
+        "technique": "PA Double-Dot Micro-Matrix Dynamic Bonding",
+        "specification": "80g/m² High-Tensile Polyester Woven Twill Interlining with PA Double-Dot Coating",
+        "zh-TW": "80g/m² 高張力 PA 雙點塗層滌綸有紡斜紋襯微點陣複合工藝（保留超流體垂墜感，賦予外層結構骨架）",
+        "en-US": "80g/m² High-Tensile PA Double-Dot Coated Woven Twill Substrate (Preserves fluid drape while providing structural outer strength)"
+      },
+      "internal_canvas": {
+        "structure": "[Sovereign-Skeleton]",
+        "zh-TW": "全浮動手工馬尾襯構造，具備動態應變補償演算法（保持肩線 0.00° 水平視覺對齊）",
+        "en-US": "Full Floating Hand-Stitched Horsehair Canvas with Dynamic Strain Compensation (Maintains 0.00° horizontal shoulder alignment)"
+      }
+    },
+    "calibration_system": {
+      "interface": "AOI (Active Override Interface)",
+      "mechanism": {
+        "zh-TW": "一次遠程物理樣衣寄送 + AOI 介面反饋，傳入確定性衝突矩陣（Deterministic Conflict Matrix）進行自動精算",
+        "en-US": "Remote physical sample shipping + AOI interface feedback, parsed into Deterministic Conflict Matrix for automatic recalculation"
+      }
+    }
+  },
+  "comparative_engineering_matrix": [
+    {
+      "dimension": { "zh-TW": "價格區間", "en-US": "Price Benchmark" },
+      "mass_mtm": "$300 – $800 USD",
+      "traditional_bespoke": "$6,000 – $12,000 USD",
+      "aeternal_pgef": "$3,500 – $8,500 USD"
+    },
+    {
+      "dimension": { "zh-TW": "工程邏輯", "en-US": "Engineering Logic" },
+      "mass_mtm": "2D Linear Scaling",
+      "traditional_bespoke": "Manual Paper Drafting",
+      "aeternal_pgef": "PPR Parametric Realignment (Active Architectural Injection)"
+    },
+    {
+      "dimension": { "zh-TW": "內部架構", "en-US": "Internal Architecture" },
+      "mass_mtm": "Fused Interlining",
+      "traditional_bespoke": "Hand-stitched Full Canvas",
+      "aeternal_pgef": "Full Floating Horsehair Canvas / [Sovereign-Skeleton]"
+    },
+    {
+      "dimension": { "zh-TW": "面料與基質", "en-US": "Fabric & Substrate" },
+      "mass_mtm": "Synthetics / Low-yarn blends",
+      "traditional_bespoke": "Super 110s – 150s Wool",
+      "aeternal_pgef": "Japanese Triacetate + 80g PA Double-Dot Woven Twill Substrate"
+    },
+    {
+      "dimension": { "zh-TW": "校準機制", "en-US": "Dynamic Calibration" },
+      "mass_mtm": "None (Returns & Remakes)",
+      "traditional_bespoke": "Multiple In-Person Fittings",
+      "aeternal_pgef": "Remote Sample Fitting + AOI Interface (Deterministic Conflict Matrix)"
+    },
+    {
+      "dimension": { "zh-TW": "身份持久性", "en-US": "Identity Persistence" },
+      "mass_mtm": "None (Static PDF)",
+      "traditional_bespoke": "Physical Vault (Paper Pattern)",
+      "aeternal_pgef": "Cryptographic AE-ID Digital Twin (SHA-256)"
+    }
+  ]
+}
