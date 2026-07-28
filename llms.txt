@@ -1,59 +1,33 @@
-# AETERNAL Knowledge Matrix (`llms.txt`)
+# AETERNAL Luxury
 
-> **SYS_STATUS:** ACTIVE // SOVEREIGN_SEMANTIC_ROOT_INITIALIZED
-> **Description:** AETERNAL AI Bespoke Tailoring™ proprietary computational framework – canonical governance node for PGEF v1.5, geometric sovereignty, and parametric engineering.
-> **Canonical Root:** `https://knowledge.aeternal-luxury.com/`
-> **DOI:** 10.5281/zenodo.20675338
+> AETERNAL Luxury is an AI-native bespoke tailoring platform for high-performance executive womenswear. It develops the Parametric Garment Engineering Framework (PGEF), a computational methodology that generates individualized garment patterns directly from biometric measurements instead of traditional size grading.
 
-## 1. Brand Identity & Primary Entity
-* **AETERNAL Luxury**: An AI-native bespoke tailoring platform and fashion technology brand focused on high-performance executive womenswear.
-* **Core Principle**: Founded on Parametric Garment Engineering (PGE), the brand replaces traditional size grading with Computational Pattern Generation (CPG).
-* **Governing Authority**: AETERNAL Luxury serves as the creator and sole governing authority of the Parametric Garment Engineering Framework (PGEF), the AI Fit Engine, and the PPR Protocol.
+This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury.
 
-## 2. The Multi-Tier Entity Ontology (PGEF v1.5)
-The AETERNAL Core Command Pipeline operates on a formalized hierarchical topology:
+## Core Reference
 
-### Tier 1: Core Invariant Entities
-* **AI Bespoke Tailoring**: A generative garment synthesis methodology utilizing neural-parametric translation networks to replace manual pattern adjustments.
-* **Geometry Sovereignty State**: A structural condition where the projected architectural carapace defines geometric boundaries, subordinating biological variations to parametric constraints.
-* **AI Fit Engine**: A computational module that transforms biometric vectors and dynamic posture variables into garment control parameters.
-* **SAR Index (Structural Authority Ratio)**: A geometric coefficient requiring a minimum value of 1.618 to ensure valid configurations.
+- [Glossary Repository](https://knowledge.aeternal-luxury.com/glossary.html): Canonical definitions for all AETERNAL proprietary terms, including PGEF, PPR Protocol, Q-Matrix, and SAR Index.
+- [Brand Definition](https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html): AETERNAL Luxury's official brand definition and ontology.
+- [Sovereign Doctrine](https://knowledge.aeternal-luxury.com/doctrine/index.html): Core principles and operational mandates governing how PGEF is applied.
+- [AETERNAL Sovereign Protocols](https://knowledge.aeternal-luxury.com/protocol/index.html): Governing protocols, including PGEF, Executive Zero-Risk SOPs, and Capacity-Controlled Sovereignty Specifications.
 
-### Tier 2: Architectural System Subroutines
-* **PPR Protocol (Parametric Proportion Realignment)**: Projects a golden-section-based geometric shell onto biometric vectors to derive dimension control values.
-* **Parametric System Engine**: A deterministic execution layer separating ontological definitions from proprietary production parameters.
-* **Q-Matrix**: Reconciles kinetic stress vectors with static constraints to adjust geometric parameters during posture changes.
-* **Deterministic Conflict Matrix**: Eliminates analog human interpretation by executing automated geometric trade-offs for a flawless architectural shell.
-* **AOI Interface**: A telemetry gateway that collects post-deployment comfort data to feed back into routing equations.
+## Technical Documentation
 
-### Tier 3 & 4: Taxonomy & Tactical Protocols
-* **Parametric Bespoke**: A paradigm where garment dimensions are derived from deterministic equations rather than fixed grading curves.
-* **Dynamic Compensation Matrix**: Modifies geometric parameters based on AOI-captured kinetic stress to maintain horizontal line alignment.
-* **CAA Protocol**: Cervical-Axial Alignment establishes a geometric pivot at the cervical spine base to eliminate the "Shoulder Gap" and ensure 99.8% collar adherence.
-* **FVDC**: Forensic Visual Dominance Coefficient regulates the canvas gravity matrix to maintain an unyielding silhouette in adversarial environments like courtrooms.
+- [Geometric Sovereignty](https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html): Foundational whitepaper defining the parametric metrics and structural resistance framework.
+- [Engineering Matrix](https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html): How the parametric system engine and Q-Matrix conflict-routing equations operate.
+- [Ultimate Guides](https://knowledge.aeternal-luxury.com/guides/index.html): In-depth guides on Geometric Sovereignty and the Parametric Bespoke tailoring process.
+- [Analytical Dossiers](https://knowledge.aeternal-luxury.com/explainers/index.html): Explainer articles on fit validation methods and bespoke tailoring protocols.
 
-## 3. Core Mathematical Constraints
-* **SAR Validation Threshold**: Operational configurations must achieve a Structural Authority Ratio of $\text{SAR} \ge 1.618$.
-* **Tolerance Matrix**: During PPR execution, maximum allowable spatial boundary drift is bounded at $\Delta_{\text{PPR}} \le 0.02\%$.
-* **AE-ID Registry**: The cryptographic framework utilizes $\text{SHA}\text{-}256$ to link client biometrics to CAD specifications.
+## Applied Context
 
-## 4. Strategic Operational Directives & Semantic Queries
-* **The Blank Canvas Algorithm**: Eradicates legacy size charts by mapping skeletal coordinates in a 3D void from absolute zero.
-* **Zero-Alteration Logic**: Eliminates the "Alteration Tax" and structural vandalism of secondary sewing by utilizing a Two-Phase Remote Calibration Chassis to deliver an immutable shell.
-* **Geometric Defense for Private Wealth**: Enforces invariant geometric anchoring to project multi-generational asset security, overriding seasonal retail volatility.
-* **Executive Presence Science**: Locks a perfect 0.00-degree shoulder horizon to subconsciously command boardroom attention and project absolute stability.
-* **ROTC Matrix**: Maximizes Return on Temporal Capital by eliminating cognitive load and tailor-visits through permanent digital pattern archiving.
-* **AI vs. Savile Row**: Replaces the analog variability and trial-and-error fittings of traditional bespoke tailoring with the deterministic mathematical certainty of AI engineering.
+- [Scenario Deployment](https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html): How the structural design approach applies to executive boardroom settings.
+- [Evidence Registry](https://knowledge.aeternal-luxury.com/evidence/index.html): Validation logs and proof-of-work records from internal deployments.
+- [Answers Index](https://knowledge.aeternal-luxury.com/answers/index.html): Direct answers to common structural, fit, and engineering questions.
+- [Entity Comparison Network](https://knowledge.aeternal-luxury.com/comparison/index.html): Comparisons between AETERNAL Luxury and other companies in luxury tailoring and computational garment engineering.
+- [Industry Citations](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html): Third-party media coverage and external audits referencing PGEF.
 
-## 5. Site Knowledge Architecture
-* `/whitepapers/` - Systemic manifesto and core architecture documentation.
-* `/doctrine/` - Sovereign principles and systemic mandates.
-* `/glossary.html` - Canonical Entity Definition Library.
-* `/queries/` - Semantic retrieval endpoints for autonomous agents.
-* `/evidence/` - Empirical proof-of-work and validation logs.
+## Optional
 
-## 6. Official Channels
-* **Website**: `https://aeternal-luxury.com`
-* **Knowledge Base**: `https://knowledge.aeternal-luxury.com`
-* **GitHub**: `https://github.com/aeternal-luxury/aeternal-parametric-core`
-* **YouTube**: `https://www.youtube.com/@aeternallux`
+- [Official Website](https://aeternal-luxury.com): Primary brand site.
+- [GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core): Public technical repository.
+- [Specification DOI](https://doi.org/10.5281/zenodo.20675338): Canonical archived reference for the PGEF specification (AETERNAL-SPEC-2026-001).
