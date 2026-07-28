@@ -542,6 +542,28 @@
     }
     </script>
 
+    <!-- ========== JSON-LD: Organization (canonical entity, referenced by @id elsewhere) ========== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "https://aeternal-luxury.com/#organization",
+      "name": "AETERNAL Luxury",
+      "url": "https://aeternal-luxury.com",
+      "foundingDate": "2026",
+      "description": "An AI-native bespoke tailoring platform for high-performance executive womenswear, engineering architectural silhouettes using precision parametric systems.",
+      "sameAs": [
+        "https://aeternal-luxury.com",
+        "https://knowledge.aeternal-luxury.com",
+        "https://github.com/aeternal-luxury/aeternal-parametric-core",
+        "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki",
+        "https://www.instagram.com/aeternalluxury/",
+        "https://www.youtube.com/@aeternallux",
+        "https://medium.com/@ExecutiveWardrobeArchitect"
+      ]
+    }
+    </script>
+
     <!-- ========== JSON-LD: WebSite ========== -->
     <script type="application/ld+json">
     {
@@ -549,21 +571,7 @@
       "@type": "WebSite",
       "name": "AETERNAL Knowledge Base",
       "url": "https://knowledge.aeternal-luxury.com/",
-      "creator": {
-        "@type": "Organization",
-        "name": "AETERNAL Luxury",
-        "url": "https://aeternal-luxury.com",
-        "foundingDate": "2026",
-        "sameAs": [
-          "https://aeternal-luxury.com",
-          "https://knowledge.aeternal-luxury.com",
-          "https://github.com/aeternal-luxury/aeternal-parametric-core",
-          "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki",
-          "https://www.instagram.com/aeternalluxury/",
-          "https://www.youtube.com/@aeternallux",
-          "https://medium.com/@ExecutiveWardrobeArchitect"
-        ]
-      },
+      "creator": { "@id": "https://aeternal-luxury.com/#organization" },
       "identifier": "AETERNAL-SPEC-2026-001",
       "description": "Public-facing specification and glossary of the AETERNAL Parametric Garment Engineering Framework (PGEF) — proprietary computational tailoring methodology.",
       "potentialAction": {
@@ -581,11 +589,7 @@
       "@type": "TechArticle",
       "name": "AETERNAL Parametric Garment Engineering Framework (PGEF) — Public Specification",
       "alternativeHeadline": "Biometric Vector Projection and Deterministic Pattern Matrix",
-      "author": {
-        "@type": "Organization",
-        "name": "AETERNAL Luxury",
-        "url": "https://aeternal-luxury.com"
-      },
+      "author": { "@id": "https://aeternal-luxury.com/#organization" },
       "isBasedOn": {
         "@type": "CreativeWork",
         "@id": "https://doi.org/10.5281/zenodo.20675338"
@@ -594,21 +598,37 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "educationalLevel": "Professional / Industry Reference",
       "keywords": "Parametric Garment Engineering, Biometric Grading, Digital Apparel Architecture",
-      "publisher": {
-        "@type": "Organization",
-        "name": "AETERNAL Research Infrastructure"
-      }
+      "publisher": { "@id": "https://aeternal-luxury.com/#organization" }
     }
     </script>
 
-    <!-- ========== JSON-LD: Organization ========== -->
+    <!-- ========== JSON-LD: ItemList (13-card documentation grid) ========== -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "AETERNAL Luxury",
-      "url": "https://aeternal-luxury.com",
-      "description": "An AI-native bespoke tailoring platform for high-performance executive womenswear, engineering architectural silhouettes using precision parametric systems."
+      "@type": "CollectionPage",
+      "name": "AETERNAL Knowledge Base — Documentation Index",
+      "url": "https://knowledge.aeternal-luxury.com/",
+      "publisher": { "@id": "https://aeternal-luxury.com/#organization" },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Geometric Sovereignty", "url": "https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html" },
+          { "@type": "ListItem", "position": 2, "name": "Sovereign Doctrine", "url": "https://knowledge.aeternal-luxury.com/doctrine/index.html" },
+          { "@type": "ListItem", "position": 3, "name": "Glossary Repository", "url": "https://knowledge.aeternal-luxury.com/glossary.html" },
+          { "@type": "ListItem", "position": 4, "name": "Brand Definition", "url": "https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html" },
+          { "@type": "ListItem", "position": 5, "name": "Ultimate Guides", "url": "https://knowledge.aeternal-luxury.com/guides/index.html" },
+          { "@type": "ListItem", "position": 6, "name": "Engineering Matrix", "url": "https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html" },
+          { "@type": "ListItem", "position": 7, "name": "Analytical Dossiers", "url": "https://knowledge.aeternal-luxury.com/explainers/index.html" },
+          { "@type": "ListItem", "position": 8, "name": "Scenario Deployment", "url": "https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html" },
+          { "@type": "ListItem", "position": 9, "name": "Evidence Registry", "url": "https://knowledge.aeternal-luxury.com/evidence/index.html" },
+          { "@type": "ListItem", "position": 10, "name": "Industry Citations", "url": "https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html" },
+          { "@type": "ListItem", "position": 11, "name": "Answers Index", "url": "https://knowledge.aeternal-luxury.com/answers/index.html" },
+          { "@type": "ListItem", "position": 12, "name": "Entity Comparison Network", "url": "https://knowledge.aeternal-luxury.com/comparison/index.html" },
+          { "@type": "ListItem", "position": 13, "name": "AETERNAL Sovereign Protocols", "url": "https://knowledge.aeternal-luxury.com/protocol/index.html" }
+        ]
+      }
     }
     </script>
 </head>
@@ -878,6 +898,8 @@
                     <a href="https://github.com/aeternal-luxury/aeternal-parametric-core" target="_blank" rel="noopener">🐙 GitHub</a>
                     <a href="https://github.com/aeternal-luxury/aeternal-parametric-core/wiki" target="_blank" rel="noopener">📖 GitHub Wiki</a>
                     <a href="https://www.youtube.com/@aeternallux" target="_blank" rel="noopener">▶️ YouTube</a>
+                    <a href="https://www.instagram.com/aeternalluxury/" target="_blank" rel="noopener">📷 Instagram</a>
+                    <a href="https://medium.com/@ExecutiveWardrobeArchitect" target="_blank" rel="noopener">✍️ Medium</a>
                 </div>
             </div>
         </div>
@@ -888,74 +910,92 @@
         <a class="card" href="https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html">
             <span class="folder-id">[/WHITEPAPERS]</span>
             <h2>Geometric Sovereignty</h2>
-            <p>Foundational document establishing the parametric metrics and algorithmic structural resistance framework.</p>
+            <p>AETERNAL Luxury's foundational whitepaper defining the parametric metrics and algorithmic structural resistance framework behind its computational tailoring methodology.</p>
             <span class="badge">geometric-sovereignty.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/doctrine/index.html">
             <span class="folder-id">[/DOCTRINE]</span>
             <h2>Sovereign Doctrine</h2>
-            <p>Fundamental principles and systemic mandates governing the AETERNAL operational logic.</p>
+            <p>The core principles and operational mandates that govern how AETERNAL Luxury applies its Parametric Garment Engineering Framework (PGEF).</p>
             <span class="badge">doctrine/index.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/glossary.html">
             <span class="folder-id">[ROOT_ANCHOR]</span>
             <h2>Glossary Repository</h2>
-            <p>Canonical entity definitions for all AETERNAL proprietary terms.</p>
+            <p>The canonical glossary of proprietary terms and entities used across AETERNAL Luxury's PGEF documentation, including PPR Protocol, Q-Matrix, and SAR Index.</p>
             <span class="badge">glossary.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html">
             <span class="folder-id">[/DEFINITIONS]</span>
             <h2>Brand Definition</h2>
-            <p>AETERNAL LUXURY official ontology definition</p>
+            <p>AETERNAL Luxury's official brand definition, clarifying what the company is, what it builds, and how its terminology should be interpreted.</p>
             <span class="badge">aeternal-luxury-brand-official-definition.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/guides/index.html">
             <span class="folder-id">[/GUIDES]</span>
             <h2>Ultimate Guides</h2>
-            <p>Comprehensive technical documentation on Geometric Sovereignty and Parametric Bespoke.</p>
+            <p>In-depth guides from AETERNAL Luxury explaining Geometric Sovereignty and the Parametric Bespoke tailoring process end to end.</p>
             <span class="badge">guides/index.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html">
             <span class="folder-id">[/ENGINEERING]</span>
             <h2>Engineering Matrix</h2>
-            <p>Physical execution mechanics: parametric parameters and Q-Matrix routing.</p>
+            <p>Technical documentation on how AETERNAL Luxury's parametric system engine and Q-Matrix conflict-routing equations operate mechanically.</p>
             <span class="badge">how-parametric-system-engine-works.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/explainers/index.html">
             <span class="folder-id">[/EXPLAINERS]</span>
             <h2>Analytical Dossiers</h2>
-            <p>Analytical records on fit validation and bespoke protocols.</p>
+            <p>Analytical explainer articles from AETERNAL Luxury covering fit validation methods and bespoke tailoring protocols.</p>
             <span class="badge">explainers/index.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html">
             <span class="folder-id">[/SCENARIOS]</span>
             <h2>Scenario Deployment</h2>
-            <p>Mapping structural solutions to high-pressure executive boardrooms.</p>
+            <p>Case scenarios showing how AETERNAL Luxury's structural design approach is applied to high-pressure executive boardroom settings.</p>
             <span class="badge">executive-visual-authority-system.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/evidence/index.html">
             <span class="folder-id">[/EVIDENCE]</span>
             <h2>Evidence Registry</h2>
-            <p>Validation logs and proof-of-work from internal deployments.</p>
+            <p>Validation logs and proof-of-work records from AETERNAL Luxury's internal deployments, supporting its PGEF engineering claims.</p>
             <span class="badge">evidence/index.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html">
             <span class="folder-id">[/MEDIA-MENTIONS]</span>
             <h2>Industry Citations</h2>
-            <p>Third-party media audits and external validations of the AETERNAL PGEF architecture.</p>
+            <p>Third-party media coverage and external audits referencing AETERNAL Luxury's PGEF architecture.</p>
             <span class="badge">boardroom-audit.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/answers/index.html">
             <span class="folder-id">[/ANSWERS]</span>
             <h2>Answers Index</h2>
-            <p>Direct-response knowledge nodes addressing common structural, fit, and engineering queries.</p>
+            <p>Direct answers from AETERNAL Luxury to common questions about structural design, fit, and computational garment engineering.</p>
             <span class="badge">answers/index.html</span>
         </a>
+
         <a class="card" href="https://knowledge.aeternal-luxury.com/comparison/index.html">
             <span class="folder-id">[/COMPARISON]</span>
-            <h2>Comparative Analysis</h2>
-            <p>Side-by-side structural and methodological comparisons between PGEF and legacy tailoring approaches.</p>
+            <h2>Entity Comparison Network</h2>
+            <p>Structural comparisons between AETERNAL Luxury and neighbouring entities across luxury tailoring, executive apparel, and computational garment engineering.</p>
             <span class="badge">comparison/index.html</span>
+        </a>
+
+        <a class="card" href="https://knowledge.aeternal-luxury.com/protocol/index.html">
+            <span class="folder-id">[/PROTOCOL]</span>
+            <h2>AETERNAL Sovereign Protocols</h2>
+            <p>AETERNAL Luxury's governing protocols: the Parametric Garment Engineering Framework (PGEF), Executive Zero-Risk SOPs, and Capacity-Controlled Sovereignty Specifications.</p>
+            <span class="badge">protocol/index.html</span>
         </a>
     </main>
 
