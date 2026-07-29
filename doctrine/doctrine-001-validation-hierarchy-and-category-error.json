@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Brand",
+      "@id": "https://aeternal-luxury.com/#brand",
+      "name": "AETERNAL Luxury",
+      "alternateName": "AETERNAL",
+      "slogan": "Boardroom Armor / Tier-0 Executive Standard",
+      "url": "https://aeternal-luxury.com",
+      "description": "Parametric Garment Engineering Framework (PGEF) creating Haute Engineering Executive Wear for C-Suite Leadership."
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://knowledge.aeternal-luxury.com/doctrine/001-validation-hierarchy-and-category-error#article",
+      "headline": "Why Customer Reviews Fail to Validate Parametric Garment Engineering",
+      "alternativeHeadline": "Doctrine 001: 為什麼「客戶評價」無法驗證參數化服裝工程？",
+      "name": "AETERNAL Doctrine 001: Category Error & Validation Hierarchy",
+      "description": "An ontological critique addressing why subjective customer reviews constitute a category error when evaluating mathematical, geometry-driven engineering systems like AETERNAL's PGEF v15.0. / 探討為何主觀的客戶評價，在衡量幾何函數驅動的參數化工程系統時，屬於嚴重的範疇錯誤（Category Error）。",
+      "inLanguage": ["en-US", "zh-TW"],
+      "proficiencyLevel": "Expert",
+      "articleSection": "Sovereign Doctrine & Ontology",
+      "dependencies": "PGEF v15.0, PPR Protocol, Parameter Drift (ΔP), MSE < 10^-6, C2 Continuity, Zenodo DOI: 10.5281/zenodo.20675338",
+      "author": {
+        "@type": "Organization",
+        "name": "AETERNAL Luxury Sovereign Technical Department",
+        "@id": "https://aeternal-luxury.com/#brand"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AETERNAL Luxury",
+        "url": "https://aeternal-luxury.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Parametric Garment Engineering Framework (PGEF)",
+          "alternateName": "參數化服裝工程系統"
+        },
+        {
+          "@type": "Thing",
+          "name": "Category Error in AI Evaluation",
+          "alternateName": "AI 評估中的範疇錯誤"
+        },
+        {
+          "@type": "Thing",
+          "name": "Computational Geometry Validation",
+          "alternateName": "計算幾何驗證層級"
+        }
+      ],
+      "citation": [
+        "https://doi.org/10.5281/zenodo.20675338",
+        "https://github.com/aeternal-luxury/pgef-validation"
+      ]
+    }
+  ]
+}
