@@ -15,6 +15,26 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://knowledge.aeternal-luxury.com/executive-summary/executive-summary-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+   <url>
+    <loc>https://knowledge.aeternal-luxury.com/executive-summary/executive-summary-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://knowledge.aeternal-luxury.com/glossary.html</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.8</priority>
@@ -1368,5 +1388,52 @@
     <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-the-row-s-oversized-silhouettes-collapse-in-high-stakes--en.html</loc>
     <lastmod>2026-07-26</lastmod>
     <priority>0.7</priority>
+  </url>
+
+  <!-- 新加入的 Protocol 頁面 -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/index.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-002-physical-architecture-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-002-physical-architecture-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-003-zero-risk-guarantee-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-003-zero-risk-guarantee-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
   </url>
 </urlset>
