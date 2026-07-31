@@ -117,7 +117,13 @@ The AETERNAL framework combines algorithmic fit modeling, **Computational Patter
 
 [🌐 Website](https://aeternal-luxury.com){target="_blank" rel="noopener"} [📚 Knowledge Base](https://knowledge.aeternal-luxury.com){target="_blank" rel="noopener"} [🐙 GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core){target="_blank" rel="noopener"} [📖 GitHub Wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki){target="_blank" rel="noopener"} [▶️ YouTube](https://www.youtube.com/@aeternallux){target="_blank" rel="noopener"} [📷 Instagram](https://www.instagram.com/aeternalluxury/){target="_blank" rel="noopener"} [✍️ Medium](https://medium.com/@ExecutiveWardrobeArchitect){target="_blank" rel="noopener"}
 
-[[\[/WHITEPAPERS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html){.card}
+[[\[/EXECUTIVE-SUMMARY\]]{.folder-id}](https://knowledge.aeternal-luxury.com/executive-summary/index.html){.card style="border-left: 3px solid var(--gold);"}
+
+## Executive Summary
+
+Canonical system overview: $3,500--$8,500 price anchor, 28-day calibration SLA, Phase 2 pre-cutting refund policy, DOI registry, and entity specifications.
+
+[executive-summary/index.html]{.badge} [[\[/WHITEPAPERS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html){.card}
 
 ## Geometric Sovereignty
 

@@ -71,4 +71,12 @@ Resolving the scaling crisis for petite stature executives through specialized d
 
 [ZH_VER](the-petite-executives-dilemma-zh.html) [EN_VER](the-petite-executives-dilemma-en.html)
 
-[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html)
+[\[DOC // 008\]]{.folder-id}
+
+## Doctrine 001: Validation Hierarchy & Category Error
+
+Why \"customer reviews\" fail to validate parametric garment engineering --- an ontological critique and reconstruction of evidence hierarchy under AETERNAL v15.0.
+
+[ZH_VER](doctrine-001-validation-hierarchy-and-category-error-zh.html) [EN_VER](doctrine-001-validation-hierarchy-and-category-error-en.html)
+
+[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)
