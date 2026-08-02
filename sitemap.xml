@@ -37,7 +37,17 @@
   <url>
     <loc>https://knowledge.aeternal-luxury.com/glossary.html</loc>
     <lastmod>2026-07-25</lastmod>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-zh.html</loc>
