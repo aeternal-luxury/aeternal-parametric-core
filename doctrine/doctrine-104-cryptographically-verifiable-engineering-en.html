@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cryptographically Verifiable Engineering (CVE) Framework — AETERNAL</title>
+    <meta name="description" content="A Methodology for Cryptographic Trust in Proprietary Engineering Systems. Protect IP, maintain trust, enable continuous verification.">
+    
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "Cryptographically Verifiable Engineering (CVE) Framework",
+      "alternativeHeadline": "A Methodology for Cryptographic Trust in Proprietary Engineering Systems",
+      "author": {
+        "@type": "Organization",
+        "name": "AETERNAL Framework Governance Group (AFGG)"
+      },
+      "datePublished": "2026-08-02",
+      "version": "2.0",
+      "about": {
+        "@type": "Thing",
+        "name": "Cryptographically Verifiable Engineering",
+        "description": "A methodology that allows proprietary engineering systems to be publicly verifiable for output authenticity and consistency without revealing core algorithms."
+      },
+      "inLanguage": "en",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "Doctrine 001: Evidence Hierarchy and Category Error",
+          "url": "https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "VS-001: PGEF Engine Integrity Validation",
+          "url": "https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping"
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "AETERNAL"
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+    </script>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.7;
+            color: #1a1a2e;
+            background: #fafafa;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 50px 60px;
+            border-radius: 12px;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.06);
+        }
+        h1 {
+            font-size: 2.2em;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+            margin-bottom: 0.1em;
+            color: #0a0a1a;
+        }
+        .subtitle {
+            font-size: 1.2em;
+            color: #4a4a6a;
+            font-weight: 400;
+            margin-bottom: 0.5em;
+        }
+        .metadata {
+            font-size: 0.9em;
+            color: #6b6b8a;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 1.5em;
+            margin-bottom: 2em;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5em;
+        }
+        .metadata span {
+            display: inline-block;
+        }
+        .metadata .label {
+            color: #8a8aaa;
+        }
+        h2 {
+            font-size: 1.6em;
+            font-weight: 600;
+            margin-top: 1.8em;
+            margin-bottom: 0.6em;
+            color: #0a0a1a;
+            border-bottom: 2px solid #e8e8f0;
+            padding-bottom: 0.2em;
+        }
+        h3 {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-top: 1.5em;
+            margin-bottom: 0.4em;
+            color: #1a1a3e;
+        }
+        h4 {
+            font-size: 1.05em;
+            font-weight: 600;
+            margin-top: 1.2em;
+            margin-bottom: 0.3em;
+            color: #2a2a4e;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        blockquote {
+            background: #f4f4fc;
+            border-left: 4px solid #4a4a8a;
+            padding: 1em 1.5em;
+            margin: 1.2em 0;
+            border-radius: 0 6px 6px 0;
+            font-style: italic;
+            color: #2a2a4a;
+        }
+        blockquote strong {
+            font-style: normal;
+        }
+        code {
+            background: #f0f0f6;
+            padding: 0.15em 0.5em;
+            border-radius: 4px;
+            font-family: "SF Mono", "Menlo", "Monaco", monospace;
+            font-size: 0.9em;
+            color: #1a1a3e;
+        }
+        pre {
+            background: #0e0e1a;
+            color: #e8e8f0;
+            padding: 1.5em;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: "SF Mono", "Menlo", "Monaco", monospace;
+            font-size: 0.9em;
+            line-height: 1.6;
+            margin: 1.2em 0;
+        }
+        pre code {
+            background: transparent;
+            padding: 0;
+            color: inherit;
+            font-size: inherit;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2em 0;
+            font-size: 0.95em;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 0.6em 1em;
+            text-align: left;
+        }
+        th {
+            background: #f4f4fc;
+            font-weight: 600;
+            color: #1a1a3e;
+        }
+        tr:nth-child(even) {
+            background: #fafaff;
+        }
+        .diagram {
+            background: #f4f4fc;
+            padding: 1.5em;
+            border-radius: 8px;
+            text-align: center;
+            font-family: "SF Mono", "Menlo", "Monaco", monospace;
+            font-size: 0.9em;
+            line-height: 1.8;
+            margin: 1.2em 0;
+            border: 1px solid #e0e0ea;
+            white-space: pre;
+            overflow-x: auto;
+        }
+        .diagram code {
+            background: transparent;
+            padding: 0;
+            font-size: inherit;
+        }
+        .doctrine-box {
+            background: #0e0e1a;
+            color: #e8e8f0;
+            padding: 1.5em 2em;
+            border-radius: 8px;
+            margin: 1.2em 0;
+        }
+        .doctrine-box code {
+            background: rgba(255,255,255,0.08);
+            color: #c8c8e0;
+        }
+        .doctrine-box strong {
+            color: #a8a8e0;
+        }
+        .version-history {
+            font-size: 0.95em;
+        }
+        .version-history td:first-child {
+            font-weight: 600;
+        }
+        .footer {
+            margin-top: 3em;
+            padding-top: 2em;
+            border-top: 1px solid #eee;
+            font-size: 0.85em;
+            color: #8a8aaa;
+            text-align: center;
+        }
+        .footer a {
+            color: #4a4a8a;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 640px) {
+            .container {
+                padding: 30px 20px;
+            }
+            h1 {
+                font-size: 1.6em;
+            }
+            .metadata {
+                flex-direction: column;
+                gap: 0.3em;
+            }
+            .diagram {
+                font-size: 0.75em;
+                padding: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <article>
+            <h1>Cryptographically Verifiable Engineering (CVE) Framework</h1>
+            <p class="subtitle">A Methodology for Cryptographic Trust in Proprietary Engineering Systems</p>
+            
+            <div class="metadata">
+                <span><span class="label">Version</span> 2.0</span>
+                <span><span class="label">Status</span> Methodology Specification</span>
+                <span><span class="label">Author</span> AETERNAL Framework Governance Group (AFGG)</span>
+                <span><span class="label">Case Study</span> VS-001 (PGEF Engine Integrity Validation)</span>
+                <span><span class="label">Published</span> 2026-08-02</span>
+            </div>
+            
+            <section>
+                <h2>0. The Black Box Problem</h2>
+                <p>Commercial engineering faces a paradox:</p>
+                <div class="diagram"><code>Open Source → Trust → No Business (IP exposed)</code></div>
+                <p>On the other hand:</p>
+                <div class="diagram"><code>Closed Source → Business (IP protected) → No Trust (unverifiable)</code></div>
+                <p>This is the <strong>Impossible Triangle</strong>:</p>
+                <div class="diagram"><code>
+        ┌─────────────────┐
+        │   Protect IP    │
+        │                 │
+        └────────┬────────┘
+                 │
+    ┌────────────┼────────────┐
+    │            │            │
+    ▼            ▼            ▼
+┌─────────┐ ┌─────────┐ ┌─────────┐
+│  Open   │ │  CVE    │ │ Closed  │
+│ Source  │ │  (This) │ │  Box    │
+│  ✅ IP  │ │  ✅ IP  │ │  ✅ IP  │
+│  ✅ Trust│ │  ✅ Trust│ │  ❌ Trust│
+└─────────┘ └─────────┘ └─────────┘
+                </code></div>
+                <p><strong>No existing approach solves all three simultaneously.</strong> Open source solves trust but exposes IP. Closed box protects IP but offers no trust. Third-party audits offer partial trust but are expensive, periodic, and not continuous.</p>
+                <p>CVE is designed to solve this problem: <strong>protect IP, maintain trust, enable continuous verification.</strong></p>
+            </section>
+            
+            <section>
+                <h2>1. CVE Doctrine</h2>
+                <blockquote>
+                    <p><strong>A proprietary engineering system shall never require blind trust.</strong></p>
+                    <p>It shall expose sufficient cryptographic evidence such that any independent party can verify:</p>
+                    <ul>
+                        <li><strong>Integrity</strong> — outputs have not been tampered with</li>
+                        <li><strong>Authenticity</strong> — outputs genuinely originated from the production system</li>
+                        <li><strong>Reproducibility</strong> — same inputs produce the same outputs</li>
+                    </ul>
+                    <p><strong>without obtaining proprietary knowledge.</strong></p>
+                </blockquote>
+                <p>This is the foundational definition of CVE. It is not a feature. It is a requirement.</p>
+            </section>
+            
+            <section>
+                <h2>2. Threat Model</h2>
+                
+                <h3>2.1 What CVE Prevents</h3>
+                <table>
+                    <thead>
+                        <tr><th>Threat</th><th>How CVE Prevents It</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Forged outputs</td><td>ECDSA signature verification fails without private key</td></tr>
+                        <tr><td>Modified artifacts</td><td>SHA-256 hash mismatch</td></tr>
+                        <tr><td>Replay attacks</td><td>Timestamp + Run ID + Seed in metadata</td></tr>
+                        <tr><td>Fake benchmark</td><td>Trust Ledger contains all artifacts; missing artifacts break the chain</td></tr>
+                        <tr><td>Fake validation</td><td>Public validator can be independently executed</td></tr>
+                    </tbody>
+                </table>
+                
+                <h3>2.2 What CVE Does NOT Prevent</h3>
+                <table>
+                    <thead>
+                        <tr><th>Non-threat</th><th>Why It Is Not Addressed</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Incorrect algorithm</td><td>CVE verifies authenticity, not correctness</td></tr>
+                        <tr><td>Poor engineering assumptions</td><td>CVE verifies consistency, not quality of decisions</td></tr>
+                        <tr><td>Weak aesthetic model</td><td>CVE verifies execution, not desirability</td></tr>
+                        <tr><td>Incorrect objective function</td><td>CVE verifies what the engine did, not what it should have done</td></tr>
+                    </tbody>
+                </table>
+                <p><strong>Important</strong>: CVE does not claim the engineering is "good." It claims the engineering is "real and consistent." Whether the engineering is "good" is a separate question that requires domain expertise.</p>
+            </section>
+            
+            <section>
+                <h2>3. Five Principles</h2>
+                <p>CVE is built on five principles, not five layers. Principles are universal; layers are implementation.</p>
+                
+                <h3>Principle 1: Immutable Evidence</h3>
+                <blockquote>Every engineering output must be captured as an immutable artifact. Once created, an artifact cannot be modified without detection.</blockquote>
+                <ul>
+                    <li><strong>Implementation</strong>: SHA-256 hash of the artifact content</li>
+                    <li><strong>Verification</strong>: Anyone can recompute the hash and compare</li>
+                </ul>
+                
+                <h3>Principle 2: Cryptographic Authenticity</h3>
+                <blockquote>Every artifact must prove its origin. The artifact must carry evidence that it was generated by the genuine production system, not by a human or a different system.</blockquote>
+                <ul>
+                    <li><strong>Implementation</strong>: ECDSA signature (private key signing, public key verification)</li>
+                    <li><strong>Verification</strong>: Anyone can verify the signature using the public key</li>
+                </ul>
+                
+                <h3>Principle 3: Deterministic Consistency</h3>
+                <blockquote>Same inputs must always produce the same outputs. The system must be deterministic. Non-determinism makes verification impossible.</blockquote>
+                <ul>
+                    <li><strong>Implementation</strong>: Fixed seeds + fixed dataset + fixed version</li>
+                    <li><strong>Verification</strong>: Anyone can replay the same inputs and compare outputs</li>
+                </ul>
+                
+                <h3>Principle 4: Independent Replay</h3>
+                <blockquote>Anyone must be able to independently verify the evidence. The verification process must not depend on the proprietary engine. It must be implementable with only standard, open-source tools.</blockquote>
+                <ul>
+                    <li><strong>Implementation</strong>: Public validator script (Python + standard libraries)</li>
+                    <li><strong>Verification</strong>: Anyone can download and execute the validator</li>
+                </ul>
+                
+                <h3>Principle 5: Comprehensive Auditability</h3>
+                <blockquote>All evidence must be traceable and auditable as a complete set. No artifact should be verifiable in isolation. The entire set of artifacts must be auditable as a whole.</blockquote>
+                <ul>
+                    <li><strong>Implementation</strong>: Trust Ledger (all hashes + signatures in one place)</li>
+                    <li><strong>Verification</strong>: One command verifies the entire ledger</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>4. Formal Definitions</h2>
+                
+                <h3>4.1 Artifact</h3>
+                <p>An <strong>Artifact</strong> is the fundamental unit of engineering evidence.</p>
+                <pre><code>Artifact := (Input, Output, Metadata, Hash, Signature)</code></pre>
+                <p>Where:</p>
+                <ul>
+                    <li><code>Input</code>: The data fed into the production system</li>
+                    <li><code>Output</code>: The result produced by the production system</li>
+                    <li><code>Metadata</code>: Context (version, timestamp, run_id, seed)</li>
+                    <li><code>Hash</code>: SHA-256 of (Input + Output + Metadata)</li>
+                    <li><code>Signature</code>: ECDSA signature of (Input + Output + Metadata + Hash)</li>
+                </ul>
+                
+                <h3>4.2 Trust Ledger</h3>
+                <p>A <strong>Trust Ledger</strong> is the complete set of all artifacts.</p>
+                <pre><code>Ledger := Σ(Artifact_i)</code></pre>
+                <p>Where Σ denotes concatenation in a single, immutable JSON structure.</p>
+                <p>The ledger itself is hashed:</p>
+                <pre><code>LedgerHash := SHA-256(Ledger_Content_Excluding_Hash)</code></pre>
+                
+                <h3>4.3 Validator</h3>
+                <p>A <strong>Validator</strong> is a deterministic function that maps an artifact to a verification result.</p>
+                <pre><code>Validator: Artifact → {PASS, FAIL}</code></pre>
+                <p>The validator checks:</p>
+                <ol>
+                    <li>Hash integrity: <code>RecomputeHash(Artifact) == Artifact.Hash</code></li>
+                    <li>Signature authenticity: <code>VerifySignature(Artifact) == VALID</code></li>
+                    <li>Schema completeness: <code>HasAllFields(Artifact) == TRUE</code></li>
+                    <li>Metric consistency: <code>RecomputeMetrics(Artifact) == Artifact.Metrics</code></li>
+                </ol>
+                
+                <h3>4.4 Trust Chain</h3>
+                <p>The full verification of a system is:</p>
+                <pre><code>Verify Ledger Hash
+    ↓
+For Each Artifact in Ledger:
+    Verify Signature
+    Verify Hash
+    Verify Schema
+    Verify Metrics
+
+If all pass, the system is <strong>cryptographically verified</strong>.</code></pre>
+            </section>
+            
+            <section>
+                <h2>5. Comparison: Four Models of Engineering Trust</h2>
+                <table>
+                    <thead>
+                        <tr><th>Model</th><th>Source Code</th><th>IP Protected</th><th>Verification</th><th>Verifiability</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Closed Box</td><td>❌ Hidden</td><td>✅ Yes</td><td>❌ None</td><td>❌ Unverifiable</td></tr>
+                        <tr><td>Open Source</td><td>✅ Public</td><td>❌ No</td><td>✅ Code Review</td><td>✅ Verifiable (with effort)</td></tr>
+                        <tr><td>Third-Party Audit</td><td>❌ Hidden</td><td>✅ Yes</td><td>⚠️ Periodic</td><td>⚠️ Partial (only at audit time)</td></tr>
+                        <tr><td><strong>CVE</strong></td><td>❌ Hidden</td><td>✅ Yes</td><td>✅ Continuous</td><td>✅ Verifiable (anyone, anytime)</td></tr>
+                    </tbody>
+                </table>
+                <p><strong>CVE is the only model that simultaneously:</strong></p>
+                <ul>
+                    <li>Protects intellectual property</li>
+                    <li>Provides continuous, public verification</li>
+                    <li>Does not require third-party trust</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>6. Case Study: VS-001 (PGEF Engine Validation)</h2>
+                <p>VS-001 is the first complete implementation of CVE.</p>
+                <table>
+                    <thead>
+                        <tr><th>CVE Principle</th><th>VS-001 Implementation</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Immutable Evidence</td><td><code>result_XXXX.json</code> with <code>artifact_hash</code> (SHA-256)</td></tr>
+                        <tr><td>Cryptographic Authenticity</td><td>ECDSA signature (private key signing, public key verification)</td></tr>
+                        <tr><td>Deterministic Consistency</td><td>Fixed seed (42) + fixed dataset (synthetic_1000.json)</td></tr>
+                        <tr><td>Independent Replay</td><td><code>validator.py</code> (open-source, standard libraries)</td></tr>
+                        <tr><td>Comprehensive Auditability</td><td><code>trust_ledger.json</code> (all artifacts in one place)</td></tr>
+                    </tbody>
+                </table>
+                <p><strong>Results</strong>:</p>
+                <ul>
+                    <li>1000 synthetic body types tested</li>
+                    <li>100% PASS rate</li>
+                    <li>All artifacts publicly verifiable</li>
+                    <li>Production engine remains proprietary</li>
+                </ul>
+                <p>VS-001 proves that CVE works in practice. It is not a theoretical framework.</p>
+            </section>
+            
+            <section>
+                <h2>7. Applicability</h2>
+                <p>CVE is not limited to garment engineering. It applies to any proprietary engineering system that needs to <strong>establish trust without exposing IP</strong>.</p>
+                <p><strong>Potential domains</strong>:</p>
+                <ul>
+                    <li>AI model behavior validation</li>
+                    <li>CFD (Computational Fluid Dynamics) solvers</li>
+                    <li>CAE (Computer-Aided Engineering) simulations</li>
+                    <li>Drug discovery engines</li>
+                    <li>Chip design (EDA) tools</li>
+                    <li>Building Information Modeling (BIM)</li>
+                    <li>Materials simulation</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>8. Conclusion</h2>
+                <blockquote>
+                    <p><strong>Trust should be established by cryptography, not by brand reputation.</strong></p>
+                </blockquote>
+                <p>CVE provides a methodology for achieving this. It does not require open-sourcing proprietary algorithms. It does not require third-party audits. It does not require trust in the brand.</p>
+                <p>It only requires:</p>
+                <ol>
+                    <li>A private key held by the production engine</li>
+                    <li>A public key published for verification</li>
+                    <li>A commitment to deterministic execution</li>
+                    <li>A public validator script</li>
+                </ol>
+                <p><strong>This is not "Trust us." This is "Verify us."</strong></p>
+            </section>
+            
+            <section>
+                <h2>9. Version History</h2>
+                <table class="version-history">
+                    <thead>
+                        <tr><th>Version</th><th>Date</th><th>Changes</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1.0</td><td>2026-08-02</td><td>Initial draft (VS-001 summary)</td></tr>
+                        <tr><td>2.0</td><td>2026-08-02</td><td>Upgraded to methodology (Threat Model, Formal Definitions, Five Principles, Comparison)</td></tr>
+                    </tbody>
+                </table>
+            </section>
+            
+            <section>
+                <h2>10. References</h2>
+                <ul>
+                    <li><a href="https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping" target="_blank">VS-001: PGEF Engine Integrity Validation</a></li>
+                    <li><a href="https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en" target="_blank">Doctrine 001: Evidence Hierarchy and Category Error</a></li>
+                    <li><a href="https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en" target="_blank">VS-104 (this document): Cryptographically Verifiable Engineering Framework</a></li>
+                </ul>
+            </section>
+        </article>
+        
+        <div class="footer">
+            <p>© 2026 AETERNAL — This document is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></p>
+        </div>
+    </div>
+</body>
+</html>

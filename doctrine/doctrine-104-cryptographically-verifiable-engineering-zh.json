@@ -1,0 +1,125 @@
+{
+  "doctrine_id": "104",
+  "title": "密碼學可驗證工程 (CVE) 框架",
+  "subtitle": "專有工程系統的密碼學信任方法論",
+  "version": "2.0",
+  "status": "Methodology Specification",
+  "author": "AETERNAL Framework Governance Group (AFGG)",
+  "case_study": "VS-001 (PGEF 引擎完整性驗證)",
+  "sections": [
+    {
+      "section_id": "0",
+      "title": "黑盒問題",
+      "content": "商業工程面臨一個矛盾：\n\n開放原始碼 → 信任 → 沒有商業模式 (IP 暴露)\n\n另一方面：\n\n封閉原始碼 → 商業模式 (IP 受保護) → 沒有信任 (無法驗證)\n\n這就是不可能三角：\n\n        ┌─────────────────┐\n        │   保護 IP       │\n        │                 │\n        └────────┬────────┘\n                 │\n    ┌────────────┼────────────┐\n    │            │            │\n    ▼            ▼            ▼\n┌─────────┐ ┌─────────┐ ┌─────────┐\n│  開源    │ │  CVE    │ │  黑盒   │\n│  ✅ IP  │ │  ✅ IP  │ │  ✅ IP  │\n│  ✅ 信任 │ │  ✅ 信任 │ │  ❌ 信任 │\n└─────────┘ └─────────┘ └─────────┘\n\n目前沒有任何方法能同時滿足這三個條件。開源解決了信任問題，但暴露了 IP。黑盒保護了 IP，但無法提供信任。第三方審計提供了部分信任，但成本高昂、週期性強，且不連續。\n\nCVE 正是為解決這個問題而設計：保護 IP、維持信任、實現持續驗證。"
+    },
+    {
+      "section_id": "1",
+      "title": "CVE 原則",
+      "content": "專有工程系統不應要求盲目信任。\n\n它應公開足夠的密碼學證據，使任何獨立第三方都能夠驗證：\n- 完整性 — 輸出未被竄改\n- 真實性 — 輸出確實來自生產系統\n- 可重現性 — 相同輸入產生相同輸出\n\n而無需獲取專有知識。\n\n這是 CVE 的基礎定義。它不是一個功能，而是一個要求。"
+    },
+    {
+      "section_id": "2",
+      "title": "威脅模型",
+      "subsections": [
+        {
+          "subsection_id": "2.1",
+          "title": "CVE 能夠防範的威脅",
+          "content": "| 威脅 | CVE 的防範機制 |\n|---|---|\n| 偽造輸出 | 沒有私鑰，ECDSA 簽名驗證無法通過 |\n| 竄改工件 | SHA-256 雜湊不匹配 |\n| 重放攻擊 | 元數據中包含時間戳 + Run ID + Seed |\n| 偽造基準測試 | Trust Ledger 包含所有工件；缺失工件會破壞鏈條 |\n| 偽造驗證 | 公開驗證器可獨立執行 |"
+        },
+        {
+          "subsection_id": "2.2",
+          "title": "CVE 無法防範的項目",
+          "content": "| 非威脅項目 | 為何不處理 |\n|---|---|\n| 演算法不正確 | CVE 驗證真實性，而非正確性 |\n| 工程假設不良 | CVE 驗證一致性，而非決策品質 |\n| 美學模型薄弱 | CVE 驗證執行過程，而非產品是否討喜 |\n| 目標函數錯誤 | CVE 驗證引擎做了什麼，而非它應該做什麼 |\n\n重要說明：CVE 並不聲稱工程是「好的」。它聲稱工程是「真實且一致的」。工程是否「好」是一個需要領域專業知識來回答的獨立問題。"
+        }
+      ]
+    },
+    {
+      "section_id": "3",
+      "title": "五項原則",
+      "content": "CVE 建立在五項原則之上，而非五個層級。原則是普適的；層級是實作。",
+      "subsections": [
+        {
+          "subsection_id": "3.1",
+          "title": "原則一：不可變證據",
+          "content": "每個工程輸出都必須被封裝為不可變的工件。工件一旦建立，任何修改都將被檢測到。\n\n- 實作方式：工件內容的 SHA-256 雜湊\n- 驗證方式：任何人都可以重新計算雜湊並比對"
+        },
+        {
+          "subsection_id": "3.2",
+          "title": "原則二：密碼學真實性",
+          "content": "每個工件都必須能證明其來源。工件必須攜帶證據，證明它是由真正的生產系統生成的，而非由人工或其他系統生成。\n\n- 實作方式：ECDSA 簽名（私鑰簽署，公鑰驗證）\n- 驗證方式：任何人都可以使用公鑰驗證簽名"
+        },
+        {
+          "subsection_id": "3.3",
+          "title": "原則三：確定性一致",
+          "content": "相同輸入必須始終產生相同輸出。系統必須是確定性的。非確定性會使驗證變得不可能。\n\n- 實作方式：固定種子 + 固定數據集 + 固定版本\n- 驗證方式：任何人都可以重放相同輸入並比對輸出"
+        },
+        {
+          "subsection_id": "3.4",
+          "title": "原則四：獨立重放",
+          "content": "任何人都必須能夠獨立驗證證據。驗證過程不得依賴專有引擎。它必須僅使用標準的、開源的工具即可實作。\n\n- 實作方式：公開驗證器腳本 (Python + 標準函式庫)\n- 驗證方式：任何人都可以下載並執行驗證器"
+        },
+        {
+          "subsection_id": "3.5",
+          "title": "原則五：全面可審計性",
+          "content": "所有證據必須可追溯、可作為完整集合進行審計。不應孤立地驗證單一工件。整個工件集合必須作為一個整體進行審計。\n\n- 實作方式：Trust Ledger（所有雜湊與簽名集中存放）\n- 驗證方式：一條指令即可驗證整個帳本"
+        }
+      ]
+    },
+    {
+      "section_id": "4",
+      "title": "形式化定義",
+      "subsections": [
+        {
+          "subsection_id": "4.1",
+          "title": "工件 (Artifact)",
+          "content": "Artifact 是工程證據的基本單位。\n\nArtifact := (輸入, 輸出, 元數據, 雜湊, 簽名)\n\n其中：\n- 輸入：輸入生產系統的數據\n- 輸出：生產系統產生的結果\n- 元數據：上下文資訊（版本、時間戳、run_id、種子）\n- 雜湊：(輸入 + 輸出 + 元數據) 的 SHA-256\n- 簽名：(輸入 + 輸出 + 元數據 + 雜湊) 的 ECDSA 簽名"
+        },
+        {
+          "subsection_id": "4.2",
+          "title": "Trust Ledger",
+          "content": "Trust Ledger 是所有工件的完整集合。\n\nLedger := Σ(Artifact_i)\n\n其中 Σ 表示串聯在一個單一的、不可變的 JSON 結構中。\n\n帳本本身也會被雜湊：\n\nLedgerHash := SHA-256(排除雜湊欄位的 Ledger 內容)"
+        },
+        {
+          "subsection_id": "4.3",
+          "title": "驗證器 (Validator)",
+          "content": "Validator 是一個確定性函數，將工件映射為驗證結果。\n\nValidator: Artifact → {PASS, FAIL}\n\n驗證器檢查：\n1. 雜湊完整性：RecomputeHash(Artifact) == Artifact.Hash\n2. 簽名真實性：VerifySignature(Artifact) == VALID\n3. 結構完整性：HasAllFields(Artifact) == TRUE\n4. 指標一致性：RecomputeMetrics(Artifact) == Artifact.Metrics"
+        },
+        {
+          "subsection_id": "4.4",
+          "title": "信任鏈 (Trust Chain)",
+          "content": "系統的完整驗證流程為：\n\n驗證 Ledger 雜湊\n    ↓\n對於 Ledger 中的每個 Artifact：\n    驗證簽名\n    驗證雜湊\n    驗證結構\n    驗證指標\n\n若全部通過，則系統為密碼學驗證通過。"
+        }
+      ]
+    },
+    {
+      "section_id": "5",
+      "title": "比較：四種工程信任模型",
+      "content": "| 模型 | 原始碼 | IP 保護 | 驗證方式 | 可驗證性 |\n|---|---|---|---|---|\n| 黑盒 | ❌ 隱藏 | ✅ 是 | ❌ 無 | ❌ 不可驗證 |\n| 開放原始碼 | ✅ 公開 | ❌ 否 | ✅ 程式碼審查 | ✅ 可驗證（需投入精力） |\n| 第三方審計 | ❌ 隱藏 | ✅ 是 | ⚠️ 週期性 | ⚠️ 部分（僅在審計時） |\n| CVE | ❌ 隱藏 | ✅ 是 | ✅ 持續性 | ✅ 可驗證（任何人、任何時間） |\n\nCVE 是唯一能同時滿足以下條件的模型：\n- 保護智慧財產權\n- 提供持續的公開驗證\n- 不依賴第三方信任"
+    },
+    {
+      "section_id": "6",
+      "title": "案例研究：VS-001 (PGEF 引擎驗證)",
+      "content": "VS-001 是 CVE 的第一個完整實作。\n\n| CVE 原則 | VS-001 實作 |\n|---|---|\n| 不可變證據 | result_XXXX.json 包含 artifact_hash (SHA-256) |\n| 密碼學真實性 | ECDSA 簽名（私鑰簽署，公鑰驗證） |\n| 確定性一致 | 固定種子 (42) + 固定數據集 (synthetic_1000.json) |\n| 獨立重放 | validator.py（開源，標準函式庫） |\n| 全面可審計性 | trust_ledger.json（所有工件集中存放） |\n\n結果：\n- 測試 1000 組合成體型\n- 100% 通過率\n- 所有工件可公開驗證\n- 生產引擎保持專有\n\nVS-001 證明了 CVE 在實踐中是可行的。它不只是一個理論框架。"
+    },
+    {
+      "section_id": "7",
+      "title": "適用範圍",
+      "content": "CVE 不限於服裝工程。它適用於任何需要在不暴露 IP 的前提下建立信任的專有工程系統。\n\n潛在應用領域：\n- AI 模型行為驗證\n- CFD（計算流體力學）求解器\n- CAE（電腦輔助工程）模擬\n- 藥物發現引擎\n- 晶片設計 (EDA) 工具\n- 建築資訊模型 (BIM)\n- 材料模擬"
+    },
+    {
+      "section_id": "8",
+      "title": "結論",
+      "content": "信任應建立在密碼學之上，而非品牌聲譽之上。\n\nCVE 提供了實現此目標的方法論。它不需要開源專有演算法。它不需要第三方審計。它不需要信任品牌。\n\n它只需要：\n1. 生產引擎持有的私鑰\n2. 公開用於驗證的公鑰\n3. 對確定性執行的承諾\n4. 一個公開的驗證器腳本\n\n這不是「相信我們」。這是「驗證我們」。"
+    },
+    {
+      "section_id": "9",
+      "title": "版本歷史",
+      "content": "| 版本 | 日期 | 變更內容 |\n|---|---|---|\n| 1.0 | 2026-08-02 | 初始草稿 (VS-001 總結) |\n| 2.0 | 2026-08-02 | 升級為方法論（威脅模型、形式化定義、五項原則、比較表格） |"
+    },
+    {
+      "section_id": "10",
+      "title": "參考文獻",
+      "content": "- VS-001: PGEF 引擎完整性驗證：https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping\n- Doctrine 001: 證據層級與範疇錯誤：https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en\n- VS-104 (本文檔)：密碼學可驗證工程框架：https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en"
+    }
+  ]
+}

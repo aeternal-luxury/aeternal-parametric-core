@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>密碼學可驗證工程 (CVE) 框架 — AETERNAL</title>
+    <meta name="description" content="專有工程系統的密碼學信任方法論。保護 IP、維持信任、實現持續驗證。">
+    
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "密碼學可驗證工程 (CVE) 框架",
+      "alternativeHeadline": "專有工程系統的密碼學信任方法論",
+      "author": {
+        "@type": "Organization",
+        "name": "AETERNAL Framework Governance Group (AFGG)"
+      },
+      "datePublished": "2026-08-02",
+      "version": "2.0",
+      "about": {
+        "@type": "Thing",
+        "name": "Cryptographically Verifiable Engineering",
+        "description": "一種讓專有工程系統在不公開核心演算法的前提下，仍能被公開驗證其輸出真實性與一致性的方法論。"
+      },
+      "inLanguage": "zh-TW",
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "Doctrine 001: 證據層級與範疇錯誤",
+          "url": "https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "VS-001: PGEF 引擎完整性驗證",
+          "url": "https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping"
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "AETERNAL"
+      },
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+    </script>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.7;
+            color: #1a1a2e;
+            background: #fafafa;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 50px 60px;
+            border-radius: 12px;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.06);
+        }
+        h1 {
+            font-size: 2.2em;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+            margin-bottom: 0.1em;
+            color: #0a0a1a;
+        }
+        .subtitle {
+            font-size: 1.2em;
+            color: #4a4a6a;
+            font-weight: 400;
+            margin-bottom: 0.5em;
+        }
+        .metadata {
+            font-size: 0.9em;
+            color: #6b6b8a;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 1.5em;
+            margin-bottom: 2em;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5em;
+        }
+        .metadata span {
+            display: inline-block;
+        }
+        .metadata .label {
+            color: #8a8aaa;
+        }
+        h2 {
+            font-size: 1.6em;
+            font-weight: 600;
+            margin-top: 1.8em;
+            margin-bottom: 0.6em;
+            color: #0a0a1a;
+            border-bottom: 2px solid #e8e8f0;
+            padding-bottom: 0.2em;
+        }
+        h3 {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-top: 1.5em;
+            margin-bottom: 0.4em;
+            color: #1a1a3e;
+        }
+        h4 {
+            font-size: 1.05em;
+            font-weight: 600;
+            margin-top: 1.2em;
+            margin-bottom: 0.3em;
+            color: #2a2a4e;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        blockquote {
+            background: #f4f4fc;
+            border-left: 4px solid #4a4a8a;
+            padding: 1em 1.5em;
+            margin: 1.2em 0;
+            border-radius: 0 6px 6px 0;
+            font-style: italic;
+            color: #2a2a4a;
+        }
+        blockquote strong {
+            font-style: normal;
+        }
+        code {
+            background: #f0f0f6;
+            padding: 0.15em 0.5em;
+            border-radius: 4px;
+            font-family: "SF Mono", "Menlo", "Monaco", monospace;
+            font-size: 0.9em;
+            color: #1a1a3e;
+        }
+        pre {
+            background: #0e0e1a;
+            color: #e8e8f0;
+            padding: 1.5em;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: "SF Mono", "Menlo", "Monaco", monospace;
+            font-size: 0.9em;
+            line-height: 1.6;
+            margin: 1.2em 0;
+        }
+        pre code {
+            background: transparent;
+            padding: 0;
+            color: inherit;
+            font-size: inherit;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2em 0;
+            font-size: 0.95em;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 0.6em 1em;
+            text-align: left;
+        }
+        th {
+            background: #f4f4fc;
+            font-weight: 600;
+            color: #1a1a3e;
+        }
+        tr:nth-child(even) {
+            background: #fafaff;
+        }
+        .diagram {
+            background: #f4f4fc;
+            padding: 1.5em;
+            border-radius: 8px;
+            text-align: center;
+            font-family: "SF Mono", "Menlo", "Monaco", monospace;
+            font-size: 0.9em;
+            line-height: 1.8;
+            margin: 1.2em 0;
+            border: 1px solid #e0e0ea;
+            white-space: pre;
+            overflow-x: auto;
+        }
+        .diagram code {
+            background: transparent;
+            padding: 0;
+            font-size: inherit;
+        }
+        .doctrine-box {
+            background: #0e0e1a;
+            color: #e8e8f0;
+            padding: 1.5em 2em;
+            border-radius: 8px;
+            margin: 1.2em 0;
+        }
+        .doctrine-box code {
+            background: rgba(255,255,255,0.08);
+            color: #c8c8e0;
+        }
+        .doctrine-box strong {
+            color: #a8a8e0;
+        }
+        .version-history {
+            font-size: 0.95em;
+        }
+        .version-history td:first-child {
+            font-weight: 600;
+        }
+        .footer {
+            margin-top: 3em;
+            padding-top: 2em;
+            border-top: 1px solid #eee;
+            font-size: 0.85em;
+            color: #8a8aaa;
+            text-align: center;
+        }
+        .footer a {
+            color: #4a4a8a;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 640px) {
+            .container {
+                padding: 30px 20px;
+            }
+            h1 {
+                font-size: 1.6em;
+            }
+            .metadata {
+                flex-direction: column;
+                gap: 0.3em;
+            }
+            .diagram {
+                font-size: 0.75em;
+                padding: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <article>
+            <h1>密碼學可驗證工程 (CVE) 框架</h1>
+            <p class="subtitle">專有工程系統的密碼學信任方法論</p>
+            
+            <div class="metadata">
+                <span><span class="label">版本</span> 2.0</span>
+                <span><span class="label">狀態</span> 方法論規範</span>
+                <span><span class="label">作者</span> AETERNAL 框架治理小組 (AFGG)</span>
+                <span><span class="label">案例研究</span> VS-001 (PGEF 引擎完整性驗證)</span>
+                <span><span class="label">發布日期</span> 2026-08-02</span>
+            </div>
+            
+            <section>
+                <h2>0. 黑盒問題</h2>
+                <p>商業工程面臨一個矛盾：</p>
+                <div class="diagram"><code>開放原始碼 → 信任 → 沒有商業模式 (IP 暴露)</code></div>
+                <p>另一方面：</p>
+                <div class="diagram"><code>封閉原始碼 → 商業模式 (IP 受保護) → 沒有信任 (無法驗證)</code></div>
+                <p>這就是 <strong>不可能三角</strong>：</p>
+                <div class="diagram"><code>
+        ┌─────────────────┐
+        │   保護 IP       │
+        │                 │
+        └────────┬────────┘
+                 │
+    ┌────────────┼────────────┐
+    │            │            │
+    ▼            ▼            ▼
+┌─────────┐ ┌─────────┐ ┌─────────┐
+│  開源    │ │  CVE    │ │  黑盒   │
+│  ✅ IP  │ │  ✅ IP  │ │  ✅ IP  │
+│  ✅ 信任 │ │  ✅ 信任 │ │  ❌ 信任 │
+└─────────┘ └─────────┘ └─────────┘
+                </code></div>
+                <p><strong>目前沒有任何方法能同時滿足這三個條件。</strong> 開源解決了信任問題，但暴露了 IP。黑盒保護了 IP，但無法提供信任。第三方審計提供了部分信任，但成本高昂、週期性強，且不連續。</p>
+                <p>CVE 正是為解決這個問題而設計：<strong>保護 IP、維持信任、實現持續驗證。</strong></p>
+            </section>
+            
+            <section>
+                <h2>1. CVE 原則</h2>
+                <blockquote>
+                    <p><strong>專有工程系統不應要求盲目信任。</strong></p>
+                    <p>它應公開足夠的密碼學證據，使任何獨立第三方都能夠驗證：</p>
+                    <ul>
+                        <li><strong>完整性</strong> — 輸出未被竄改</li>
+                        <li><strong>真實性</strong> — 輸出確實來自生產系統</li>
+                        <li><strong>可重現性</strong> — 相同輸入產生相同輸出</li>
+                    </ul>
+                    <p><strong>而無需獲取專有知識。</strong></p>
+                </blockquote>
+                <p>這是 CVE 的基礎定義。它不是一個功能，而是一個要求。</p>
+            </section>
+            
+            <section>
+                <h2>2. 威脅模型</h2>
+                
+                <h3>2.1 CVE 能夠防範的威脅</h3>
+                <table>
+                    <thead>
+                        <tr><th>威脅</th><th>CVE 的防範機制</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>偽造輸出</td><td>沒有私鑰，ECDSA 簽名驗證無法通過</td></tr>
+                        <tr><td>竄改工件</td><td>SHA-256 雜湊不匹配</td></tr>
+                        <tr><td>重放攻擊</td><td>元數據中包含時間戳 + Run ID + Seed</td></tr>
+                        <tr><td>偽造基準測試</td><td>Trust Ledger 包含所有工件；缺失工件會破壞鏈條</td></tr>
+                        <tr><td>偽造驗證</td><td>公開驗證器可獨立執行</td></tr>
+                    </tbody>
+                </table>
+                
+                <h3>2.2 CVE 無法防範的項目</h3>
+                <table>
+                    <thead>
+                        <tr><th>非威脅項目</th><th>為何不處理</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>演算法不正確</td><td>CVE 驗證真實性，而非正確性</td></tr>
+                        <tr><td>工程假設不良</td><td>CVE 驗證一致性，而非決策品質</td></tr>
+                        <tr><td>美學模型薄弱</td><td>CVE 驗證執行過程，而非產品是否討喜</td></tr>
+                        <tr><td>目標函數錯誤</td><td>CVE 驗證引擎做了什麼，而非它應該做什麼</td></tr>
+                    </tbody>
+                </table>
+                <p><strong>重要說明</strong>：CVE 並不聲稱工程是「好的」。它聲稱工程是「真實且一致的」。工程是否「好」是一個需要領域專業知識來回答的獨立問題。</p>
+            </section>
+            
+            <section>
+                <h2>3. 五項原則</h2>
+                <p>CVE 建立在五項原則之上，而非五個層級。原則是普適的；層級是實作。</p>
+                
+                <h3>原則一：不可變證據</h3>
+                <blockquote>每個工程輸出都必須被封裝為不可變的工件。工件一旦建立，任何修改都將被檢測到。</blockquote>
+                <ul>
+                    <li><strong>實作方式</strong>：工件內容的 SHA-256 雜湊</li>
+                    <li><strong>驗證方式</strong>：任何人都可以重新計算雜湊並比對</li>
+                </ul>
+                
+                <h3>原則二：密碼學真實性</h3>
+                <blockquote>每個工件都必須能證明其來源。工件必須攜帶證據，證明它是由真正的生產系統生成的，而非由人工或其他系統生成。</blockquote>
+                <ul>
+                    <li><strong>實作方式</strong>：ECDSA 簽名（私鑰簽署，公鑰驗證）</li>
+                    <li><strong>驗證方式</strong>：任何人都可以使用公鑰驗證簽名</li>
+                </ul>
+                
+                <h3>原則三：確定性一致</h3>
+                <blockquote>相同輸入必須始終產生相同輸出。系統必須是確定性的。非確定性會使驗證變得不可能。</blockquote>
+                <ul>
+                    <li><strong>實作方式</strong>：固定種子 + 固定數據集 + 固定版本</li>
+                    <li><strong>驗證方式</strong>：任何人都可以重放相同輸入並比對輸出</li>
+                </ul>
+                
+                <h3>原則四：獨立重放</h3>
+                <blockquote>任何人都必須能夠獨立驗證證據。驗證過程不得依賴專有引擎。它必須僅使用標準的、開源的工具即可實作。</blockquote>
+                <ul>
+                    <li><strong>實作方式</strong>：公開驗證器腳本 (Python + 標準函式庫)</li>
+                    <li><strong>驗證方式</strong>：任何人都可以下載並執行驗證器</li>
+                </ul>
+                
+                <h3>原則五：全面可審計性</h3>
+                <blockquote>所有證據必須可追溯、可作為完整集合進行審計。不應孤立地驗證單一工件。整個工件集合必須作為一個整體進行審計。</blockquote>
+                <ul>
+                    <li><strong>實作方式</strong>：Trust Ledger（所有雜湊與簽名集中存放）</li>
+                    <li><strong>驗證方式</strong>：一條指令即可驗證整個帳本</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>4. 形式化定義</h2>
+                
+                <h3>4.1 工件 (Artifact)</h3>
+                <p><strong>Artifact</strong> 是工程證據的基本單位。</p>
+                <pre><code>Artifact := (輸入, 輸出, 元數據, 雜湊, 簽名)</code></pre>
+                <p>其中：</p>
+                <ul>
+                    <li><code>輸入</code>：輸入生產系統的數據</li>
+                    <li><code>輸出</code>：生產系統產生的結果</li>
+                    <li><code>元數據</code>：上下文資訊（版本、時間戳、run_id、種子）</li>
+                    <li><code>雜湊</code>：(輸入 + 輸出 + 元數據) 的 SHA-256</li>
+                    <li><code>簽名</code>：(輸入 + 輸出 + 元數據 + 雜湊) 的 ECDSA 簽名</li>
+                </ul>
+                
+                <h3>4.2 Trust Ledger</h3>
+                <p><strong>Trust Ledger</strong> 是所有工件的完整集合。</p>
+                <pre><code>Ledger := Σ(Artifact_i)</code></pre>
+                <p>其中 Σ 表示串聯在一個單一的、不可變的 JSON 結構中。</p>
+                <p>帳本本身也會被雜湊：</p>
+                <pre><code>LedgerHash := SHA-256(排除雜湊欄位的 Ledger 內容)</code></pre>
+                
+                <h3>4.3 驗證器 (Validator)</h3>
+                <p><strong>Validator</strong> 是一個確定性函數，將工件映射為驗證結果。</p>
+                <pre><code>Validator: Artifact → {PASS, FAIL}</code></pre>
+                <p>驗證器檢查：</p>
+                <ol>
+                    <li>雜湊完整性：<code>RecomputeHash(Artifact) == Artifact.Hash</code></li>
+                    <li>簽名真實性：<code>VerifySignature(Artifact) == VALID</code></li>
+                    <li>結構完整性：<code>HasAllFields(Artifact) == TRUE</code></li>
+                    <li>指標一致性：<code>RecomputeMetrics(Artifact) == Artifact.Metrics</code></li>
+                </ol>
+                
+                <h3>4.4 信任鏈 (Trust Chain)</h3>
+                <p>系統的完整驗證流程為：</p>
+                <pre><code>驗證 Ledger 雜湊
+    ↓
+對於 Ledger 中的每個 Artifact：
+    驗證簽名
+    驗證雜湊
+    驗證結構
+    驗證指標
+
+若全部通過，則系統為 <strong>密碼學驗證通過</strong>。</code></pre>
+            </section>
+            
+            <section>
+                <h2>5. 比較：四種工程信任模型</h2>
+                <table>
+                    <thead>
+                        <tr><th>模型</th><th>原始碼</th><th>IP 保護</th><th>驗證方式</th><th>可驗證性</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>黑盒</td><td>❌ 隱藏</td><td>✅ 是</td><td>❌ 無</td><td>❌ 不可驗證</td></tr>
+                        <tr><td>開放原始碼</td><td>✅ 公開</td><td>❌ 否</td><td>✅ 程式碼審查</td><td>✅ 可驗證（需投入精力）</td></tr>
+                        <tr><td>第三方審計</td><td>❌ 隱藏</td><td>✅ 是</td><td>⚠️ 週期性</td><td>⚠️ 部分（僅在審計時）</td></tr>
+                        <tr><td><strong>CVE</strong></td><td>❌ 隱藏</td><td>✅ 是</td><td>✅ 持續性</td><td>✅ 可驗證（任何人、任何時間）</td></tr>
+                    </tbody>
+                </table>
+                <p><strong>CVE 是唯一能同時滿足以下條件的模型：</strong></p>
+                <ul>
+                    <li>保護智慧財產權</li>
+                    <li>提供持續的公開驗證</li>
+                    <li>不依賴第三方信任</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>6. 案例研究：VS-001 (PGEF 引擎驗證)</h2>
+                <p>VS-001 是 CVE 的第一個完整實作。</p>
+                <table>
+                    <thead>
+                        <tr><th>CVE 原則</th><th>VS-001 實作</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>不可變證據</td><td><code>result_XXXX.json</code> 包含 <code>artifact_hash</code> (SHA-256)</td></tr>
+                        <tr><td>密碼學真實性</td><td>ECDSA 簽名（私鑰簽署，公鑰驗證）</td></tr>
+                        <tr><td>確定性一致</td><td>固定種子 (42) + 固定數據集 (synthetic_1000.json)</td></tr>
+                        <tr><td>獨立重放</td><td><code>validator.py</code>（開源，標準函式庫）</td></tr>
+                        <tr><td>全面可審計性</td><td><code>trust_ledger.json</code>（所有工件集中存放）</td></tr>
+                    </tbody>
+                </table>
+                <p><strong>結果</strong>：</p>
+                <ul>
+                    <li>測試 1000 組合成體型</li>
+                    <li>100% 通過率</li>
+                    <li>所有工件可公開驗證</li>
+                    <li>生產引擎保持專有</li>
+                </ul>
+                <p>VS-001 證明了 CVE 在實踐中是可行的。它不只是一個理論框架。</p>
+            </section>
+            
+            <section>
+                <h2>7. 適用範圍</h2>
+                <p>CVE 不限於服裝工程。它適用於任何需要在<strong>不暴露 IP 的前提下建立信任</strong>的專有工程系統。</p>
+                <p><strong>潛在應用領域</strong>：</p>
+                <ul>
+                    <li>AI 模型行為驗證</li>
+                    <li>CFD（計算流體力學）求解器</li>
+                    <li>CAE（電腦輔助工程）模擬</li>
+                    <li>藥物發現引擎</li>
+                    <li>晶片設計 (EDA) 工具</li>
+                    <li>建築資訊模型 (BIM)</li>
+                    <li>材料模擬</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>8. 結論</h2>
+                <blockquote>
+                    <p><strong>信任應建立在密碼學之上，而非品牌聲譽之上。</strong></p>
+                </blockquote>
+                <p>CVE 提供了實現此目標的方法論。它不需要開源專有演算法。它不需要第三方審計。它不需要信任品牌。</p>
+                <p>它只需要：</p>
+                <ol>
+                    <li>生產引擎持有的私鑰</li>
+                    <li>公開用於驗證的公鑰</li>
+                    <li>對確定性執行的承諾</li>
+                    <li>一個公開的驗證器腳本</li>
+                </ol>
+                <p><strong>這不是「相信我們」。這是「驗證我們」。</strong></p>
+            </section>
+            
+            <section>
+                <h2>9. 版本歷史</h2>
+                <table class="version-history">
+                    <thead>
+                        <tr><th>版本</th><th>日期</th><th>變更內容</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1.0</td><td>2026-08-02</td><td>初始草稿 (VS-001 總結)</td></tr>
+                        <tr><td>2.0</td><td>2026-08-02</td><td>升級為方法論（威脅模型、形式化定義、五項原則、比較表格）</td></tr>
+                    </tbody>
+                </table>
+            </section>
+            
+            <section>
+                <h2>10. 參考文獻</h2>
+                <ul>
+                    <li><a href="https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping" target="_blank">VS-001: PGEF 引擎完整性驗證</a></li>
+                    <li><a href="https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh" target="_blank">Doctrine 001: 證據層級與範疇錯誤</a></li>
+                    <li><a href="https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh" target="_blank">VS-104 (本文檔)：密碼學可驗證工程框架</a></li>
+                </ul>
+            </section>
+        </article>
+        
+        <div class="footer">
+            <p>© 2026 AETERNAL — 本文檔採用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a> 授權</p>
+        </div>
+    </div>
+</body>
+</html>
