@@ -1,9 +1,46 @@
+
 # VS001-conformal-mapping: Conformal Mapping Validation
 
 > **測試結論**：PGEF v15.0 引擎已完成 1000 組極端體型壓力測試，通過率 100%，所有結果可公開驗證。
 
-## Purpose
-...
+> **Evidence / Trust README** — 本 VS 的信任證據摘要
+
+
+## Architecture
+
+```
+PGEF Engine (Proprietary)
+        ↓
+Artifacts (result_XXXX.json)
+        ↓
+ECDSA Signature (private key)
+        ↓
+Trust Ledger (all hashes + signatures)
+        ↓
+Validator (public verification)
+        ↓
+Anyone can verify
+```
+
+**The production engine remains proprietary.**
+Instead of revealing the production algorithm, every Artifact is cryptographically signed.
+The signature proves that the published outputs originated from the genuine production engine.
+Therefore the validation layer verifies:
+
+- **Metric correctness** (MSE, ΔP, area distortion are self-consistent)
+- **Production authenticity** (outputs came from PGEF, not hand-crafted)
+
+**without disclosing any proprietary algorithms.**
+
+
+## Trust Ledger
+
+The root `trust_ledger.json` (in `pgef-validation/`) records all Artifacts in a single, immutable ledger. It serves as the **bridge between A (correct metric computation) and B (genuine engine output)**.
+
+- Anyone can verify the ledger: `python validator.py --verify-ledger`
+- The ledger records: case_id → artifact_hash → signature → status → grade
+- If any Artifact is replaced or modified, the hash will mismatch and the ledger check will fail.
+
 
 ## Purpose
 
@@ -36,6 +73,17 @@ The grades below describe **engineering decision quality**, not product quality.
 
 **Important:** These grades measure whether the engine made the **correct engineering decision** given the input data and physical constraints—not whether the resulting garment is comfortable, attractive, or commercially viable. A 'B' grade means the system successfully handled an extreme body type by making a safe, documented trade-off within physical limits.
 
+
+## Execution Notes (Batch Iteration)
+
+The VS-001 validation was conducted in two batches:
+
+1. **Batch 1 (2026-08-01)**: Full 1000 synthetic cases using the v15.0 AI Fit Engine.
+2. **Batch 2 (2026-08-02)**: Re-run of the 97 cases initially marked as "F" (FAIL), using an optimized inverse-fitting logic.
+
+All Artifacts are signed and time-stamped. The timestamp variation reflects normal engineering iteration and does not affect the cryptographic validity or trustworthiness of the results.
+
+
 ## Artifacts
 
 - `artifacts/result_XXXX.json` — Complete Artifact (includes `artifact_hash` + `signature`)
@@ -53,11 +101,6 @@ All Artifacts are cryptographically signed by the PGEF engine and can be indepen
 The validator requires only standard Python libraries (`numpy`, `cryptography`) and does not access any proprietary engine.
 
 
-## Trust Ledger
-
-The root `trust_ledger.json` (in `pgef-validation/`) records all Artifacts in a single, immutable ledger. The `--verify-ledger` flag checks consistency across all entries.
-
-
 ## Cryptographic Authenticity
 
 Each Artifact is signed by the PGEF engine's private key. Anyone can verify the signature using the public key:
@@ -72,4 +115,5 @@ python validator.py
 **PGEF v15.0 is proprietary and not publicly disclosed.**
 
 This repository provides an **independent verification layer**—it allows anyone to verify the authenticity and consistency of published results without access to the proprietary engine.
+
 

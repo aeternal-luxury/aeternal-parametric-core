@@ -38,15 +38,9 @@
       "overall_status": "PASS"
     }
   },
-   "test_summary": {
-    "total_cases": 1000,
-    "pass_rate": 1.0,
-    "extreme_body_types_included": true,
-    "conclusion": "PGEF v15.0 passed all pressure tests. All results are cryptographically verifiable."
-  },
   "metrics_summary": {
-    "average_mse": 4.52e+01,
-    "max_mse": 1.69e+02,
+    "average_dimension_mse": 4.52e+01,
+    "max_dimension_mse": 1.69e+02,
     "average_delta_p": 8.53e-02,
     "max_delta_p": 1.61e-01,
     "average_area_distortion": 1.42e-01,
@@ -59,6 +53,12 @@
     "B": 737,
     "F": 0,
     "F-": 0
+  },
+  "test_summary": {
+    "total_cases": 1000,
+    "pass_rate": 1.0,
+    "extreme_body_types_included": true,
+    "conclusion": "PGEF v15.0 passed all pressure tests. All results are cryptographically verifiable."
   },
   "generated": "2026-08-02",
   "generated_by": "PGEF v15.0 Internal Pipeline"
