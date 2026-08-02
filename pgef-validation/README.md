@@ -3,9 +3,6 @@
 > **測試結論**：PGEF v15.0 引擎已完成 1000 組極端體型壓力測試，通過率 100%，所有結果可公開驗證。
 
 ## Purpose
-...
-
-## Purpose
 
 This validation verifies that the PGEF v15.0 engine produces garment dimensions that are **mathematically consistent** with its own engineering specifications, across a diverse range of synthetic body types.
 
