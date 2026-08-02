@@ -1,0 +1,10002 @@
+[
+  {
+    "case_id": "0001",
+    "height": 180.96,
+    "shoulder_width": 44.58,
+    "chest": 112.12,
+    "waist": 97.38,
+    "hip": 103.02,
+    "arm_length": 75.0,
+    "slope": 23.31
+  },
+  {
+    "case_id": "0002",
+    "height": 181.44,
+    "shoulder_width": 41.31,
+    "chest": 93.79,
+    "waist": 76.25,
+    "hip": 101.79,
+    "arm_length": 75.0,
+    "slope": 25.04
+  },
+  {
+    "case_id": "0003",
+    "height": 167.74,
+    "shoulder_width": 39.19,
+    "chest": 91.42,
+    "waist": 69.56,
+    "hip": 97.41,
+    "arm_length": 71.16,
+    "slope": 23.23
+  },
+  {
+    "case_id": "0004",
+    "height": 164.18,
+    "shoulder_width": 45.68,
+    "chest": 115.84,
+    "waist": 102.21,
+    "hip": 108.77,
+    "arm_length": 67.75,
+    "slope": 3.23
+  },
+  {
+    "case_id": "0005",
+    "height": 156.17,
+    "shoulder_width": 40.76,
+    "chest": 99.73,
+    "waist": 91.2,
+    "hip": 96.26,
+    "arm_length": 63.4,
+    "slope": 15.15
+  },
+  {
+    "case_id": "0006",
+    "height": 157.58,
+    "shoulder_width": 35.9,
+    "chest": 82.04,
+    "waist": 64.69,
+    "hip": 84.82,
+    "arm_length": 64.7,
+    "slope": 25.31
+  },
+  {
+    "case_id": "0007",
+    "height": 178.01,
+    "shoulder_width": 42.5,
+    "chest": 106.22,
+    "waist": 94.2,
+    "hip": 103.83,
+    "arm_length": 71.24,
+    "slope": 21.11
+  },
+  {
+    "case_id": "0008",
+    "height": 155.59,
+    "shoulder_width": 36.1,
+    "chest": 78.0,
+    "waist": 68.93,
+    "hip": 80.57,
+    "arm_length": 66.8,
+    "slope": 23.86
+  },
+  {
+    "case_id": "0009",
+    "height": 168.36,
+    "shoulder_width": 42.78,
+    "chest": 89.16,
+    "waist": 68.6,
+    "hip": 92.16,
+    "arm_length": 69.53,
+    "slope": 17.83
+  },
+  {
+    "case_id": "0010",
+    "height": 180.6,
+    "shoulder_width": 46.61,
+    "chest": 108.7,
+    "waist": 91.86,
+    "hip": 104.44,
+    "arm_length": 69.02,
+    "slope": 14.23
+  },
+  {
+    "case_id": "0011",
+    "height": 158.58,
+    "shoulder_width": 38.78,
+    "chest": 97.41,
+    "waist": 76.93,
+    "hip": 88.8,
+    "arm_length": 63.39,
+    "slope": 10.22
+  },
+  {
+    "case_id": "0012",
+    "height": 176.48,
+    "shoulder_width": 44.72,
+    "chest": 110.48,
+    "waist": 95.34,
+    "hip": 108.41,
+    "arm_length": 75.0,
+    "slope": 6.68
+  },
+  {
+    "case_id": "0013",
+    "height": 150.91,
+    "shoulder_width": 35.0,
+    "chest": 85.17,
+    "waist": 70.56,
+    "hip": 80.0,
+    "arm_length": 62.64,
+    "slope": 6.26
+  },
+  {
+    "case_id": "0014",
+    "height": 177.85,
+    "shoulder_width": 43.89,
+    "chest": 97.81,
+    "waist": 78.37,
+    "hip": 100.36,
+    "arm_length": 72.09,
+    "slope": 4.45
+  },
+  {
+    "case_id": "0015",
+    "height": 154.72,
+    "shoulder_width": 42.97,
+    "chest": 109.36,
+    "waist": 95.03,
+    "hip": 104.24,
+    "arm_length": 69.29,
+    "slope": 23.81
+  },
+  {
+    "case_id": "0016",
+    "height": 178.68,
+    "shoulder_width": 44.13,
+    "chest": 95.46,
+    "waist": 73.16,
+    "hip": 103.15,
+    "arm_length": 73.6,
+    "slope": 7.67
+  },
+  {
+    "case_id": "0017",
+    "height": 162.24,
+    "shoulder_width": 41.33,
+    "chest": 87.05,
+    "waist": 77.96,
+    "hip": 91.55,
+    "arm_length": 69.82,
+    "slope": 14.1
+  },
+  {
+    "case_id": "0018",
+    "height": 175.09,
+    "shoulder_width": 44.66,
+    "chest": 106.73,
+    "waist": 81.58,
+    "hip": 104.93,
+    "arm_length": 67.05,
+    "slope": 15.83
+  },
+  {
+    "case_id": "0019",
+    "height": 163.19,
+    "shoulder_width": 37.32,
+    "chest": 78.0,
+    "waist": 66.29,
+    "hip": 80.0,
+    "arm_length": 72.58,
+    "slope": 18.27
+  },
+  {
+    "case_id": "0020",
+    "height": 163.87,
+    "shoulder_width": 41.86,
+    "chest": 84.3,
+    "waist": 76.96,
+    "hip": 84.0,
+    "arm_length": 71.25,
+    "slope": 4.32
+  },
+  {
+    "case_id": "0021",
+    "height": 169.47,
+    "shoulder_width": 42.27,
+    "chest": 108.33,
+    "waist": 91.78,
+    "hip": 107.76,
+    "arm_length": 67.56,
+    "slope": 11.28
+  },
+  {
+    "case_id": "0022",
+    "height": 170.83,
+    "shoulder_width": 42.08,
+    "chest": 84.71,
+    "waist": 75.43,
+    "hip": 91.42,
+    "arm_length": 66.59,
+    "slope": 17.51
+  },
+  {
+    "case_id": "0023",
+    "height": 154.34,
+    "shoulder_width": 40.18,
+    "chest": 87.14,
+    "waist": 75.13,
+    "hip": 91.1,
+    "arm_length": 66.95,
+    "slope": 5.02
+  },
+  {
+    "case_id": "0024",
+    "height": 186.64,
+    "shoulder_width": 43.64,
+    "chest": 88.26,
+    "waist": 74.52,
+    "hip": 85.98,
+    "arm_length": 75.0,
+    "slope": 24.63
+  },
+  {
+    "case_id": "0025",
+    "height": 162.69,
+    "shoulder_width": 45.09,
+    "chest": 98.06,
+    "waist": 82.13,
+    "hip": 93.27,
+    "arm_length": 72.48,
+    "slope": 6.61
+  },
+  {
+    "case_id": "0026",
+    "height": 151.8,
+    "shoulder_width": 37.36,
+    "chest": 96.96,
+    "waist": 87.42,
+    "hip": 101.78,
+    "arm_length": 67.15,
+    "slope": 27.02
+  },
+  {
+    "case_id": "0027",
+    "height": 170.75,
+    "shoulder_width": 40.8,
+    "chest": 100.51,
+    "waist": 86.68,
+    "hip": 97.97,
+    "arm_length": 66.02,
+    "slope": 22.91
+  },
+  {
+    "case_id": "0028",
+    "height": 160.5,
+    "shoulder_width": 44.33,
+    "chest": 95.07,
+    "waist": 73.29,
+    "hip": 101.37,
+    "arm_length": 62.71,
+    "slope": 7.02
+  },
+  {
+    "case_id": "0029",
+    "height": 173.98,
+    "shoulder_width": 47.4,
+    "chest": 100.39,
+    "waist": 80.59,
+    "hip": 105.96,
+    "arm_length": 75.0,
+    "slope": 16.02
+  },
+  {
+    "case_id": "0030",
+    "height": 155.76,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 60.25,
+    "hip": 80.77,
+    "arm_length": 60.52,
+    "slope": 16.18
+  },
+  {
+    "case_id": "0031",
+    "height": 177.77,
+    "shoulder_width": 45.31,
+    "chest": 96.05,
+    "waist": 85.16,
+    "hip": 100.18,
+    "arm_length": 75.0,
+    "slope": 5.67
+  },
+  {
+    "case_id": "0032",
+    "height": 154.95,
+    "shoulder_width": 42.71,
+    "chest": 95.61,
+    "waist": 76.6,
+    "hip": 95.4,
+    "arm_length": 66.07,
+    "slope": 28.76
+  },
+  {
+    "case_id": "0033",
+    "height": 161.46,
+    "shoulder_width": 44.48,
+    "chest": 89.62,
+    "waist": 75.68,
+    "hip": 92.02,
+    "arm_length": 62.55,
+    "slope": 5.93
+  },
+  {
+    "case_id": "0034",
+    "height": 166.76,
+    "shoulder_width": 46.36,
+    "chest": 109.29,
+    "waist": 99.3,
+    "hip": 115.94,
+    "arm_length": 68.83,
+    "slope": 23.97
+  },
+  {
+    "case_id": "0035",
+    "height": 150.71,
+    "shoulder_width": 35.0,
+    "chest": 87.42,
+    "waist": 77.41,
+    "hip": 82.74,
+    "arm_length": 62.87,
+    "slope": 18.97
+  },
+  {
+    "case_id": "0036",
+    "height": 184.71,
+    "shoulder_width": 47.32,
+    "chest": 106.35,
+    "waist": 86.53,
+    "hip": 104.78,
+    "arm_length": 75.0,
+    "slope": 26.29
+  },
+  {
+    "case_id": "0037",
+    "height": 168.16,
+    "shoulder_width": 39.49,
+    "chest": 84.6,
+    "waist": 74.18,
+    "hip": 89.95,
+    "arm_length": 65.14,
+    "slope": 3.86
+  },
+  {
+    "case_id": "0038",
+    "height": 173.78,
+    "shoulder_width": 39.76,
+    "chest": 99.18,
+    "waist": 79.62,
+    "hip": 92.12,
+    "arm_length": 75.0,
+    "slope": 6.63
+  },
+  {
+    "case_id": "0039",
+    "height": 161.39,
+    "shoulder_width": 36.99,
+    "chest": 78.0,
+    "waist": 60.0,
+    "hip": 80.0,
+    "arm_length": 63.3,
+    "slope": 3.49
+  },
+  {
+    "case_id": "0040",
+    "height": 173.65,
+    "shoulder_width": 45.29,
+    "chest": 101.29,
+    "waist": 81.44,
+    "hip": 101.38,
+    "arm_length": 75.0,
+    "slope": 25.83
+  },
+  {
+    "case_id": "0041",
+    "height": 151.74,
+    "shoulder_width": 35.04,
+    "chest": 78.0,
+    "waist": 61.81,
+    "hip": 80.0,
+    "arm_length": 62.08,
+    "slope": 3.38
+  },
+  {
+    "case_id": "0042",
+    "height": 164.94,
+    "shoulder_width": 41.47,
+    "chest": 85.47,
+    "waist": 76.21,
+    "hip": 80.0,
+    "arm_length": 73.36,
+    "slope": 4.78
+  },
+  {
+    "case_id": "0043",
+    "height": 183.74,
+    "shoulder_width": 50.37,
+    "chest": 120.0,
+    "waist": 106.36,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 23.81
+  },
+  {
+    "case_id": "0044",
+    "height": 155.38,
+    "shoulder_width": 39.18,
+    "chest": 90.45,
+    "waist": 81.03,
+    "hip": 89.78,
+    "arm_length": 63.23,
+    "slope": 19.91
+  },
+  {
+    "case_id": "0045",
+    "height": 160.66,
+    "shoulder_width": 36.69,
+    "chest": 83.9,
+    "waist": 68.88,
+    "hip": 80.0,
+    "arm_length": 65.18,
+    "slope": 12.26
+  },
+  {
+    "case_id": "0046",
+    "height": 163.1,
+    "shoulder_width": 39.6,
+    "chest": 95.48,
+    "waist": 76.43,
+    "hip": 104.05,
+    "arm_length": 72.44,
+    "slope": 15.47
+  },
+  {
+    "case_id": "0047",
+    "height": 163.13,
+    "shoulder_width": 41.13,
+    "chest": 103.2,
+    "waist": 88.85,
+    "hip": 109.48,
+    "arm_length": 68.07,
+    "slope": 19.72
+  },
+  {
+    "case_id": "0048",
+    "height": 161.53,
+    "shoulder_width": 42.66,
+    "chest": 90.5,
+    "waist": 78.56,
+    "hip": 97.03,
+    "arm_length": 62.87,
+    "slope": 19.2
+  },
+  {
+    "case_id": "0049",
+    "height": 153.8,
+    "shoulder_width": 40.53,
+    "chest": 83.12,
+    "waist": 75.57,
+    "hip": 80.0,
+    "arm_length": 68.77,
+    "slope": 24.42
+  },
+  {
+    "case_id": "0050",
+    "height": 173.75,
+    "shoulder_width": 46.38,
+    "chest": 114.89,
+    "waist": 104.65,
+    "hip": 109.23,
+    "arm_length": 73.2,
+    "slope": 4.66
+  },
+  {
+    "case_id": "0051",
+    "height": 174.65,
+    "shoulder_width": 40.22,
+    "chest": 94.07,
+    "waist": 79.7,
+    "hip": 93.43,
+    "arm_length": 72.76,
+    "slope": 23.39
+  },
+  {
+    "case_id": "0052",
+    "height": 181.97,
+    "shoulder_width": 45.41,
+    "chest": 107.15,
+    "waist": 97.32,
+    "hip": 99.0,
+    "arm_length": 70.64,
+    "slope": 4.46
+  },
+  {
+    "case_id": "0053",
+    "height": 176.31,
+    "shoulder_width": 43.22,
+    "chest": 106.51,
+    "waist": 92.04,
+    "hip": 102.97,
+    "arm_length": 75.0,
+    "slope": 23.35
+  },
+  {
+    "case_id": "0054",
+    "height": 160.82,
+    "shoulder_width": 38.89,
+    "chest": 85.13,
+    "waist": 66.13,
+    "hip": 80.0,
+    "arm_length": 71.65,
+    "slope": 14.26
+  },
+  {
+    "case_id": "0055",
+    "height": 165.33,
+    "shoulder_width": 43.61,
+    "chest": 101.69,
+    "waist": 92.45,
+    "hip": 107.39,
+    "arm_length": 68.37,
+    "slope": 12.54
+  },
+  {
+    "case_id": "0056",
+    "height": 189.47,
+    "shoulder_width": 49.84,
+    "chest": 120.0,
+    "waist": 92.42,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 5.41
+  },
+  {
+    "case_id": "0057",
+    "height": 173.53,
+    "shoulder_width": 45.32,
+    "chest": 90.97,
+    "waist": 75.26,
+    "hip": 96.9,
+    "arm_length": 69.53,
+    "slope": 14.84
+  },
+  {
+    "case_id": "0058",
+    "height": 167.69,
+    "shoulder_width": 39.93,
+    "chest": 101.86,
+    "waist": 89.93,
+    "hip": 93.93,
+    "arm_length": 75.0,
+    "slope": 26.62
+  },
+  {
+    "case_id": "0059",
+    "height": 161.36,
+    "shoulder_width": 43.6,
+    "chest": 89.99,
+    "waist": 82.77,
+    "hip": 92.97,
+    "arm_length": 68.66,
+    "slope": 4.53
+  },
+  {
+    "case_id": "0060",
+    "height": 185.88,
+    "shoulder_width": 41.22,
+    "chest": 88.39,
+    "waist": 68.44,
+    "hip": 93.28,
+    "arm_length": 73.21,
+    "slope": 27.5
+  },
+  {
+    "case_id": "0061",
+    "height": 176.25,
+    "shoulder_width": 39.16,
+    "chest": 78.44,
+    "waist": 60.0,
+    "hip": 80.1,
+    "arm_length": 75.0,
+    "slope": 8.68
+  },
+  {
+    "case_id": "0062",
+    "height": 183.98,
+    "shoulder_width": 41.11,
+    "chest": 101.97,
+    "waist": 92.56,
+    "hip": 107.52,
+    "arm_length": 75.0,
+    "slope": 25.46
+  },
+  {
+    "case_id": "0063",
+    "height": 151.61,
+    "shoulder_width": 35.19,
+    "chest": 78.0,
+    "waist": 65.19,
+    "hip": 81.82,
+    "arm_length": 64.3,
+    "slope": 25.83
+  },
+  {
+    "case_id": "0064",
+    "height": 156.21,
+    "shoulder_width": 41.25,
+    "chest": 87.28,
+    "waist": 69.48,
+    "hip": 90.94,
+    "arm_length": 70.08,
+    "slope": 19.12
+  },
+  {
+    "case_id": "0065",
+    "height": 152.18,
+    "shoulder_width": 39.11,
+    "chest": 79.21,
+    "waist": 71.31,
+    "hip": 82.53,
+    "arm_length": 59.67,
+    "slope": 4.57
+  },
+  {
+    "case_id": "0066",
+    "height": 157.34,
+    "shoulder_width": 43.87,
+    "chest": 99.8,
+    "waist": 88.16,
+    "hip": 102.53,
+    "arm_length": 66.09,
+    "slope": 6.06
+  },
+  {
+    "case_id": "0067",
+    "height": 187.84,
+    "shoulder_width": 44.72,
+    "chest": 104.95,
+    "waist": 91.2,
+    "hip": 108.08,
+    "arm_length": 75.0,
+    "slope": 6.16
+  },
+  {
+    "case_id": "0068",
+    "height": 170.33,
+    "shoulder_width": 41.6,
+    "chest": 95.04,
+    "waist": 73.21,
+    "hip": 88.09,
+    "arm_length": 68.04,
+    "slope": 10.53
+  },
+  {
+    "case_id": "0069",
+    "height": 167.12,
+    "shoulder_width": 42.89,
+    "chest": 102.12,
+    "waist": 83.74,
+    "hip": 100.25,
+    "arm_length": 66.05,
+    "slope": 18.47
+  },
+  {
+    "case_id": "0070",
+    "height": 162.68,
+    "shoulder_width": 36.14,
+    "chest": 81.36,
+    "waist": 67.58,
+    "hip": 80.0,
+    "arm_length": 68.34,
+    "slope": 17.84
+  },
+  {
+    "case_id": "0071",
+    "height": 178.08,
+    "shoulder_width": 46.1,
+    "chest": 110.25,
+    "waist": 88.61,
+    "hip": 116.59,
+    "arm_length": 74.52,
+    "slope": 14.08
+  },
+  {
+    "case_id": "0072",
+    "height": 175.04,
+    "shoulder_width": 42.3,
+    "chest": 97.61,
+    "waist": 85.43,
+    "hip": 105.15,
+    "arm_length": 75.0,
+    "slope": 16.1
+  },
+  {
+    "case_id": "0073",
+    "height": 170.81,
+    "shoulder_width": 45.78,
+    "chest": 100.19,
+    "waist": 89.4,
+    "hip": 100.07,
+    "arm_length": 66.29,
+    "slope": 4.02
+  },
+  {
+    "case_id": "0074",
+    "height": 183.68,
+    "shoulder_width": 41.02,
+    "chest": 88.95,
+    "waist": 71.77,
+    "hip": 83.13,
+    "arm_length": 73.83,
+    "slope": 22.8
+  },
+  {
+    "case_id": "0075",
+    "height": 150.59,
+    "shoulder_width": 40.6,
+    "chest": 102.07,
+    "waist": 83.01,
+    "hip": 95.0,
+    "arm_length": 63.56,
+    "slope": 5.35
+  },
+  {
+    "case_id": "0076",
+    "height": 164.6,
+    "shoulder_width": 45.68,
+    "chest": 118.63,
+    "waist": 104.55,
+    "hip": 114.15,
+    "arm_length": 70.47,
+    "slope": 21.75
+  },
+  {
+    "case_id": "0077",
+    "height": 165.51,
+    "shoulder_width": 42.78,
+    "chest": 85.83,
+    "waist": 67.42,
+    "hip": 86.26,
+    "arm_length": 64.79,
+    "slope": 6.65
+  },
+  {
+    "case_id": "0078",
+    "height": 183.45,
+    "shoulder_width": 51.25,
+    "chest": 119.59,
+    "waist": 106.75,
+    "hip": 125.0,
+    "arm_length": 71.53,
+    "slope": 14.55
+  },
+  {
+    "case_id": "0079",
+    "height": 165.7,
+    "shoulder_width": 37.25,
+    "chest": 91.38,
+    "waist": 75.28,
+    "hip": 90.82,
+    "arm_length": 64.71,
+    "slope": 7.07
+  },
+  {
+    "case_id": "0080",
+    "height": 186.28,
+    "shoulder_width": 41.48,
+    "chest": 88.76,
+    "waist": 70.98,
+    "hip": 88.58,
+    "arm_length": 75.0,
+    "slope": 15.81
+  },
+  {
+    "case_id": "0081",
+    "height": 153.36,
+    "shoulder_width": 35.98,
+    "chest": 90.18,
+    "waist": 77.41,
+    "hip": 92.87,
+    "arm_length": 65.47,
+    "slope": 23.36
+  },
+  {
+    "case_id": "0082",
+    "height": 152.32,
+    "shoulder_width": 36.86,
+    "chest": 85.66,
+    "waist": 69.17,
+    "hip": 91.56,
+    "arm_length": 63.03,
+    "slope": 23.52
+  },
+  {
+    "case_id": "0083",
+    "height": 184.08,
+    "shoulder_width": 46.07,
+    "chest": 117.29,
+    "waist": 99.67,
+    "hip": 125.0,
+    "arm_length": 74.34,
+    "slope": 15.97
+  },
+  {
+    "case_id": "0084",
+    "height": 171.26,
+    "shoulder_width": 38.76,
+    "chest": 86.78,
+    "waist": 78.62,
+    "hip": 89.05,
+    "arm_length": 67.21,
+    "slope": 11.49
+  },
+  {
+    "case_id": "0085",
+    "height": 157.66,
+    "shoulder_width": 35.0,
+    "chest": 89.48,
+    "waist": 73.93,
+    "hip": 86.03,
+    "arm_length": 66.52,
+    "slope": 2.2
+  },
+  {
+    "case_id": "0086",
+    "height": 161.12,
+    "shoulder_width": 42.24,
+    "chest": 100.55,
+    "waist": 92.19,
+    "hip": 102.97,
+    "arm_length": 66.61,
+    "slope": 23.32
+  },
+  {
+    "case_id": "0087",
+    "height": 186.13,
+    "shoulder_width": 49.0,
+    "chest": 120.0,
+    "waist": 105.95,
+    "hip": 125.0,
+    "arm_length": 72.22,
+    "slope": 22.51
+  },
+  {
+    "case_id": "0088",
+    "height": 167.6,
+    "shoulder_width": 42.43,
+    "chest": 101.52,
+    "waist": 92.88,
+    "hip": 111.36,
+    "arm_length": 67.07,
+    "slope": 22.55
+  },
+  {
+    "case_id": "0089",
+    "height": 180.0,
+    "shoulder_width": 43.34,
+    "chest": 89.91,
+    "waist": 68.05,
+    "hip": 94.89,
+    "arm_length": 74.57,
+    "slope": 29.6
+  },
+  {
+    "case_id": "0090",
+    "height": 168.6,
+    "shoulder_width": 46.98,
+    "chest": 105.57,
+    "waist": 93.42,
+    "hip": 96.8,
+    "arm_length": 70.62,
+    "slope": 24.46
+  },
+  {
+    "case_id": "0091",
+    "height": 186.99,
+    "shoulder_width": 50.37,
+    "chest": 101.85,
+    "waist": 82.84,
+    "hip": 92.66,
+    "arm_length": 72.49,
+    "slope": 20.91
+  },
+  {
+    "case_id": "0092",
+    "height": 178.53,
+    "shoulder_width": 47.56,
+    "chest": 119.83,
+    "waist": 104.93,
+    "hip": 125.0,
+    "arm_length": 68.45,
+    "slope": 8.57
+  },
+  {
+    "case_id": "0093",
+    "height": 174.88,
+    "shoulder_width": 47.48,
+    "chest": 95.08,
+    "waist": 79.63,
+    "hip": 98.45,
+    "arm_length": 66.82,
+    "slope": 13.24
+  },
+  {
+    "case_id": "0094",
+    "height": 185.83,
+    "shoulder_width": 48.37,
+    "chest": 103.64,
+    "waist": 92.75,
+    "hip": 100.49,
+    "arm_length": 75.0,
+    "slope": 10.37
+  },
+  {
+    "case_id": "0095",
+    "height": 173.61,
+    "shoulder_width": 42.33,
+    "chest": 91.64,
+    "waist": 82.54,
+    "hip": 85.91,
+    "arm_length": 67.0,
+    "slope": 11.57
+  },
+  {
+    "case_id": "0096",
+    "height": 178.71,
+    "shoulder_width": 47.97,
+    "chest": 120.0,
+    "waist": 96.05,
+    "hip": 117.79,
+    "arm_length": 69.62,
+    "slope": 18.1
+  },
+  {
+    "case_id": "0097",
+    "height": 189.9,
+    "shoulder_width": 49.76,
+    "chest": 117.3,
+    "waist": 95.8,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 5.76
+  },
+  {
+    "case_id": "0098",
+    "height": 164.62,
+    "shoulder_width": 36.88,
+    "chest": 78.23,
+    "waist": 60.0,
+    "hip": 80.0,
+    "arm_length": 69.87,
+    "slope": 11.61
+  },
+  {
+    "case_id": "0099",
+    "height": 166.82,
+    "shoulder_width": 46.3,
+    "chest": 113.49,
+    "waist": 95.55,
+    "hip": 108.6,
+    "arm_length": 73.86,
+    "slope": 8.58
+  },
+  {
+    "case_id": "0100",
+    "height": 163.01,
+    "shoulder_width": 44.75,
+    "chest": 103.73,
+    "waist": 90.89,
+    "hip": 105.61,
+    "arm_length": 69.4,
+    "slope": 10.38
+  },
+  {
+    "case_id": "0101",
+    "height": 159.65,
+    "shoulder_width": 38.21,
+    "chest": 79.99,
+    "waist": 71.88,
+    "hip": 80.0,
+    "arm_length": 66.94,
+    "slope": 24.18
+  },
+  {
+    "case_id": "0102",
+    "height": 181.35,
+    "shoulder_width": 44.67,
+    "chest": 102.1,
+    "waist": 93.84,
+    "hip": 105.66,
+    "arm_length": 75.0,
+    "slope": 27.27
+  },
+  {
+    "case_id": "0103",
+    "height": 181.5,
+    "shoulder_width": 41.95,
+    "chest": 98.04,
+    "waist": 75.23,
+    "hip": 101.04,
+    "arm_length": 75.0,
+    "slope": 16.36
+  },
+  {
+    "case_id": "0104",
+    "height": 167.32,
+    "shoulder_width": 37.17,
+    "chest": 95.74,
+    "waist": 73.49,
+    "hip": 86.96,
+    "arm_length": 66.46,
+    "slope": 3.83
+  },
+  {
+    "case_id": "0105",
+    "height": 168.2,
+    "shoulder_width": 42.21,
+    "chest": 92.34,
+    "waist": 70.06,
+    "hip": 85.17,
+    "arm_length": 68.45,
+    "slope": 3.69
+  },
+  {
+    "case_id": "0106",
+    "height": 177.93,
+    "shoulder_width": 41.35,
+    "chest": 90.2,
+    "waist": 73.7,
+    "hip": 88.7,
+    "arm_length": 67.63,
+    "slope": 5.14
+  },
+  {
+    "case_id": "0107",
+    "height": 184.51,
+    "shoulder_width": 40.61,
+    "chest": 93.59,
+    "waist": 77.98,
+    "hip": 90.47,
+    "arm_length": 75.0,
+    "slope": 23.86
+  },
+  {
+    "case_id": "0108",
+    "height": 183.65,
+    "shoulder_width": 43.27,
+    "chest": 94.92,
+    "waist": 75.1,
+    "hip": 94.53,
+    "arm_length": 75.0,
+    "slope": 8.39
+  },
+  {
+    "case_id": "0109",
+    "height": 163.23,
+    "shoulder_width": 45.02,
+    "chest": 91.36,
+    "waist": 75.67,
+    "hip": 95.22,
+    "arm_length": 63.75,
+    "slope": 3.33
+  },
+  {
+    "case_id": "0110",
+    "height": 155.53,
+    "shoulder_width": 42.79,
+    "chest": 85.82,
+    "waist": 67.11,
+    "hip": 80.0,
+    "arm_length": 60.31,
+    "slope": 19.36
+  },
+  {
+    "case_id": "0111",
+    "height": 159.67,
+    "shoulder_width": 40.58,
+    "chest": 95.53,
+    "waist": 85.44,
+    "hip": 86.07,
+    "arm_length": 70.21,
+    "slope": 19.34
+  },
+  {
+    "case_id": "0112",
+    "height": 156.51,
+    "shoulder_width": 41.69,
+    "chest": 104.78,
+    "waist": 83.11,
+    "hip": 113.56,
+    "arm_length": 64.45,
+    "slope": 18.9
+  },
+  {
+    "case_id": "0113",
+    "height": 189.39,
+    "shoulder_width": 45.77,
+    "chest": 113.88,
+    "waist": 91.57,
+    "hip": 120.69,
+    "arm_length": 75.0,
+    "slope": 8.06
+  },
+  {
+    "case_id": "0114",
+    "height": 166.56,
+    "shoulder_width": 39.82,
+    "chest": 81.5,
+    "waist": 61.54,
+    "hip": 80.0,
+    "arm_length": 63.52,
+    "slope": 6.63
+  },
+  {
+    "case_id": "0115",
+    "height": 179.01,
+    "shoulder_width": 46.99,
+    "chest": 114.8,
+    "waist": 92.29,
+    "hip": 123.75,
+    "arm_length": 75.0,
+    "slope": 5.53
+  },
+  {
+    "case_id": "0116",
+    "height": 155.75,
+    "shoulder_width": 40.74,
+    "chest": 85.71,
+    "waist": 71.67,
+    "hip": 94.14,
+    "arm_length": 59.23,
+    "slope": 2.46
+  },
+  {
+    "case_id": "0117",
+    "height": 189.72,
+    "shoulder_width": 48.39,
+    "chest": 100.47,
+    "waist": 90.68,
+    "hip": 108.12,
+    "arm_length": 75.0,
+    "slope": 19.41
+  },
+  {
+    "case_id": "0118",
+    "height": 160.93,
+    "shoulder_width": 35.89,
+    "chest": 84.59,
+    "waist": 67.68,
+    "hip": 87.36,
+    "arm_length": 70.57,
+    "slope": 2.51
+  },
+  {
+    "case_id": "0119",
+    "height": 173.83,
+    "shoulder_width": 40.65,
+    "chest": 102.63,
+    "waist": 81.39,
+    "hip": 104.9,
+    "arm_length": 72.79,
+    "slope": 13.09
+  },
+  {
+    "case_id": "0120",
+    "height": 177.1,
+    "shoulder_width": 46.68,
+    "chest": 109.23,
+    "waist": 96.0,
+    "hip": 119.79,
+    "arm_length": 72.5,
+    "slope": 16.41
+  },
+  {
+    "case_id": "0121",
+    "height": 150.5,
+    "shoulder_width": 40.3,
+    "chest": 93.17,
+    "waist": 76.34,
+    "hip": 85.61,
+    "arm_length": 66.56,
+    "slope": 13.06
+  },
+  {
+    "case_id": "0122",
+    "height": 177.3,
+    "shoulder_width": 40.6,
+    "chest": 104.61,
+    "waist": 81.63,
+    "hip": 98.33,
+    "arm_length": 75.0,
+    "slope": 27.55
+  },
+  {
+    "case_id": "0123",
+    "height": 158.49,
+    "shoulder_width": 39.33,
+    "chest": 95.98,
+    "waist": 86.32,
+    "hip": 93.66,
+    "arm_length": 65.96,
+    "slope": 22.77
+  },
+  {
+    "case_id": "0124",
+    "height": 179.25,
+    "shoulder_width": 47.85,
+    "chest": 112.07,
+    "waist": 86.05,
+    "hip": 121.13,
+    "arm_length": 75.0,
+    "slope": 24.35
+  },
+  {
+    "case_id": "0125",
+    "height": 153.99,
+    "shoulder_width": 35.77,
+    "chest": 87.49,
+    "waist": 65.96,
+    "hip": 95.88,
+    "arm_length": 62.58,
+    "slope": 22.14
+  },
+  {
+    "case_id": "0126",
+    "height": 185.5,
+    "shoulder_width": 45.2,
+    "chest": 99.06,
+    "waist": 84.55,
+    "hip": 100.67,
+    "arm_length": 75.0,
+    "slope": 18.85
+  },
+  {
+    "case_id": "0127",
+    "height": 187.42,
+    "shoulder_width": 46.49,
+    "chest": 98.47,
+    "waist": 80.17,
+    "hip": 96.38,
+    "arm_length": 72.94,
+    "slope": 6.56
+  },
+  {
+    "case_id": "0128",
+    "height": 177.38,
+    "shoulder_width": 42.64,
+    "chest": 109.7,
+    "waist": 86.82,
+    "hip": 100.9,
+    "arm_length": 75.0,
+    "slope": 26.67
+  },
+  {
+    "case_id": "0129",
+    "height": 161.12,
+    "shoulder_width": 37.4,
+    "chest": 78.97,
+    "waist": 66.24,
+    "hip": 80.0,
+    "arm_length": 64.15,
+    "slope": 3.26
+  },
+  {
+    "case_id": "0130",
+    "height": 169.26,
+    "shoulder_width": 46.98,
+    "chest": 112.35,
+    "waist": 93.73,
+    "hip": 103.6,
+    "arm_length": 67.31,
+    "slope": 10.25
+  },
+  {
+    "case_id": "0131",
+    "height": 180.59,
+    "shoulder_width": 49.23,
+    "chest": 120.0,
+    "waist": 110.0,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 4.01
+  },
+  {
+    "case_id": "0132",
+    "height": 155.51,
+    "shoulder_width": 37.05,
+    "chest": 86.4,
+    "waist": 66.22,
+    "hip": 92.37,
+    "arm_length": 65.81,
+    "slope": 17.19
+  },
+  {
+    "case_id": "0133",
+    "height": 156.61,
+    "shoulder_width": 36.83,
+    "chest": 78.0,
+    "waist": 69.8,
+    "hip": 80.0,
+    "arm_length": 67.57,
+    "slope": 10.29
+  },
+  {
+    "case_id": "0134",
+    "height": 164.85,
+    "shoulder_width": 40.27,
+    "chest": 98.91,
+    "waist": 87.17,
+    "hip": 93.11,
+    "arm_length": 73.51,
+    "slope": 5.38
+  },
+  {
+    "case_id": "0135",
+    "height": 185.84,
+    "shoulder_width": 42.01,
+    "chest": 90.68,
+    "waist": 81.06,
+    "hip": 84.87,
+    "arm_length": 75.0,
+    "slope": 14.6
+  },
+  {
+    "case_id": "0136",
+    "height": 159.81,
+    "shoulder_width": 41.97,
+    "chest": 105.37,
+    "waist": 94.7,
+    "hip": 101.99,
+    "arm_length": 66.67,
+    "slope": 8.96
+  },
+  {
+    "case_id": "0137",
+    "height": 159.79,
+    "shoulder_width": 36.7,
+    "chest": 94.1,
+    "waist": 84.78,
+    "hip": 99.32,
+    "arm_length": 66.51,
+    "slope": 15.74
+  },
+  {
+    "case_id": "0138",
+    "height": 171.19,
+    "shoulder_width": 43.17,
+    "chest": 97.6,
+    "waist": 75.39,
+    "hip": 90.3,
+    "arm_length": 75.0,
+    "slope": 15.5
+  },
+  {
+    "case_id": "0139",
+    "height": 188.13,
+    "shoulder_width": 43.23,
+    "chest": 100.85,
+    "waist": 79.2,
+    "hip": 95.87,
+    "arm_length": 71.88,
+    "slope": 5.33
+  },
+  {
+    "case_id": "0140",
+    "height": 186.67,
+    "shoulder_width": 44.67,
+    "chest": 105.64,
+    "waist": 87.58,
+    "hip": 103.53,
+    "arm_length": 75.0,
+    "slope": 7.24
+  },
+  {
+    "case_id": "0141",
+    "height": 189.54,
+    "shoulder_width": 51.01,
+    "chest": 120.0,
+    "waist": 99.56,
+    "hip": 111.67,
+    "arm_length": 75.0,
+    "slope": 11.56
+  },
+  {
+    "case_id": "0142",
+    "height": 152.0,
+    "shoulder_width": 36.56,
+    "chest": 90.56,
+    "waist": 77.5,
+    "hip": 95.1,
+    "arm_length": 66.21,
+    "slope": 7.93
+  },
+  {
+    "case_id": "0143",
+    "height": 186.95,
+    "shoulder_width": 46.04,
+    "chest": 109.74,
+    "waist": 82.35,
+    "hip": 120.57,
+    "arm_length": 74.72,
+    "slope": 3.74
+  },
+  {
+    "case_id": "0144",
+    "height": 168.33,
+    "shoulder_width": 38.34,
+    "chest": 80.18,
+    "waist": 68.75,
+    "hip": 80.0,
+    "arm_length": 74.83,
+    "slope": 10.94
+  },
+  {
+    "case_id": "0145",
+    "height": 179.05,
+    "shoulder_width": 44.34,
+    "chest": 106.25,
+    "waist": 90.52,
+    "hip": 105.67,
+    "arm_length": 75.0,
+    "slope": 11.6
+  },
+  {
+    "case_id": "0146",
+    "height": 157.09,
+    "shoulder_width": 40.95,
+    "chest": 102.69,
+    "waist": 77.72,
+    "hip": 101.65,
+    "arm_length": 69.51,
+    "slope": 22.99
+  },
+  {
+    "case_id": "0147",
+    "height": 189.67,
+    "shoulder_width": 47.78,
+    "chest": 114.47,
+    "waist": 91.74,
+    "hip": 124.72,
+    "arm_length": 75.0,
+    "slope": 22.68
+  },
+  {
+    "case_id": "0148",
+    "height": 166.13,
+    "shoulder_width": 42.15,
+    "chest": 102.5,
+    "waist": 85.74,
+    "hip": 110.84,
+    "arm_length": 68.0,
+    "slope": 20.12
+  },
+  {
+    "case_id": "0149",
+    "height": 163.69,
+    "shoulder_width": 40.02,
+    "chest": 90.61,
+    "waist": 69.9,
+    "hip": 83.21,
+    "arm_length": 69.85,
+    "slope": 20.35
+  },
+  {
+    "case_id": "0150",
+    "height": 176.52,
+    "shoulder_width": 39.04,
+    "chest": 85.74,
+    "waist": 67.18,
+    "hip": 90.51,
+    "arm_length": 75.0,
+    "slope": 8.91
+  },
+  {
+    "case_id": "0151",
+    "height": 176.71,
+    "shoulder_width": 40.25,
+    "chest": 87.14,
+    "waist": 67.41,
+    "hip": 83.37,
+    "arm_length": 75.0,
+    "slope": 27.49
+  },
+  {
+    "case_id": "0152",
+    "height": 158.1,
+    "shoulder_width": 39.92,
+    "chest": 96.65,
+    "waist": 88.14,
+    "hip": 98.78,
+    "arm_length": 62.9,
+    "slope": 19.51
+  },
+  {
+    "case_id": "0153",
+    "height": 162.82,
+    "shoulder_width": 45.36,
+    "chest": 101.59,
+    "waist": 88.03,
+    "hip": 91.9,
+    "arm_length": 66.43,
+    "slope": 26.5
+  },
+  {
+    "case_id": "0154",
+    "height": 174.41,
+    "shoulder_width": 43.02,
+    "chest": 110.19,
+    "waist": 98.64,
+    "hip": 106.27,
+    "arm_length": 72.92,
+    "slope": 15.72
+  },
+  {
+    "case_id": "0155",
+    "height": 175.29,
+    "shoulder_width": 42.08,
+    "chest": 90.32,
+    "waist": 81.75,
+    "hip": 97.98,
+    "arm_length": 75.0,
+    "slope": 29.39
+  },
+  {
+    "case_id": "0156",
+    "height": 179.8,
+    "shoulder_width": 47.81,
+    "chest": 117.48,
+    "waist": 97.71,
+    "hip": 116.46,
+    "arm_length": 71.35,
+    "slope": 20.05
+  },
+  {
+    "case_id": "0157",
+    "height": 161.57,
+    "shoulder_width": 38.05,
+    "chest": 89.47,
+    "waist": 73.34,
+    "hip": 84.44,
+    "arm_length": 70.63,
+    "slope": 26.1
+  },
+  {
+    "case_id": "0158",
+    "height": 156.71,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 69.07,
+    "hip": 83.29,
+    "arm_length": 61.07,
+    "slope": 23.68
+  },
+  {
+    "case_id": "0159",
+    "height": 154.63,
+    "shoulder_width": 37.64,
+    "chest": 97.82,
+    "waist": 76.57,
+    "hip": 91.05,
+    "arm_length": 63.34,
+    "slope": 19.35
+  },
+  {
+    "case_id": "0160",
+    "height": 187.32,
+    "shoulder_width": 52.23,
+    "chest": 106.65,
+    "waist": 82.49,
+    "hip": 112.85,
+    "arm_length": 74.73,
+    "slope": 26.78
+  },
+  {
+    "case_id": "0161",
+    "height": 176.54,
+    "shoulder_width": 40.02,
+    "chest": 100.04,
+    "waist": 78.03,
+    "hip": 98.51,
+    "arm_length": 73.91,
+    "slope": 16.02
+  },
+  {
+    "case_id": "0162",
+    "height": 177.45,
+    "shoulder_width": 45.99,
+    "chest": 119.35,
+    "waist": 109.79,
+    "hip": 119.74,
+    "arm_length": 68.61,
+    "slope": 22.38
+  },
+  {
+    "case_id": "0163",
+    "height": 189.07,
+    "shoulder_width": 45.21,
+    "chest": 102.92,
+    "waist": 84.62,
+    "hip": 93.69,
+    "arm_length": 75.0,
+    "slope": 11.89
+  },
+  {
+    "case_id": "0164",
+    "height": 181.5,
+    "shoulder_width": 48.99,
+    "chest": 120.0,
+    "waist": 98.5,
+    "hip": 115.72,
+    "arm_length": 75.0,
+    "slope": 24.44
+  },
+  {
+    "case_id": "0165",
+    "height": 169.65,
+    "shoulder_width": 46.41,
+    "chest": 96.83,
+    "waist": 87.1,
+    "hip": 89.01,
+    "arm_length": 66.29,
+    "slope": 16.95
+  },
+  {
+    "case_id": "0166",
+    "height": 152.7,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 64.29,
+    "hip": 82.28,
+    "arm_length": 58.4,
+    "slope": 20.26
+  },
+  {
+    "case_id": "0167",
+    "height": 182.93,
+    "shoulder_width": 42.09,
+    "chest": 87.88,
+    "waist": 78.77,
+    "hip": 93.56,
+    "arm_length": 75.0,
+    "slope": 24.94
+  },
+  {
+    "case_id": "0168",
+    "height": 153.71,
+    "shoulder_width": 37.45,
+    "chest": 91.49,
+    "waist": 72.62,
+    "hip": 96.11,
+    "arm_length": 63.83,
+    "slope": 23.01
+  },
+  {
+    "case_id": "0169",
+    "height": 168.59,
+    "shoulder_width": 40.81,
+    "chest": 86.99,
+    "waist": 68.32,
+    "hip": 91.36,
+    "arm_length": 65.47,
+    "slope": 4.41
+  },
+  {
+    "case_id": "0170",
+    "height": 157.05,
+    "shoulder_width": 36.2,
+    "chest": 90.29,
+    "waist": 73.83,
+    "hip": 99.14,
+    "arm_length": 61.19,
+    "slope": 20.3
+  },
+  {
+    "case_id": "0171",
+    "height": 167.95,
+    "shoulder_width": 40.91,
+    "chest": 103.3,
+    "waist": 94.6,
+    "hip": 111.0,
+    "arm_length": 66.08,
+    "slope": 8.18
+  },
+  {
+    "case_id": "0172",
+    "height": 176.24,
+    "shoulder_width": 41.83,
+    "chest": 102.1,
+    "waist": 86.41,
+    "hip": 103.14,
+    "arm_length": 75.0,
+    "slope": 21.89
+  },
+  {
+    "case_id": "0173",
+    "height": 151.06,
+    "shoulder_width": 35.0,
+    "chest": 82.63,
+    "waist": 68.8,
+    "hip": 80.0,
+    "arm_length": 61.83,
+    "slope": 23.22
+  },
+  {
+    "case_id": "0174",
+    "height": 183.06,
+    "shoulder_width": 46.44,
+    "chest": 103.61,
+    "waist": 82.48,
+    "hip": 104.07,
+    "arm_length": 73.6,
+    "slope": 17.79
+  },
+  {
+    "case_id": "0175",
+    "height": 177.07,
+    "shoulder_width": 39.66,
+    "chest": 79.34,
+    "waist": 62.37,
+    "hip": 85.6,
+    "arm_length": 75.0,
+    "slope": 6.81
+  },
+  {
+    "case_id": "0176",
+    "height": 185.61,
+    "shoulder_width": 46.07,
+    "chest": 105.3,
+    "waist": 95.72,
+    "hip": 96.02,
+    "arm_length": 73.33,
+    "slope": 18.4
+  },
+  {
+    "case_id": "0177",
+    "height": 157.82,
+    "shoulder_width": 41.15,
+    "chest": 87.6,
+    "waist": 67.17,
+    "hip": 82.46,
+    "arm_length": 64.64,
+    "slope": 6.93
+  },
+  {
+    "case_id": "0178",
+    "height": 155.39,
+    "shoulder_width": 42.21,
+    "chest": 92.53,
+    "waist": 75.07,
+    "hip": 84.3,
+    "arm_length": 62.93,
+    "slope": 9.41
+  },
+  {
+    "case_id": "0179",
+    "height": 174.42,
+    "shoulder_width": 40.52,
+    "chest": 102.64,
+    "waist": 93.2,
+    "hip": 94.43,
+    "arm_length": 67.59,
+    "slope": 5.23
+  },
+  {
+    "case_id": "0180",
+    "height": 174.78,
+    "shoulder_width": 39.73,
+    "chest": 99.78,
+    "waist": 87.63,
+    "hip": 106.16,
+    "arm_length": 72.85,
+    "slope": 29.91
+  },
+  {
+    "case_id": "0181",
+    "height": 151.77,
+    "shoulder_width": 37.04,
+    "chest": 81.29,
+    "waist": 74.07,
+    "hip": 82.53,
+    "arm_length": 66.24,
+    "slope": 6.77
+  },
+  {
+    "case_id": "0182",
+    "height": 189.15,
+    "shoulder_width": 47.27,
+    "chest": 108.54,
+    "waist": 99.32,
+    "hip": 105.95,
+    "arm_length": 75.0,
+    "slope": 18.37
+  },
+  {
+    "case_id": "0183",
+    "height": 155.12,
+    "shoulder_width": 37.12,
+    "chest": 78.53,
+    "waist": 60.28,
+    "hip": 84.28,
+    "arm_length": 65.35,
+    "slope": 12.04
+  },
+  {
+    "case_id": "0184",
+    "height": 166.35,
+    "shoulder_width": 40.9,
+    "chest": 97.35,
+    "waist": 88.35,
+    "hip": 105.77,
+    "arm_length": 67.77,
+    "slope": 11.22
+  },
+  {
+    "case_id": "0185",
+    "height": 168.04,
+    "shoulder_width": 42.7,
+    "chest": 97.22,
+    "waist": 83.8,
+    "hip": 98.28,
+    "arm_length": 67.63,
+    "slope": 11.68
+  },
+  {
+    "case_id": "0186",
+    "height": 165.14,
+    "shoulder_width": 37.27,
+    "chest": 78.25,
+    "waist": 68.31,
+    "hip": 80.0,
+    "arm_length": 65.23,
+    "slope": 17.75
+  },
+  {
+    "case_id": "0187",
+    "height": 180.22,
+    "shoulder_width": 42.43,
+    "chest": 105.91,
+    "waist": 96.14,
+    "hip": 107.98,
+    "arm_length": 75.0,
+    "slope": 3.47
+  },
+  {
+    "case_id": "0188",
+    "height": 187.82,
+    "shoulder_width": 45.74,
+    "chest": 116.84,
+    "waist": 99.13,
+    "hip": 105.27,
+    "arm_length": 71.88,
+    "slope": 21.05
+  },
+  {
+    "case_id": "0189",
+    "height": 172.51,
+    "shoulder_width": 38.23,
+    "chest": 93.5,
+    "waist": 83.67,
+    "hip": 93.44,
+    "arm_length": 71.18,
+    "slope": 2.15
+  },
+  {
+    "case_id": "0190",
+    "height": 181.47,
+    "shoulder_width": 43.52,
+    "chest": 109.99,
+    "waist": 89.47,
+    "hip": 111.43,
+    "arm_length": 72.39,
+    "slope": 6.5
+  },
+  {
+    "case_id": "0191",
+    "height": 181.0,
+    "shoulder_width": 45.21,
+    "chest": 104.98,
+    "waist": 95.96,
+    "hip": 114.71,
+    "arm_length": 75.0,
+    "slope": 7.25
+  },
+  {
+    "case_id": "0192",
+    "height": 173.77,
+    "shoulder_width": 47.39,
+    "chest": 105.42,
+    "waist": 80.87,
+    "hip": 111.97,
+    "arm_length": 71.89,
+    "slope": 17.8
+  },
+  {
+    "case_id": "0193",
+    "height": 189.29,
+    "shoulder_width": 48.54,
+    "chest": 109.45,
+    "waist": 88.98,
+    "hip": 107.65,
+    "arm_length": 73.5,
+    "slope": 24.25
+  },
+  {
+    "case_id": "0194",
+    "height": 183.51,
+    "shoulder_width": 43.5,
+    "chest": 94.94,
+    "waist": 85.31,
+    "hip": 85.9,
+    "arm_length": 75.0,
+    "slope": 14.98
+  },
+  {
+    "case_id": "0195",
+    "height": 177.61,
+    "shoulder_width": 40.81,
+    "chest": 97.99,
+    "waist": 79.77,
+    "hip": 100.32,
+    "arm_length": 67.99,
+    "slope": 14.93
+  },
+  {
+    "case_id": "0196",
+    "height": 170.89,
+    "shoulder_width": 39.79,
+    "chest": 82.92,
+    "waist": 64.85,
+    "hip": 80.34,
+    "arm_length": 66.1,
+    "slope": 28.52
+  },
+  {
+    "case_id": "0197",
+    "height": 166.2,
+    "shoulder_width": 44.63,
+    "chest": 115.36,
+    "waist": 88.1,
+    "hip": 118.85,
+    "arm_length": 73.29,
+    "slope": 19.76
+  },
+  {
+    "case_id": "0198",
+    "height": 167.16,
+    "shoulder_width": 41.1,
+    "chest": 83.08,
+    "waist": 69.86,
+    "hip": 91.28,
+    "arm_length": 74.74,
+    "slope": 3.13
+  },
+  {
+    "case_id": "0199",
+    "height": 178.23,
+    "shoulder_width": 42.44,
+    "chest": 107.87,
+    "waist": 81.73,
+    "hip": 117.27,
+    "arm_length": 75.0,
+    "slope": 5.29
+  },
+  {
+    "case_id": "0200",
+    "height": 152.39,
+    "shoulder_width": 41.16,
+    "chest": 86.16,
+    "waist": 72.46,
+    "hip": 93.33,
+    "arm_length": 63.96,
+    "slope": 13.12
+  },
+  {
+    "case_id": "0201",
+    "height": 167.8,
+    "shoulder_width": 37.55,
+    "chest": 96.93,
+    "waist": 77.82,
+    "hip": 90.91,
+    "arm_length": 67.12,
+    "slope": 29.0
+  },
+  {
+    "case_id": "0202",
+    "height": 153.77,
+    "shoulder_width": 41.83,
+    "chest": 101.43,
+    "waist": 90.38,
+    "hip": 111.08,
+    "arm_length": 67.5,
+    "slope": 28.41
+  },
+  {
+    "case_id": "0203",
+    "height": 155.08,
+    "shoulder_width": 41.52,
+    "chest": 96.64,
+    "waist": 81.41,
+    "hip": 104.35,
+    "arm_length": 69.48,
+    "slope": 21.74
+  },
+  {
+    "case_id": "0204",
+    "height": 169.32,
+    "shoulder_width": 41.89,
+    "chest": 93.48,
+    "waist": 75.86,
+    "hip": 91.45,
+    "arm_length": 65.4,
+    "slope": 4.17
+  },
+  {
+    "case_id": "0205",
+    "height": 181.19,
+    "shoulder_width": 44.71,
+    "chest": 114.39,
+    "waist": 97.7,
+    "hip": 103.76,
+    "arm_length": 70.85,
+    "slope": 7.76
+  },
+  {
+    "case_id": "0206",
+    "height": 189.03,
+    "shoulder_width": 44.07,
+    "chest": 101.77,
+    "waist": 92.52,
+    "hip": 111.48,
+    "arm_length": 74.96,
+    "slope": 3.38
+  },
+  {
+    "case_id": "0207",
+    "height": 156.14,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 66.04,
+    "hip": 84.43,
+    "arm_length": 65.21,
+    "slope": 19.53
+  },
+  {
+    "case_id": "0208",
+    "height": 158.07,
+    "shoulder_width": 42.37,
+    "chest": 100.44,
+    "waist": 90.09,
+    "hip": 109.46,
+    "arm_length": 63.92,
+    "slope": 4.54
+  },
+  {
+    "case_id": "0209",
+    "height": 159.04,
+    "shoulder_width": 39.17,
+    "chest": 100.56,
+    "waist": 81.88,
+    "hip": 106.0,
+    "arm_length": 66.45,
+    "slope": 7.12
+  },
+  {
+    "case_id": "0210",
+    "height": 162.83,
+    "shoulder_width": 42.2,
+    "chest": 101.45,
+    "waist": 83.58,
+    "hip": 95.94,
+    "arm_length": 70.1,
+    "slope": 6.73
+  },
+  {
+    "case_id": "0211",
+    "height": 187.47,
+    "shoulder_width": 43.36,
+    "chest": 89.5,
+    "waist": 74.7,
+    "hip": 89.85,
+    "arm_length": 75.0,
+    "slope": 14.23
+  },
+  {
+    "case_id": "0212",
+    "height": 189.79,
+    "shoulder_width": 47.29,
+    "chest": 108.15,
+    "waist": 88.86,
+    "hip": 98.78,
+    "arm_length": 75.0,
+    "slope": 8.38
+  },
+  {
+    "case_id": "0213",
+    "height": 175.5,
+    "shoulder_width": 39.15,
+    "chest": 101.34,
+    "waist": 84.09,
+    "hip": 109.38,
+    "arm_length": 72.53,
+    "slope": 3.69
+  },
+  {
+    "case_id": "0214",
+    "height": 182.89,
+    "shoulder_width": 47.35,
+    "chest": 116.91,
+    "waist": 96.19,
+    "hip": 120.13,
+    "arm_length": 75.0,
+    "slope": 19.67
+  },
+  {
+    "case_id": "0215",
+    "height": 163.91,
+    "shoulder_width": 42.58,
+    "chest": 102.31,
+    "waist": 93.44,
+    "hip": 99.67,
+    "arm_length": 67.16,
+    "slope": 24.74
+  },
+  {
+    "case_id": "0216",
+    "height": 170.23,
+    "shoulder_width": 44.97,
+    "chest": 102.35,
+    "waist": 80.51,
+    "hip": 107.37,
+    "arm_length": 66.25,
+    "slope": 7.56
+  },
+  {
+    "case_id": "0217",
+    "height": 175.07,
+    "shoulder_width": 46.37,
+    "chest": 117.62,
+    "waist": 93.67,
+    "hip": 108.46,
+    "arm_length": 75.0,
+    "slope": 6.32
+  },
+  {
+    "case_id": "0218",
+    "height": 157.91,
+    "shoulder_width": 37.5,
+    "chest": 86.91,
+    "waist": 78.23,
+    "hip": 91.44,
+    "arm_length": 67.83,
+    "slope": 6.91
+  },
+  {
+    "case_id": "0219",
+    "height": 164.31,
+    "shoulder_width": 40.86,
+    "chest": 85.34,
+    "waist": 67.97,
+    "hip": 82.07,
+    "arm_length": 63.9,
+    "slope": 17.41
+  },
+  {
+    "case_id": "0220",
+    "height": 178.2,
+    "shoulder_width": 39.95,
+    "chest": 91.44,
+    "waist": 80.74,
+    "hip": 95.97,
+    "arm_length": 75.0,
+    "slope": 14.55
+  },
+  {
+    "case_id": "0221",
+    "height": 182.82,
+    "shoulder_width": 42.86,
+    "chest": 95.0,
+    "waist": 74.1,
+    "hip": 94.38,
+    "arm_length": 74.49,
+    "slope": 8.75
+  },
+  {
+    "case_id": "0222",
+    "height": 180.07,
+    "shoulder_width": 43.01,
+    "chest": 93.05,
+    "waist": 71.86,
+    "hip": 91.91,
+    "arm_length": 72.25,
+    "slope": 12.34
+  },
+  {
+    "case_id": "0223",
+    "height": 159.44,
+    "shoulder_width": 42.38,
+    "chest": 108.4,
+    "waist": 90.48,
+    "hip": 111.5,
+    "arm_length": 70.27,
+    "slope": 29.97
+  },
+  {
+    "case_id": "0224",
+    "height": 174.54,
+    "shoulder_width": 47.72,
+    "chest": 120.0,
+    "waist": 106.15,
+    "hip": 119.06,
+    "arm_length": 67.32,
+    "slope": 2.44
+  },
+  {
+    "case_id": "0225",
+    "height": 169.09,
+    "shoulder_width": 42.21,
+    "chest": 94.75,
+    "waist": 80.21,
+    "hip": 95.74,
+    "arm_length": 74.16,
+    "slope": 5.04
+  },
+  {
+    "case_id": "0226",
+    "height": 159.01,
+    "shoulder_width": 42.55,
+    "chest": 106.74,
+    "waist": 98.11,
+    "hip": 114.7,
+    "arm_length": 70.33,
+    "slope": 10.8
+  },
+  {
+    "case_id": "0227",
+    "height": 166.07,
+    "shoulder_width": 39.21,
+    "chest": 92.67,
+    "waist": 84.3,
+    "hip": 89.79,
+    "arm_length": 69.58,
+    "slope": 10.3
+  },
+  {
+    "case_id": "0228",
+    "height": 156.79,
+    "shoulder_width": 36.33,
+    "chest": 78.0,
+    "waist": 71.09,
+    "hip": 80.0,
+    "arm_length": 68.74,
+    "slope": 21.08
+  },
+  {
+    "case_id": "0229",
+    "height": 157.68,
+    "shoulder_width": 36.35,
+    "chest": 90.41,
+    "waist": 71.87,
+    "hip": 97.88,
+    "arm_length": 61.46,
+    "slope": 20.98
+  },
+  {
+    "case_id": "0230",
+    "height": 182.58,
+    "shoulder_width": 42.74,
+    "chest": 92.57,
+    "waist": 84.61,
+    "hip": 88.21,
+    "arm_length": 74.88,
+    "slope": 14.11
+  },
+  {
+    "case_id": "0231",
+    "height": 160.12,
+    "shoulder_width": 42.68,
+    "chest": 105.13,
+    "waist": 85.61,
+    "hip": 112.17,
+    "arm_length": 63.23,
+    "slope": 2.12
+  },
+  {
+    "case_id": "0232",
+    "height": 172.85,
+    "shoulder_width": 48.34,
+    "chest": 97.79,
+    "waist": 76.8,
+    "hip": 98.16,
+    "arm_length": 75.0,
+    "slope": 4.49
+  },
+  {
+    "case_id": "0233",
+    "height": 165.81,
+    "shoulder_width": 43.91,
+    "chest": 97.61,
+    "waist": 76.34,
+    "hip": 91.67,
+    "arm_length": 67.77,
+    "slope": 15.42
+  },
+  {
+    "case_id": "0234",
+    "height": 184.47,
+    "shoulder_width": 47.69,
+    "chest": 115.14,
+    "waist": 105.6,
+    "hip": 113.11,
+    "arm_length": 75.0,
+    "slope": 27.85
+  },
+  {
+    "case_id": "0235",
+    "height": 159.84,
+    "shoulder_width": 42.16,
+    "chest": 103.41,
+    "waist": 79.28,
+    "hip": 102.76,
+    "arm_length": 62.98,
+    "slope": 7.19
+  },
+  {
+    "case_id": "0236",
+    "height": 168.55,
+    "shoulder_width": 40.01,
+    "chest": 99.13,
+    "waist": 89.64,
+    "hip": 105.13,
+    "arm_length": 67.19,
+    "slope": 9.68
+  },
+  {
+    "case_id": "0237",
+    "height": 160.19,
+    "shoulder_width": 36.54,
+    "chest": 93.77,
+    "waist": 76.74,
+    "hip": 88.61,
+    "arm_length": 70.37,
+    "slope": 13.18
+  },
+  {
+    "case_id": "0238",
+    "height": 151.4,
+    "shoulder_width": 35.0,
+    "chest": 83.42,
+    "waist": 73.67,
+    "hip": 80.0,
+    "arm_length": 67.26,
+    "slope": 25.83
+  },
+  {
+    "case_id": "0239",
+    "height": 183.94,
+    "shoulder_width": 42.98,
+    "chest": 87.26,
+    "waist": 78.31,
+    "hip": 83.87,
+    "arm_length": 75.0,
+    "slope": 23.28
+  },
+  {
+    "case_id": "0240",
+    "height": 155.13,
+    "shoulder_width": 41.4,
+    "chest": 106.1,
+    "waist": 92.72,
+    "hip": 104.86,
+    "arm_length": 68.47,
+    "slope": 16.77
+  },
+  {
+    "case_id": "0241",
+    "height": 179.79,
+    "shoulder_width": 48.41,
+    "chest": 118.57,
+    "waist": 94.73,
+    "hip": 109.51,
+    "arm_length": 71.32,
+    "slope": 16.08
+  },
+  {
+    "case_id": "0242",
+    "height": 170.21,
+    "shoulder_width": 43.4,
+    "chest": 97.08,
+    "waist": 85.8,
+    "hip": 105.1,
+    "arm_length": 67.62,
+    "slope": 22.62
+  },
+  {
+    "case_id": "0243",
+    "height": 177.12,
+    "shoulder_width": 44.53,
+    "chest": 94.09,
+    "waist": 83.28,
+    "hip": 102.75,
+    "arm_length": 75.0,
+    "slope": 27.7
+  },
+  {
+    "case_id": "0244",
+    "height": 189.37,
+    "shoulder_width": 45.66,
+    "chest": 108.81,
+    "waist": 90.37,
+    "hip": 119.4,
+    "arm_length": 73.2,
+    "slope": 13.55
+  },
+  {
+    "case_id": "0245",
+    "height": 185.02,
+    "shoulder_width": 43.86,
+    "chest": 108.45,
+    "waist": 88.39,
+    "hip": 118.86,
+    "arm_length": 75.0,
+    "slope": 10.44
+  },
+  {
+    "case_id": "0246",
+    "height": 180.81,
+    "shoulder_width": 43.43,
+    "chest": 102.67,
+    "waist": 88.49,
+    "hip": 109.43,
+    "arm_length": 69.02,
+    "slope": 8.16
+  },
+  {
+    "case_id": "0247",
+    "height": 178.48,
+    "shoulder_width": 45.3,
+    "chest": 104.07,
+    "waist": 79.03,
+    "hip": 100.91,
+    "arm_length": 75.0,
+    "slope": 2.86
+  },
+  {
+    "case_id": "0248",
+    "height": 165.86,
+    "shoulder_width": 45.89,
+    "chest": 93.19,
+    "waist": 81.77,
+    "hip": 88.67,
+    "arm_length": 73.09,
+    "slope": 22.89
+  },
+  {
+    "case_id": "0249",
+    "height": 185.43,
+    "shoulder_width": 43.2,
+    "chest": 100.16,
+    "waist": 88.39,
+    "hip": 95.07,
+    "arm_length": 73.46,
+    "slope": 2.76
+  },
+  {
+    "case_id": "0250",
+    "height": 188.34,
+    "shoulder_width": 49.46,
+    "chest": 117.78,
+    "waist": 103.23,
+    "hip": 118.52,
+    "arm_length": 75.0,
+    "slope": 14.59
+  },
+  {
+    "case_id": "0251",
+    "height": 175.62,
+    "shoulder_width": 40.76,
+    "chest": 103.24,
+    "waist": 91.67,
+    "hip": 100.13,
+    "arm_length": 73.85,
+    "slope": 5.95
+  },
+  {
+    "case_id": "0252",
+    "height": 188.89,
+    "shoulder_width": 51.79,
+    "chest": 120.0,
+    "waist": 96.78,
+    "hip": 112.06,
+    "arm_length": 74.58,
+    "slope": 4.52
+  },
+  {
+    "case_id": "0253",
+    "height": 154.8,
+    "shoulder_width": 35.0,
+    "chest": 90.79,
+    "waist": 69.23,
+    "hip": 84.11,
+    "arm_length": 67.79,
+    "slope": 18.25
+  },
+  {
+    "case_id": "0254",
+    "height": 180.98,
+    "shoulder_width": 46.67,
+    "chest": 118.03,
+    "waist": 101.33,
+    "hip": 118.55,
+    "arm_length": 75.0,
+    "slope": 14.53
+  },
+  {
+    "case_id": "0255",
+    "height": 163.84,
+    "shoulder_width": 40.64,
+    "chest": 85.42,
+    "waist": 75.64,
+    "hip": 81.34,
+    "arm_length": 64.02,
+    "slope": 8.9
+  },
+  {
+    "case_id": "0256",
+    "height": 183.68,
+    "shoulder_width": 44.05,
+    "chest": 106.23,
+    "waist": 95.14,
+    "hip": 97.26,
+    "arm_length": 75.0,
+    "slope": 10.61
+  },
+  {
+    "case_id": "0257",
+    "height": 158.66,
+    "shoulder_width": 41.46,
+    "chest": 105.56,
+    "waist": 84.47,
+    "hip": 107.02,
+    "arm_length": 63.51,
+    "slope": 17.52
+  },
+  {
+    "case_id": "0258",
+    "height": 174.87,
+    "shoulder_width": 44.88,
+    "chest": 106.54,
+    "waist": 82.35,
+    "hip": 110.67,
+    "arm_length": 74.71,
+    "slope": 21.11
+  },
+  {
+    "case_id": "0259",
+    "height": 152.96,
+    "shoulder_width": 37.75,
+    "chest": 84.77,
+    "waist": 64.83,
+    "hip": 80.06,
+    "arm_length": 62.85,
+    "slope": 22.8
+  },
+  {
+    "case_id": "0260",
+    "height": 159.48,
+    "shoulder_width": 43.03,
+    "chest": 100.14,
+    "waist": 88.05,
+    "hip": 99.59,
+    "arm_length": 66.18,
+    "slope": 19.35
+  },
+  {
+    "case_id": "0261",
+    "height": 187.12,
+    "shoulder_width": 46.69,
+    "chest": 108.18,
+    "waist": 92.21,
+    "hip": 113.32,
+    "arm_length": 72.05,
+    "slope": 16.44
+  },
+  {
+    "case_id": "0262",
+    "height": 169.26,
+    "shoulder_width": 46.6,
+    "chest": 106.99,
+    "waist": 88.76,
+    "hip": 116.89,
+    "arm_length": 69.66,
+    "slope": 7.06
+  },
+  {
+    "case_id": "0263",
+    "height": 158.68,
+    "shoulder_width": 35.82,
+    "chest": 78.0,
+    "waist": 64.23,
+    "hip": 82.2,
+    "arm_length": 68.44,
+    "slope": 2.9
+  },
+  {
+    "case_id": "0264",
+    "height": 172.8,
+    "shoulder_width": 39.62,
+    "chest": 101.6,
+    "waist": 79.09,
+    "hip": 104.17,
+    "arm_length": 69.61,
+    "slope": 19.96
+  },
+  {
+    "case_id": "0265",
+    "height": 166.49,
+    "shoulder_width": 44.22,
+    "chest": 94.55,
+    "waist": 85.47,
+    "hip": 94.56,
+    "arm_length": 72.08,
+    "slope": 25.79
+  },
+  {
+    "case_id": "0266",
+    "height": 189.95,
+    "shoulder_width": 44.34,
+    "chest": 96.32,
+    "waist": 76.34,
+    "hip": 91.75,
+    "arm_length": 75.0,
+    "slope": 29.82
+  },
+  {
+    "case_id": "0267",
+    "height": 189.61,
+    "shoulder_width": 47.71,
+    "chest": 113.71,
+    "waist": 101.9,
+    "hip": 123.55,
+    "arm_length": 74.76,
+    "slope": 16.8
+  },
+  {
+    "case_id": "0268",
+    "height": 183.31,
+    "shoulder_width": 43.66,
+    "chest": 98.85,
+    "waist": 90.7,
+    "hip": 108.44,
+    "arm_length": 75.0,
+    "slope": 24.36
+  },
+  {
+    "case_id": "0269",
+    "height": 160.77,
+    "shoulder_width": 38.46,
+    "chest": 89.56,
+    "waist": 75.71,
+    "hip": 89.66,
+    "arm_length": 68.26,
+    "slope": 13.43
+  },
+  {
+    "case_id": "0270",
+    "height": 179.97,
+    "shoulder_width": 43.19,
+    "chest": 94.96,
+    "waist": 73.27,
+    "hip": 89.05,
+    "arm_length": 75.0,
+    "slope": 14.5
+  },
+  {
+    "case_id": "0271",
+    "height": 159.11,
+    "shoulder_width": 42.25,
+    "chest": 98.55,
+    "waist": 74.27,
+    "hip": 94.93,
+    "arm_length": 62.44,
+    "slope": 20.36
+  },
+  {
+    "case_id": "0272",
+    "height": 161.0,
+    "shoulder_width": 36.05,
+    "chest": 78.0,
+    "waist": 66.21,
+    "hip": 80.0,
+    "arm_length": 70.75,
+    "slope": 6.35
+  },
+  {
+    "case_id": "0273",
+    "height": 174.26,
+    "shoulder_width": 42.99,
+    "chest": 97.4,
+    "waist": 74.24,
+    "hip": 103.29,
+    "arm_length": 75.0,
+    "slope": 2.31
+  },
+  {
+    "case_id": "0274",
+    "height": 157.14,
+    "shoulder_width": 43.09,
+    "chest": 100.4,
+    "waist": 77.86,
+    "hip": 94.43,
+    "arm_length": 66.97,
+    "slope": 22.29
+  },
+  {
+    "case_id": "0275",
+    "height": 173.98,
+    "shoulder_width": 48.22,
+    "chest": 110.74,
+    "waist": 88.71,
+    "hip": 110.24,
+    "arm_length": 70.49,
+    "slope": 8.28
+  },
+  {
+    "case_id": "0276",
+    "height": 151.84,
+    "shoulder_width": 36.61,
+    "chest": 88.85,
+    "waist": 66.92,
+    "hip": 87.77,
+    "arm_length": 64.54,
+    "slope": 19.09
+  },
+  {
+    "case_id": "0277",
+    "height": 181.07,
+    "shoulder_width": 48.64,
+    "chest": 118.05,
+    "waist": 90.6,
+    "hip": 117.46,
+    "arm_length": 75.0,
+    "slope": 8.88
+  },
+  {
+    "case_id": "0278",
+    "height": 151.7,
+    "shoulder_width": 35.41,
+    "chest": 80.48,
+    "waist": 66.03,
+    "hip": 80.0,
+    "arm_length": 66.4,
+    "slope": 27.92
+  },
+  {
+    "case_id": "0279",
+    "height": 158.05,
+    "shoulder_width": 43.59,
+    "chest": 87.64,
+    "waist": 79.51,
+    "hip": 95.56,
+    "arm_length": 60.19,
+    "slope": 23.36
+  },
+  {
+    "case_id": "0280",
+    "height": 188.81,
+    "shoulder_width": 51.8,
+    "chest": 120.0,
+    "waist": 101.23,
+    "hip": 109.88,
+    "arm_length": 75.0,
+    "slope": 19.19
+  },
+  {
+    "case_id": "0281",
+    "height": 174.59,
+    "shoulder_width": 42.78,
+    "chest": 100.24,
+    "waist": 77.8,
+    "hip": 105.05,
+    "arm_length": 67.26,
+    "slope": 22.43
+  },
+  {
+    "case_id": "0282",
+    "height": 183.96,
+    "shoulder_width": 45.69,
+    "chest": 105.35,
+    "waist": 84.6,
+    "hip": 115.24,
+    "arm_length": 75.0,
+    "slope": 12.33
+  },
+  {
+    "case_id": "0283",
+    "height": 156.99,
+    "shoulder_width": 36.61,
+    "chest": 83.4,
+    "waist": 75.92,
+    "hip": 87.31,
+    "arm_length": 62.02,
+    "slope": 26.07
+  },
+  {
+    "case_id": "0284",
+    "height": 165.13,
+    "shoulder_width": 44.77,
+    "chest": 96.03,
+    "waist": 82.12,
+    "hip": 104.22,
+    "arm_length": 65.73,
+    "slope": 21.4
+  },
+  {
+    "case_id": "0285",
+    "height": 189.49,
+    "shoulder_width": 43.4,
+    "chest": 89.1,
+    "waist": 77.04,
+    "hip": 86.25,
+    "arm_length": 72.95,
+    "slope": 15.31
+  },
+  {
+    "case_id": "0286",
+    "height": 180.15,
+    "shoulder_width": 42.72,
+    "chest": 94.02,
+    "waist": 84.03,
+    "hip": 94.39,
+    "arm_length": 75.0,
+    "slope": 14.5
+  },
+  {
+    "case_id": "0287",
+    "height": 188.12,
+    "shoulder_width": 48.73,
+    "chest": 100.85,
+    "waist": 90.81,
+    "hip": 100.64,
+    "arm_length": 73.35,
+    "slope": 6.28
+  },
+  {
+    "case_id": "0288",
+    "height": 177.5,
+    "shoulder_width": 39.55,
+    "chest": 85.91,
+    "waist": 66.48,
+    "hip": 84.9,
+    "arm_length": 72.6,
+    "slope": 16.61
+  },
+  {
+    "case_id": "0289",
+    "height": 161.19,
+    "shoulder_width": 35.77,
+    "chest": 84.73,
+    "waist": 68.93,
+    "hip": 87.29,
+    "arm_length": 62.48,
+    "slope": 2.39
+  },
+  {
+    "case_id": "0290",
+    "height": 159.93,
+    "shoulder_width": 39.57,
+    "chest": 88.49,
+    "waist": 78.55,
+    "hip": 86.33,
+    "arm_length": 66.71,
+    "slope": 18.62
+  },
+  {
+    "case_id": "0291",
+    "height": 150.87,
+    "shoulder_width": 37.86,
+    "chest": 83.54,
+    "waist": 68.64,
+    "hip": 80.0,
+    "arm_length": 65.6,
+    "slope": 28.39
+  },
+  {
+    "case_id": "0292",
+    "height": 150.89,
+    "shoulder_width": 38.64,
+    "chest": 94.99,
+    "waist": 75.84,
+    "hip": 100.45,
+    "arm_length": 64.02,
+    "slope": 28.02
+  },
+  {
+    "case_id": "0293",
+    "height": 189.24,
+    "shoulder_width": 42.11,
+    "chest": 95.47,
+    "waist": 80.48,
+    "hip": 88.72,
+    "arm_length": 75.0,
+    "slope": 29.65
+  },
+  {
+    "case_id": "0294",
+    "height": 150.65,
+    "shoulder_width": 37.23,
+    "chest": 93.29,
+    "waist": 75.1,
+    "hip": 92.91,
+    "arm_length": 67.56,
+    "slope": 15.3
+  },
+  {
+    "case_id": "0295",
+    "height": 155.24,
+    "shoulder_width": 35.0,
+    "chest": 89.85,
+    "waist": 71.45,
+    "hip": 89.93,
+    "arm_length": 59.98,
+    "slope": 13.86
+  },
+  {
+    "case_id": "0296",
+    "height": 187.2,
+    "shoulder_width": 46.83,
+    "chest": 120.0,
+    "waist": 95.28,
+    "hip": 120.11,
+    "arm_length": 75.0,
+    "slope": 14.55
+  },
+  {
+    "case_id": "0297",
+    "height": 161.18,
+    "shoulder_width": 43.73,
+    "chest": 97.7,
+    "waist": 82.09,
+    "hip": 107.01,
+    "arm_length": 63.35,
+    "slope": 10.44
+  },
+  {
+    "case_id": "0298",
+    "height": 151.24,
+    "shoulder_width": 36.83,
+    "chest": 78.08,
+    "waist": 67.59,
+    "hip": 80.0,
+    "arm_length": 64.62,
+    "slope": 9.38
+  },
+  {
+    "case_id": "0299",
+    "height": 164.21,
+    "shoulder_width": 39.56,
+    "chest": 96.14,
+    "waist": 79.73,
+    "hip": 93.47,
+    "arm_length": 72.2,
+    "slope": 18.01
+  },
+  {
+    "case_id": "0300",
+    "height": 158.55,
+    "shoulder_width": 43.44,
+    "chest": 95.82,
+    "waist": 72.5,
+    "hip": 95.72,
+    "arm_length": 61.63,
+    "slope": 8.68
+  },
+  {
+    "case_id": "0301",
+    "height": 179.88,
+    "shoulder_width": 40.99,
+    "chest": 101.82,
+    "waist": 92.58,
+    "hip": 103.98,
+    "arm_length": 75.0,
+    "slope": 21.98
+  },
+  {
+    "case_id": "0302",
+    "height": 189.71,
+    "shoulder_width": 45.62,
+    "chest": 95.71,
+    "waist": 80.23,
+    "hip": 96.34,
+    "arm_length": 74.45,
+    "slope": 19.17
+  },
+  {
+    "case_id": "0303",
+    "height": 150.56,
+    "shoulder_width": 41.5,
+    "chest": 89.6,
+    "waist": 67.8,
+    "hip": 82.58,
+    "arm_length": 59.75,
+    "slope": 9.67
+  },
+  {
+    "case_id": "0304",
+    "height": 151.31,
+    "shoulder_width": 35.82,
+    "chest": 78.0,
+    "waist": 63.52,
+    "hip": 80.0,
+    "arm_length": 61.09,
+    "slope": 11.18
+  },
+  {
+    "case_id": "0305",
+    "height": 153.59,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 68.53,
+    "hip": 85.66,
+    "arm_length": 68.35,
+    "slope": 16.12
+  },
+  {
+    "case_id": "0306",
+    "height": 171.27,
+    "shoulder_width": 40.91,
+    "chest": 100.82,
+    "waist": 88.73,
+    "hip": 107.77,
+    "arm_length": 75.0,
+    "slope": 14.16
+  },
+  {
+    "case_id": "0307",
+    "height": 180.68,
+    "shoulder_width": 48.49,
+    "chest": 105.95,
+    "waist": 96.2,
+    "hip": 97.36,
+    "arm_length": 75.0,
+    "slope": 23.56
+  },
+  {
+    "case_id": "0308",
+    "height": 153.73,
+    "shoulder_width": 39.87,
+    "chest": 80.57,
+    "waist": 70.97,
+    "hip": 85.39,
+    "arm_length": 64.9,
+    "slope": 25.99
+  },
+  {
+    "case_id": "0309",
+    "height": 153.92,
+    "shoulder_width": 36.41,
+    "chest": 81.87,
+    "waist": 61.99,
+    "hip": 81.02,
+    "arm_length": 61.35,
+    "slope": 13.0
+  },
+  {
+    "case_id": "0310",
+    "height": 167.0,
+    "shoulder_width": 45.55,
+    "chest": 98.49,
+    "waist": 88.84,
+    "hip": 97.04,
+    "arm_length": 67.29,
+    "slope": 16.07
+  },
+  {
+    "case_id": "0311",
+    "height": 166.71,
+    "shoulder_width": 39.25,
+    "chest": 90.34,
+    "waist": 70.09,
+    "hip": 87.66,
+    "arm_length": 69.95,
+    "slope": 13.58
+  },
+  {
+    "case_id": "0312",
+    "height": 182.96,
+    "shoulder_width": 43.07,
+    "chest": 111.2,
+    "waist": 98.23,
+    "hip": 121.6,
+    "arm_length": 75.0,
+    "slope": 5.98
+  },
+  {
+    "case_id": "0313",
+    "height": 171.06,
+    "shoulder_width": 39.38,
+    "chest": 98.09,
+    "waist": 83.31,
+    "hip": 93.45,
+    "arm_length": 75.0,
+    "slope": 5.23
+  },
+  {
+    "case_id": "0314",
+    "height": 172.55,
+    "shoulder_width": 45.43,
+    "chest": 92.46,
+    "waist": 78.74,
+    "hip": 98.3,
+    "arm_length": 66.39,
+    "slope": 16.34
+  },
+  {
+    "case_id": "0315",
+    "height": 160.34,
+    "shoulder_width": 41.65,
+    "chest": 86.27,
+    "waist": 78.45,
+    "hip": 93.08,
+    "arm_length": 63.02,
+    "slope": 11.05
+  },
+  {
+    "case_id": "0316",
+    "height": 173.51,
+    "shoulder_width": 45.65,
+    "chest": 103.42,
+    "waist": 80.31,
+    "hip": 95.23,
+    "arm_length": 75.0,
+    "slope": 14.75
+  },
+  {
+    "case_id": "0317",
+    "height": 184.9,
+    "shoulder_width": 46.03,
+    "chest": 117.53,
+    "waist": 89.9,
+    "hip": 108.46,
+    "arm_length": 75.0,
+    "slope": 28.53
+  },
+  {
+    "case_id": "0318",
+    "height": 162.59,
+    "shoulder_width": 39.23,
+    "chest": 89.12,
+    "waist": 73.14,
+    "hip": 83.59,
+    "arm_length": 72.01,
+    "slope": 9.09
+  },
+  {
+    "case_id": "0319",
+    "height": 178.21,
+    "shoulder_width": 39.92,
+    "chest": 80.78,
+    "waist": 69.56,
+    "hip": 80.0,
+    "arm_length": 75.0,
+    "slope": 4.63
+  },
+  {
+    "case_id": "0320",
+    "height": 187.99,
+    "shoulder_width": 49.8,
+    "chest": 120.0,
+    "waist": 92.78,
+    "hip": 115.68,
+    "arm_length": 75.0,
+    "slope": 17.04
+  },
+  {
+    "case_id": "0321",
+    "height": 161.87,
+    "shoulder_width": 36.2,
+    "chest": 80.41,
+    "waist": 63.79,
+    "hip": 80.0,
+    "arm_length": 63.74,
+    "slope": 9.33
+  },
+  {
+    "case_id": "0322",
+    "height": 175.08,
+    "shoulder_width": 42.59,
+    "chest": 94.02,
+    "waist": 79.05,
+    "hip": 99.13,
+    "arm_length": 71.17,
+    "slope": 18.45
+  },
+  {
+    "case_id": "0323",
+    "height": 188.65,
+    "shoulder_width": 47.41,
+    "chest": 120.0,
+    "waist": 106.19,
+    "hip": 109.41,
+    "arm_length": 75.0,
+    "slope": 21.55
+  },
+  {
+    "case_id": "0324",
+    "height": 189.47,
+    "shoulder_width": 46.89,
+    "chest": 96.4,
+    "waist": 81.51,
+    "hip": 89.2,
+    "arm_length": 75.0,
+    "slope": 16.21
+  },
+  {
+    "case_id": "0325",
+    "height": 178.94,
+    "shoulder_width": 48.7,
+    "chest": 115.78,
+    "waist": 98.89,
+    "hip": 121.67,
+    "arm_length": 75.0,
+    "slope": 26.33
+  },
+  {
+    "case_id": "0326",
+    "height": 151.46,
+    "shoulder_width": 38.37,
+    "chest": 81.73,
+    "waist": 73.25,
+    "hip": 84.16,
+    "arm_length": 62.01,
+    "slope": 7.27
+  },
+  {
+    "case_id": "0327",
+    "height": 163.56,
+    "shoulder_width": 42.89,
+    "chest": 91.04,
+    "waist": 69.73,
+    "hip": 98.1,
+    "arm_length": 70.9,
+    "slope": 7.59
+  },
+  {
+    "case_id": "0328",
+    "height": 161.69,
+    "shoulder_width": 45.0,
+    "chest": 109.13,
+    "waist": 93.17,
+    "hip": 104.93,
+    "arm_length": 64.83,
+    "slope": 3.11
+  },
+  {
+    "case_id": "0329",
+    "height": 179.14,
+    "shoulder_width": 39.87,
+    "chest": 79.87,
+    "waist": 69.8,
+    "hip": 87.04,
+    "arm_length": 75.0,
+    "slope": 15.21
+  },
+  {
+    "case_id": "0330",
+    "height": 169.44,
+    "shoulder_width": 41.71,
+    "chest": 91.55,
+    "waist": 76.78,
+    "hip": 90.29,
+    "arm_length": 71.48,
+    "slope": 27.15
+  },
+  {
+    "case_id": "0331",
+    "height": 189.8,
+    "shoulder_width": 42.65,
+    "chest": 95.15,
+    "waist": 74.29,
+    "hip": 92.34,
+    "arm_length": 75.0,
+    "slope": 6.89
+  },
+  {
+    "case_id": "0332",
+    "height": 180.56,
+    "shoulder_width": 45.1,
+    "chest": 115.08,
+    "waist": 86.94,
+    "hip": 105.11,
+    "arm_length": 73.71,
+    "slope": 4.25
+  },
+  {
+    "case_id": "0333",
+    "height": 160.51,
+    "shoulder_width": 44.81,
+    "chest": 95.23,
+    "waist": 74.63,
+    "hip": 96.64,
+    "arm_length": 66.59,
+    "slope": 18.25
+  },
+  {
+    "case_id": "0334",
+    "height": 165.07,
+    "shoulder_width": 44.5,
+    "chest": 92.71,
+    "waist": 76.28,
+    "hip": 96.23,
+    "arm_length": 72.76,
+    "slope": 12.35
+  },
+  {
+    "case_id": "0335",
+    "height": 172.71,
+    "shoulder_width": 38.71,
+    "chest": 81.38,
+    "waist": 61.99,
+    "hip": 85.09,
+    "arm_length": 69.11,
+    "slope": 22.26
+  },
+  {
+    "case_id": "0336",
+    "height": 152.66,
+    "shoulder_width": 41.48,
+    "chest": 103.77,
+    "waist": 79.39,
+    "hip": 93.88,
+    "arm_length": 58.61,
+    "slope": 25.9
+  },
+  {
+    "case_id": "0337",
+    "height": 159.39,
+    "shoulder_width": 40.31,
+    "chest": 90.93,
+    "waist": 80.49,
+    "hip": 90.72,
+    "arm_length": 66.15,
+    "slope": 29.69
+  },
+  {
+    "case_id": "0338",
+    "height": 156.01,
+    "shoulder_width": 42.1,
+    "chest": 85.5,
+    "waist": 71.07,
+    "hip": 92.11,
+    "arm_length": 66.55,
+    "slope": 21.19
+  },
+  {
+    "case_id": "0339",
+    "height": 160.53,
+    "shoulder_width": 39.35,
+    "chest": 87.35,
+    "waist": 73.26,
+    "hip": 86.69,
+    "arm_length": 64.68,
+    "slope": 10.55
+  },
+  {
+    "case_id": "0340",
+    "height": 160.03,
+    "shoulder_width": 38.71,
+    "chest": 80.91,
+    "waist": 72.68,
+    "hip": 82.56,
+    "arm_length": 62.31,
+    "slope": 21.43
+  },
+  {
+    "case_id": "0341",
+    "height": 183.91,
+    "shoulder_width": 43.08,
+    "chest": 90.05,
+    "waist": 67.67,
+    "hip": 81.9,
+    "arm_length": 75.0,
+    "slope": 29.64
+  },
+  {
+    "case_id": "0342",
+    "height": 151.8,
+    "shoulder_width": 40.21,
+    "chest": 82.15,
+    "waist": 69.88,
+    "hip": 86.36,
+    "arm_length": 61.5,
+    "slope": 2.31
+  },
+  {
+    "case_id": "0343",
+    "height": 173.81,
+    "shoulder_width": 48.57,
+    "chest": 104.66,
+    "waist": 81.86,
+    "hip": 96.79,
+    "arm_length": 72.8,
+    "slope": 18.7
+  },
+  {
+    "case_id": "0344",
+    "height": 181.69,
+    "shoulder_width": 48.18,
+    "chest": 120.0,
+    "waist": 106.44,
+    "hip": 113.93,
+    "arm_length": 75.0,
+    "slope": 10.33
+  },
+  {
+    "case_id": "0345",
+    "height": 163.19,
+    "shoulder_width": 45.03,
+    "chest": 108.48,
+    "waist": 99.33,
+    "hip": 106.67,
+    "arm_length": 68.15,
+    "slope": 15.64
+  },
+  {
+    "case_id": "0346",
+    "height": 154.29,
+    "shoulder_width": 36.14,
+    "chest": 83.71,
+    "waist": 63.74,
+    "hip": 90.93,
+    "arm_length": 59.97,
+    "slope": 7.54
+  },
+  {
+    "case_id": "0347",
+    "height": 180.61,
+    "shoulder_width": 40.79,
+    "chest": 103.6,
+    "waist": 90.48,
+    "hip": 94.66,
+    "arm_length": 75.0,
+    "slope": 19.69
+  },
+  {
+    "case_id": "0348",
+    "height": 180.29,
+    "shoulder_width": 48.62,
+    "chest": 118.21,
+    "waist": 100.43,
+    "hip": 114.01,
+    "arm_length": 75.0,
+    "slope": 28.8
+  },
+  {
+    "case_id": "0349",
+    "height": 173.5,
+    "shoulder_width": 45.09,
+    "chest": 102.0,
+    "waist": 89.61,
+    "hip": 112.15,
+    "arm_length": 67.88,
+    "slope": 7.67
+  },
+  {
+    "case_id": "0350",
+    "height": 171.58,
+    "shoulder_width": 42.7,
+    "chest": 100.05,
+    "waist": 75.87,
+    "hip": 98.13,
+    "arm_length": 72.2,
+    "slope": 18.39
+  },
+  {
+    "case_id": "0351",
+    "height": 176.29,
+    "shoulder_width": 46.4,
+    "chest": 110.67,
+    "waist": 97.87,
+    "hip": 113.43,
+    "arm_length": 73.62,
+    "slope": 18.97
+  },
+  {
+    "case_id": "0352",
+    "height": 154.05,
+    "shoulder_width": 36.42,
+    "chest": 84.35,
+    "waist": 75.78,
+    "hip": 87.37,
+    "arm_length": 59.51,
+    "slope": 18.58
+  },
+  {
+    "case_id": "0353",
+    "height": 158.87,
+    "shoulder_width": 41.95,
+    "chest": 104.72,
+    "waist": 89.11,
+    "hip": 106.64,
+    "arm_length": 64.14,
+    "slope": 14.5
+  },
+  {
+    "case_id": "0354",
+    "height": 184.56,
+    "shoulder_width": 48.61,
+    "chest": 112.39,
+    "waist": 91.33,
+    "hip": 102.28,
+    "arm_length": 71.98,
+    "slope": 7.4
+  },
+  {
+    "case_id": "0355",
+    "height": 164.94,
+    "shoulder_width": 45.63,
+    "chest": 105.09,
+    "waist": 83.01,
+    "hip": 96.8,
+    "arm_length": 66.58,
+    "slope": 24.84
+  },
+  {
+    "case_id": "0356",
+    "height": 165.33,
+    "shoulder_width": 44.04,
+    "chest": 109.28,
+    "waist": 84.02,
+    "hip": 111.66,
+    "arm_length": 73.93,
+    "slope": 13.26
+  },
+  {
+    "case_id": "0357",
+    "height": 152.04,
+    "shoulder_width": 41.87,
+    "chest": 105.94,
+    "waist": 88.86,
+    "hip": 107.05,
+    "arm_length": 60.03,
+    "slope": 24.94
+  },
+  {
+    "case_id": "0358",
+    "height": 169.94,
+    "shoulder_width": 37.73,
+    "chest": 90.93,
+    "waist": 82.89,
+    "hip": 96.92,
+    "arm_length": 67.88,
+    "slope": 3.49
+  },
+  {
+    "case_id": "0359",
+    "height": 187.61,
+    "shoulder_width": 51.82,
+    "chest": 120.0,
+    "waist": 103.1,
+    "hip": 119.1,
+    "arm_length": 75.0,
+    "slope": 5.34
+  },
+  {
+    "case_id": "0360",
+    "height": 153.87,
+    "shoulder_width": 36.0,
+    "chest": 90.07,
+    "waist": 69.79,
+    "hip": 85.15,
+    "arm_length": 64.38,
+    "slope": 8.02
+  },
+  {
+    "case_id": "0361",
+    "height": 156.53,
+    "shoulder_width": 39.73,
+    "chest": 88.23,
+    "waist": 75.56,
+    "hip": 95.5,
+    "arm_length": 61.14,
+    "slope": 27.58
+  },
+  {
+    "case_id": "0362",
+    "height": 186.1,
+    "shoulder_width": 50.2,
+    "chest": 119.41,
+    "waist": 102.15,
+    "hip": 122.74,
+    "arm_length": 75.0,
+    "slope": 2.46
+  },
+  {
+    "case_id": "0363",
+    "height": 188.32,
+    "shoulder_width": 48.05,
+    "chest": 118.63,
+    "waist": 96.58,
+    "hip": 107.06,
+    "arm_length": 75.0,
+    "slope": 16.2
+  },
+  {
+    "case_id": "0364",
+    "height": 167.48,
+    "shoulder_width": 40.26,
+    "chest": 86.55,
+    "waist": 72.68,
+    "hip": 84.39,
+    "arm_length": 75.0,
+    "slope": 6.84
+  },
+  {
+    "case_id": "0365",
+    "height": 162.79,
+    "shoulder_width": 38.68,
+    "chest": 89.98,
+    "waist": 75.12,
+    "hip": 92.57,
+    "arm_length": 72.68,
+    "slope": 9.99
+  },
+  {
+    "case_id": "0366",
+    "height": 177.71,
+    "shoulder_width": 39.36,
+    "chest": 84.92,
+    "waist": 70.39,
+    "hip": 80.0,
+    "arm_length": 75.0,
+    "slope": 20.99
+  },
+  {
+    "case_id": "0367",
+    "height": 179.87,
+    "shoulder_width": 45.15,
+    "chest": 106.65,
+    "waist": 87.17,
+    "hip": 96.87,
+    "arm_length": 69.61,
+    "slope": 20.34
+  },
+  {
+    "case_id": "0368",
+    "height": 189.82,
+    "shoulder_width": 41.94,
+    "chest": 97.91,
+    "waist": 85.94,
+    "hip": 104.31,
+    "arm_length": 75.0,
+    "slope": 19.36
+  },
+  {
+    "case_id": "0369",
+    "height": 177.87,
+    "shoulder_width": 48.3,
+    "chest": 100.14,
+    "waist": 90.87,
+    "hip": 90.65,
+    "arm_length": 75.0,
+    "slope": 4.15
+  },
+  {
+    "case_id": "0370",
+    "height": 157.79,
+    "shoulder_width": 35.0,
+    "chest": 79.35,
+    "waist": 64.02,
+    "hip": 80.0,
+    "arm_length": 64.94,
+    "slope": 13.27
+  },
+  {
+    "case_id": "0371",
+    "height": 180.71,
+    "shoulder_width": 49.44,
+    "chest": 118.24,
+    "waist": 91.18,
+    "hip": 113.4,
+    "arm_length": 75.0,
+    "slope": 4.48
+  },
+  {
+    "case_id": "0372",
+    "height": 166.27,
+    "shoulder_width": 45.98,
+    "chest": 118.2,
+    "waist": 96.91,
+    "hip": 122.15,
+    "arm_length": 68.5,
+    "slope": 23.1
+  },
+  {
+    "case_id": "0373",
+    "height": 151.26,
+    "shoulder_width": 35.0,
+    "chest": 82.9,
+    "waist": 65.45,
+    "hip": 85.65,
+    "arm_length": 61.2,
+    "slope": 26.83
+  },
+  {
+    "case_id": "0374",
+    "height": 182.77,
+    "shoulder_width": 45.61,
+    "chest": 112.38,
+    "waist": 89.47,
+    "hip": 112.25,
+    "arm_length": 71.98,
+    "slope": 26.1
+  },
+  {
+    "case_id": "0375",
+    "height": 182.92,
+    "shoulder_width": 50.14,
+    "chest": 120.0,
+    "waist": 109.58,
+    "hip": 113.48,
+    "arm_length": 75.0,
+    "slope": 17.99
+  },
+  {
+    "case_id": "0376",
+    "height": 166.9,
+    "shoulder_width": 42.33,
+    "chest": 93.36,
+    "waist": 74.6,
+    "hip": 88.53,
+    "arm_length": 64.38,
+    "slope": 15.9
+  },
+  {
+    "case_id": "0377",
+    "height": 185.51,
+    "shoulder_width": 47.83,
+    "chest": 110.6,
+    "waist": 91.01,
+    "hip": 109.81,
+    "arm_length": 73.21,
+    "slope": 25.04
+  },
+  {
+    "case_id": "0378",
+    "height": 157.94,
+    "shoulder_width": 41.54,
+    "chest": 102.01,
+    "waist": 86.48,
+    "hip": 109.42,
+    "arm_length": 63.23,
+    "slope": 26.69
+  },
+  {
+    "case_id": "0379",
+    "height": 179.18,
+    "shoulder_width": 48.01,
+    "chest": 115.15,
+    "waist": 102.93,
+    "hip": 125.0,
+    "arm_length": 73.36,
+    "slope": 24.79
+  },
+  {
+    "case_id": "0380",
+    "height": 179.78,
+    "shoulder_width": 44.44,
+    "chest": 113.59,
+    "waist": 92.81,
+    "hip": 115.08,
+    "arm_length": 69.65,
+    "slope": 8.32
+  },
+  {
+    "case_id": "0381",
+    "height": 183.63,
+    "shoulder_width": 44.77,
+    "chest": 100.12,
+    "waist": 79.28,
+    "hip": 99.95,
+    "arm_length": 75.0,
+    "slope": 27.06
+  },
+  {
+    "case_id": "0382",
+    "height": 152.8,
+    "shoulder_width": 38.89,
+    "chest": 88.68,
+    "waist": 75.77,
+    "hip": 87.74,
+    "arm_length": 62.33,
+    "slope": 15.21
+  },
+  {
+    "case_id": "0383",
+    "height": 173.28,
+    "shoulder_width": 43.33,
+    "chest": 98.94,
+    "waist": 87.96,
+    "hip": 103.8,
+    "arm_length": 69.99,
+    "slope": 24.42
+  },
+  {
+    "case_id": "0384",
+    "height": 184.15,
+    "shoulder_width": 42.21,
+    "chest": 99.17,
+    "waist": 79.19,
+    "hip": 103.92,
+    "arm_length": 73.05,
+    "slope": 20.8
+  },
+  {
+    "case_id": "0385",
+    "height": 160.2,
+    "shoulder_width": 40.16,
+    "chest": 103.17,
+    "waist": 84.07,
+    "hip": 110.93,
+    "arm_length": 71.95,
+    "slope": 26.5
+  },
+  {
+    "case_id": "0386",
+    "height": 156.63,
+    "shoulder_width": 42.16,
+    "chest": 85.14,
+    "waist": 69.55,
+    "hip": 91.45,
+    "arm_length": 67.07,
+    "slope": 16.92
+  },
+  {
+    "case_id": "0387",
+    "height": 165.51,
+    "shoulder_width": 44.48,
+    "chest": 107.9,
+    "waist": 89.51,
+    "hip": 116.37,
+    "arm_length": 65.56,
+    "slope": 6.77
+  },
+  {
+    "case_id": "0388",
+    "height": 175.71,
+    "shoulder_width": 48.9,
+    "chest": 105.06,
+    "waist": 83.26,
+    "hip": 97.49,
+    "arm_length": 75.0,
+    "slope": 8.34
+  },
+  {
+    "case_id": "0389",
+    "height": 170.13,
+    "shoulder_width": 47.54,
+    "chest": 95.43,
+    "waist": 80.6,
+    "hip": 95.67,
+    "arm_length": 74.26,
+    "slope": 11.95
+  },
+  {
+    "case_id": "0390",
+    "height": 166.41,
+    "shoulder_width": 38.29,
+    "chest": 93.59,
+    "waist": 82.68,
+    "hip": 86.79,
+    "arm_length": 67.82,
+    "slope": 27.0
+  },
+  {
+    "case_id": "0391",
+    "height": 150.11,
+    "shoulder_width": 35.71,
+    "chest": 83.32,
+    "waist": 67.22,
+    "hip": 80.0,
+    "arm_length": 61.88,
+    "slope": 7.08
+  },
+  {
+    "case_id": "0392",
+    "height": 171.19,
+    "shoulder_width": 44.92,
+    "chest": 105.34,
+    "waist": 80.68,
+    "hip": 112.6,
+    "arm_length": 67.15,
+    "slope": 23.41
+  },
+  {
+    "case_id": "0393",
+    "height": 164.42,
+    "shoulder_width": 43.9,
+    "chest": 93.22,
+    "waist": 72.88,
+    "hip": 93.17,
+    "arm_length": 62.86,
+    "slope": 8.31
+  },
+  {
+    "case_id": "0394",
+    "height": 178.96,
+    "shoulder_width": 48.36,
+    "chest": 99.07,
+    "waist": 89.16,
+    "hip": 104.96,
+    "arm_length": 75.0,
+    "slope": 21.56
+  },
+  {
+    "case_id": "0395",
+    "height": 176.97,
+    "shoulder_width": 44.51,
+    "chest": 106.45,
+    "waist": 96.47,
+    "hip": 97.94,
+    "arm_length": 71.16,
+    "slope": 4.03
+  },
+  {
+    "case_id": "0396",
+    "height": 187.79,
+    "shoulder_width": 46.33,
+    "chest": 111.44,
+    "waist": 99.51,
+    "hip": 122.38,
+    "arm_length": 73.49,
+    "slope": 24.39
+  },
+  {
+    "case_id": "0397",
+    "height": 185.5,
+    "shoulder_width": 41.35,
+    "chest": 101.42,
+    "waist": 82.18,
+    "hip": 104.43,
+    "arm_length": 75.0,
+    "slope": 9.27
+  },
+  {
+    "case_id": "0398",
+    "height": 155.41,
+    "shoulder_width": 35.28,
+    "chest": 78.0,
+    "waist": 66.96,
+    "hip": 80.0,
+    "arm_length": 61.41,
+    "slope": 21.37
+  },
+  {
+    "case_id": "0399",
+    "height": 177.47,
+    "shoulder_width": 44.79,
+    "chest": 114.69,
+    "waist": 93.54,
+    "hip": 122.4,
+    "arm_length": 68.37,
+    "slope": 22.72
+  },
+  {
+    "case_id": "0400",
+    "height": 189.54,
+    "shoulder_width": 51.33,
+    "chest": 120.0,
+    "waist": 102.79,
+    "hip": 116.48,
+    "arm_length": 75.0,
+    "slope": 23.57
+  },
+  {
+    "case_id": "0401",
+    "height": 189.93,
+    "shoulder_width": 47.4,
+    "chest": 96.54,
+    "waist": 82.18,
+    "hip": 89.18,
+    "arm_length": 75.0,
+    "slope": 11.21
+  },
+  {
+    "case_id": "0402",
+    "height": 179.24,
+    "shoulder_width": 41.41,
+    "chest": 86.94,
+    "waist": 65.87,
+    "hip": 93.43,
+    "arm_length": 75.0,
+    "slope": 3.12
+  },
+  {
+    "case_id": "0403",
+    "height": 151.13,
+    "shoulder_width": 38.31,
+    "chest": 83.13,
+    "waist": 70.78,
+    "hip": 82.04,
+    "arm_length": 67.2,
+    "slope": 10.06
+  },
+  {
+    "case_id": "0404",
+    "height": 177.17,
+    "shoulder_width": 39.55,
+    "chest": 101.79,
+    "waist": 93.31,
+    "hip": 106.65,
+    "arm_length": 73.09,
+    "slope": 8.16
+  },
+  {
+    "case_id": "0405",
+    "height": 182.5,
+    "shoulder_width": 48.21,
+    "chest": 102.85,
+    "waist": 85.02,
+    "hip": 102.08,
+    "arm_length": 75.0,
+    "slope": 21.15
+  },
+  {
+    "case_id": "0406",
+    "height": 175.73,
+    "shoulder_width": 45.51,
+    "chest": 98.41,
+    "waist": 80.02,
+    "hip": 89.47,
+    "arm_length": 75.0,
+    "slope": 14.12
+  },
+  {
+    "case_id": "0407",
+    "height": 167.53,
+    "shoulder_width": 39.32,
+    "chest": 83.59,
+    "waist": 71.04,
+    "hip": 80.0,
+    "arm_length": 64.41,
+    "slope": 23.49
+  },
+  {
+    "case_id": "0408",
+    "height": 165.06,
+    "shoulder_width": 40.08,
+    "chest": 90.53,
+    "waist": 80.44,
+    "hip": 87.29,
+    "arm_length": 71.48,
+    "slope": 28.31
+  },
+  {
+    "case_id": "0409",
+    "height": 176.43,
+    "shoulder_width": 43.39,
+    "chest": 106.24,
+    "waist": 87.95,
+    "hip": 104.42,
+    "arm_length": 73.53,
+    "slope": 10.9
+  },
+  {
+    "case_id": "0410",
+    "height": 154.17,
+    "shoulder_width": 37.75,
+    "chest": 78.32,
+    "waist": 64.2,
+    "hip": 80.0,
+    "arm_length": 68.63,
+    "slope": 3.01
+  },
+  {
+    "case_id": "0411",
+    "height": 174.86,
+    "shoulder_width": 43.27,
+    "chest": 87.07,
+    "waist": 68.99,
+    "hip": 80.42,
+    "arm_length": 69.1,
+    "slope": 9.69
+  },
+  {
+    "case_id": "0412",
+    "height": 166.05,
+    "shoulder_width": 41.8,
+    "chest": 83.63,
+    "waist": 65.02,
+    "hip": 80.0,
+    "arm_length": 69.49,
+    "slope": 11.21
+  },
+  {
+    "case_id": "0413",
+    "height": 171.94,
+    "shoulder_width": 40.11,
+    "chest": 80.81,
+    "waist": 73.54,
+    "hip": 80.0,
+    "arm_length": 66.86,
+    "slope": 6.1
+  },
+  {
+    "case_id": "0414",
+    "height": 189.25,
+    "shoulder_width": 48.65,
+    "chest": 115.11,
+    "waist": 105.64,
+    "hip": 105.64,
+    "arm_length": 75.0,
+    "slope": 7.71
+  },
+  {
+    "case_id": "0415",
+    "height": 174.92,
+    "shoulder_width": 42.89,
+    "chest": 95.66,
+    "waist": 86.89,
+    "hip": 88.95,
+    "arm_length": 75.0,
+    "slope": 12.62
+  },
+  {
+    "case_id": "0416",
+    "height": 175.95,
+    "shoulder_width": 48.93,
+    "chest": 99.55,
+    "waist": 90.28,
+    "hip": 100.9,
+    "arm_length": 75.0,
+    "slope": 6.18
+  },
+  {
+    "case_id": "0417",
+    "height": 171.34,
+    "shoulder_width": 44.62,
+    "chest": 101.45,
+    "waist": 78.76,
+    "hip": 96.26,
+    "arm_length": 75.0,
+    "slope": 2.97
+  },
+  {
+    "case_id": "0418",
+    "height": 178.35,
+    "shoulder_width": 49.93,
+    "chest": 100.09,
+    "waist": 77.81,
+    "hip": 103.58,
+    "arm_length": 68.52,
+    "slope": 18.51
+  },
+  {
+    "case_id": "0419",
+    "height": 177.36,
+    "shoulder_width": 45.28,
+    "chest": 100.48,
+    "waist": 87.27,
+    "hip": 102.37,
+    "arm_length": 69.97,
+    "slope": 17.77
+  },
+  {
+    "case_id": "0420",
+    "height": 185.28,
+    "shoulder_width": 48.17,
+    "chest": 109.98,
+    "waist": 88.5,
+    "hip": 100.87,
+    "arm_length": 73.58,
+    "slope": 2.31
+  },
+  {
+    "case_id": "0421",
+    "height": 189.47,
+    "shoulder_width": 44.21,
+    "chest": 110.04,
+    "waist": 85.68,
+    "hip": 105.28,
+    "arm_length": 75.0,
+    "slope": 11.08
+  },
+  {
+    "case_id": "0422",
+    "height": 181.93,
+    "shoulder_width": 50.48,
+    "chest": 120.0,
+    "waist": 93.13,
+    "hip": 125.0,
+    "arm_length": 71.02,
+    "slope": 27.57
+  },
+  {
+    "case_id": "0423",
+    "height": 170.72,
+    "shoulder_width": 41.0,
+    "chest": 85.87,
+    "waist": 64.57,
+    "hip": 81.54,
+    "arm_length": 75.0,
+    "slope": 24.32
+  },
+  {
+    "case_id": "0424",
+    "height": 188.79,
+    "shoulder_width": 42.68,
+    "chest": 100.51,
+    "waist": 79.78,
+    "hip": 101.38,
+    "arm_length": 75.0,
+    "slope": 9.94
+  },
+  {
+    "case_id": "0425",
+    "height": 172.95,
+    "shoulder_width": 39.95,
+    "chest": 91.15,
+    "waist": 78.45,
+    "hip": 84.37,
+    "arm_length": 75.0,
+    "slope": 16.16
+  },
+  {
+    "case_id": "0426",
+    "height": 182.78,
+    "shoulder_width": 47.38,
+    "chest": 114.95,
+    "waist": 100.21,
+    "hip": 123.58,
+    "arm_length": 75.0,
+    "slope": 9.79
+  },
+  {
+    "case_id": "0427",
+    "height": 153.98,
+    "shoulder_width": 39.48,
+    "chest": 80.53,
+    "waist": 63.7,
+    "hip": 80.0,
+    "arm_length": 64.43,
+    "slope": 6.49
+  },
+  {
+    "case_id": "0428",
+    "height": 174.42,
+    "shoulder_width": 46.65,
+    "chest": 116.3,
+    "waist": 93.34,
+    "hip": 117.44,
+    "arm_length": 73.15,
+    "slope": 15.24
+  },
+  {
+    "case_id": "0429",
+    "height": 176.2,
+    "shoulder_width": 40.99,
+    "chest": 106.05,
+    "waist": 81.31,
+    "hip": 113.04,
+    "arm_length": 74.29,
+    "slope": 8.86
+  },
+  {
+    "case_id": "0430",
+    "height": 179.83,
+    "shoulder_width": 40.47,
+    "chest": 99.75,
+    "waist": 84.82,
+    "hip": 91.99,
+    "arm_length": 69.34,
+    "slope": 23.02
+  },
+  {
+    "case_id": "0431",
+    "height": 161.72,
+    "shoulder_width": 44.21,
+    "chest": 108.63,
+    "waist": 94.36,
+    "hip": 103.82,
+    "arm_length": 69.48,
+    "slope": 28.55
+  },
+  {
+    "case_id": "0432",
+    "height": 153.66,
+    "shoulder_width": 36.81,
+    "chest": 78.81,
+    "waist": 64.38,
+    "hip": 82.63,
+    "arm_length": 63.49,
+    "slope": 17.98
+  },
+  {
+    "case_id": "0433",
+    "height": 162.57,
+    "shoulder_width": 37.14,
+    "chest": 80.23,
+    "waist": 71.9,
+    "hip": 81.88,
+    "arm_length": 66.08,
+    "slope": 24.12
+  },
+  {
+    "case_id": "0434",
+    "height": 152.58,
+    "shoulder_width": 35.89,
+    "chest": 78.0,
+    "waist": 71.57,
+    "hip": 81.22,
+    "arm_length": 64.58,
+    "slope": 2.14
+  },
+  {
+    "case_id": "0435",
+    "height": 157.37,
+    "shoulder_width": 40.62,
+    "chest": 90.5,
+    "waist": 82.1,
+    "hip": 95.29,
+    "arm_length": 64.73,
+    "slope": 22.99
+  },
+  {
+    "case_id": "0436",
+    "height": 189.02,
+    "shoulder_width": 46.81,
+    "chest": 111.67,
+    "waist": 101.19,
+    "hip": 106.06,
+    "arm_length": 75.0,
+    "slope": 4.73
+  },
+  {
+    "case_id": "0437",
+    "height": 175.94,
+    "shoulder_width": 46.97,
+    "chest": 111.26,
+    "waist": 92.82,
+    "hip": 113.87,
+    "arm_length": 68.72,
+    "slope": 8.04
+  },
+  {
+    "case_id": "0438",
+    "height": 160.8,
+    "shoulder_width": 41.14,
+    "chest": 93.19,
+    "waist": 73.77,
+    "hip": 100.33,
+    "arm_length": 65.31,
+    "slope": 14.49
+  },
+  {
+    "case_id": "0439",
+    "height": 166.39,
+    "shoulder_width": 38.42,
+    "chest": 93.71,
+    "waist": 77.43,
+    "hip": 84.64,
+    "arm_length": 74.46,
+    "slope": 24.84
+  },
+  {
+    "case_id": "0440",
+    "height": 178.94,
+    "shoulder_width": 48.7,
+    "chest": 120.0,
+    "waist": 96.88,
+    "hip": 122.66,
+    "arm_length": 75.0,
+    "slope": 9.48
+  },
+  {
+    "case_id": "0441",
+    "height": 158.88,
+    "shoulder_width": 36.04,
+    "chest": 86.33,
+    "waist": 76.21,
+    "hip": 90.84,
+    "arm_length": 63.89,
+    "slope": 7.75
+  },
+  {
+    "case_id": "0442",
+    "height": 168.14,
+    "shoulder_width": 42.51,
+    "chest": 108.46,
+    "waist": 97.47,
+    "hip": 117.48,
+    "arm_length": 73.9,
+    "slope": 29.01
+  },
+  {
+    "case_id": "0443",
+    "height": 168.62,
+    "shoulder_width": 37.58,
+    "chest": 78.0,
+    "waist": 63.68,
+    "hip": 80.0,
+    "arm_length": 66.08,
+    "slope": 28.69
+  },
+  {
+    "case_id": "0444",
+    "height": 157.82,
+    "shoulder_width": 43.8,
+    "chest": 107.6,
+    "waist": 92.43,
+    "hip": 111.39,
+    "arm_length": 63.63,
+    "slope": 20.1
+  },
+  {
+    "case_id": "0445",
+    "height": 157.47,
+    "shoulder_width": 43.5,
+    "chest": 94.88,
+    "waist": 75.28,
+    "hip": 98.89,
+    "arm_length": 67.07,
+    "slope": 14.64
+  },
+  {
+    "case_id": "0446",
+    "height": 175.3,
+    "shoulder_width": 40.24,
+    "chest": 96.74,
+    "waist": 77.01,
+    "hip": 92.35,
+    "arm_length": 68.6,
+    "slope": 11.31
+  },
+  {
+    "case_id": "0447",
+    "height": 163.25,
+    "shoulder_width": 40.36,
+    "chest": 85.34,
+    "waist": 66.8,
+    "hip": 86.05,
+    "arm_length": 63.51,
+    "slope": 21.29
+  },
+  {
+    "case_id": "0448",
+    "height": 187.76,
+    "shoulder_width": 46.11,
+    "chest": 117.16,
+    "waist": 89.83,
+    "hip": 106.45,
+    "arm_length": 75.0,
+    "slope": 23.31
+  },
+  {
+    "case_id": "0449",
+    "height": 183.72,
+    "shoulder_width": 41.05,
+    "chest": 101.22,
+    "waist": 82.4,
+    "hip": 97.24,
+    "arm_length": 72.04,
+    "slope": 29.89
+  },
+  {
+    "case_id": "0450",
+    "height": 152.55,
+    "shoulder_width": 41.13,
+    "chest": 98.04,
+    "waist": 85.78,
+    "hip": 102.19,
+    "arm_length": 67.13,
+    "slope": 7.15
+  },
+  {
+    "case_id": "0451",
+    "height": 150.03,
+    "shoulder_width": 38.4,
+    "chest": 84.94,
+    "waist": 65.49,
+    "hip": 80.0,
+    "arm_length": 60.5,
+    "slope": 3.97
+  },
+  {
+    "case_id": "0452",
+    "height": 152.28,
+    "shoulder_width": 41.87,
+    "chest": 91.58,
+    "waist": 83.98,
+    "hip": 100.09,
+    "arm_length": 59.38,
+    "slope": 22.02
+  },
+  {
+    "case_id": "0453",
+    "height": 174.03,
+    "shoulder_width": 45.5,
+    "chest": 93.62,
+    "waist": 73.22,
+    "hip": 85.7,
+    "arm_length": 73.49,
+    "slope": 29.62
+  },
+  {
+    "case_id": "0454",
+    "height": 176.88,
+    "shoulder_width": 46.46,
+    "chest": 120.0,
+    "waist": 103.83,
+    "hip": 108.96,
+    "arm_length": 75.0,
+    "slope": 12.21
+  },
+  {
+    "case_id": "0455",
+    "height": 150.17,
+    "shoulder_width": 37.61,
+    "chest": 96.36,
+    "waist": 76.49,
+    "hip": 96.2,
+    "arm_length": 58.89,
+    "slope": 3.62
+  },
+  {
+    "case_id": "0456",
+    "height": 153.22,
+    "shoulder_width": 40.39,
+    "chest": 101.73,
+    "waist": 78.77,
+    "hip": 97.42,
+    "arm_length": 60.32,
+    "slope": 2.75
+  },
+  {
+    "case_id": "0457",
+    "height": 172.14,
+    "shoulder_width": 45.1,
+    "chest": 107.73,
+    "waist": 87.9,
+    "hip": 108.91,
+    "arm_length": 66.55,
+    "slope": 6.32
+  },
+  {
+    "case_id": "0458",
+    "height": 187.27,
+    "shoulder_width": 49.76,
+    "chest": 120.0,
+    "waist": 108.7,
+    "hip": 123.59,
+    "arm_length": 75.0,
+    "slope": 13.67
+  },
+  {
+    "case_id": "0459",
+    "height": 150.14,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 60.0,
+    "hip": 80.0,
+    "arm_length": 64.43,
+    "slope": 24.14
+  },
+  {
+    "case_id": "0460",
+    "height": 173.61,
+    "shoulder_width": 39.72,
+    "chest": 97.26,
+    "waist": 78.81,
+    "hip": 87.79,
+    "arm_length": 69.38,
+    "slope": 11.26
+  },
+  {
+    "case_id": "0461",
+    "height": 160.97,
+    "shoulder_width": 43.25,
+    "chest": 106.23,
+    "waist": 92.23,
+    "hip": 98.56,
+    "arm_length": 70.27,
+    "slope": 20.96
+  },
+  {
+    "case_id": "0462",
+    "height": 157.79,
+    "shoulder_width": 40.85,
+    "chest": 93.55,
+    "waist": 77.15,
+    "hip": 86.29,
+    "arm_length": 65.69,
+    "slope": 4.8
+  },
+  {
+    "case_id": "0463",
+    "height": 156.57,
+    "shoulder_width": 35.69,
+    "chest": 91.81,
+    "waist": 73.31,
+    "hip": 89.15,
+    "arm_length": 63.03,
+    "slope": 27.15
+  },
+  {
+    "case_id": "0464",
+    "height": 172.52,
+    "shoulder_width": 47.47,
+    "chest": 103.48,
+    "waist": 79.63,
+    "hip": 104.64,
+    "arm_length": 69.73,
+    "slope": 24.45
+  },
+  {
+    "case_id": "0465",
+    "height": 185.18,
+    "shoulder_width": 45.99,
+    "chest": 118.78,
+    "waist": 100.25,
+    "hip": 113.34,
+    "arm_length": 75.0,
+    "slope": 3.04
+  },
+  {
+    "case_id": "0466",
+    "height": 182.16,
+    "shoulder_width": 41.18,
+    "chest": 90.0,
+    "waist": 76.15,
+    "hip": 81.77,
+    "arm_length": 70.23,
+    "slope": 21.49
+  },
+  {
+    "case_id": "0467",
+    "height": 152.87,
+    "shoulder_width": 38.01,
+    "chest": 83.74,
+    "waist": 66.05,
+    "hip": 80.0,
+    "arm_length": 66.26,
+    "slope": 28.64
+  },
+  {
+    "case_id": "0468",
+    "height": 155.61,
+    "shoulder_width": 43.19,
+    "chest": 101.8,
+    "waist": 87.46,
+    "hip": 106.08,
+    "arm_length": 66.8,
+    "slope": 24.95
+  },
+  {
+    "case_id": "0469",
+    "height": 169.34,
+    "shoulder_width": 42.67,
+    "chest": 93.64,
+    "waist": 71.9,
+    "hip": 96.72,
+    "arm_length": 64.75,
+    "slope": 9.72
+  },
+  {
+    "case_id": "0470",
+    "height": 153.77,
+    "shoulder_width": 35.59,
+    "chest": 84.82,
+    "waist": 72.67,
+    "hip": 83.48,
+    "arm_length": 59.4,
+    "slope": 14.13
+  },
+  {
+    "case_id": "0471",
+    "height": 164.11,
+    "shoulder_width": 43.2,
+    "chest": 101.4,
+    "waist": 84.53,
+    "hip": 101.14,
+    "arm_length": 73.46,
+    "slope": 23.18
+  },
+  {
+    "case_id": "0472",
+    "height": 169.88,
+    "shoulder_width": 42.26,
+    "chest": 85.19,
+    "waist": 77.54,
+    "hip": 82.11,
+    "arm_length": 67.6,
+    "slope": 29.98
+  },
+  {
+    "case_id": "0473",
+    "height": 178.75,
+    "shoulder_width": 39.83,
+    "chest": 81.14,
+    "waist": 61.21,
+    "hip": 82.76,
+    "arm_length": 68.82,
+    "slope": 28.13
+  },
+  {
+    "case_id": "0474",
+    "height": 187.48,
+    "shoulder_width": 47.39,
+    "chest": 112.31,
+    "waist": 89.8,
+    "hip": 102.51,
+    "arm_length": 75.0,
+    "slope": 4.85
+  },
+  {
+    "case_id": "0475",
+    "height": 153.42,
+    "shoulder_width": 36.62,
+    "chest": 78.0,
+    "waist": 64.26,
+    "hip": 81.24,
+    "arm_length": 66.91,
+    "slope": 18.92
+  },
+  {
+    "case_id": "0476",
+    "height": 183.87,
+    "shoulder_width": 44.94,
+    "chest": 112.76,
+    "waist": 94.28,
+    "hip": 106.51,
+    "arm_length": 75.0,
+    "slope": 9.7
+  },
+  {
+    "case_id": "0477",
+    "height": 151.05,
+    "shoulder_width": 35.43,
+    "chest": 78.65,
+    "waist": 63.69,
+    "hip": 80.0,
+    "arm_length": 66.74,
+    "slope": 10.19
+  },
+  {
+    "case_id": "0478",
+    "height": 170.83,
+    "shoulder_width": 41.07,
+    "chest": 102.39,
+    "waist": 79.53,
+    "hip": 94.27,
+    "arm_length": 70.93,
+    "slope": 20.81
+  },
+  {
+    "case_id": "0479",
+    "height": 181.82,
+    "shoulder_width": 46.43,
+    "chest": 114.43,
+    "waist": 93.46,
+    "hip": 103.73,
+    "arm_length": 70.57,
+    "slope": 3.08
+  },
+  {
+    "case_id": "0480",
+    "height": 163.16,
+    "shoulder_width": 40.75,
+    "chest": 90.2,
+    "waist": 76.25,
+    "hip": 89.85,
+    "arm_length": 69.74,
+    "slope": 20.67
+  },
+  {
+    "case_id": "0481",
+    "height": 162.72,
+    "shoulder_width": 39.18,
+    "chest": 92.11,
+    "waist": 78.43,
+    "hip": 88.7,
+    "arm_length": 65.6,
+    "slope": 21.43
+  },
+  {
+    "case_id": "0482",
+    "height": 175.9,
+    "shoulder_width": 40.12,
+    "chest": 90.86,
+    "waist": 81.94,
+    "hip": 82.44,
+    "arm_length": 75.0,
+    "slope": 6.57
+  },
+  {
+    "case_id": "0483",
+    "height": 170.29,
+    "shoulder_width": 41.8,
+    "chest": 83.85,
+    "waist": 75.94,
+    "hip": 83.1,
+    "arm_length": 75.0,
+    "slope": 10.03
+  },
+  {
+    "case_id": "0484",
+    "height": 184.65,
+    "shoulder_width": 50.84,
+    "chest": 118.67,
+    "waist": 93.09,
+    "hip": 123.07,
+    "arm_length": 75.0,
+    "slope": 28.45
+  },
+  {
+    "case_id": "0485",
+    "height": 167.57,
+    "shoulder_width": 39.57,
+    "chest": 82.41,
+    "waist": 71.6,
+    "hip": 90.23,
+    "arm_length": 64.01,
+    "slope": 22.73
+  },
+  {
+    "case_id": "0486",
+    "height": 187.08,
+    "shoulder_width": 42.0,
+    "chest": 86.77,
+    "waist": 75.28,
+    "hip": 89.34,
+    "arm_length": 71.99,
+    "slope": 25.36
+  },
+  {
+    "case_id": "0487",
+    "height": 170.94,
+    "shoulder_width": 46.91,
+    "chest": 118.53,
+    "waist": 105.27,
+    "hip": 118.91,
+    "arm_length": 67.97,
+    "slope": 16.17
+  },
+  {
+    "case_id": "0488",
+    "height": 154.03,
+    "shoulder_width": 39.98,
+    "chest": 83.17,
+    "waist": 69.6,
+    "hip": 80.0,
+    "arm_length": 61.76,
+    "slope": 8.5
+  },
+  {
+    "case_id": "0489",
+    "height": 174.8,
+    "shoulder_width": 46.71,
+    "chest": 95.02,
+    "waist": 85.0,
+    "hip": 101.88,
+    "arm_length": 70.61,
+    "slope": 20.45
+  },
+  {
+    "case_id": "0490",
+    "height": 166.1,
+    "shoulder_width": 38.08,
+    "chest": 88.24,
+    "waist": 67.47,
+    "hip": 94.92,
+    "arm_length": 73.87,
+    "slope": 25.01
+  },
+  {
+    "case_id": "0491",
+    "height": 172.5,
+    "shoulder_width": 43.72,
+    "chest": 113.27,
+    "waist": 89.73,
+    "hip": 103.67,
+    "arm_length": 72.34,
+    "slope": 11.21
+  },
+  {
+    "case_id": "0492",
+    "height": 162.89,
+    "shoulder_width": 35.91,
+    "chest": 84.66,
+    "waist": 67.29,
+    "hip": 80.0,
+    "arm_length": 62.36,
+    "slope": 12.2
+  },
+  {
+    "case_id": "0493",
+    "height": 185.16,
+    "shoulder_width": 44.48,
+    "chest": 107.07,
+    "waist": 94.07,
+    "hip": 103.39,
+    "arm_length": 75.0,
+    "slope": 21.37
+  },
+  {
+    "case_id": "0494",
+    "height": 172.37,
+    "shoulder_width": 37.93,
+    "chest": 78.0,
+    "waist": 71.64,
+    "hip": 82.4,
+    "arm_length": 75.0,
+    "slope": 27.26
+  },
+  {
+    "case_id": "0495",
+    "height": 150.82,
+    "shoulder_width": 40.35,
+    "chest": 91.61,
+    "waist": 81.01,
+    "hip": 82.57,
+    "arm_length": 60.35,
+    "slope": 23.04
+  },
+  {
+    "case_id": "0496",
+    "height": 181.72,
+    "shoulder_width": 46.74,
+    "chest": 101.92,
+    "waist": 81.82,
+    "hip": 111.43,
+    "arm_length": 74.64,
+    "slope": 14.52
+  },
+  {
+    "case_id": "0497",
+    "height": 172.09,
+    "shoulder_width": 42.09,
+    "chest": 98.13,
+    "waist": 80.81,
+    "hip": 104.55,
+    "arm_length": 75.0,
+    "slope": 28.1
+  },
+  {
+    "case_id": "0498",
+    "height": 172.57,
+    "shoulder_width": 42.54,
+    "chest": 103.09,
+    "waist": 92.01,
+    "hip": 104.39,
+    "arm_length": 74.03,
+    "slope": 22.99
+  },
+  {
+    "case_id": "0499",
+    "height": 177.06,
+    "shoulder_width": 46.88,
+    "chest": 99.63,
+    "waist": 83.16,
+    "hip": 101.38,
+    "arm_length": 67.31,
+    "slope": 25.97
+  },
+  {
+    "case_id": "0500",
+    "height": 174.4,
+    "shoulder_width": 39.72,
+    "chest": 98.89,
+    "waist": 86.23,
+    "hip": 104.0,
+    "arm_length": 71.06,
+    "slope": 25.92
+  },
+  {
+    "case_id": "0501",
+    "height": 166.56,
+    "shoulder_width": 42.34,
+    "chest": 84.71,
+    "waist": 72.82,
+    "hip": 88.4,
+    "arm_length": 69.91,
+    "slope": 15.9
+  },
+  {
+    "case_id": "0502",
+    "height": 182.4,
+    "shoulder_width": 47.58,
+    "chest": 103.11,
+    "waist": 94.14,
+    "hip": 107.38,
+    "arm_length": 75.0,
+    "slope": 29.2
+  },
+  {
+    "case_id": "0503",
+    "height": 186.76,
+    "shoulder_width": 49.55,
+    "chest": 117.22,
+    "waist": 91.35,
+    "hip": 118.24,
+    "arm_length": 75.0,
+    "slope": 16.58
+  },
+  {
+    "case_id": "0504",
+    "height": 184.73,
+    "shoulder_width": 41.86,
+    "chest": 93.28,
+    "waist": 77.98,
+    "hip": 92.02,
+    "arm_length": 71.6,
+    "slope": 6.3
+  },
+  {
+    "case_id": "0505",
+    "height": 183.5,
+    "shoulder_width": 45.7,
+    "chest": 92.74,
+    "waist": 69.82,
+    "hip": 92.25,
+    "arm_length": 71.84,
+    "slope": 21.74
+  },
+  {
+    "case_id": "0506",
+    "height": 181.81,
+    "shoulder_width": 42.49,
+    "chest": 100.08,
+    "waist": 77.68,
+    "hip": 96.14,
+    "arm_length": 75.0,
+    "slope": 17.23
+  },
+  {
+    "case_id": "0507",
+    "height": 185.44,
+    "shoulder_width": 43.3,
+    "chest": 95.18,
+    "waist": 79.0,
+    "hip": 94.8,
+    "arm_length": 75.0,
+    "slope": 5.2
+  },
+  {
+    "case_id": "0508",
+    "height": 184.08,
+    "shoulder_width": 50.04,
+    "chest": 116.68,
+    "waist": 94.33,
+    "hip": 117.13,
+    "arm_length": 73.72,
+    "slope": 24.38
+  },
+  {
+    "case_id": "0509",
+    "height": 169.93,
+    "shoulder_width": 46.82,
+    "chest": 111.14,
+    "waist": 93.08,
+    "hip": 115.84,
+    "arm_length": 70.57,
+    "slope": 27.33
+  },
+  {
+    "case_id": "0510",
+    "height": 157.38,
+    "shoulder_width": 43.81,
+    "chest": 108.98,
+    "waist": 97.68,
+    "hip": 108.61,
+    "arm_length": 69.03,
+    "slope": 10.59
+  },
+  {
+    "case_id": "0511",
+    "height": 180.48,
+    "shoulder_width": 41.23,
+    "chest": 90.05,
+    "waist": 74.36,
+    "hip": 86.85,
+    "arm_length": 73.47,
+    "slope": 24.96
+  },
+  {
+    "case_id": "0512",
+    "height": 160.27,
+    "shoulder_width": 42.43,
+    "chest": 86.73,
+    "waist": 76.34,
+    "hip": 91.79,
+    "arm_length": 65.41,
+    "slope": 22.23
+  },
+  {
+    "case_id": "0513",
+    "height": 186.61,
+    "shoulder_width": 50.02,
+    "chest": 111.75,
+    "waist": 93.01,
+    "hip": 118.0,
+    "arm_length": 74.73,
+    "slope": 24.51
+  },
+  {
+    "case_id": "0514",
+    "height": 163.12,
+    "shoulder_width": 43.78,
+    "chest": 89.83,
+    "waist": 68.05,
+    "hip": 98.77,
+    "arm_length": 71.91,
+    "slope": 26.72
+  },
+  {
+    "case_id": "0515",
+    "height": 188.05,
+    "shoulder_width": 46.32,
+    "chest": 100.6,
+    "waist": 77.68,
+    "hip": 100.63,
+    "arm_length": 74.36,
+    "slope": 28.2
+  },
+  {
+    "case_id": "0516",
+    "height": 150.16,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 61.14,
+    "hip": 80.0,
+    "arm_length": 63.96,
+    "slope": 11.17
+  },
+  {
+    "case_id": "0517",
+    "height": 174.6,
+    "shoulder_width": 47.74,
+    "chest": 112.74,
+    "waist": 97.86,
+    "hip": 109.7,
+    "arm_length": 68.3,
+    "slope": 10.98
+  },
+  {
+    "case_id": "0518",
+    "height": 188.57,
+    "shoulder_width": 48.52,
+    "chest": 105.12,
+    "waist": 86.9,
+    "hip": 112.18,
+    "arm_length": 75.0,
+    "slope": 17.7
+  },
+  {
+    "case_id": "0519",
+    "height": 185.41,
+    "shoulder_width": 48.27,
+    "chest": 115.15,
+    "waist": 90.08,
+    "hip": 106.09,
+    "arm_length": 75.0,
+    "slope": 18.77
+  },
+  {
+    "case_id": "0520",
+    "height": 166.63,
+    "shoulder_width": 42.55,
+    "chest": 86.67,
+    "waist": 77.12,
+    "hip": 81.76,
+    "arm_length": 72.7,
+    "slope": 16.96
+  },
+  {
+    "case_id": "0521",
+    "height": 161.06,
+    "shoulder_width": 35.73,
+    "chest": 88.94,
+    "waist": 69.37,
+    "hip": 80.97,
+    "arm_length": 69.73,
+    "slope": 11.8
+  },
+  {
+    "case_id": "0522",
+    "height": 165.57,
+    "shoulder_width": 38.88,
+    "chest": 97.8,
+    "waist": 78.3,
+    "hip": 92.14,
+    "arm_length": 66.5,
+    "slope": 7.69
+  },
+  {
+    "case_id": "0523",
+    "height": 162.71,
+    "shoulder_width": 36.61,
+    "chest": 78.0,
+    "waist": 64.03,
+    "hip": 83.92,
+    "arm_length": 62.48,
+    "slope": 7.95
+  },
+  {
+    "case_id": "0524",
+    "height": 186.33,
+    "shoulder_width": 50.94,
+    "chest": 120.0,
+    "waist": 94.91,
+    "hip": 118.08,
+    "arm_length": 73.56,
+    "slope": 5.6
+  },
+  {
+    "case_id": "0525",
+    "height": 165.2,
+    "shoulder_width": 42.05,
+    "chest": 93.18,
+    "waist": 79.56,
+    "hip": 89.39,
+    "arm_length": 66.78,
+    "slope": 24.14
+  },
+  {
+    "case_id": "0526",
+    "height": 185.13,
+    "shoulder_width": 44.31,
+    "chest": 103.81,
+    "waist": 82.76,
+    "hip": 94.53,
+    "arm_length": 75.0,
+    "slope": 6.79
+  },
+  {
+    "case_id": "0527",
+    "height": 167.03,
+    "shoulder_width": 41.63,
+    "chest": 87.86,
+    "waist": 67.31,
+    "hip": 85.19,
+    "arm_length": 74.6,
+    "slope": 19.22
+  },
+  {
+    "case_id": "0528",
+    "height": 165.26,
+    "shoulder_width": 36.74,
+    "chest": 86.72,
+    "waist": 66.4,
+    "hip": 87.46,
+    "arm_length": 71.5,
+    "slope": 13.86
+  },
+  {
+    "case_id": "0529",
+    "height": 161.98,
+    "shoulder_width": 36.1,
+    "chest": 78.0,
+    "waist": 64.2,
+    "hip": 83.98,
+    "arm_length": 64.32,
+    "slope": 18.07
+  },
+  {
+    "case_id": "0530",
+    "height": 177.37,
+    "shoulder_width": 39.67,
+    "chest": 82.98,
+    "waist": 66.91,
+    "hip": 85.81,
+    "arm_length": 72.85,
+    "slope": 22.56
+  },
+  {
+    "case_id": "0531",
+    "height": 184.7,
+    "shoulder_width": 49.04,
+    "chest": 120.0,
+    "waist": 105.39,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 22.45
+  },
+  {
+    "case_id": "0532",
+    "height": 182.07,
+    "shoulder_width": 50.27,
+    "chest": 114.87,
+    "waist": 98.61,
+    "hip": 115.21,
+    "arm_length": 75.0,
+    "slope": 14.08
+  },
+  {
+    "case_id": "0533",
+    "height": 182.79,
+    "shoulder_width": 48.98,
+    "chest": 120.0,
+    "waist": 95.08,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 28.22
+  },
+  {
+    "case_id": "0534",
+    "height": 186.28,
+    "shoulder_width": 47.39,
+    "chest": 111.25,
+    "waist": 86.6,
+    "hip": 121.82,
+    "arm_length": 74.11,
+    "slope": 22.29
+  },
+  {
+    "case_id": "0535",
+    "height": 181.83,
+    "shoulder_width": 44.82,
+    "chest": 95.31,
+    "waist": 74.55,
+    "hip": 102.11,
+    "arm_length": 75.0,
+    "slope": 4.52
+  },
+  {
+    "case_id": "0536",
+    "height": 178.68,
+    "shoulder_width": 41.99,
+    "chest": 106.06,
+    "waist": 85.13,
+    "hip": 99.71,
+    "arm_length": 68.96,
+    "slope": 16.32
+  },
+  {
+    "case_id": "0537",
+    "height": 168.03,
+    "shoulder_width": 44.54,
+    "chest": 101.5,
+    "waist": 82.06,
+    "hip": 96.66,
+    "arm_length": 67.12,
+    "slope": 27.98
+  },
+  {
+    "case_id": "0538",
+    "height": 156.6,
+    "shoulder_width": 43.74,
+    "chest": 96.05,
+    "waist": 73.48,
+    "hip": 91.23,
+    "arm_length": 60.15,
+    "slope": 24.12
+  },
+  {
+    "case_id": "0539",
+    "height": 170.5,
+    "shoulder_width": 40.96,
+    "chest": 98.19,
+    "waist": 84.17,
+    "hip": 106.82,
+    "arm_length": 75.0,
+    "slope": 21.06
+  },
+  {
+    "case_id": "0540",
+    "height": 182.71,
+    "shoulder_width": 48.88,
+    "chest": 112.18,
+    "waist": 97.57,
+    "hip": 102.72,
+    "arm_length": 75.0,
+    "slope": 28.93
+  },
+  {
+    "case_id": "0541",
+    "height": 153.4,
+    "shoulder_width": 41.44,
+    "chest": 106.09,
+    "waist": 83.64,
+    "hip": 106.61,
+    "arm_length": 68.25,
+    "slope": 28.89
+  },
+  {
+    "case_id": "0542",
+    "height": 155.12,
+    "shoulder_width": 37.37,
+    "chest": 90.4,
+    "waist": 71.21,
+    "hip": 87.23,
+    "arm_length": 59.2,
+    "slope": 6.3
+  },
+  {
+    "case_id": "0543",
+    "height": 172.49,
+    "shoulder_width": 44.71,
+    "chest": 106.82,
+    "waist": 94.25,
+    "hip": 105.01,
+    "arm_length": 68.85,
+    "slope": 2.44
+  },
+  {
+    "case_id": "0544",
+    "height": 158.27,
+    "shoulder_width": 37.78,
+    "chest": 79.61,
+    "waist": 60.0,
+    "hip": 80.0,
+    "arm_length": 67.52,
+    "slope": 19.63
+  },
+  {
+    "case_id": "0545",
+    "height": 187.43,
+    "shoulder_width": 50.21,
+    "chest": 117.52,
+    "waist": 90.89,
+    "hip": 119.03,
+    "arm_length": 72.03,
+    "slope": 14.06
+  },
+  {
+    "case_id": "0546",
+    "height": 165.61,
+    "shoulder_width": 40.69,
+    "chest": 88.2,
+    "waist": 76.43,
+    "hip": 94.22,
+    "arm_length": 71.84,
+    "slope": 19.58
+  },
+  {
+    "case_id": "0547",
+    "height": 171.53,
+    "shoulder_width": 38.06,
+    "chest": 92.62,
+    "waist": 78.05,
+    "hip": 88.38,
+    "arm_length": 69.12,
+    "slope": 28.2
+  },
+  {
+    "case_id": "0548",
+    "height": 174.97,
+    "shoulder_width": 43.49,
+    "chest": 103.18,
+    "waist": 84.65,
+    "hip": 102.57,
+    "arm_length": 70.05,
+    "slope": 14.32
+  },
+  {
+    "case_id": "0549",
+    "height": 177.42,
+    "shoulder_width": 39.46,
+    "chest": 97.74,
+    "waist": 78.01,
+    "hip": 101.31,
+    "arm_length": 75.0,
+    "slope": 20.27
+  },
+  {
+    "case_id": "0550",
+    "height": 174.33,
+    "shoulder_width": 48.38,
+    "chest": 111.52,
+    "waist": 97.53,
+    "hip": 116.11,
+    "arm_length": 69.13,
+    "slope": 9.93
+  },
+  {
+    "case_id": "0551",
+    "height": 166.96,
+    "shoulder_width": 39.51,
+    "chest": 87.72,
+    "waist": 71.62,
+    "hip": 89.54,
+    "arm_length": 66.01,
+    "slope": 24.52
+  },
+  {
+    "case_id": "0552",
+    "height": 167.5,
+    "shoulder_width": 43.95,
+    "chest": 90.04,
+    "waist": 74.73,
+    "hip": 81.55,
+    "arm_length": 71.58,
+    "slope": 11.62
+  },
+  {
+    "case_id": "0553",
+    "height": 187.97,
+    "shoulder_width": 45.01,
+    "chest": 105.24,
+    "waist": 83.54,
+    "hip": 107.77,
+    "arm_length": 75.0,
+    "slope": 12.38
+  },
+  {
+    "case_id": "0554",
+    "height": 158.15,
+    "shoulder_width": 35.85,
+    "chest": 78.0,
+    "waist": 71.75,
+    "hip": 80.0,
+    "arm_length": 60.12,
+    "slope": 28.68
+  },
+  {
+    "case_id": "0555",
+    "height": 150.8,
+    "shoulder_width": 36.96,
+    "chest": 89.84,
+    "waist": 81.35,
+    "hip": 93.66,
+    "arm_length": 62.2,
+    "slope": 29.28
+  },
+  {
+    "case_id": "0556",
+    "height": 151.57,
+    "shoulder_width": 42.32,
+    "chest": 106.21,
+    "waist": 96.43,
+    "hip": 101.0,
+    "arm_length": 59.11,
+    "slope": 20.57
+  },
+  {
+    "case_id": "0557",
+    "height": 170.63,
+    "shoulder_width": 42.9,
+    "chest": 109.59,
+    "waist": 93.74,
+    "hip": 105.45,
+    "arm_length": 69.62,
+    "slope": 5.74
+  },
+  {
+    "case_id": "0558",
+    "height": 157.69,
+    "shoulder_width": 36.05,
+    "chest": 89.62,
+    "waist": 77.96,
+    "hip": 90.17,
+    "arm_length": 64.06,
+    "slope": 20.72
+  },
+  {
+    "case_id": "0559",
+    "height": 182.52,
+    "shoulder_width": 49.8,
+    "chest": 115.95,
+    "waist": 103.13,
+    "hip": 116.22,
+    "arm_length": 75.0,
+    "slope": 26.23
+  },
+  {
+    "case_id": "0560",
+    "height": 165.45,
+    "shoulder_width": 40.33,
+    "chest": 88.04,
+    "waist": 73.79,
+    "hip": 88.83,
+    "arm_length": 70.52,
+    "slope": 14.05
+  },
+  {
+    "case_id": "0561",
+    "height": 158.71,
+    "shoulder_width": 43.17,
+    "chest": 95.31,
+    "waist": 86.43,
+    "hip": 89.73,
+    "arm_length": 66.53,
+    "slope": 17.03
+  },
+  {
+    "case_id": "0562",
+    "height": 183.15,
+    "shoulder_width": 41.82,
+    "chest": 106.47,
+    "waist": 89.47,
+    "hip": 108.3,
+    "arm_length": 75.0,
+    "slope": 3.01
+  },
+  {
+    "case_id": "0563",
+    "height": 169.88,
+    "shoulder_width": 40.06,
+    "chest": 88.36,
+    "waist": 76.02,
+    "hip": 88.32,
+    "arm_length": 65.66,
+    "slope": 4.05
+  },
+  {
+    "case_id": "0564",
+    "height": 157.43,
+    "shoulder_width": 36.44,
+    "chest": 86.17,
+    "waist": 67.23,
+    "hip": 92.75,
+    "arm_length": 62.13,
+    "slope": 4.55
+  },
+  {
+    "case_id": "0565",
+    "height": 185.03,
+    "shoulder_width": 43.99,
+    "chest": 99.2,
+    "waist": 90.57,
+    "hip": 108.01,
+    "arm_length": 75.0,
+    "slope": 3.93
+  },
+  {
+    "case_id": "0566",
+    "height": 173.73,
+    "shoulder_width": 48.53,
+    "chest": 120.0,
+    "waist": 92.16,
+    "hip": 117.5,
+    "arm_length": 69.86,
+    "slope": 5.63
+  },
+  {
+    "case_id": "0567",
+    "height": 177.79,
+    "shoulder_width": 42.04,
+    "chest": 92.77,
+    "waist": 71.0,
+    "hip": 92.73,
+    "arm_length": 69.53,
+    "slope": 14.1
+  },
+  {
+    "case_id": "0568",
+    "height": 155.73,
+    "shoulder_width": 43.17,
+    "chest": 90.1,
+    "waist": 75.57,
+    "hip": 84.64,
+    "arm_length": 60.01,
+    "slope": 7.66
+  },
+  {
+    "case_id": "0569",
+    "height": 152.19,
+    "shoulder_width": 35.0,
+    "chest": 80.36,
+    "waist": 69.18,
+    "hip": 80.0,
+    "arm_length": 62.53,
+    "slope": 18.27
+  },
+  {
+    "case_id": "0570",
+    "height": 159.37,
+    "shoulder_width": 38.62,
+    "chest": 78.9,
+    "waist": 62.13,
+    "hip": 80.0,
+    "arm_length": 71.61,
+    "slope": 29.9
+  },
+  {
+    "case_id": "0571",
+    "height": 189.18,
+    "shoulder_width": 46.42,
+    "chest": 95.09,
+    "waist": 76.55,
+    "hip": 90.11,
+    "arm_length": 72.08,
+    "slope": 4.67
+  },
+  {
+    "case_id": "0572",
+    "height": 168.13,
+    "shoulder_width": 40.41,
+    "chest": 85.2,
+    "waist": 74.27,
+    "hip": 82.77,
+    "arm_length": 73.91,
+    "slope": 8.75
+  },
+  {
+    "case_id": "0573",
+    "height": 171.54,
+    "shoulder_width": 39.63,
+    "chest": 91.04,
+    "waist": 70.64,
+    "hip": 84.88,
+    "arm_length": 72.53,
+    "slope": 9.39
+  },
+  {
+    "case_id": "0574",
+    "height": 156.89,
+    "shoulder_width": 43.27,
+    "chest": 87.66,
+    "waist": 74.16,
+    "hip": 88.5,
+    "arm_length": 62.37,
+    "slope": 14.68
+  },
+  {
+    "case_id": "0575",
+    "height": 153.51,
+    "shoulder_width": 40.42,
+    "chest": 86.21,
+    "waist": 67.49,
+    "hip": 83.02,
+    "arm_length": 68.03,
+    "slope": 24.3
+  },
+  {
+    "case_id": "0576",
+    "height": 187.88,
+    "shoulder_width": 48.68,
+    "chest": 116.73,
+    "waist": 97.07,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 11.94
+  },
+  {
+    "case_id": "0577",
+    "height": 175.62,
+    "shoulder_width": 44.39,
+    "chest": 92.08,
+    "waist": 75.21,
+    "hip": 88.65,
+    "arm_length": 75.0,
+    "slope": 12.61
+  },
+  {
+    "case_id": "0578",
+    "height": 182.86,
+    "shoulder_width": 45.08,
+    "chest": 110.55,
+    "waist": 85.45,
+    "hip": 119.94,
+    "arm_length": 75.0,
+    "slope": 9.27
+  },
+  {
+    "case_id": "0579",
+    "height": 159.66,
+    "shoulder_width": 37.66,
+    "chest": 83.62,
+    "waist": 72.91,
+    "hip": 91.14,
+    "arm_length": 68.15,
+    "slope": 17.32
+  },
+  {
+    "case_id": "0580",
+    "height": 167.94,
+    "shoulder_width": 45.29,
+    "chest": 113.68,
+    "waist": 90.92,
+    "hip": 123.98,
+    "arm_length": 68.46,
+    "slope": 24.4
+  },
+  {
+    "case_id": "0581",
+    "height": 188.67,
+    "shoulder_width": 49.47,
+    "chest": 103.74,
+    "waist": 88.14,
+    "hip": 95.83,
+    "arm_length": 75.0,
+    "slope": 9.88
+  },
+  {
+    "case_id": "0582",
+    "height": 177.81,
+    "shoulder_width": 48.83,
+    "chest": 102.96,
+    "waist": 84.09,
+    "hip": 105.99,
+    "arm_length": 72.79,
+    "slope": 6.89
+  },
+  {
+    "case_id": "0583",
+    "height": 151.16,
+    "shoulder_width": 36.94,
+    "chest": 88.28,
+    "waist": 74.82,
+    "hip": 82.21,
+    "arm_length": 62.21,
+    "slope": 12.35
+  },
+  {
+    "case_id": "0584",
+    "height": 160.97,
+    "shoulder_width": 42.46,
+    "chest": 92.8,
+    "waist": 78.12,
+    "hip": 100.66,
+    "arm_length": 67.24,
+    "slope": 19.28
+  },
+  {
+    "case_id": "0585",
+    "height": 152.93,
+    "shoulder_width": 35.28,
+    "chest": 78.0,
+    "waist": 68.64,
+    "hip": 83.24,
+    "arm_length": 60.11,
+    "slope": 8.14
+  },
+  {
+    "case_id": "0586",
+    "height": 162.93,
+    "shoulder_width": 41.62,
+    "chest": 98.77,
+    "waist": 85.61,
+    "hip": 106.78,
+    "arm_length": 65.28,
+    "slope": 20.45
+  },
+  {
+    "case_id": "0587",
+    "height": 172.39,
+    "shoulder_width": 41.09,
+    "chest": 104.55,
+    "waist": 80.11,
+    "hip": 108.98,
+    "arm_length": 74.29,
+    "slope": 27.63
+  },
+  {
+    "case_id": "0588",
+    "height": 170.74,
+    "shoulder_width": 40.86,
+    "chest": 102.01,
+    "waist": 89.87,
+    "hip": 102.02,
+    "arm_length": 74.06,
+    "slope": 9.5
+  },
+  {
+    "case_id": "0589",
+    "height": 173.58,
+    "shoulder_width": 47.2,
+    "chest": 103.4,
+    "waist": 86.05,
+    "hip": 112.73,
+    "arm_length": 75.0,
+    "slope": 26.84
+  },
+  {
+    "case_id": "0590",
+    "height": 165.41,
+    "shoulder_width": 46.28,
+    "chest": 96.8,
+    "waist": 81.13,
+    "hip": 96.4,
+    "arm_length": 72.1,
+    "slope": 27.44
+  },
+  {
+    "case_id": "0591",
+    "height": 179.25,
+    "shoulder_width": 46.18,
+    "chest": 104.19,
+    "waist": 87.18,
+    "hip": 104.39,
+    "arm_length": 68.37,
+    "slope": 16.09
+  },
+  {
+    "case_id": "0592",
+    "height": 184.24,
+    "shoulder_width": 48.37,
+    "chest": 119.84,
+    "waist": 97.84,
+    "hip": 120.54,
+    "arm_length": 70.44,
+    "slope": 12.72
+  },
+  {
+    "case_id": "0593",
+    "height": 168.98,
+    "shoulder_width": 39.76,
+    "chest": 80.27,
+    "waist": 69.62,
+    "hip": 80.0,
+    "arm_length": 69.13,
+    "slope": 9.0
+  },
+  {
+    "case_id": "0594",
+    "height": 171.51,
+    "shoulder_width": 42.24,
+    "chest": 96.49,
+    "waist": 81.9,
+    "hip": 86.97,
+    "arm_length": 75.0,
+    "slope": 3.99
+  },
+  {
+    "case_id": "0595",
+    "height": 168.04,
+    "shoulder_width": 39.06,
+    "chest": 90.39,
+    "waist": 72.1,
+    "hip": 96.9,
+    "arm_length": 68.52,
+    "slope": 19.89
+  },
+  {
+    "case_id": "0596",
+    "height": 159.96,
+    "shoulder_width": 35.38,
+    "chest": 79.33,
+    "waist": 66.73,
+    "hip": 80.0,
+    "arm_length": 71.55,
+    "slope": 21.79
+  },
+  {
+    "case_id": "0597",
+    "height": 189.83,
+    "shoulder_width": 45.12,
+    "chest": 111.61,
+    "waist": 94.25,
+    "hip": 114.1,
+    "arm_length": 75.0,
+    "slope": 20.31
+  },
+  {
+    "case_id": "0598",
+    "height": 185.95,
+    "shoulder_width": 49.01,
+    "chest": 101.76,
+    "waist": 88.42,
+    "hip": 101.44,
+    "arm_length": 75.0,
+    "slope": 24.59
+  },
+  {
+    "case_id": "0599",
+    "height": 154.17,
+    "shoulder_width": 35.16,
+    "chest": 78.0,
+    "waist": 65.04,
+    "hip": 80.0,
+    "arm_length": 66.39,
+    "slope": 17.47
+  },
+  {
+    "case_id": "0600",
+    "height": 183.44,
+    "shoulder_width": 43.44,
+    "chest": 100.4,
+    "waist": 77.31,
+    "hip": 108.12,
+    "arm_length": 71.95,
+    "slope": 4.87
+  },
+  {
+    "case_id": "0601",
+    "height": 158.2,
+    "shoulder_width": 42.46,
+    "chest": 87.61,
+    "waist": 74.86,
+    "hip": 91.92,
+    "arm_length": 68.43,
+    "slope": 7.32
+  },
+  {
+    "case_id": "0602",
+    "height": 152.46,
+    "shoulder_width": 37.65,
+    "chest": 79.87,
+    "waist": 69.4,
+    "hip": 80.0,
+    "arm_length": 62.73,
+    "slope": 5.18
+  },
+  {
+    "case_id": "0603",
+    "height": 172.7,
+    "shoulder_width": 39.92,
+    "chest": 96.1,
+    "waist": 73.23,
+    "hip": 105.24,
+    "arm_length": 73.9,
+    "slope": 7.09
+  },
+  {
+    "case_id": "0604",
+    "height": 150.56,
+    "shoulder_width": 36.15,
+    "chest": 78.0,
+    "waist": 61.4,
+    "hip": 83.81,
+    "arm_length": 63.57,
+    "slope": 6.94
+  },
+  {
+    "case_id": "0605",
+    "height": 172.27,
+    "shoulder_width": 40.54,
+    "chest": 104.83,
+    "waist": 79.21,
+    "hip": 109.7,
+    "arm_length": 74.78,
+    "slope": 3.88
+  },
+  {
+    "case_id": "0606",
+    "height": 156.87,
+    "shoulder_width": 38.13,
+    "chest": 96.12,
+    "waist": 80.87,
+    "hip": 99.11,
+    "arm_length": 68.21,
+    "slope": 25.19
+  },
+  {
+    "case_id": "0607",
+    "height": 169.05,
+    "shoulder_width": 42.35,
+    "chest": 102.95,
+    "waist": 81.82,
+    "hip": 110.25,
+    "arm_length": 64.49,
+    "slope": 7.48
+  },
+  {
+    "case_id": "0608",
+    "height": 182.01,
+    "shoulder_width": 43.76,
+    "chest": 91.45,
+    "waist": 71.49,
+    "hip": 92.01,
+    "arm_length": 75.0,
+    "slope": 3.98
+  },
+  {
+    "case_id": "0609",
+    "height": 151.22,
+    "shoulder_width": 37.49,
+    "chest": 96.49,
+    "waist": 76.94,
+    "hip": 105.35,
+    "arm_length": 66.86,
+    "slope": 9.93
+  },
+  {
+    "case_id": "0610",
+    "height": 182.68,
+    "shoulder_width": 47.71,
+    "chest": 110.06,
+    "waist": 90.46,
+    "hip": 117.01,
+    "arm_length": 75.0,
+    "slope": 23.19
+  },
+  {
+    "case_id": "0611",
+    "height": 189.93,
+    "shoulder_width": 47.24,
+    "chest": 117.35,
+    "waist": 105.21,
+    "hip": 110.58,
+    "arm_length": 72.73,
+    "slope": 13.33
+  },
+  {
+    "case_id": "0612",
+    "height": 184.27,
+    "shoulder_width": 43.74,
+    "chest": 105.84,
+    "waist": 79.51,
+    "hip": 102.78,
+    "arm_length": 75.0,
+    "slope": 5.63
+  },
+  {
+    "case_id": "0613",
+    "height": 185.86,
+    "shoulder_width": 42.63,
+    "chest": 108.54,
+    "waist": 85.4,
+    "hip": 119.27,
+    "arm_length": 75.0,
+    "slope": 4.36
+  },
+  {
+    "case_id": "0614",
+    "height": 152.61,
+    "shoulder_width": 35.0,
+    "chest": 82.39,
+    "waist": 73.13,
+    "hip": 80.79,
+    "arm_length": 62.74,
+    "slope": 18.5
+  },
+  {
+    "case_id": "0615",
+    "height": 171.32,
+    "shoulder_width": 44.76,
+    "chest": 102.2,
+    "waist": 89.05,
+    "hip": 112.36,
+    "arm_length": 69.3,
+    "slope": 2.34
+  },
+  {
+    "case_id": "0616",
+    "height": 155.03,
+    "shoulder_width": 39.25,
+    "chest": 86.62,
+    "waist": 78.8,
+    "hip": 88.82,
+    "arm_length": 64.56,
+    "slope": 24.35
+  },
+  {
+    "case_id": "0617",
+    "height": 160.34,
+    "shoulder_width": 43.16,
+    "chest": 86.4,
+    "waist": 73.9,
+    "hip": 93.92,
+    "arm_length": 69.77,
+    "slope": 25.9
+  },
+  {
+    "case_id": "0618",
+    "height": 165.88,
+    "shoulder_width": 44.7,
+    "chest": 104.17,
+    "waist": 89.08,
+    "hip": 94.98,
+    "arm_length": 65.37,
+    "slope": 17.43
+  },
+  {
+    "case_id": "0619",
+    "height": 152.35,
+    "shoulder_width": 40.3,
+    "chest": 100.9,
+    "waist": 91.46,
+    "hip": 92.86,
+    "arm_length": 67.92,
+    "slope": 3.89
+  },
+  {
+    "case_id": "0620",
+    "height": 168.96,
+    "shoulder_width": 45.69,
+    "chest": 93.31,
+    "waist": 70.27,
+    "hip": 84.44,
+    "arm_length": 70.25,
+    "slope": 24.72
+  },
+  {
+    "case_id": "0621",
+    "height": 155.1,
+    "shoulder_width": 35.28,
+    "chest": 82.6,
+    "waist": 65.24,
+    "hip": 86.4,
+    "arm_length": 69.25,
+    "slope": 23.45
+  },
+  {
+    "case_id": "0622",
+    "height": 185.09,
+    "shoulder_width": 46.49,
+    "chest": 116.19,
+    "waist": 90.76,
+    "hip": 106.16,
+    "arm_length": 75.0,
+    "slope": 3.45
+  },
+  {
+    "case_id": "0623",
+    "height": 185.7,
+    "shoulder_width": 48.56,
+    "chest": 120.0,
+    "waist": 96.4,
+    "hip": 119.67,
+    "arm_length": 75.0,
+    "slope": 8.8
+  },
+  {
+    "case_id": "0624",
+    "height": 171.67,
+    "shoulder_width": 44.56,
+    "chest": 115.29,
+    "waist": 101.07,
+    "hip": 106.49,
+    "arm_length": 70.95,
+    "slope": 18.49
+  },
+  {
+    "case_id": "0625",
+    "height": 155.86,
+    "shoulder_width": 38.33,
+    "chest": 83.19,
+    "waist": 64.07,
+    "hip": 83.39,
+    "arm_length": 61.04,
+    "slope": 18.54
+  },
+  {
+    "case_id": "0626",
+    "height": 156.79,
+    "shoulder_width": 41.3,
+    "chest": 87.44,
+    "waist": 78.9,
+    "hip": 80.0,
+    "arm_length": 65.31,
+    "slope": 10.96
+  },
+  {
+    "case_id": "0627",
+    "height": 159.0,
+    "shoulder_width": 39.48,
+    "chest": 98.91,
+    "waist": 89.57,
+    "hip": 95.01,
+    "arm_length": 62.14,
+    "slope": 22.16
+  },
+  {
+    "case_id": "0628",
+    "height": 173.28,
+    "shoulder_width": 40.21,
+    "chest": 98.77,
+    "waist": 82.79,
+    "hip": 101.8,
+    "arm_length": 70.21,
+    "slope": 14.29
+  },
+  {
+    "case_id": "0629",
+    "height": 157.21,
+    "shoulder_width": 41.72,
+    "chest": 87.38,
+    "waist": 77.09,
+    "hip": 92.58,
+    "arm_length": 67.96,
+    "slope": 2.54
+  },
+  {
+    "case_id": "0630",
+    "height": 160.93,
+    "shoulder_width": 39.93,
+    "chest": 94.12,
+    "waist": 85.3,
+    "hip": 91.78,
+    "arm_length": 71.01,
+    "slope": 6.58
+  },
+  {
+    "case_id": "0631",
+    "height": 164.85,
+    "shoulder_width": 36.78,
+    "chest": 89.96,
+    "waist": 69.77,
+    "hip": 85.58,
+    "arm_length": 71.59,
+    "slope": 16.97
+  },
+  {
+    "case_id": "0632",
+    "height": 150.56,
+    "shoulder_width": 35.0,
+    "chest": 80.72,
+    "waist": 64.73,
+    "hip": 80.0,
+    "arm_length": 63.68,
+    "slope": 8.4
+  },
+  {
+    "case_id": "0633",
+    "height": 173.69,
+    "shoulder_width": 42.16,
+    "chest": 89.05,
+    "waist": 68.88,
+    "hip": 84.37,
+    "arm_length": 66.36,
+    "slope": 10.63
+  },
+  {
+    "case_id": "0634",
+    "height": 186.08,
+    "shoulder_width": 50.22,
+    "chest": 111.65,
+    "waist": 94.66,
+    "hip": 113.15,
+    "arm_length": 75.0,
+    "slope": 8.62
+  },
+  {
+    "case_id": "0635",
+    "height": 161.86,
+    "shoulder_width": 38.54,
+    "chest": 78.02,
+    "waist": 62.69,
+    "hip": 83.92,
+    "arm_length": 71.84,
+    "slope": 5.07
+  },
+  {
+    "case_id": "0636",
+    "height": 168.32,
+    "shoulder_width": 40.88,
+    "chest": 93.77,
+    "waist": 79.17,
+    "hip": 84.77,
+    "arm_length": 73.89,
+    "slope": 29.26
+  },
+  {
+    "case_id": "0637",
+    "height": 176.14,
+    "shoulder_width": 45.73,
+    "chest": 105.95,
+    "waist": 85.48,
+    "hip": 98.51,
+    "arm_length": 74.13,
+    "slope": 3.26
+  },
+  {
+    "case_id": "0638",
+    "height": 182.98,
+    "shoulder_width": 44.88,
+    "chest": 100.92,
+    "waist": 81.3,
+    "hip": 110.39,
+    "arm_length": 71.77,
+    "slope": 6.24
+  },
+  {
+    "case_id": "0639",
+    "height": 156.62,
+    "shoulder_width": 40.65,
+    "chest": 105.48,
+    "waist": 83.33,
+    "hip": 114.04,
+    "arm_length": 62.57,
+    "slope": 20.14
+  },
+  {
+    "case_id": "0640",
+    "height": 151.62,
+    "shoulder_width": 37.87,
+    "chest": 90.6,
+    "waist": 76.21,
+    "hip": 85.85,
+    "arm_length": 66.41,
+    "slope": 29.16
+  },
+  {
+    "case_id": "0641",
+    "height": 168.37,
+    "shoulder_width": 43.47,
+    "chest": 107.54,
+    "waist": 85.07,
+    "hip": 115.38,
+    "arm_length": 67.28,
+    "slope": 23.72
+  },
+  {
+    "case_id": "0642",
+    "height": 154.48,
+    "shoulder_width": 36.66,
+    "chest": 85.06,
+    "waist": 71.38,
+    "hip": 91.02,
+    "arm_length": 69.48,
+    "slope": 5.0
+  },
+  {
+    "case_id": "0643",
+    "height": 160.86,
+    "shoulder_width": 38.84,
+    "chest": 88.84,
+    "waist": 74.09,
+    "hip": 95.17,
+    "arm_length": 69.8,
+    "slope": 2.53
+  },
+  {
+    "case_id": "0644",
+    "height": 168.2,
+    "shoulder_width": 43.24,
+    "chest": 98.43,
+    "waist": 76.01,
+    "hip": 96.41,
+    "arm_length": 68.76,
+    "slope": 7.26
+  },
+  {
+    "case_id": "0645",
+    "height": 180.25,
+    "shoulder_width": 43.13,
+    "chest": 101.51,
+    "waist": 85.03,
+    "hip": 109.17,
+    "arm_length": 70.04,
+    "slope": 5.2
+  },
+  {
+    "case_id": "0646",
+    "height": 162.01,
+    "shoulder_width": 39.83,
+    "chest": 86.8,
+    "waist": 76.37,
+    "hip": 82.38,
+    "arm_length": 62.53,
+    "slope": 13.59
+  },
+  {
+    "case_id": "0647",
+    "height": 180.94,
+    "shoulder_width": 49.04,
+    "chest": 119.66,
+    "waist": 101.09,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 8.56
+  },
+  {
+    "case_id": "0648",
+    "height": 172.03,
+    "shoulder_width": 45.8,
+    "chest": 100.32,
+    "waist": 86.39,
+    "hip": 99.94,
+    "arm_length": 71.43,
+    "slope": 4.52
+  },
+  {
+    "case_id": "0649",
+    "height": 176.65,
+    "shoulder_width": 48.04,
+    "chest": 100.15,
+    "waist": 81.35,
+    "hip": 91.11,
+    "arm_length": 67.49,
+    "slope": 29.71
+  },
+  {
+    "case_id": "0650",
+    "height": 169.74,
+    "shoulder_width": 40.96,
+    "chest": 88.68,
+    "waist": 81.29,
+    "hip": 84.29,
+    "arm_length": 73.12,
+    "slope": 9.95
+  },
+  {
+    "case_id": "0651",
+    "height": 152.82,
+    "shoulder_width": 39.89,
+    "chest": 79.81,
+    "waist": 69.03,
+    "hip": 80.0,
+    "arm_length": 66.05,
+    "slope": 23.55
+  },
+  {
+    "case_id": "0652",
+    "height": 178.96,
+    "shoulder_width": 39.64,
+    "chest": 96.01,
+    "waist": 88.16,
+    "hip": 91.06,
+    "arm_length": 71.44,
+    "slope": 24.78
+  },
+  {
+    "case_id": "0653",
+    "height": 156.42,
+    "shoulder_width": 40.61,
+    "chest": 99.62,
+    "waist": 75.34,
+    "hip": 100.69,
+    "arm_length": 65.74,
+    "slope": 10.5
+  },
+  {
+    "case_id": "0654",
+    "height": 185.05,
+    "shoulder_width": 42.52,
+    "chest": 94.33,
+    "waist": 84.36,
+    "hip": 88.49,
+    "arm_length": 75.0,
+    "slope": 4.21
+  },
+  {
+    "case_id": "0655",
+    "height": 169.57,
+    "shoulder_width": 38.07,
+    "chest": 91.63,
+    "waist": 81.04,
+    "hip": 98.04,
+    "arm_length": 75.0,
+    "slope": 20.82
+  },
+  {
+    "case_id": "0656",
+    "height": 180.76,
+    "shoulder_width": 45.25,
+    "chest": 115.29,
+    "waist": 99.08,
+    "hip": 124.13,
+    "arm_length": 71.67,
+    "slope": 15.91
+  },
+  {
+    "case_id": "0657",
+    "height": 179.19,
+    "shoulder_width": 41.6,
+    "chest": 88.48,
+    "waist": 81.07,
+    "hip": 87.32,
+    "arm_length": 70.37,
+    "slope": 11.28
+  },
+  {
+    "case_id": "0658",
+    "height": 165.9,
+    "shoulder_width": 42.7,
+    "chest": 109.04,
+    "waist": 100.07,
+    "hip": 112.35,
+    "arm_length": 71.17,
+    "slope": 11.01
+  },
+  {
+    "case_id": "0659",
+    "height": 184.29,
+    "shoulder_width": 42.95,
+    "chest": 88.64,
+    "waist": 81.15,
+    "hip": 95.1,
+    "arm_length": 73.95,
+    "slope": 20.9
+  },
+  {
+    "case_id": "0660",
+    "height": 168.68,
+    "shoulder_width": 40.38,
+    "chest": 87.71,
+    "waist": 67.81,
+    "hip": 88.57,
+    "arm_length": 69.37,
+    "slope": 16.34
+  },
+  {
+    "case_id": "0661",
+    "height": 158.61,
+    "shoulder_width": 43.83,
+    "chest": 104.45,
+    "waist": 94.31,
+    "hip": 96.29,
+    "arm_length": 67.19,
+    "slope": 25.78
+  },
+  {
+    "case_id": "0662",
+    "height": 163.24,
+    "shoulder_width": 37.82,
+    "chest": 81.66,
+    "waist": 65.03,
+    "hip": 80.8,
+    "arm_length": 65.75,
+    "slope": 9.6
+  },
+  {
+    "case_id": "0663",
+    "height": 175.94,
+    "shoulder_width": 39.27,
+    "chest": 86.55,
+    "waist": 75.06,
+    "hip": 80.94,
+    "arm_length": 69.58,
+    "slope": 7.62
+  },
+  {
+    "case_id": "0664",
+    "height": 150.04,
+    "shoulder_width": 37.27,
+    "chest": 78.0,
+    "waist": 62.12,
+    "hip": 85.72,
+    "arm_length": 66.66,
+    "slope": 8.02
+  },
+  {
+    "case_id": "0665",
+    "height": 162.4,
+    "shoulder_width": 40.25,
+    "chest": 100.88,
+    "waist": 89.43,
+    "hip": 93.34,
+    "arm_length": 63.13,
+    "slope": 13.67
+  },
+  {
+    "case_id": "0666",
+    "height": 184.8,
+    "shoulder_width": 50.44,
+    "chest": 104.12,
+    "waist": 88.26,
+    "hip": 96.95,
+    "arm_length": 75.0,
+    "slope": 27.66
+  },
+  {
+    "case_id": "0667",
+    "height": 168.19,
+    "shoulder_width": 37.84,
+    "chest": 88.83,
+    "waist": 72.79,
+    "hip": 94.36,
+    "arm_length": 67.92,
+    "slope": 26.5
+  },
+  {
+    "case_id": "0668",
+    "height": 160.95,
+    "shoulder_width": 36.93,
+    "chest": 80.65,
+    "waist": 60.97,
+    "hip": 80.0,
+    "arm_length": 68.6,
+    "slope": 5.98
+  },
+  {
+    "case_id": "0669",
+    "height": 154.45,
+    "shoulder_width": 35.21,
+    "chest": 78.0,
+    "waist": 70.1,
+    "hip": 84.93,
+    "arm_length": 59.2,
+    "slope": 23.28
+  },
+  {
+    "case_id": "0670",
+    "height": 179.49,
+    "shoulder_width": 50.22,
+    "chest": 110.93,
+    "waist": 88.58,
+    "hip": 109.89,
+    "arm_length": 75.0,
+    "slope": 22.4
+  },
+  {
+    "case_id": "0671",
+    "height": 168.86,
+    "shoulder_width": 39.63,
+    "chest": 96.54,
+    "waist": 86.43,
+    "hip": 94.61,
+    "arm_length": 72.07,
+    "slope": 13.21
+  },
+  {
+    "case_id": "0672",
+    "height": 169.14,
+    "shoulder_width": 42.54,
+    "chest": 104.87,
+    "waist": 96.08,
+    "hip": 103.71,
+    "arm_length": 68.33,
+    "slope": 12.46
+  },
+  {
+    "case_id": "0673",
+    "height": 155.36,
+    "shoulder_width": 36.95,
+    "chest": 78.0,
+    "waist": 64.17,
+    "hip": 80.0,
+    "arm_length": 62.8,
+    "slope": 24.22
+  },
+  {
+    "case_id": "0674",
+    "height": 159.84,
+    "shoulder_width": 41.03,
+    "chest": 104.25,
+    "waist": 88.24,
+    "hip": 97.87,
+    "arm_length": 64.6,
+    "slope": 18.53
+  },
+  {
+    "case_id": "0675",
+    "height": 170.26,
+    "shoulder_width": 38.98,
+    "chest": 88.4,
+    "waist": 74.46,
+    "hip": 84.29,
+    "arm_length": 72.0,
+    "slope": 3.96
+  },
+  {
+    "case_id": "0676",
+    "height": 163.46,
+    "shoulder_width": 43.85,
+    "chest": 94.52,
+    "waist": 80.62,
+    "hip": 92.82,
+    "arm_length": 65.74,
+    "slope": 27.65
+  },
+  {
+    "case_id": "0677",
+    "height": 163.73,
+    "shoulder_width": 38.35,
+    "chest": 97.61,
+    "waist": 85.59,
+    "hip": 101.16,
+    "arm_length": 62.79,
+    "slope": 5.67
+  },
+  {
+    "case_id": "0678",
+    "height": 175.53,
+    "shoulder_width": 40.82,
+    "chest": 87.17,
+    "waist": 76.93,
+    "hip": 83.44,
+    "arm_length": 67.58,
+    "slope": 3.02
+  },
+  {
+    "case_id": "0679",
+    "height": 167.73,
+    "shoulder_width": 43.11,
+    "chest": 108.7,
+    "waist": 83.57,
+    "hip": 102.1,
+    "arm_length": 69.96,
+    "slope": 12.2
+  },
+  {
+    "case_id": "0680",
+    "height": 169.3,
+    "shoulder_width": 46.63,
+    "chest": 108.51,
+    "waist": 89.04,
+    "hip": 119.14,
+    "arm_length": 65.11,
+    "slope": 28.1
+  },
+  {
+    "case_id": "0681",
+    "height": 170.07,
+    "shoulder_width": 42.55,
+    "chest": 108.65,
+    "waist": 90.86,
+    "hip": 107.31,
+    "arm_length": 67.87,
+    "slope": 20.45
+  },
+  {
+    "case_id": "0682",
+    "height": 172.79,
+    "shoulder_width": 40.24,
+    "chest": 97.6,
+    "waist": 83.88,
+    "hip": 95.59,
+    "arm_length": 65.71,
+    "slope": 14.5
+  },
+  {
+    "case_id": "0683",
+    "height": 150.24,
+    "shoulder_width": 35.0,
+    "chest": 79.04,
+    "waist": 60.38,
+    "hip": 80.0,
+    "arm_length": 63.99,
+    "slope": 10.64
+  },
+  {
+    "case_id": "0684",
+    "height": 189.91,
+    "shoulder_width": 52.22,
+    "chest": 120.0,
+    "waist": 109.73,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 22.99
+  },
+  {
+    "case_id": "0685",
+    "height": 155.47,
+    "shoulder_width": 40.59,
+    "chest": 93.14,
+    "waist": 70.12,
+    "hip": 88.93,
+    "arm_length": 69.48,
+    "slope": 10.84
+  },
+  {
+    "case_id": "0686",
+    "height": 157.26,
+    "shoulder_width": 36.37,
+    "chest": 83.19,
+    "waist": 74.31,
+    "hip": 87.48,
+    "arm_length": 64.57,
+    "slope": 7.84
+  },
+  {
+    "case_id": "0687",
+    "height": 151.84,
+    "shoulder_width": 37.62,
+    "chest": 93.63,
+    "waist": 81.84,
+    "hip": 91.92,
+    "arm_length": 64.02,
+    "slope": 14.21
+  },
+  {
+    "case_id": "0688",
+    "height": 173.16,
+    "shoulder_width": 43.47,
+    "chest": 104.71,
+    "waist": 87.57,
+    "hip": 113.93,
+    "arm_length": 70.99,
+    "slope": 2.45
+  },
+  {
+    "case_id": "0689",
+    "height": 159.45,
+    "shoulder_width": 39.87,
+    "chest": 92.67,
+    "waist": 78.21,
+    "hip": 96.65,
+    "arm_length": 63.66,
+    "slope": 20.62
+  },
+  {
+    "case_id": "0690",
+    "height": 178.16,
+    "shoulder_width": 43.59,
+    "chest": 97.7,
+    "waist": 76.25,
+    "hip": 96.02,
+    "arm_length": 75.0,
+    "slope": 27.45
+  },
+  {
+    "case_id": "0691",
+    "height": 173.74,
+    "shoulder_width": 41.34,
+    "chest": 99.61,
+    "waist": 87.25,
+    "hip": 96.27,
+    "arm_length": 75.0,
+    "slope": 4.06
+  },
+  {
+    "case_id": "0692",
+    "height": 150.43,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 70.15,
+    "hip": 80.0,
+    "arm_length": 60.06,
+    "slope": 14.01
+  },
+  {
+    "case_id": "0693",
+    "height": 165.79,
+    "shoulder_width": 39.47,
+    "chest": 82.21,
+    "waist": 70.83,
+    "hip": 80.0,
+    "arm_length": 72.0,
+    "slope": 7.65
+  },
+  {
+    "case_id": "0694",
+    "height": 179.25,
+    "shoulder_width": 48.1,
+    "chest": 99.82,
+    "waist": 76.34,
+    "hip": 108.79,
+    "arm_length": 73.93,
+    "slope": 19.65
+  },
+  {
+    "case_id": "0695",
+    "height": 150.93,
+    "shoulder_width": 35.73,
+    "chest": 82.29,
+    "waist": 74.12,
+    "hip": 80.0,
+    "arm_length": 65.54,
+    "slope": 20.54
+  },
+  {
+    "case_id": "0696",
+    "height": 154.61,
+    "shoulder_width": 36.74,
+    "chest": 78.71,
+    "waist": 64.96,
+    "hip": 80.85,
+    "arm_length": 63.44,
+    "slope": 8.85
+  },
+  {
+    "case_id": "0697",
+    "height": 177.84,
+    "shoulder_width": 45.36,
+    "chest": 104.85,
+    "waist": 88.52,
+    "hip": 99.02,
+    "arm_length": 75.0,
+    "slope": 12.85
+  },
+  {
+    "case_id": "0698",
+    "height": 164.54,
+    "shoulder_width": 37.68,
+    "chest": 88.85,
+    "waist": 75.74,
+    "hip": 86.01,
+    "arm_length": 72.43,
+    "slope": 25.67
+  },
+  {
+    "case_id": "0699",
+    "height": 154.36,
+    "shoulder_width": 40.4,
+    "chest": 90.34,
+    "waist": 83.11,
+    "hip": 85.37,
+    "arm_length": 61.69,
+    "slope": 14.38
+  },
+  {
+    "case_id": "0700",
+    "height": 160.75,
+    "shoulder_width": 42.04,
+    "chest": 96.21,
+    "waist": 75.77,
+    "hip": 96.33,
+    "arm_length": 71.09,
+    "slope": 24.19
+  },
+  {
+    "case_id": "0701",
+    "height": 169.95,
+    "shoulder_width": 40.33,
+    "chest": 85.02,
+    "waist": 76.46,
+    "hip": 88.59,
+    "arm_length": 71.39,
+    "slope": 26.62
+  },
+  {
+    "case_id": "0702",
+    "height": 154.87,
+    "shoulder_width": 40.41,
+    "chest": 86.08,
+    "waist": 66.32,
+    "hip": 85.49,
+    "arm_length": 63.05,
+    "slope": 28.35
+  },
+  {
+    "case_id": "0703",
+    "height": 162.96,
+    "shoulder_width": 43.82,
+    "chest": 107.33,
+    "waist": 92.68,
+    "hip": 116.35,
+    "arm_length": 66.58,
+    "slope": 12.91
+  },
+  {
+    "case_id": "0704",
+    "height": 156.44,
+    "shoulder_width": 37.0,
+    "chest": 93.54,
+    "waist": 77.7,
+    "hip": 90.57,
+    "arm_length": 61.81,
+    "slope": 15.58
+  },
+  {
+    "case_id": "0705",
+    "height": 178.67,
+    "shoulder_width": 42.38,
+    "chest": 104.03,
+    "waist": 89.16,
+    "hip": 110.01,
+    "arm_length": 71.03,
+    "slope": 19.67
+  },
+  {
+    "case_id": "0706",
+    "height": 156.15,
+    "shoulder_width": 37.76,
+    "chest": 91.93,
+    "waist": 78.82,
+    "hip": 86.19,
+    "arm_length": 68.72,
+    "slope": 3.49
+  },
+  {
+    "case_id": "0707",
+    "height": 173.81,
+    "shoulder_width": 48.5,
+    "chest": 112.46,
+    "waist": 99.65,
+    "hip": 114.6,
+    "arm_length": 75.0,
+    "slope": 20.36
+  },
+  {
+    "case_id": "0708",
+    "height": 177.65,
+    "shoulder_width": 41.51,
+    "chest": 101.5,
+    "waist": 80.23,
+    "hip": 111.25,
+    "arm_length": 70.34,
+    "slope": 8.63
+  },
+  {
+    "case_id": "0709",
+    "height": 184.35,
+    "shoulder_width": 43.24,
+    "chest": 95.85,
+    "waist": 83.53,
+    "hip": 89.31,
+    "arm_length": 72.1,
+    "slope": 15.62
+  },
+  {
+    "case_id": "0710",
+    "height": 159.75,
+    "shoulder_width": 37.4,
+    "chest": 78.0,
+    "waist": 63.41,
+    "hip": 80.0,
+    "arm_length": 61.05,
+    "slope": 19.39
+  },
+  {
+    "case_id": "0711",
+    "height": 175.07,
+    "shoulder_width": 39.26,
+    "chest": 85.98,
+    "waist": 77.25,
+    "hip": 87.4,
+    "arm_length": 71.57,
+    "slope": 15.02
+  },
+  {
+    "case_id": "0712",
+    "height": 158.33,
+    "shoulder_width": 42.55,
+    "chest": 108.42,
+    "waist": 98.1,
+    "hip": 102.44,
+    "arm_length": 63.61,
+    "slope": 6.5
+  },
+  {
+    "case_id": "0713",
+    "height": 162.29,
+    "shoulder_width": 38.94,
+    "chest": 92.68,
+    "waist": 72.5,
+    "hip": 100.46,
+    "arm_length": 62.84,
+    "slope": 2.19
+  },
+  {
+    "case_id": "0714",
+    "height": 184.2,
+    "shoulder_width": 48.3,
+    "chest": 106.9,
+    "waist": 91.0,
+    "hip": 100.99,
+    "arm_length": 72.17,
+    "slope": 15.19
+  },
+  {
+    "case_id": "0715",
+    "height": 164.13,
+    "shoulder_width": 42.17,
+    "chest": 89.85,
+    "waist": 77.52,
+    "hip": 94.65,
+    "arm_length": 64.28,
+    "slope": 3.23
+  },
+  {
+    "case_id": "0716",
+    "height": 167.58,
+    "shoulder_width": 44.65,
+    "chest": 106.74,
+    "waist": 92.79,
+    "hip": 104.66,
+    "arm_length": 66.44,
+    "slope": 16.89
+  },
+  {
+    "case_id": "0717",
+    "height": 158.17,
+    "shoulder_width": 41.69,
+    "chest": 88.31,
+    "waist": 70.6,
+    "hip": 88.42,
+    "arm_length": 65.5,
+    "slope": 18.82
+  },
+  {
+    "case_id": "0718",
+    "height": 167.5,
+    "shoulder_width": 46.09,
+    "chest": 115.41,
+    "waist": 103.8,
+    "hip": 118.4,
+    "arm_length": 71.09,
+    "slope": 19.06
+  },
+  {
+    "case_id": "0719",
+    "height": 167.4,
+    "shoulder_width": 40.06,
+    "chest": 94.35,
+    "waist": 71.18,
+    "hip": 85.06,
+    "arm_length": 73.59,
+    "slope": 3.3
+  },
+  {
+    "case_id": "0720",
+    "height": 170.99,
+    "shoulder_width": 43.93,
+    "chest": 93.08,
+    "waist": 83.98,
+    "hip": 87.31,
+    "arm_length": 75.0,
+    "slope": 23.36
+  },
+  {
+    "case_id": "0721",
+    "height": 159.63,
+    "shoulder_width": 36.56,
+    "chest": 80.06,
+    "waist": 65.46,
+    "hip": 80.0,
+    "arm_length": 71.82,
+    "slope": 8.43
+  },
+  {
+    "case_id": "0722",
+    "height": 183.23,
+    "shoulder_width": 42.06,
+    "chest": 108.85,
+    "waist": 85.81,
+    "hip": 107.15,
+    "arm_length": 75.0,
+    "slope": 5.37
+  },
+  {
+    "case_id": "0723",
+    "height": 182.67,
+    "shoulder_width": 43.2,
+    "chest": 100.63,
+    "waist": 84.88,
+    "hip": 102.7,
+    "arm_length": 70.13,
+    "slope": 6.72
+  },
+  {
+    "case_id": "0724",
+    "height": 156.45,
+    "shoulder_width": 37.25,
+    "chest": 78.0,
+    "waist": 70.72,
+    "hip": 80.0,
+    "arm_length": 66.28,
+    "slope": 12.01
+  },
+  {
+    "case_id": "0725",
+    "height": 161.05,
+    "shoulder_width": 40.29,
+    "chest": 87.7,
+    "waist": 70.9,
+    "hip": 86.87,
+    "arm_length": 66.9,
+    "slope": 29.56
+  },
+  {
+    "case_id": "0726",
+    "height": 158.93,
+    "shoulder_width": 39.62,
+    "chest": 82.79,
+    "waist": 67.02,
+    "hip": 86.39,
+    "arm_length": 62.34,
+    "slope": 18.28
+  },
+  {
+    "case_id": "0727",
+    "height": 166.67,
+    "shoulder_width": 37.18,
+    "chest": 95.18,
+    "waist": 78.08,
+    "hip": 100.59,
+    "arm_length": 68.19,
+    "slope": 28.25
+  },
+  {
+    "case_id": "0728",
+    "height": 161.62,
+    "shoulder_width": 39.55,
+    "chest": 97.12,
+    "waist": 78.51,
+    "hip": 94.48,
+    "arm_length": 72.67,
+    "slope": 17.56
+  },
+  {
+    "case_id": "0729",
+    "height": 177.58,
+    "shoulder_width": 45.92,
+    "chest": 114.66,
+    "waist": 102.79,
+    "hip": 116.11,
+    "arm_length": 71.14,
+    "slope": 2.64
+  },
+  {
+    "case_id": "0730",
+    "height": 174.58,
+    "shoulder_width": 47.05,
+    "chest": 106.83,
+    "waist": 83.11,
+    "hip": 102.3,
+    "arm_length": 72.57,
+    "slope": 25.43
+  },
+  {
+    "case_id": "0731",
+    "height": 156.87,
+    "shoulder_width": 40.27,
+    "chest": 98.75,
+    "waist": 89.78,
+    "hip": 91.18,
+    "arm_length": 69.78,
+    "slope": 18.84
+  },
+  {
+    "case_id": "0732",
+    "height": 180.67,
+    "shoulder_width": 40.33,
+    "chest": 92.91,
+    "waist": 79.51,
+    "hip": 89.32,
+    "arm_length": 74.11,
+    "slope": 17.52
+  },
+  {
+    "case_id": "0733",
+    "height": 172.1,
+    "shoulder_width": 38.29,
+    "chest": 86.69,
+    "waist": 68.17,
+    "hip": 93.91,
+    "arm_length": 75.0,
+    "slope": 10.39
+  },
+  {
+    "case_id": "0734",
+    "height": 157.01,
+    "shoulder_width": 36.61,
+    "chest": 83.71,
+    "waist": 75.23,
+    "hip": 83.71,
+    "arm_length": 60.27,
+    "slope": 3.12
+  },
+  {
+    "case_id": "0735",
+    "height": 159.1,
+    "shoulder_width": 43.05,
+    "chest": 102.14,
+    "waist": 86.38,
+    "hip": 98.44,
+    "arm_length": 70.81,
+    "slope": 11.27
+  },
+  {
+    "case_id": "0736",
+    "height": 183.4,
+    "shoulder_width": 50.21,
+    "chest": 114.97,
+    "waist": 103.71,
+    "hip": 109.84,
+    "arm_length": 75.0,
+    "slope": 4.46
+  },
+  {
+    "case_id": "0737",
+    "height": 168.96,
+    "shoulder_width": 39.37,
+    "chest": 80.23,
+    "waist": 60.22,
+    "hip": 80.0,
+    "arm_length": 71.18,
+    "slope": 14.75
+  },
+  {
+    "case_id": "0738",
+    "height": 162.07,
+    "shoulder_width": 45.29,
+    "chest": 116.12,
+    "waist": 89.57,
+    "hip": 114.15,
+    "arm_length": 68.95,
+    "slope": 22.54
+  },
+  {
+    "case_id": "0739",
+    "height": 164.65,
+    "shoulder_width": 43.6,
+    "chest": 90.44,
+    "waist": 72.93,
+    "hip": 94.36,
+    "arm_length": 69.78,
+    "slope": 25.44
+  },
+  {
+    "case_id": "0740",
+    "height": 151.87,
+    "shoulder_width": 35.0,
+    "chest": 78.0,
+    "waist": 61.05,
+    "hip": 80.0,
+    "arm_length": 63.07,
+    "slope": 16.79
+  },
+  {
+    "case_id": "0741",
+    "height": 176.32,
+    "shoulder_width": 42.86,
+    "chest": 85.81,
+    "waist": 74.18,
+    "hip": 80.0,
+    "arm_length": 75.0,
+    "slope": 2.63
+  },
+  {
+    "case_id": "0742",
+    "height": 171.22,
+    "shoulder_width": 46.86,
+    "chest": 109.82,
+    "waist": 93.72,
+    "hip": 113.81,
+    "arm_length": 66.53,
+    "slope": 20.9
+  },
+  {
+    "case_id": "0743",
+    "height": 185.21,
+    "shoulder_width": 51.57,
+    "chest": 116.86,
+    "waist": 94.49,
+    "hip": 122.78,
+    "arm_length": 75.0,
+    "slope": 9.2
+  },
+  {
+    "case_id": "0744",
+    "height": 156.89,
+    "shoulder_width": 36.12,
+    "chest": 82.19,
+    "waist": 64.02,
+    "hip": 80.0,
+    "arm_length": 60.19,
+    "slope": 28.04
+  },
+  {
+    "case_id": "0745",
+    "height": 152.92,
+    "shoulder_width": 35.0,
+    "chest": 79.47,
+    "waist": 62.92,
+    "hip": 86.83,
+    "arm_length": 67.86,
+    "slope": 13.33
+  },
+  {
+    "case_id": "0746",
+    "height": 167.95,
+    "shoulder_width": 40.73,
+    "chest": 82.38,
+    "waist": 65.89,
+    "hip": 80.0,
+    "arm_length": 65.02,
+    "slope": 17.7
+  },
+  {
+    "case_id": "0747",
+    "height": 153.95,
+    "shoulder_width": 35.0,
+    "chest": 80.09,
+    "waist": 66.09,
+    "hip": 80.0,
+    "arm_length": 58.55,
+    "slope": 7.4
+  },
+  {
+    "case_id": "0748",
+    "height": 159.44,
+    "shoulder_width": 42.73,
+    "chest": 108.93,
+    "waist": 89.22,
+    "hip": 106.86,
+    "arm_length": 68.54,
+    "slope": 19.55
+  },
+  {
+    "case_id": "0749",
+    "height": 157.37,
+    "shoulder_width": 35.64,
+    "chest": 80.63,
+    "waist": 68.22,
+    "hip": 80.0,
+    "arm_length": 63.03,
+    "slope": 10.57
+  },
+  {
+    "case_id": "0750",
+    "height": 160.45,
+    "shoulder_width": 39.74,
+    "chest": 95.04,
+    "waist": 79.51,
+    "hip": 89.37,
+    "arm_length": 62.13,
+    "slope": 25.01
+  },
+  {
+    "case_id": "0751",
+    "height": 169.17,
+    "shoulder_width": 37.85,
+    "chest": 81.56,
+    "waist": 72.32,
+    "hip": 85.67,
+    "arm_length": 74.66,
+    "slope": 18.86
+  },
+  {
+    "case_id": "0752",
+    "height": 166.92,
+    "shoulder_width": 40.99,
+    "chest": 86.76,
+    "waist": 74.67,
+    "hip": 88.24,
+    "arm_length": 65.24,
+    "slope": 26.8
+  },
+  {
+    "case_id": "0753",
+    "height": 164.74,
+    "shoulder_width": 36.73,
+    "chest": 80.69,
+    "waist": 72.45,
+    "hip": 87.42,
+    "arm_length": 68.26,
+    "slope": 28.78
+  },
+  {
+    "case_id": "0754",
+    "height": 185.01,
+    "shoulder_width": 49.86,
+    "chest": 120.0,
+    "waist": 97.79,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 22.15
+  },
+  {
+    "case_id": "0755",
+    "height": 157.11,
+    "shoulder_width": 41.46,
+    "chest": 106.74,
+    "waist": 85.55,
+    "hip": 117.12,
+    "arm_length": 63.86,
+    "slope": 7.59
+  },
+  {
+    "case_id": "0756",
+    "height": 154.49,
+    "shoulder_width": 41.26,
+    "chest": 96.27,
+    "waist": 77.23,
+    "hip": 98.35,
+    "arm_length": 62.3,
+    "slope": 14.55
+  },
+  {
+    "case_id": "0757",
+    "height": 184.51,
+    "shoulder_width": 47.99,
+    "chest": 117.93,
+    "waist": 100.14,
+    "hip": 125.0,
+    "arm_length": 73.23,
+    "slope": 9.34
+  },
+  {
+    "case_id": "0758",
+    "height": 153.7,
+    "shoulder_width": 38.92,
+    "chest": 92.17,
+    "waist": 80.5,
+    "hip": 89.14,
+    "arm_length": 58.54,
+    "slope": 19.7
+  },
+  {
+    "case_id": "0759",
+    "height": 189.95,
+    "shoulder_width": 45.15,
+    "chest": 95.27,
+    "waist": 76.02,
+    "hip": 93.85,
+    "arm_length": 75.0,
+    "slope": 11.71
+  },
+  {
+    "case_id": "0760",
+    "height": 175.53,
+    "shoulder_width": 42.25,
+    "chest": 94.54,
+    "waist": 71.55,
+    "hip": 102.44,
+    "arm_length": 71.7,
+    "slope": 11.19
+  },
+  {
+    "case_id": "0761",
+    "height": 153.46,
+    "shoulder_width": 39.6,
+    "chest": 99.73,
+    "waist": 75.49,
+    "hip": 92.65,
+    "arm_length": 59.89,
+    "slope": 18.86
+  },
+  {
+    "case_id": "0762",
+    "height": 186.85,
+    "shoulder_width": 46.01,
+    "chest": 101.52,
+    "waist": 89.36,
+    "hip": 106.45,
+    "arm_length": 74.23,
+    "slope": 6.5
+  },
+  {
+    "case_id": "0763",
+    "height": 164.31,
+    "shoulder_width": 43.8,
+    "chest": 105.85,
+    "waist": 91.37,
+    "hip": 112.83,
+    "arm_length": 65.63,
+    "slope": 11.51
+  },
+  {
+    "case_id": "0764",
+    "height": 151.69,
+    "shoulder_width": 41.28,
+    "chest": 96.98,
+    "waist": 77.65,
+    "hip": 88.63,
+    "arm_length": 65.33,
+    "slope": 22.96
+  },
+  {
+    "case_id": "0765",
+    "height": 176.65,
+    "shoulder_width": 41.02,
+    "chest": 104.52,
+    "waist": 91.77,
+    "hip": 107.82,
+    "arm_length": 75.0,
+    "slope": 27.32
+  },
+  {
+    "case_id": "0766",
+    "height": 187.13,
+    "shoulder_width": 47.86,
+    "chest": 107.68,
+    "waist": 87.42,
+    "hip": 114.55,
+    "arm_length": 75.0,
+    "slope": 4.16
+  },
+  {
+    "case_id": "0767",
+    "height": 155.69,
+    "shoulder_width": 42.66,
+    "chest": 107.96,
+    "waist": 98.44,
+    "hip": 106.4,
+    "arm_length": 67.71,
+    "slope": 25.19
+  },
+  {
+    "case_id": "0768",
+    "height": 162.63,
+    "shoulder_width": 37.2,
+    "chest": 96.64,
+    "waist": 72.98,
+    "hip": 98.53,
+    "arm_length": 69.2,
+    "slope": 21.09
+  },
+  {
+    "case_id": "0769",
+    "height": 160.23,
+    "shoulder_width": 42.19,
+    "chest": 89.85,
+    "waist": 80.05,
+    "hip": 84.8,
+    "arm_length": 68.7,
+    "slope": 23.94
+  },
+  {
+    "case_id": "0770",
+    "height": 157.56,
+    "shoulder_width": 36.91,
+    "chest": 91.08,
+    "waist": 69.64,
+    "hip": 85.45,
+    "arm_length": 64.9,
+    "slope": 28.05
+  },
+  {
+    "case_id": "0771",
+    "height": 172.48,
+    "shoulder_width": 41.96,
+    "chest": 108.54,
+    "waist": 89.96,
+    "hip": 107.1,
+    "arm_length": 70.51,
+    "slope": 10.74
+  },
+  {
+    "case_id": "0772",
+    "height": 163.03,
+    "shoulder_width": 42.59,
+    "chest": 86.23,
+    "waist": 74.67,
+    "hip": 81.08,
+    "arm_length": 66.34,
+    "slope": 6.1
+  },
+  {
+    "case_id": "0773",
+    "height": 172.11,
+    "shoulder_width": 45.4,
+    "chest": 100.45,
+    "waist": 78.13,
+    "hip": 94.96,
+    "arm_length": 75.0,
+    "slope": 9.49
+  },
+  {
+    "case_id": "0774",
+    "height": 180.99,
+    "shoulder_width": 43.41,
+    "chest": 91.74,
+    "waist": 80.15,
+    "hip": 91.17,
+    "arm_length": 69.17,
+    "slope": 28.88
+  },
+  {
+    "case_id": "0775",
+    "height": 155.91,
+    "shoulder_width": 37.61,
+    "chest": 83.89,
+    "waist": 69.9,
+    "hip": 88.68,
+    "arm_length": 59.31,
+    "slope": 28.11
+  },
+  {
+    "case_id": "0776",
+    "height": 175.84,
+    "shoulder_width": 48.71,
+    "chest": 120.0,
+    "waist": 108.93,
+    "hip": 122.42,
+    "arm_length": 71.22,
+    "slope": 14.4
+  },
+  {
+    "case_id": "0777",
+    "height": 176.32,
+    "shoulder_width": 43.31,
+    "chest": 105.63,
+    "waist": 80.87,
+    "hip": 112.6,
+    "arm_length": 69.52,
+    "slope": 28.43
+  },
+  {
+    "case_id": "0778",
+    "height": 156.22,
+    "shoulder_width": 35.58,
+    "chest": 88.49,
+    "waist": 78.68,
+    "hip": 92.72,
+    "arm_length": 69.87,
+    "slope": 9.58
+  },
+  {
+    "case_id": "0779",
+    "height": 183.07,
+    "shoulder_width": 44.14,
+    "chest": 102.52,
+    "waist": 84.65,
+    "hip": 92.38,
+    "arm_length": 75.0,
+    "slope": 22.93
+  },
+  {
+    "case_id": "0780",
+    "height": 156.98,
+    "shoulder_width": 43.31,
+    "chest": 100.41,
+    "waist": 78.35,
+    "hip": 103.34,
+    "arm_length": 61.76,
+    "slope": 3.78
+  },
+  {
+    "case_id": "0781",
+    "height": 177.41,
+    "shoulder_width": 40.21,
+    "chest": 82.98,
+    "waist": 72.67,
+    "hip": 80.0,
+    "arm_length": 75.0,
+    "slope": 24.29
+  },
+  {
+    "case_id": "0782",
+    "height": 155.66,
+    "shoulder_width": 39.09,
+    "chest": 80.44,
+    "waist": 68.98,
+    "hip": 80.0,
+    "arm_length": 69.44,
+    "slope": 7.82
+  },
+  {
+    "case_id": "0783",
+    "height": 177.32,
+    "shoulder_width": 40.37,
+    "chest": 85.83,
+    "waist": 70.95,
+    "hip": 87.08,
+    "arm_length": 75.0,
+    "slope": 2.73
+  },
+  {
+    "case_id": "0784",
+    "height": 150.01,
+    "shoulder_width": 36.16,
+    "chest": 80.26,
+    "waist": 72.25,
+    "hip": 86.88,
+    "arm_length": 66.25,
+    "slope": 6.01
+  },
+  {
+    "case_id": "0785",
+    "height": 166.48,
+    "shoulder_width": 44.08,
+    "chest": 96.42,
+    "waist": 83.19,
+    "hip": 91.35,
+    "arm_length": 67.03,
+    "slope": 26.09
+  },
+  {
+    "case_id": "0786",
+    "height": 160.02,
+    "shoulder_width": 44.46,
+    "chest": 97.1,
+    "waist": 73.21,
+    "hip": 92.34,
+    "arm_length": 62.73,
+    "slope": 16.19
+  },
+  {
+    "case_id": "0787",
+    "height": 154.51,
+    "shoulder_width": 39.8,
+    "chest": 100.48,
+    "waist": 81.55,
+    "hip": 93.82,
+    "arm_length": 63.04,
+    "slope": 24.01
+  },
+  {
+    "case_id": "0788",
+    "height": 173.66,
+    "shoulder_width": 39.26,
+    "chest": 91.17,
+    "waist": 75.63,
+    "hip": 88.02,
+    "arm_length": 67.33,
+    "slope": 29.47
+  },
+  {
+    "case_id": "0789",
+    "height": 157.04,
+    "shoulder_width": 36.37,
+    "chest": 78.0,
+    "waist": 66.06,
+    "hip": 80.0,
+    "arm_length": 62.42,
+    "slope": 14.02
+  },
+  {
+    "case_id": "0790",
+    "height": 176.94,
+    "shoulder_width": 41.92,
+    "chest": 106.85,
+    "waist": 85.71,
+    "hip": 100.4,
+    "arm_length": 75.0,
+    "slope": 24.7
+  },
+  {
+    "case_id": "0791",
+    "height": 163.73,
+    "shoulder_width": 44.29,
+    "chest": 102.36,
+    "waist": 82.8,
+    "hip": 109.31,
+    "arm_length": 70.84,
+    "slope": 10.34
+  },
+  {
+    "case_id": "0792",
+    "height": 174.27,
+    "shoulder_width": 42.2,
+    "chest": 84.43,
+    "waist": 77.13,
+    "hip": 85.27,
+    "arm_length": 73.52,
+    "slope": 18.8
+  },
+  {
+    "case_id": "0793",
+    "height": 172.03,
+    "shoulder_width": 40.84,
+    "chest": 105.49,
+    "waist": 90.26,
+    "hip": 109.09,
+    "arm_length": 70.85,
+    "slope": 10.06
+  },
+  {
+    "case_id": "0794",
+    "height": 152.57,
+    "shoulder_width": 36.77,
+    "chest": 78.0,
+    "waist": 67.28,
+    "hip": 83.91,
+    "arm_length": 61.21,
+    "slope": 11.32
+  },
+  {
+    "case_id": "0795",
+    "height": 176.81,
+    "shoulder_width": 40.48,
+    "chest": 103.54,
+    "waist": 84.06,
+    "hip": 95.28,
+    "arm_length": 69.35,
+    "slope": 28.12
+  },
+  {
+    "case_id": "0796",
+    "height": 159.88,
+    "shoulder_width": 41.53,
+    "chest": 86.95,
+    "waist": 68.08,
+    "hip": 93.54,
+    "arm_length": 62.41,
+    "slope": 2.53
+  },
+  {
+    "case_id": "0797",
+    "height": 170.05,
+    "shoulder_width": 46.21,
+    "chest": 101.47,
+    "waist": 78.31,
+    "hip": 111.25,
+    "arm_length": 72.67,
+    "slope": 25.82
+  },
+  {
+    "case_id": "0798",
+    "height": 180.09,
+    "shoulder_width": 47.16,
+    "chest": 105.21,
+    "waist": 84.71,
+    "hip": 109.77,
+    "arm_length": 75.0,
+    "slope": 28.62
+  },
+  {
+    "case_id": "0799",
+    "height": 172.75,
+    "shoulder_width": 41.06,
+    "chest": 94.18,
+    "waist": 80.46,
+    "hip": 92.8,
+    "arm_length": 75.0,
+    "slope": 18.37
+  },
+  {
+    "case_id": "0800",
+    "height": 150.38,
+    "shoulder_width": 38.22,
+    "chest": 90.98,
+    "waist": 82.39,
+    "hip": 89.41,
+    "arm_length": 63.19,
+    "slope": 15.3
+  },
+  {
+    "case_id": "0801",
+    "height": 171.27,
+    "shoulder_width": 38.37,
+    "chest": 97.4,
+    "waist": 88.12,
+    "hip": 98.33,
+    "arm_length": 71.75,
+    "slope": 3.61
+  },
+  {
+    "case_id": "0802",
+    "height": 173.92,
+    "shoulder_width": 42.74,
+    "chest": 103.66,
+    "waist": 78.58,
+    "hip": 108.04,
+    "arm_length": 69.58,
+    "slope": 20.25
+  },
+  {
+    "case_id": "0803",
+    "height": 175.09,
+    "shoulder_width": 40.9,
+    "chest": 92.61,
+    "waist": 82.62,
+    "hip": 94.57,
+    "arm_length": 67.37,
+    "slope": 14.4
+  },
+  {
+    "case_id": "0804",
+    "height": 162.47,
+    "shoulder_width": 42.0,
+    "chest": 99.48,
+    "waist": 74.79,
+    "hip": 101.63,
+    "arm_length": 70.1,
+    "slope": 23.52
+  },
+  {
+    "case_id": "0805",
+    "height": 152.36,
+    "shoulder_width": 36.29,
+    "chest": 81.76,
+    "waist": 63.82,
+    "hip": 80.47,
+    "arm_length": 58.66,
+    "slope": 5.17
+  },
+  {
+    "case_id": "0806",
+    "height": 176.75,
+    "shoulder_width": 41.67,
+    "chest": 101.12,
+    "waist": 76.67,
+    "hip": 102.39,
+    "arm_length": 72.01,
+    "slope": 24.32
+  },
+  {
+    "case_id": "0807",
+    "height": 181.36,
+    "shoulder_width": 43.99,
+    "chest": 104.41,
+    "waist": 82.34,
+    "hip": 106.08,
+    "arm_length": 69.95,
+    "slope": 14.17
+  },
+  {
+    "case_id": "0808",
+    "height": 157.31,
+    "shoulder_width": 42.95,
+    "chest": 97.36,
+    "waist": 82.79,
+    "hip": 94.64,
+    "arm_length": 62.96,
+    "slope": 7.68
+  },
+  {
+    "case_id": "0809",
+    "height": 186.47,
+    "shoulder_width": 49.97,
+    "chest": 103.93,
+    "waist": 91.14,
+    "hip": 102.24,
+    "arm_length": 71.06,
+    "slope": 16.79
+  },
+  {
+    "case_id": "0810",
+    "height": 155.2,
+    "shoulder_width": 36.1,
+    "chest": 87.27,
+    "waist": 69.27,
+    "hip": 94.12,
+    "arm_length": 66.12,
+    "slope": 25.3
+  },
+  {
+    "case_id": "0811",
+    "height": 174.61,
+    "shoulder_width": 47.52,
+    "chest": 105.34,
+    "waist": 88.84,
+    "hip": 105.68,
+    "arm_length": 75.0,
+    "slope": 6.62
+  },
+  {
+    "case_id": "0812",
+    "height": 173.12,
+    "shoulder_width": 45.92,
+    "chest": 102.04,
+    "waist": 91.58,
+    "hip": 99.45,
+    "arm_length": 67.89,
+    "slope": 18.35
+  },
+  {
+    "case_id": "0813",
+    "height": 166.82,
+    "shoulder_width": 36.85,
+    "chest": 78.0,
+    "waist": 61.09,
+    "hip": 82.2,
+    "arm_length": 73.81,
+    "slope": 17.28
+  },
+  {
+    "case_id": "0814",
+    "height": 154.22,
+    "shoulder_width": 38.87,
+    "chest": 97.7,
+    "waist": 85.73,
+    "hip": 93.62,
+    "arm_length": 59.94,
+    "slope": 27.22
+  },
+  {
+    "case_id": "0815",
+    "height": 184.16,
+    "shoulder_width": 41.11,
+    "chest": 102.54,
+    "waist": 78.6,
+    "hip": 93.58,
+    "arm_length": 75.0,
+    "slope": 17.02
+  },
+  {
+    "case_id": "0816",
+    "height": 166.58,
+    "shoulder_width": 45.68,
+    "chest": 114.37,
+    "waist": 86.9,
+    "hip": 117.02,
+    "arm_length": 72.31,
+    "slope": 17.41
+  },
+  {
+    "case_id": "0817",
+    "height": 189.32,
+    "shoulder_width": 49.44,
+    "chest": 101.98,
+    "waist": 79.92,
+    "hip": 108.63,
+    "arm_length": 75.0,
+    "slope": 4.75
+  },
+  {
+    "case_id": "0818",
+    "height": 154.01,
+    "shoulder_width": 40.94,
+    "chest": 83.46,
+    "waist": 63.56,
+    "hip": 89.94,
+    "arm_length": 67.15,
+    "slope": 26.68
+  },
+  {
+    "case_id": "0819",
+    "height": 176.02,
+    "shoulder_width": 42.13,
+    "chest": 107.17,
+    "waist": 85.82,
+    "hip": 102.36,
+    "arm_length": 75.0,
+    "slope": 21.06
+  },
+  {
+    "case_id": "0820",
+    "height": 185.83,
+    "shoulder_width": 42.62,
+    "chest": 109.59,
+    "waist": 93.61,
+    "hip": 113.28,
+    "arm_length": 75.0,
+    "slope": 12.66
+  },
+  {
+    "case_id": "0821",
+    "height": 178.78,
+    "shoulder_width": 46.2,
+    "chest": 114.24,
+    "waist": 103.1,
+    "hip": 118.35,
+    "arm_length": 68.78,
+    "slope": 7.13
+  },
+  {
+    "case_id": "0822",
+    "height": 188.16,
+    "shoulder_width": 52.33,
+    "chest": 120.0,
+    "waist": 90.75,
+    "hip": 117.18,
+    "arm_length": 75.0,
+    "slope": 23.08
+  },
+  {
+    "case_id": "0823",
+    "height": 153.44,
+    "shoulder_width": 39.37,
+    "chest": 82.11,
+    "waist": 68.47,
+    "hip": 80.0,
+    "arm_length": 58.88,
+    "slope": 4.24
+  },
+  {
+    "case_id": "0824",
+    "height": 186.44,
+    "shoulder_width": 49.35,
+    "chest": 120.0,
+    "waist": 99.59,
+    "hip": 117.92,
+    "arm_length": 75.0,
+    "slope": 19.26
+  },
+  {
+    "case_id": "0825",
+    "height": 164.06,
+    "shoulder_width": 43.44,
+    "chest": 107.77,
+    "waist": 96.87,
+    "hip": 102.22,
+    "arm_length": 68.4,
+    "slope": 8.26
+  },
+  {
+    "case_id": "0826",
+    "height": 151.5,
+    "shoulder_width": 39.76,
+    "chest": 92.63,
+    "waist": 80.87,
+    "hip": 84.99,
+    "arm_length": 68.13,
+    "slope": 29.84
+  },
+  {
+    "case_id": "0827",
+    "height": 168.6,
+    "shoulder_width": 45.85,
+    "chest": 98.41,
+    "waist": 86.14,
+    "hip": 105.87,
+    "arm_length": 73.68,
+    "slope": 24.73
+  },
+  {
+    "case_id": "0828",
+    "height": 168.52,
+    "shoulder_width": 45.37,
+    "chest": 109.53,
+    "waist": 84.62,
+    "hip": 101.08,
+    "arm_length": 73.14,
+    "slope": 19.51
+  },
+  {
+    "case_id": "0829",
+    "height": 170.78,
+    "shoulder_width": 46.87,
+    "chest": 112.28,
+    "waist": 91.77,
+    "hip": 110.35,
+    "arm_length": 72.13,
+    "slope": 23.29
+  },
+  {
+    "case_id": "0830",
+    "height": 172.57,
+    "shoulder_width": 43.23,
+    "chest": 105.32,
+    "waist": 91.62,
+    "hip": 112.28,
+    "arm_length": 66.33,
+    "slope": 23.14
+  },
+  {
+    "case_id": "0831",
+    "height": 170.55,
+    "shoulder_width": 38.29,
+    "chest": 92.17,
+    "waist": 80.35,
+    "hip": 92.6,
+    "arm_length": 74.29,
+    "slope": 10.41
+  },
+  {
+    "case_id": "0832",
+    "height": 158.08,
+    "shoulder_width": 38.1,
+    "chest": 85.58,
+    "waist": 74.31,
+    "hip": 91.5,
+    "arm_length": 68.05,
+    "slope": 6.87
+  },
+  {
+    "case_id": "0833",
+    "height": 164.65,
+    "shoulder_width": 37.79,
+    "chest": 91.15,
+    "waist": 72.2,
+    "hip": 91.61,
+    "arm_length": 71.69,
+    "slope": 20.79
+  },
+  {
+    "case_id": "0834",
+    "height": 161.93,
+    "shoulder_width": 38.86,
+    "chest": 92.95,
+    "waist": 78.4,
+    "hip": 85.45,
+    "arm_length": 71.44,
+    "slope": 16.35
+  },
+  {
+    "case_id": "0835",
+    "height": 168.93,
+    "shoulder_width": 39.18,
+    "chest": 87.22,
+    "waist": 70.35,
+    "hip": 83.22,
+    "arm_length": 70.9,
+    "slope": 14.94
+  },
+  {
+    "case_id": "0836",
+    "height": 185.57,
+    "shoulder_width": 51.31,
+    "chest": 109.37,
+    "waist": 83.89,
+    "hip": 115.61,
+    "arm_length": 75.0,
+    "slope": 26.18
+  },
+  {
+    "case_id": "0837",
+    "height": 150.95,
+    "shoulder_width": 35.48,
+    "chest": 78.0,
+    "waist": 69.38,
+    "hip": 80.0,
+    "arm_length": 62.79,
+    "slope": 17.52
+  },
+  {
+    "case_id": "0838",
+    "height": 160.1,
+    "shoulder_width": 41.0,
+    "chest": 82.76,
+    "waist": 71.16,
+    "hip": 86.64,
+    "arm_length": 68.38,
+    "slope": 11.3
+  },
+  {
+    "case_id": "0839",
+    "height": 183.05,
+    "shoulder_width": 48.13,
+    "chest": 99.96,
+    "waist": 78.29,
+    "hip": 102.71,
+    "arm_length": 73.27,
+    "slope": 5.34
+  },
+  {
+    "case_id": "0840",
+    "height": 156.2,
+    "shoulder_width": 35.92,
+    "chest": 82.13,
+    "waist": 70.08,
+    "hip": 80.0,
+    "arm_length": 67.15,
+    "slope": 9.87
+  },
+  {
+    "case_id": "0841",
+    "height": 162.46,
+    "shoulder_width": 37.92,
+    "chest": 93.71,
+    "waist": 85.57,
+    "hip": 93.57,
+    "arm_length": 62.21,
+    "slope": 9.3
+  },
+  {
+    "case_id": "0842",
+    "height": 156.32,
+    "shoulder_width": 42.3,
+    "chest": 86.74,
+    "waist": 79.31,
+    "hip": 88.28,
+    "arm_length": 65.07,
+    "slope": 25.73
+  },
+  {
+    "case_id": "0843",
+    "height": 151.1,
+    "shoulder_width": 40.29,
+    "chest": 83.4,
+    "waist": 74.47,
+    "hip": 83.88,
+    "arm_length": 58.07,
+    "slope": 25.33
+  },
+  {
+    "case_id": "0844",
+    "height": 151.09,
+    "shoulder_width": 35.0,
+    "chest": 86.75,
+    "waist": 71.92,
+    "hip": 93.37,
+    "arm_length": 64.14,
+    "slope": 19.46
+  },
+  {
+    "case_id": "0845",
+    "height": 161.69,
+    "shoulder_width": 36.87,
+    "chest": 95.0,
+    "waist": 72.94,
+    "hip": 95.55,
+    "arm_length": 64.53,
+    "slope": 9.4
+  },
+  {
+    "case_id": "0846",
+    "height": 173.78,
+    "shoulder_width": 46.55,
+    "chest": 114.81,
+    "waist": 103.07,
+    "hip": 110.06,
+    "arm_length": 71.7,
+    "slope": 2.26
+  },
+  {
+    "case_id": "0847",
+    "height": 179.87,
+    "shoulder_width": 42.84,
+    "chest": 100.1,
+    "waist": 77.96,
+    "hip": 106.5,
+    "arm_length": 75.0,
+    "slope": 26.57
+  },
+  {
+    "case_id": "0848",
+    "height": 151.84,
+    "shoulder_width": 42.45,
+    "chest": 91.2,
+    "waist": 73.2,
+    "hip": 86.63,
+    "arm_length": 60.54,
+    "slope": 17.47
+  },
+  {
+    "case_id": "0849",
+    "height": 159.59,
+    "shoulder_width": 38.88,
+    "chest": 93.06,
+    "waist": 83.02,
+    "hip": 96.64,
+    "arm_length": 67.28,
+    "slope": 6.14
+  },
+  {
+    "case_id": "0850",
+    "height": 182.64,
+    "shoulder_width": 40.59,
+    "chest": 87.61,
+    "waist": 66.56,
+    "hip": 90.55,
+    "arm_length": 74.11,
+    "slope": 20.26
+  },
+  {
+    "case_id": "0851",
+    "height": 163.88,
+    "shoulder_width": 40.54,
+    "chest": 92.21,
+    "waist": 69.87,
+    "hip": 90.92,
+    "arm_length": 69.63,
+    "slope": 17.29
+  },
+  {
+    "case_id": "0852",
+    "height": 153.01,
+    "shoulder_width": 39.8,
+    "chest": 86.97,
+    "waist": 65.44,
+    "hip": 80.98,
+    "arm_length": 63.47,
+    "slope": 10.69
+  },
+  {
+    "case_id": "0853",
+    "height": 177.78,
+    "shoulder_width": 41.68,
+    "chest": 102.68,
+    "waist": 82.01,
+    "hip": 105.16,
+    "arm_length": 75.0,
+    "slope": 12.8
+  },
+  {
+    "case_id": "0854",
+    "height": 151.87,
+    "shoulder_width": 38.29,
+    "chest": 99.45,
+    "waist": 90.97,
+    "hip": 93.9,
+    "arm_length": 65.75,
+    "slope": 11.66
+  },
+  {
+    "case_id": "0855",
+    "height": 156.41,
+    "shoulder_width": 40.66,
+    "chest": 93.54,
+    "waist": 78.73,
+    "hip": 99.66,
+    "arm_length": 63.12,
+    "slope": 20.68
+  },
+  {
+    "case_id": "0856",
+    "height": 164.65,
+    "shoulder_width": 36.64,
+    "chest": 81.6,
+    "waist": 74.38,
+    "hip": 81.33,
+    "arm_length": 63.81,
+    "slope": 21.26
+  },
+  {
+    "case_id": "0857",
+    "height": 188.54,
+    "shoulder_width": 51.75,
+    "chest": 120.0,
+    "waist": 97.68,
+    "hip": 121.94,
+    "arm_length": 75.0,
+    "slope": 26.11
+  },
+  {
+    "case_id": "0858",
+    "height": 182.75,
+    "shoulder_width": 45.2,
+    "chest": 93.62,
+    "waist": 79.28,
+    "hip": 87.19,
+    "arm_length": 70.23,
+    "slope": 15.96
+  },
+  {
+    "case_id": "0859",
+    "height": 176.21,
+    "shoulder_width": 47.8,
+    "chest": 118.05,
+    "waist": 105.74,
+    "hip": 124.19,
+    "arm_length": 75.0,
+    "slope": 2.28
+  },
+  {
+    "case_id": "0860",
+    "height": 175.04,
+    "shoulder_width": 39.78,
+    "chest": 80.95,
+    "waist": 62.87,
+    "hip": 86.18,
+    "arm_length": 75.0,
+    "slope": 28.57
+  },
+  {
+    "case_id": "0861",
+    "height": 189.16,
+    "shoulder_width": 51.75,
+    "chest": 107.63,
+    "waist": 96.8,
+    "hip": 114.92,
+    "arm_length": 75.0,
+    "slope": 6.25
+  },
+  {
+    "case_id": "0862",
+    "height": 154.67,
+    "shoulder_width": 42.6,
+    "chest": 89.65,
+    "waist": 72.85,
+    "hip": 88.86,
+    "arm_length": 60.12,
+    "slope": 2.58
+  },
+  {
+    "case_id": "0863",
+    "height": 189.76,
+    "shoulder_width": 51.73,
+    "chest": 120.0,
+    "waist": 95.81,
+    "hip": 113.28,
+    "arm_length": 75.0,
+    "slope": 14.69
+  },
+  {
+    "case_id": "0864",
+    "height": 150.22,
+    "shoulder_width": 40.07,
+    "chest": 104.11,
+    "waist": 87.44,
+    "hip": 101.78,
+    "arm_length": 61.22,
+    "slope": 4.69
+  },
+  {
+    "case_id": "0865",
+    "height": 160.65,
+    "shoulder_width": 40.18,
+    "chest": 90.78,
+    "waist": 76.49,
+    "hip": 97.11,
+    "arm_length": 63.58,
+    "slope": 2.77
+  },
+  {
+    "case_id": "0866",
+    "height": 151.53,
+    "shoulder_width": 35.0,
+    "chest": 81.98,
+    "waist": 72.75,
+    "hip": 88.32,
+    "arm_length": 64.32,
+    "slope": 13.29
+  },
+  {
+    "case_id": "0867",
+    "height": 156.18,
+    "shoulder_width": 38.12,
+    "chest": 83.85,
+    "waist": 75.29,
+    "hip": 83.62,
+    "arm_length": 61.82,
+    "slope": 10.09
+  },
+  {
+    "case_id": "0868",
+    "height": 155.46,
+    "shoulder_width": 42.77,
+    "chest": 86.83,
+    "waist": 65.31,
+    "hip": 81.32,
+    "arm_length": 67.9,
+    "slope": 16.66
+  },
+  {
+    "case_id": "0869",
+    "height": 175.03,
+    "shoulder_width": 42.26,
+    "chest": 86.27,
+    "waist": 77.26,
+    "hip": 80.95,
+    "arm_length": 66.92,
+    "slope": 18.04
+  },
+  {
+    "case_id": "0870",
+    "height": 153.33,
+    "shoulder_width": 35.0,
+    "chest": 86.81,
+    "waist": 72.36,
+    "hip": 82.32,
+    "arm_length": 62.01,
+    "slope": 22.42
+  },
+  {
+    "case_id": "0871",
+    "height": 152.65,
+    "shoulder_width": 35.0,
+    "chest": 82.94,
+    "waist": 70.76,
+    "hip": 90.78,
+    "arm_length": 62.01,
+    "slope": 3.82
+  },
+  {
+    "case_id": "0872",
+    "height": 171.5,
+    "shoulder_width": 44.3,
+    "chest": 92.31,
+    "waist": 77.91,
+    "hip": 86.73,
+    "arm_length": 75.0,
+    "slope": 25.38
+  },
+  {
+    "case_id": "0873",
+    "height": 167.19,
+    "shoulder_width": 46.48,
+    "chest": 120.0,
+    "waist": 92.64,
+    "hip": 116.83,
+    "arm_length": 70.56,
+    "slope": 4.38
+  },
+  {
+    "case_id": "0874",
+    "height": 165.31,
+    "shoulder_width": 38.96,
+    "chest": 100.17,
+    "waist": 82.14,
+    "hip": 105.43,
+    "arm_length": 67.29,
+    "slope": 5.69
+  },
+  {
+    "case_id": "0875",
+    "height": 184.53,
+    "shoulder_width": 40.6,
+    "chest": 82.56,
+    "waist": 67.04,
+    "hip": 85.65,
+    "arm_length": 74.53,
+    "slope": 3.86
+  },
+  {
+    "case_id": "0876",
+    "height": 162.71,
+    "shoulder_width": 38.19,
+    "chest": 78.0,
+    "waist": 65.59,
+    "hip": 80.0,
+    "arm_length": 65.11,
+    "slope": 19.95
+  },
+  {
+    "case_id": "0877",
+    "height": 179.0,
+    "shoulder_width": 42.21,
+    "chest": 92.76,
+    "waist": 73.46,
+    "hip": 101.23,
+    "arm_length": 70.41,
+    "slope": 7.13
+  },
+  {
+    "case_id": "0878",
+    "height": 167.8,
+    "shoulder_width": 38.82,
+    "chest": 81.29,
+    "waist": 62.3,
+    "hip": 83.57,
+    "arm_length": 70.95,
+    "slope": 20.2
+  },
+  {
+    "case_id": "0879",
+    "height": 180.93,
+    "shoulder_width": 43.35,
+    "chest": 110.58,
+    "waist": 96.72,
+    "hip": 117.32,
+    "arm_length": 75.0,
+    "slope": 12.04
+  },
+  {
+    "case_id": "0880",
+    "height": 161.32,
+    "shoulder_width": 39.58,
+    "chest": 81.46,
+    "waist": 67.35,
+    "hip": 80.0,
+    "arm_length": 61.35,
+    "slope": 28.08
+  },
+  {
+    "case_id": "0881",
+    "height": 177.57,
+    "shoulder_width": 45.05,
+    "chest": 99.33,
+    "waist": 84.13,
+    "hip": 107.1,
+    "arm_length": 75.0,
+    "slope": 18.87
+  },
+  {
+    "case_id": "0882",
+    "height": 168.41,
+    "shoulder_width": 40.54,
+    "chest": 98.08,
+    "waist": 89.92,
+    "hip": 96.6,
+    "arm_length": 68.62,
+    "slope": 13.99
+  },
+  {
+    "case_id": "0883",
+    "height": 167.02,
+    "shoulder_width": 46.67,
+    "chest": 113.14,
+    "waist": 91.76,
+    "hip": 110.23,
+    "arm_length": 68.5,
+    "slope": 3.03
+  },
+  {
+    "case_id": "0884",
+    "height": 171.11,
+    "shoulder_width": 45.98,
+    "chest": 110.17,
+    "waist": 86.35,
+    "hip": 115.2,
+    "arm_length": 73.64,
+    "slope": 9.35
+  },
+  {
+    "case_id": "0885",
+    "height": 174.91,
+    "shoulder_width": 44.89,
+    "chest": 112.41,
+    "waist": 86.91,
+    "hip": 105.55,
+    "arm_length": 72.42,
+    "slope": 3.24
+  },
+  {
+    "case_id": "0886",
+    "height": 166.62,
+    "shoulder_width": 44.54,
+    "chest": 93.05,
+    "waist": 77.06,
+    "hip": 102.16,
+    "arm_length": 69.22,
+    "slope": 15.95
+  },
+  {
+    "case_id": "0887",
+    "height": 172.35,
+    "shoulder_width": 39.84,
+    "chest": 83.2,
+    "waist": 71.98,
+    "hip": 81.47,
+    "arm_length": 68.99,
+    "slope": 2.88
+  },
+  {
+    "case_id": "0888",
+    "height": 183.84,
+    "shoulder_width": 40.8,
+    "chest": 99.96,
+    "waist": 81.46,
+    "hip": 101.94,
+    "arm_length": 73.05,
+    "slope": 6.35
+  },
+  {
+    "case_id": "0889",
+    "height": 171.34,
+    "shoulder_width": 44.84,
+    "chest": 94.95,
+    "waist": 78.26,
+    "hip": 93.9,
+    "arm_length": 67.7,
+    "slope": 17.82
+  },
+  {
+    "case_id": "0890",
+    "height": 155.84,
+    "shoulder_width": 39.05,
+    "chest": 80.76,
+    "waist": 67.24,
+    "hip": 80.0,
+    "arm_length": 64.15,
+    "slope": 14.14
+  },
+  {
+    "case_id": "0891",
+    "height": 186.32,
+    "shoulder_width": 46.47,
+    "chest": 115.75,
+    "waist": 91.26,
+    "hip": 112.33,
+    "arm_length": 71.78,
+    "slope": 13.78
+  },
+  {
+    "case_id": "0892",
+    "height": 176.75,
+    "shoulder_width": 47.77,
+    "chest": 111.77,
+    "waist": 95.99,
+    "hip": 104.55,
+    "arm_length": 67.62,
+    "slope": 24.17
+  },
+  {
+    "case_id": "0893",
+    "height": 156.68,
+    "shoulder_width": 35.33,
+    "chest": 90.53,
+    "waist": 82.72,
+    "hip": 92.63,
+    "arm_length": 63.69,
+    "slope": 25.33
+  },
+  {
+    "case_id": "0894",
+    "height": 158.19,
+    "shoulder_width": 38.88,
+    "chest": 86.08,
+    "waist": 77.92,
+    "hip": 93.31,
+    "arm_length": 67.32,
+    "slope": 5.1
+  },
+  {
+    "case_id": "0895",
+    "height": 169.29,
+    "shoulder_width": 39.74,
+    "chest": 100.57,
+    "waist": 77.79,
+    "hip": 91.6,
+    "arm_length": 72.68,
+    "slope": 14.69
+  },
+  {
+    "case_id": "0896",
+    "height": 183.53,
+    "shoulder_width": 41.2,
+    "chest": 102.2,
+    "waist": 77.3,
+    "hip": 92.55,
+    "arm_length": 75.0,
+    "slope": 8.2
+  },
+  {
+    "case_id": "0897",
+    "height": 173.75,
+    "shoulder_width": 38.49,
+    "chest": 78.0,
+    "waist": 68.14,
+    "hip": 80.0,
+    "arm_length": 74.01,
+    "slope": 23.0
+  },
+  {
+    "case_id": "0898",
+    "height": 152.37,
+    "shoulder_width": 40.56,
+    "chest": 87.65,
+    "waist": 71.54,
+    "hip": 80.4,
+    "arm_length": 66.85,
+    "slope": 17.7
+  },
+  {
+    "case_id": "0899",
+    "height": 170.19,
+    "shoulder_width": 47.33,
+    "chest": 104.16,
+    "waist": 93.89,
+    "hip": 108.74,
+    "arm_length": 75.0,
+    "slope": 27.42
+  },
+  {
+    "case_id": "0900",
+    "height": 189.64,
+    "shoulder_width": 43.22,
+    "chest": 107.08,
+    "waist": 94.96,
+    "hip": 110.17,
+    "arm_length": 75.0,
+    "slope": 29.02
+  },
+  {
+    "case_id": "0901",
+    "height": 158.18,
+    "shoulder_width": 39.54,
+    "chest": 91.45,
+    "waist": 71.11,
+    "hip": 95.52,
+    "arm_length": 61.09,
+    "slope": 21.41
+  },
+  {
+    "case_id": "0902",
+    "height": 183.94,
+    "shoulder_width": 44.32,
+    "chest": 107.51,
+    "waist": 83.5,
+    "hip": 114.95,
+    "arm_length": 75.0,
+    "slope": 6.28
+  },
+  {
+    "case_id": "0903",
+    "height": 177.67,
+    "shoulder_width": 44.48,
+    "chest": 103.15,
+    "waist": 89.75,
+    "hip": 102.91,
+    "arm_length": 74.98,
+    "slope": 8.47
+  },
+  {
+    "case_id": "0904",
+    "height": 165.14,
+    "shoulder_width": 44.9,
+    "chest": 92.77,
+    "waist": 79.0,
+    "hip": 86.91,
+    "arm_length": 72.54,
+    "slope": 18.21
+  },
+  {
+    "case_id": "0905",
+    "height": 166.12,
+    "shoulder_width": 39.04,
+    "chest": 88.31,
+    "waist": 80.6,
+    "hip": 88.47,
+    "arm_length": 68.59,
+    "slope": 22.9
+  },
+  {
+    "case_id": "0906",
+    "height": 165.16,
+    "shoulder_width": 40.57,
+    "chest": 89.34,
+    "waist": 69.3,
+    "hip": 93.17,
+    "arm_length": 72.85,
+    "slope": 27.36
+  },
+  {
+    "case_id": "0907",
+    "height": 185.23,
+    "shoulder_width": 45.77,
+    "chest": 99.35,
+    "waist": 85.28,
+    "hip": 108.38,
+    "arm_length": 75.0,
+    "slope": 15.86
+  },
+  {
+    "case_id": "0908",
+    "height": 177.55,
+    "shoulder_width": 47.29,
+    "chest": 120.0,
+    "waist": 105.57,
+    "hip": 118.4,
+    "arm_length": 70.87,
+    "slope": 16.0
+  },
+  {
+    "case_id": "0909",
+    "height": 163.13,
+    "shoulder_width": 45.12,
+    "chest": 103.98,
+    "waist": 86.33,
+    "hip": 100.82,
+    "arm_length": 69.29,
+    "slope": 16.56
+  },
+  {
+    "case_id": "0910",
+    "height": 155.16,
+    "shoulder_width": 42.23,
+    "chest": 93.55,
+    "waist": 77.04,
+    "hip": 88.04,
+    "arm_length": 64.97,
+    "slope": 21.66
+  },
+  {
+    "case_id": "0911",
+    "height": 185.25,
+    "shoulder_width": 41.33,
+    "chest": 106.79,
+    "waist": 92.87,
+    "hip": 102.18,
+    "arm_length": 73.05,
+    "slope": 10.29
+  },
+  {
+    "case_id": "0912",
+    "height": 185.03,
+    "shoulder_width": 43.94,
+    "chest": 100.08,
+    "waist": 87.07,
+    "hip": 107.53,
+    "arm_length": 75.0,
+    "slope": 23.09
+  },
+  {
+    "case_id": "0913",
+    "height": 156.93,
+    "shoulder_width": 42.79,
+    "chest": 92.65,
+    "waist": 71.51,
+    "hip": 101.48,
+    "arm_length": 61.85,
+    "slope": 5.83
+  },
+  {
+    "case_id": "0914",
+    "height": 175.04,
+    "shoulder_width": 41.86,
+    "chest": 87.06,
+    "waist": 74.2,
+    "hip": 91.57,
+    "arm_length": 75.0,
+    "slope": 6.35
+  },
+  {
+    "case_id": "0915",
+    "height": 172.27,
+    "shoulder_width": 46.31,
+    "chest": 97.1,
+    "waist": 76.25,
+    "hip": 87.44,
+    "arm_length": 71.79,
+    "slope": 7.45
+  },
+  {
+    "case_id": "0916",
+    "height": 178.97,
+    "shoulder_width": 49.71,
+    "chest": 105.64,
+    "waist": 90.88,
+    "hip": 99.55,
+    "arm_length": 68.23,
+    "slope": 23.24
+  },
+  {
+    "case_id": "0917",
+    "height": 167.36,
+    "shoulder_width": 46.33,
+    "chest": 107.5,
+    "waist": 83.51,
+    "hip": 106.42,
+    "arm_length": 65.97,
+    "slope": 26.58
+  },
+  {
+    "case_id": "0918",
+    "height": 177.64,
+    "shoulder_width": 42.72,
+    "chest": 98.96,
+    "waist": 85.48,
+    "hip": 104.56,
+    "arm_length": 68.5,
+    "slope": 2.63
+  },
+  {
+    "case_id": "0919",
+    "height": 154.58,
+    "shoulder_width": 37.67,
+    "chest": 85.89,
+    "waist": 66.41,
+    "hip": 84.36,
+    "arm_length": 63.52,
+    "slope": 5.05
+  },
+  {
+    "case_id": "0920",
+    "height": 186.67,
+    "shoulder_width": 47.78,
+    "chest": 106.69,
+    "waist": 89.21,
+    "hip": 102.73,
+    "arm_length": 75.0,
+    "slope": 18.1
+  },
+  {
+    "case_id": "0921",
+    "height": 169.8,
+    "shoulder_width": 46.63,
+    "chest": 116.72,
+    "waist": 103.67,
+    "hip": 110.31,
+    "arm_length": 66.34,
+    "slope": 21.32
+  },
+  {
+    "case_id": "0922",
+    "height": 168.75,
+    "shoulder_width": 44.05,
+    "chest": 108.19,
+    "waist": 86.58,
+    "hip": 103.53,
+    "arm_length": 69.92,
+    "slope": 9.66
+  },
+  {
+    "case_id": "0923",
+    "height": 176.69,
+    "shoulder_width": 46.79,
+    "chest": 106.83,
+    "waist": 93.27,
+    "hip": 107.05,
+    "arm_length": 75.0,
+    "slope": 8.3
+  },
+  {
+    "case_id": "0924",
+    "height": 179.55,
+    "shoulder_width": 47.21,
+    "chest": 101.96,
+    "waist": 86.11,
+    "hip": 109.21,
+    "arm_length": 71.37,
+    "slope": 22.61
+  },
+  {
+    "case_id": "0925",
+    "height": 188.16,
+    "shoulder_width": 51.17,
+    "chest": 114.68,
+    "waist": 97.85,
+    "hip": 125.0,
+    "arm_length": 75.0,
+    "slope": 5.22
+  },
+  {
+    "case_id": "0926",
+    "height": 151.82,
+    "shoulder_width": 40.6,
+    "chest": 91.52,
+    "waist": 72.48,
+    "hip": 88.73,
+    "arm_length": 65.74,
+    "slope": 15.03
+  },
+  {
+    "case_id": "0927",
+    "height": 184.74,
+    "shoulder_width": 48.79,
+    "chest": 120.0,
+    "waist": 108.13,
+    "hip": 114.11,
+    "arm_length": 75.0,
+    "slope": 2.58
+  },
+  {
+    "case_id": "0928",
+    "height": 189.64,
+    "shoulder_width": 44.69,
+    "chest": 107.21,
+    "waist": 95.88,
+    "hip": 99.93,
+    "arm_length": 75.0,
+    "slope": 2.34
+  },
+  {
+    "case_id": "0929",
+    "height": 167.68,
+    "shoulder_width": 41.64,
+    "chest": 92.62,
+    "waist": 78.7,
+    "hip": 100.31,
+    "arm_length": 67.56,
+    "slope": 18.22
+  },
+  {
+    "case_id": "0930",
+    "height": 185.1,
+    "shoulder_width": 49.31,
+    "chest": 99.82,
+    "waist": 90.86,
+    "hip": 90.77,
+    "arm_length": 75.0,
+    "slope": 18.11
+  },
+  {
+    "case_id": "0931",
+    "height": 181.46,
+    "shoulder_width": 41.54,
+    "chest": 87.54,
+    "waist": 76.85,
+    "hip": 81.41,
+    "arm_length": 74.92,
+    "slope": 22.49
+  },
+  {
+    "case_id": "0932",
+    "height": 176.05,
+    "shoulder_width": 40.96,
+    "chest": 89.38,
+    "waist": 81.76,
+    "hip": 88.46,
+    "arm_length": 67.45,
+    "slope": 8.15
+  },
+  {
+    "case_id": "0933",
+    "height": 163.7,
+    "shoulder_width": 45.83,
+    "chest": 99.98,
+    "waist": 75.44,
+    "hip": 100.24,
+    "arm_length": 63.16,
+    "slope": 9.67
+  },
+  {
+    "case_id": "0934",
+    "height": 189.7,
+    "shoulder_width": 49.75,
+    "chest": 101.02,
+    "waist": 83.47,
+    "hip": 94.38,
+    "arm_length": 73.72,
+    "slope": 18.44
+  },
+  {
+    "case_id": "0935",
+    "height": 170.23,
+    "shoulder_width": 45.04,
+    "chest": 114.19,
+    "waist": 90.43,
+    "hip": 123.85,
+    "arm_length": 70.86,
+    "slope": 9.25
+  },
+  {
+    "case_id": "0936",
+    "height": 183.83,
+    "shoulder_width": 40.83,
+    "chest": 95.38,
+    "waist": 83.23,
+    "hip": 91.18,
+    "arm_length": 75.0,
+    "slope": 8.73
+  },
+  {
+    "case_id": "0937",
+    "height": 183.59,
+    "shoulder_width": 41.26,
+    "chest": 86.47,
+    "waist": 70.45,
+    "hip": 92.59,
+    "arm_length": 71.62,
+    "slope": 26.51
+  },
+  {
+    "case_id": "0938",
+    "height": 159.19,
+    "shoulder_width": 39.34,
+    "chest": 87.01,
+    "waist": 67.01,
+    "hip": 94.75,
+    "arm_length": 65.37,
+    "slope": 21.33
+  },
+  {
+    "case_id": "0939",
+    "height": 173.01,
+    "shoulder_width": 43.27,
+    "chest": 102.55,
+    "waist": 92.57,
+    "hip": 106.64,
+    "arm_length": 72.19,
+    "slope": 20.07
+  },
+  {
+    "case_id": "0940",
+    "height": 174.26,
+    "shoulder_width": 42.86,
+    "chest": 101.8,
+    "waist": 84.02,
+    "hip": 107.04,
+    "arm_length": 75.0,
+    "slope": 28.88
+  },
+  {
+    "case_id": "0941",
+    "height": 182.83,
+    "shoulder_width": 46.82,
+    "chest": 114.7,
+    "waist": 89.5,
+    "hip": 114.22,
+    "arm_length": 72.77,
+    "slope": 2.1
+  },
+  {
+    "case_id": "0942",
+    "height": 188.67,
+    "shoulder_width": 51.29,
+    "chest": 118.38,
+    "waist": 93.9,
+    "hip": 122.95,
+    "arm_length": 75.0,
+    "slope": 24.49
+  },
+  {
+    "case_id": "0943",
+    "height": 189.98,
+    "shoulder_width": 45.77,
+    "chest": 98.26,
+    "waist": 78.16,
+    "hip": 90.27,
+    "arm_length": 75.0,
+    "slope": 2.49
+  },
+  {
+    "case_id": "0944",
+    "height": 154.58,
+    "shoulder_width": 36.53,
+    "chest": 78.0,
+    "waist": 68.21,
+    "hip": 80.0,
+    "arm_length": 68.11,
+    "slope": 8.19
+  },
+  {
+    "case_id": "0945",
+    "height": 154.34,
+    "shoulder_width": 35.0,
+    "chest": 85.02,
+    "waist": 67.47,
+    "hip": 85.18,
+    "arm_length": 59.86,
+    "slope": 29.59
+  },
+  {
+    "case_id": "0946",
+    "height": 155.02,
+    "shoulder_width": 37.93,
+    "chest": 95.25,
+    "waist": 75.41,
+    "hip": 90.81,
+    "arm_length": 67.68,
+    "slope": 9.65
+  },
+  {
+    "case_id": "0947",
+    "height": 150.11,
+    "shoulder_width": 36.88,
+    "chest": 78.0,
+    "waist": 70.56,
+    "hip": 80.21,
+    "arm_length": 63.17,
+    "slope": 7.64
+  },
+  {
+    "case_id": "0948",
+    "height": 178.0,
+    "shoulder_width": 46.39,
+    "chest": 94.47,
+    "waist": 85.0,
+    "hip": 95.97,
+    "arm_length": 75.0,
+    "slope": 9.36
+  },
+  {
+    "case_id": "0949",
+    "height": 154.88,
+    "shoulder_width": 40.6,
+    "chest": 100.54,
+    "waist": 82.01,
+    "hip": 90.97,
+    "arm_length": 67.73,
+    "slope": 7.77
+  },
+  {
+    "case_id": "0950",
+    "height": 163.56,
+    "shoulder_width": 42.15,
+    "chest": 86.83,
+    "waist": 66.18,
+    "hip": 80.0,
+    "arm_length": 72.65,
+    "slope": 10.72
+  },
+  {
+    "case_id": "0951",
+    "height": 176.43,
+    "shoulder_width": 49.29,
+    "chest": 118.37,
+    "waist": 99.34,
+    "hip": 118.86,
+    "arm_length": 71.7,
+    "slope": 18.79
+  },
+  {
+    "case_id": "0952",
+    "height": 188.35,
+    "shoulder_width": 50.34,
+    "chest": 113.5,
+    "waist": 91.54,
+    "hip": 122.21,
+    "arm_length": 73.36,
+    "slope": 25.79
+  },
+  {
+    "case_id": "0953",
+    "height": 160.2,
+    "shoulder_width": 42.12,
+    "chest": 104.62,
+    "waist": 86.95,
+    "hip": 98.18,
+    "arm_length": 70.35,
+    "slope": 12.29
+  },
+  {
+    "case_id": "0954",
+    "height": 162.83,
+    "shoulder_width": 40.8,
+    "chest": 92.26,
+    "waist": 79.91,
+    "hip": 85.57,
+    "arm_length": 66.84,
+    "slope": 26.97
+  },
+  {
+    "case_id": "0955",
+    "height": 151.44,
+    "shoulder_width": 37.47,
+    "chest": 89.8,
+    "waist": 80.9,
+    "hip": 91.48,
+    "arm_length": 66.29,
+    "slope": 8.24
+  },
+  {
+    "case_id": "0956",
+    "height": 164.11,
+    "shoulder_width": 45.38,
+    "chest": 114.89,
+    "waist": 97.06,
+    "hip": 114.32,
+    "arm_length": 67.54,
+    "slope": 3.65
+  },
+  {
+    "case_id": "0957",
+    "height": 185.7,
+    "shoulder_width": 49.97,
+    "chest": 113.62,
+    "waist": 90.61,
+    "hip": 110.05,
+    "arm_length": 72.17,
+    "slope": 22.21
+  },
+  {
+    "case_id": "0958",
+    "height": 172.27,
+    "shoulder_width": 40.32,
+    "chest": 95.71,
+    "waist": 87.71,
+    "hip": 88.48,
+    "arm_length": 70.99,
+    "slope": 15.84
+  },
+  {
+    "case_id": "0959",
+    "height": 156.67,
+    "shoulder_width": 39.46,
+    "chest": 93.28,
+    "waist": 72.45,
+    "hip": 86.84,
+    "arm_length": 68.93,
+    "slope": 10.72
+  },
+  {
+    "case_id": "0960",
+    "height": 175.21,
+    "shoulder_width": 45.14,
+    "chest": 113.0,
+    "waist": 98.96,
+    "hip": 120.7,
+    "arm_length": 74.25,
+    "slope": 14.58
+  },
+  {
+    "case_id": "0961",
+    "height": 165.74,
+    "shoulder_width": 40.23,
+    "chest": 90.57,
+    "waist": 69.91,
+    "hip": 89.19,
+    "arm_length": 67.5,
+    "slope": 2.97
+  },
+  {
+    "case_id": "0962",
+    "height": 161.01,
+    "shoulder_width": 42.68,
+    "chest": 100.17,
+    "waist": 88.86,
+    "hip": 101.03,
+    "arm_length": 70.81,
+    "slope": 24.29
+  },
+  {
+    "case_id": "0963",
+    "height": 153.93,
+    "shoulder_width": 42.89,
+    "chest": 86.16,
+    "waist": 73.36,
+    "hip": 91.2,
+    "arm_length": 62.07,
+    "slope": 18.76
+  },
+  {
+    "case_id": "0964",
+    "height": 164.48,
+    "shoulder_width": 36.78,
+    "chest": 78.0,
+    "waist": 60.0,
+    "hip": 80.0,
+    "arm_length": 69.54,
+    "slope": 16.72
+  },
+  {
+    "case_id": "0965",
+    "height": 168.22,
+    "shoulder_width": 43.99,
+    "chest": 88.43,
+    "waist": 70.39,
+    "hip": 93.33,
+    "arm_length": 74.64,
+    "slope": 14.27
+  },
+  {
+    "case_id": "0966",
+    "height": 153.26,
+    "shoulder_width": 41.06,
+    "chest": 103.93,
+    "waist": 85.26,
+    "hip": 98.6,
+    "arm_length": 58.71,
+    "slope": 18.55
+  },
+  {
+    "case_id": "0967",
+    "height": 186.39,
+    "shoulder_width": 48.59,
+    "chest": 106.42,
+    "waist": 91.45,
+    "hip": 113.49,
+    "arm_length": 75.0,
+    "slope": 24.95
+  },
+  {
+    "case_id": "0968",
+    "height": 165.68,
+    "shoulder_width": 39.91,
+    "chest": 93.79,
+    "waist": 77.75,
+    "hip": 102.74,
+    "arm_length": 68.95,
+    "slope": 12.78
+  },
+  {
+    "case_id": "0969",
+    "height": 165.8,
+    "shoulder_width": 41.93,
+    "chest": 92.78,
+    "waist": 80.99,
+    "hip": 90.57,
+    "arm_length": 67.46,
+    "slope": 19.28
+  },
+  {
+    "case_id": "0970",
+    "height": 152.43,
+    "shoulder_width": 39.53,
+    "chest": 91.04,
+    "waist": 75.29,
+    "hip": 95.03,
+    "arm_length": 66.02,
+    "slope": 25.7
+  },
+  {
+    "case_id": "0971",
+    "height": 164.99,
+    "shoulder_width": 39.54,
+    "chest": 96.02,
+    "waist": 81.51,
+    "hip": 98.55,
+    "arm_length": 69.11,
+    "slope": 23.64
+  },
+  {
+    "case_id": "0972",
+    "height": 157.6,
+    "shoulder_width": 39.93,
+    "chest": 83.64,
+    "waist": 68.52,
+    "hip": 86.39,
+    "arm_length": 65.33,
+    "slope": 12.63
+  },
+  {
+    "case_id": "0973",
+    "height": 185.4,
+    "shoulder_width": 49.38,
+    "chest": 114.36,
+    "waist": 104.24,
+    "hip": 112.63,
+    "arm_length": 75.0,
+    "slope": 6.7
+  },
+  {
+    "case_id": "0974",
+    "height": 161.43,
+    "shoulder_width": 38.79,
+    "chest": 80.04,
+    "waist": 66.86,
+    "hip": 80.0,
+    "arm_length": 68.51,
+    "slope": 7.32
+  },
+  {
+    "case_id": "0975",
+    "height": 154.94,
+    "shoulder_width": 43.1,
+    "chest": 103.21,
+    "waist": 93.84,
+    "hip": 103.0,
+    "arm_length": 59.24,
+    "slope": 18.08
+  },
+  {
+    "case_id": "0976",
+    "height": 172.33,
+    "shoulder_width": 38.07,
+    "chest": 95.81,
+    "waist": 81.95,
+    "hip": 100.5,
+    "arm_length": 71.44,
+    "slope": 19.32
+  },
+  {
+    "case_id": "0977",
+    "height": 160.3,
+    "shoulder_width": 44.63,
+    "chest": 99.99,
+    "waist": 77.75,
+    "hip": 91.11,
+    "arm_length": 68.05,
+    "slope": 29.53
+  },
+  {
+    "case_id": "0978",
+    "height": 185.83,
+    "shoulder_width": 48.71,
+    "chest": 120.0,
+    "waist": 104.75,
+    "hip": 116.14,
+    "arm_length": 75.0,
+    "slope": 4.23
+  },
+  {
+    "case_id": "0979",
+    "height": 158.87,
+    "shoulder_width": 38.93,
+    "chest": 82.58,
+    "waist": 75.32,
+    "hip": 90.76,
+    "arm_length": 64.49,
+    "slope": 21.86
+  },
+  {
+    "case_id": "0980",
+    "height": 166.31,
+    "shoulder_width": 37.98,
+    "chest": 83.64,
+    "waist": 66.05,
+    "hip": 80.76,
+    "arm_length": 65.7,
+    "slope": 5.15
+  },
+  {
+    "case_id": "0981",
+    "height": 158.7,
+    "shoulder_width": 43.54,
+    "chest": 89.3,
+    "waist": 71.91,
+    "hip": 89.81,
+    "arm_length": 64.24,
+    "slope": 16.49
+  },
+  {
+    "case_id": "0982",
+    "height": 151.74,
+    "shoulder_width": 39.29,
+    "chest": 91.86,
+    "waist": 79.53,
+    "hip": 93.09,
+    "arm_length": 62.31,
+    "slope": 11.8
+  },
+  {
+    "case_id": "0983",
+    "height": 159.06,
+    "shoulder_width": 39.76,
+    "chest": 80.15,
+    "waist": 64.59,
+    "hip": 83.0,
+    "arm_length": 61.65,
+    "slope": 3.76
+  },
+  {
+    "case_id": "0984",
+    "height": 176.09,
+    "shoulder_width": 42.94,
+    "chest": 106.54,
+    "waist": 96.88,
+    "hip": 116.28,
+    "arm_length": 72.16,
+    "slope": 9.4
+  },
+  {
+    "case_id": "0985",
+    "height": 174.34,
+    "shoulder_width": 44.93,
+    "chest": 106.63,
+    "waist": 85.81,
+    "hip": 97.33,
+    "arm_length": 68.81,
+    "slope": 6.32
+  },
+  {
+    "case_id": "0986",
+    "height": 154.96,
+    "shoulder_width": 42.7,
+    "chest": 85.76,
+    "waist": 73.09,
+    "hip": 93.43,
+    "arm_length": 62.79,
+    "slope": 16.76
+  },
+  {
+    "case_id": "0987",
+    "height": 177.83,
+    "shoulder_width": 42.51,
+    "chest": 97.2,
+    "waist": 86.4,
+    "hip": 101.97,
+    "arm_length": 75.0,
+    "slope": 29.65
+  },
+  {
+    "case_id": "0988",
+    "height": 164.81,
+    "shoulder_width": 43.65,
+    "chest": 103.08,
+    "waist": 88.99,
+    "hip": 108.02,
+    "arm_length": 71.28,
+    "slope": 26.8
+  },
+  {
+    "case_id": "0989",
+    "height": 163.97,
+    "shoulder_width": 42.5,
+    "chest": 92.15,
+    "waist": 78.43,
+    "hip": 96.78,
+    "arm_length": 71.39,
+    "slope": 13.76
+  },
+  {
+    "case_id": "0990",
+    "height": 170.35,
+    "shoulder_width": 40.89,
+    "chest": 85.93,
+    "waist": 68.25,
+    "hip": 93.01,
+    "arm_length": 68.42,
+    "slope": 29.29
+  },
+  {
+    "case_id": "0991",
+    "height": 159.66,
+    "shoulder_width": 42.05,
+    "chest": 98.58,
+    "waist": 85.62,
+    "hip": 101.42,
+    "arm_length": 68.57,
+    "slope": 27.36
+  },
+  {
+    "case_id": "0992",
+    "height": 172.54,
+    "shoulder_width": 38.66,
+    "chest": 83.6,
+    "waist": 72.77,
+    "hip": 83.5,
+    "arm_length": 72.19,
+    "slope": 18.7
+  },
+  {
+    "case_id": "0993",
+    "height": 165.31,
+    "shoulder_width": 44.04,
+    "chest": 107.21,
+    "waist": 93.42,
+    "hip": 111.82,
+    "arm_length": 73.12,
+    "slope": 18.67
+  },
+  {
+    "case_id": "0994",
+    "height": 188.68,
+    "shoulder_width": 42.86,
+    "chest": 101.97,
+    "waist": 88.91,
+    "hip": 101.51,
+    "arm_length": 75.0,
+    "slope": 17.4
+  },
+  {
+    "case_id": "0995",
+    "height": 164.59,
+    "shoulder_width": 45.19,
+    "chest": 100.05,
+    "waist": 78.03,
+    "hip": 101.58,
+    "arm_length": 67.11,
+    "slope": 4.69
+  },
+  {
+    "case_id": "0996",
+    "height": 172.59,
+    "shoulder_width": 43.54,
+    "chest": 91.61,
+    "waist": 78.01,
+    "hip": 92.84,
+    "arm_length": 74.93,
+    "slope": 12.12
+  },
+  {
+    "case_id": "0997",
+    "height": 159.95,
+    "shoulder_width": 44.32,
+    "chest": 103.56,
+    "waist": 78.15,
+    "hip": 110.2,
+    "arm_length": 62.98,
+    "slope": 24.01
+  },
+  {
+    "case_id": "0998",
+    "height": 178.21,
+    "shoulder_width": 49.56,
+    "chest": 120.0,
+    "waist": 95.6,
+    "hip": 125.0,
+    "arm_length": 71.67,
+    "slope": 19.62
+  },
+  {
+    "case_id": "0999",
+    "height": 173.91,
+    "shoulder_width": 38.83,
+    "chest": 78.0,
+    "waist": 60.0,
+    "hip": 80.0,
+    "arm_length": 69.22,
+    "slope": 27.39
+  },
+  {
+    "case_id": "1000",
+    "height": 170.75,
+    "shoulder_width": 45.73,
+    "chest": 114.46,
+    "waist": 100.14,
+    "hip": 111.97,
+    "arm_length": 75.0,
+    "slope": 22.78
+  }
+]
