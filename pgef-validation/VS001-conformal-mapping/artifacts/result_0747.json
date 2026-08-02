@@ -1,0 +1,46 @@
+{
+  "artifact_type": "PGEF_Validation_Result",
+  "artifact_version": "6.0",
+  "case_id": "0747",
+  "input": {
+    "case_id": "0747",
+    "height": 153.95,
+    "shoulder_width": 35.0,
+    "chest": 80.09,
+    "waist": 66.09,
+    "hip": 80.0,
+    "arm_length": 58.55,
+    "slope": 7.4
+  },
+  "garment": {
+    "garment_shoulder": 43.106,
+    "garment_chest": 92.09,
+    "garment_waist": 68.09,
+    "garment_hip": 86.0,
+    "garment_arm": 60.55,
+    "garment_length": 70.82,
+    "garment_sleeve": 20.61,
+    "garment_slope": 2.0
+  },
+  "metrics": {
+    "mse": 54.426809000000006,
+    "delta_p": 0.11876200093015006,
+    "area_distortion": 0.1846273675962256,
+    "expected_length": 70.817,
+    "length_check": true,
+    "chest_ease": 12.0,
+    "chest_check": true
+  },
+  "status": "PASS",
+  "grade": "A",
+  "metadata": {
+    "engine_version": "PGEF v15.0",
+    "validator_version": "6.0",
+    "dataset_hash": "9fa82e7b3c1d4f5a...",
+    "seed": 42,
+    "generated_at": "2026-08-01T19:10:40.931590",
+    "run_id": "VS001-20260801-0747"
+  },
+  "artifact_hash": "0e8dd9786c28732c055f35a3f82f967d82c8e6778e0032ac73210ed2a7fbcf77",
+  "signature": "30450220066492deb8b7907d5d82217898a8f8d035726e4d75da23f9b39db31a6d4a8810022100e0f7de0fa2d24a6660e771ae3e16fe7c0e804e5196d479ebf656e843b8d1bfc1"
+}
