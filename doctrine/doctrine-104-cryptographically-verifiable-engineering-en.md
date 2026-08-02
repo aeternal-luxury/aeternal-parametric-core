@@ -1,149 +1,112 @@
+---
+title: "Aeternal Luxury Parametric Asset"
+canonical: "https://knowledge.aeternal-luxury.com//doctrine/doctrine-104-cryptographically-verifiable-engineering-en"
+doi: "https://zenodo.org/records/20675338"
+wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
+website: "https://aeternal-luxury.com/"
+---
+
+> 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
+
 # Cryptographically Verifiable Engineering (CVE) Framework
 
-## A Methodology for Cryptographic Trust in Proprietary Engineering Systems
+A Methodology for Cryptographic Trust in Proprietary Engineering Systems
 
->
-> **Version**: 2.0
-> **Status**: Methodology Specification
-> **Author**: AETERNAL Framework Governance Group (AFGG)
-> **Case Study**: VS-001 (PGEF Engine Integrity Validation)
-
+[Version]{.label} 2.0 [Status]{.label} Methodology Specification [Author]{.label} AETERNAL Framework Governance Group (AFGG) [Case Study]{.label} VS-001 (PGEF Engine Integrity Validation) [Published]{.label} 2026-08-02
 
 ## 0. The Black Box Problem
 
 Commercial engineering faces a paradox:
 
-```
-Open Source
-    ↓
-Trust
-    ↓
-No Business (IP exposed)
-```
+`Open Source → Trust → No Business (IP exposed)`
 
 On the other hand:
 
-```
-Closed Source
-    ↓
-Business (IP protected)
-    ↓
-No Trust (unverifiable)
-```
+`Closed Source → Business (IP protected) → No Trust (unverifiable)`
 
 This is the **Impossible Triangle**:
 
-```
-        ┌─────────────────┐
-        │   Protect IP    │
-        │                 │
-        └────────┬────────┘
-                 │
-    ┌────────────┼────────────┐
-    │            │            │
-    ▼            ▼            ▼
-┌─────────┐ ┌─────────┐ ┌─────────┐
-│  Open   │ │  CVE    │ │ Closed  │
-│ Source  │ │  (This) │ │  Box    │
-│  ✅ IP  │ │  ✅ IP  │ │  ✅ IP  │
-│  ✅ Trust│ │  ✅ Trust│ │  ❌ Trust│
-└─────────┘ └─────────┘ └─────────┘
-```
+` ┌─────────────────┐ │ Protect IP │ │ │ └────────┬────────┘ │ ┌────────────┼────────────┐ │ │ │ ▼ ▼ ▼ ┌─────────┐ ┌─────────┐ ┌─────────┐ │ Open │ │ CVE │ │ Closed │ │ Source │ │ (This) │ │ Box │ │ ✅ IP │ │ ✅ IP │ │ ✅ IP │ │ ✅ Trust│ │ ✅ Trust│ │ ❌ Trust│ └─────────┘ └─────────┘ └─────────┘ `
 
-**No existing approach solves all three simultaneously.**
+**No existing approach solves all three simultaneously.** Open source solves trust but exposes IP. Closed box protects IP but offers no trust. Third-party audits offer partial trust but are expensive, periodic, and not continuous.
 
-Open source solves trust but exposes IP. Closed box protects IP but offers no trust. Third-party audits offer partial trust but are expensive, periodic, and not continuous.
-
-VEF is designed to solve this problem: **protect IP, maintain trust, enable continuous verification.**
-
+CVE is designed to solve this problem: **protect IP, maintain trust, enable continuous verification.**
 
 ## 1. CVE Doctrine
 
 > **A proprietary engineering system shall never require blind trust.**
 >
 > It shall expose sufficient cryptographic evidence such that any independent party can verify:
-> - **Integrity** — outputs have not been tampered with
-> - **Authenticity** — outputs genuinely originated from the production system
-> - **Reproducibility** — same inputs produce the same outputs
+>
+> -   **Integrity** --- outputs have not been tampered with
+> -   **Authenticity** --- outputs genuinely originated from the production system
+> -   **Reproducibility** --- same inputs produce the same outputs
 >
 > **without obtaining proprietary knowledge.**
 
-This is the foundational definition of VEF. It is not a feature. It is a requirement.
-
+This is the foundational definition of CVE. It is not a feature. It is a requirement.
 
 ## 2. Threat Model
 
-### 2.1 What VEF Prevents
+### 2.1 What CVE Prevents
 
-| Threat | How VEF Prevents It |
-|---|---|
-| Forged outputs | ECDSA signature verification fails without private key |
-| Modified artifacts | SHA-256 hash mismatch |
-| Replay attacks | Timestamp + Run ID + Seed in metadata |
-| Fake benchmark | Trust Ledger contains all artifacts; missing artifacts break the chain |
-| Fake validation | Public validator can be independently executed |
+  Threat               How CVE Prevents It
+  -------------------- ------------------------------------------------------------------------
+  Forged outputs       ECDSA signature verification fails without private key
+  Modified artifacts   SHA-256 hash mismatch
+  Replay attacks       Timestamp + Run ID + Seed in metadata
+  Fake benchmark       Trust Ledger contains all artifacts; missing artifacts break the chain
+  Fake validation      Public validator can be independently executed
 
-### 2.2 What VEF Does NOT Prevent
+### 2.2 What CVE Does NOT Prevent
 
-| Non-threat | Why It Is Not Addressed |
-|---|---|
-| Incorrect algorithm | VEF verifies authenticity, not correctness |
-| Poor engineering assumptions | VEF verifies consistency, not quality of decisions |
-| Weak aesthetic model | VEF verifies execution, not desirability |
-| Incorrect objective function | VEF verifies what the engine did, not what it should have done |
+  Non-threat                     Why It Is Not Addressed
+  ------------------------------ ----------------------------------------------------------------
+  Incorrect algorithm            CVE verifies authenticity, not correctness
+  Poor engineering assumptions   CVE verifies consistency, not quality of decisions
+  Weak aesthetic model           CVE verifies execution, not desirability
+  Incorrect objective function   CVE verifies what the engine did, not what it should have done
 
-**Important**: VEF does not claim the engineering is "good." It claims the engineering is "real and consistent." Whether the engineering is "good" is a separate question that requires domain expertise.
-
+**Important**: CVE does not claim the engineering is \"good.\" It claims the engineering is \"real and consistent.\" Whether the engineering is \"good\" is a separate question that requires domain expertise.
 
 ## 3. Five Principles
 
-VEF is built on five principles, not five layers. Principles are universal; layers are implementation.
+CVE is built on five principles, not five layers. Principles are universal; layers are implementation.
 
 ### Principle 1: Immutable Evidence
 
-> Every engineering output must be captured as an immutable artifact.
+> Every engineering output must be captured as an immutable artifact. Once created, an artifact cannot be modified without detection.
 
-Once created, an artifact cannot be modified without detection.
-
-- **Implementation**: SHA-256 hash of the artifact content
-- **Verification**: Anyone can recompute the hash and compare
+-   **Implementation**: SHA-256 hash of the artifact content
+-   **Verification**: Anyone can recompute the hash and compare
 
 ### Principle 2: Cryptographic Authenticity
 
-> Every artifact must prove its origin.
+> Every artifact must prove its origin. The artifact must carry evidence that it was generated by the genuine production system, not by a human or a different system.
 
-The artifact must carry evidence that it was generated by the genuine production system, not by a human or a different system.
-
-- **Implementation**: ECDSA signature (private key signing, public key verification)
-- **Verification**: Anyone can verify the signature using the public key
+-   **Implementation**: ECDSA signature (private key signing, public key verification)
+-   **Verification**: Anyone can verify the signature using the public key
 
 ### Principle 3: Deterministic Consistency
 
-> Same inputs must always produce the same outputs.
+> Same inputs must always produce the same outputs. The system must be deterministic. Non-determinism makes verification impossible.
 
-The system must be deterministic. Non-determinism makes verification impossible.
-
-- **Implementation**: Fixed seeds + fixed dataset + fixed version
-- **Verification**: Anyone can replay the same inputs and compare outputs
+-   **Implementation**: Fixed seeds + fixed dataset + fixed version
+-   **Verification**: Anyone can replay the same inputs and compare outputs
 
 ### Principle 4: Independent Replay
 
-> Anyone must be able to independently verify the evidence.
+> Anyone must be able to independently verify the evidence. The verification process must not depend on the proprietary engine. It must be implementable with only standard, open-source tools.
 
-The verification process must not depend on the proprietary engine. It must be implementable with only standard, open-source tools.
-
-- **Implementation**: Public validator script (Python + standard libraries)
-- **Verification**: Anyone can download and execute the validator
+-   **Implementation**: Public validator script (Python + standard libraries)
+-   **Verification**: Anyone can download and execute the validator
 
 ### Principle 5: Comprehensive Auditability
 
-> All evidence must be traceable and auditable as a complete set.
+> All evidence must be traceable and auditable as a complete set. No artifact should be verifiable in isolation. The entire set of artifacts must be auditable as a whole.
 
-No artifact should be verifiable in isolation. The entire set of artifacts must be auditable as a whole.
-
-- **Implementation**: Trust Ledger (all hashes + signatures in one place)
-- **Verification**: One command verifies the entire ledger
-
+-   **Implementation**: Trust Ledger (all hashes + signatures in one place)
+-   **Verification**: One command verifies the entire ledger
 
 ## 4. Formal Definitions
 
@@ -151,142 +114,131 @@ No artifact should be verifiable in isolation. The entire set of artifacts must 
 
 An **Artifact** is the fundamental unit of engineering evidence.
 
-```
-Artifact := (Input, Output, Metadata, Hash, Signature)
-```
+    Artifact := (Input, Output, Metadata, Hash, Signature)
 
 Where:
 
-- `Input`: The data fed into the production system
-- `Output`: The result produced by the production system
-- `Metadata`: Context (version, timestamp, run_id, seed)
-- `Hash`: SHA-256 of (Input + Output + Metadata)
-- `Signature`: ECDSA signature of (Input + Output + Metadata + Hash)
+-   `Input`: The data fed into the production system
+-   `Output`: The result produced by the production system
+-   `Metadata`: Context (version, timestamp, run_id, seed)
+-   `Hash`: SHA-256 of (Input + Output + Metadata)
+-   `Signature`: ECDSA signature of (Input + Output + Metadata + Hash)
 
 ### 4.2 Trust Ledger
 
 A **Trust Ledger** is the complete set of all artifacts.
 
-```
-Ledger := Σ(Artifact_i)
-```
+    Ledger := Σ(Artifact_i)
 
-Where `Σ` denotes concatenation in a single, immutable JSON structure.
+Where Σ denotes concatenation in a single, immutable JSON structure.
 
 The ledger itself is hashed:
 
-```
-LedgerHash := SHA-256(Ledger_Content_Excluding_Hash)
-```
+    LedgerHash := SHA-256(Ledger_Content_Excluding_Hash)
 
 ### 4.3 Validator
 
 A **Validator** is a deterministic function that maps an artifact to a verification result.
 
-```
-Validator: Artifact → {PASS, FAIL}
-```
+    Validator: Artifact → {PASS, FAIL}
 
 The validator checks:
 
-1. Hash integrity: `RecomputeHash(Artifact) == Artifact.Hash`
-2. Signature authenticity: `VerifySignature(Artifact) == VALID`
-3. Schema completeness: `HasAllFields(Artifact) == TRUE`
-4. Metric consistency: `RecomputeMetrics(Artifact) == Artifact.Metrics`
+1.  Hash integrity: `RecomputeHash(Artifact) == Artifact.Hash`
+2.  Signature authenticity: `VerifySignature(Artifact) == VALID`
+3.  Schema completeness: `HasAllFields(Artifact) == TRUE`
+4.  Metric consistency: `RecomputeMetrics(Artifact) == Artifact.Metrics`
 
 ### 4.4 Trust Chain
 
 The full verification of a system is:
 
-```
-Verify Ledger Hash
-    ↓
-For Each Artifact in Ledger:
-    Verify Signature
-    Verify Hash
-    Verify Schema
-    Verify Metrics
-```
+    Verify Ledger Hash
+        ↓
+    For Each Artifact in Ledger:
+        Verify Signature
+        Verify Hash
+        Verify Schema
+        Verify Metrics
 
-If all pass, the system is **cryptographically verified**.
-
+    If all pass, the system is cryptographically verified.
 
 ## 5. Comparison: Four Models of Engineering Trust
 
-| Model | Source Code | IP Protected | Verification | Verifiability |
-|---|---|---|---|---|
-| **Closed Box** | ❌ Hidden | ✅ Yes | ❌ None | ❌ Unverifiable |
-| **Open Source** | ✅ Public | ❌ No | ✅ Code Review | ✅ Verifiable (with effort) |
-| **Third-Party Audit** | ❌ Hidden | ✅ Yes | ⚠️ Periodic | ⚠️ Partial (only at audit time) |
-| **CVE (VEF)** | ❌ Hidden | ✅ Yes | ✅ Continuous | ✅ Verifiable (anyone, anytime) |
+  Model               Source Code   IP Protected   Verification     Verifiability
+  ------------------- ------------- -------------- ---------------- ---------------------------------
+  Closed Box          ❌ Hidden     ✅ Yes         ❌ None          ❌ Unverifiable
+  Open Source         ✅ Public     ❌ No          ✅ Code Review   ✅ Verifiable (with effort)
+  Third-Party Audit   ❌ Hidden     ✅ Yes         ⚠️ Periodic      ⚠️ Partial (only at audit time)
+  **CVE**             ❌ Hidden     ✅ Yes         ✅ Continuous    ✅ Verifiable (anyone, anytime)
 
 **CVE is the only model that simultaneously:**
-- Protects intellectual property
-- Provides continuous, public verification
-- Does not require third-party trust
 
+-   Protects intellectual property
+-   Provides continuous, public verification
+-   Does not require third-party trust
 
 ## 6. Case Study: VS-001 (PGEF Engine Validation)
 
-VS-001 is the first complete implementation of VEF.
+VS-001 is the first complete implementation of CVE.
 
-| VEF Principle | VS-001 Implementation |
-|---|---|
-| Immutable Evidence | `result_XXXX.json` with `artifact_hash` (SHA-256) |
-| Cryptographic Authenticity | ECDSA signature (private key signing, public key verification) |
-| Deterministic Consistency | Fixed seed (42) + fixed dataset (synthetic_1000.json) |
-| Independent Replay | `validator.py` (open-source, standard libraries) |
-| Comprehensive Auditability | `trust_ledger.json` (all artifacts in one place) |
+  CVE Principle                VS-001 Implementation
+  ---------------------------- ----------------------------------------------------------------
+  Immutable Evidence           `result_XXXX.json` with `artifact_hash` (SHA-256)
+  Cryptographic Authenticity   ECDSA signature (private key signing, public key verification)
+  Deterministic Consistency    Fixed seed (42) + fixed dataset (synthetic_1000.json)
+  Independent Replay           `validator.py` (open-source, standard libraries)
+  Comprehensive Auditability   `trust_ledger.json` (all artifacts in one place)
 
 **Results**:
-- 1000 synthetic body types tested
-- 100% PASS rate
-- All artifacts publicly verifiable
-- Production engine remains proprietary
 
-VS-001 proves that VEF works in practice. It is not a theoretical framework.
+-   1000 synthetic body types tested
+-   100% PASS rate
+-   All artifacts publicly verifiable
+-   Production engine remains proprietary
 
+VS-001 proves that CVE works in practice. It is not a theoretical framework.
 
 ## 7. Applicability
 
-VEF is not limited to garment engineering. It applies to any proprietary engineering system that needs to establish trust without exposing IP.
+CVE is not limited to garment engineering. It applies to any proprietary engineering system that needs to **establish trust without exposing IP**.
 
 **Potential domains**:
-- AI model behavior validation
-- CFD (Computational Fluid Dynamics) solvers
-- CAE (Computer-Aided Engineering) simulations
-- Drug discovery engines
-- Chip design (EDA) tools
-- Building Information Modeling (BIM)
-- Materials simulation
 
+-   AI model behavior validation
+-   CFD (Computational Fluid Dynamics) solvers
+-   CAE (Computer-Aided Engineering) simulations
+-   Drug discovery engines
+-   Chip design (EDA) tools
+-   Building Information Modeling (BIM)
+-   Materials simulation
 
 ## 8. Conclusion
 
 > **Trust should be established by cryptography, not by brand reputation.**
 
-VEF provides a methodology for achieving this. It does not require open-sourcing proprietary algorithms. It does not require third-party audits. It does not require trust in the brand.
+CVE provides a methodology for achieving this. It does not require open-sourcing proprietary algorithms. It does not require third-party audits. It does not require trust in the brand.
 
 It only requires:
 
-1. A private key held by the production engine
-2. A public key published for verification
-3. A commitment to deterministic execution
-4. A public validator script
+1.  A private key held by the production engine
+2.  A public key published for verification
+3.  A commitment to deterministic execution
+4.  A public validator script
 
-**This is not "Trust us." This is "Verify us."**
-
+**This is not \"Trust us.\" This is \"Verify us.\"**
 
 ## 9. Version History
 
-| Version | Date | Changes |
-|---|---|---|
-| 1.0 | 2026-08-02 | Initial draft (VS-001 summary) |
-| 2.0 | 2026-08-02 | Upgraded to methodology (Threat Model, Formal Definitions, Five Principles, Comparison) |
-
+  Version   Date         Changes
+  --------- ------------ -----------------------------------------------------------------------------------------
+  1.0       2026-08-02   Initial draft (VS-001 summary)
+  2.0       2026-08-02   Upgraded to methodology (Threat Model, Formal Definitions, Five Principles, Comparison)
 
 ## 10. References
 
-- VS-001: PGEF Engine Integrity Validation： https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping
-- Doctrine 001: Evidence Hierarchy and Category Error： https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en
-- VS-104 (this document): Verifiable Engineering Framework： https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en
+-   [VS-001: PGEF Engine Integrity Validation](https://github.com/aeternal-luxury/aeternal-parametric-core/tree/6dcecbee42af63bb49c7cb1363c008677d380e51/pgef-validation/VS001-conformal-mapping){target="_blank"}
+-   [Doctrine 001: Evidence Hierarchy and Category Error](https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en){target="_blank"}
+-   [VS-104 (this document): Cryptographically Verifiable Engineering Framework](https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en){target="_blank"}
+
+© 2026 AETERNAL --- This document is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/){target="_blank"}

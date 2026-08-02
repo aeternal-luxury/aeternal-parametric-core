@@ -79,4 +79,12 @@ Why \"customer reviews\" fail to validate parametric garment engineering --- an 
 
 [ZH_VER](doctrine-001-validation-hierarchy-and-category-error-zh.html) [EN_VER](doctrine-001-validation-hierarchy-and-category-error-en.html)
 
+[\[DOC // 009\]]{.folder-id}
+
+## Doctrine 104: Cryptographically Verifiable Engineering
+
+A methodology for cryptographic trust in proprietary engineering systems. Protect IP, maintain trust, enable continuous verification without exposing core algorithms.
+
+[ZH_VER](doctrine-104-cryptographically-verifiable-engineering-zh.html) [EN_VER](doctrine-104-cryptographically-verifiable-engineering-en.html)
+
 [INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)
