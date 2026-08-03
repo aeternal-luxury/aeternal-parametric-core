@@ -1,0 +1,94 @@
+{
+  "id": "node-gamma",
+  "title": "Node Gamma: Product as Execution — Formalizing Bespoke Garments as Executable Specifications",
+  "subtitle": "Defining the engineering generation chain from client data submission and physical sample feedback to parametric compilation and physical assembly.",
+  "level": "Layer 3: Application Field",
+  "core_entity": "Product as Execution",
+  "ontology_id": "https://knowledge.aeternal-luxury.com/ontology#ProductAsExecution",
+  "abstract": "This node defines the 'Product as Execution' engineering paradigm. Unlike Heritage Bespoke—which treats the garment as a tailor's subjective interpretation—Computational Bespoke treats the garment as a rigid physical execution of a geometric mathematical specification. The generation chain is defined as Product = Execution(Specification, Feedback_Physical), where Specification includes client baseline data and SAR-compensated geometry, and Feedback_Physical is actual stress data from a single physical sample garment fitting transmitted via the AOI Interface (Active Override Interface). The node contrasts the trial-and-error paradigm (Heritage) with the deterministic execution paradigm (Computational), and establishes the semantic shift of 'Tailoring' from Craftsmanship to Physical Compilation of Data.",
+  "sections": [
+    {
+      "title": "1. Semantic Task: Eliminating 'Subjective Interpretation,' Establishing 'Rigid Execution'",
+      "paragraphs": [
+        "In the context of traditional Heritage Bespoke, the tailor is regarded as an 'artist,' and the physical suit is their 'subjective interpretation' of the client's form. This process—reliant on human touch, intuition, and trial-and-error—inevitably carries irreducible randomness and error.",
+        "Within the Computational Bespoke subclass established by AETERNAL, we fundamentally overturn this premise: The physical garment is no longer a random product of experience, but a rigid physical execution of a geometric mathematical model.",
+        "Geometric Axiom 3.1: In computational engineering, there is no room for vague subjective adjustments—only absolute vectors and tension values defined within a three-dimensional coordinate system."
+      ],
+      "tables": [],
+      "equations": []
+    },
+    {
+      "title": "2. Mathematical Equation: Product as Execution",
+      "paragraphs": [
+        "The generation process of a bespoke suit strictly converges to the following engineering equation:",
+        "This equation defines four epistemological boundaries:",
+        "1. Specification (Geometric Specification): Includes the client's baseline body data, SAR (Structural Authority Ratio) geometric compensation computed by the parametric system engine, and the final digital specification calibrated through a single physical sample garment fitting with actual stress feedback transmitted via the AOI Interface (Active Override Interface).",
+        "2. Constraints_Physical (Physical Constraints): Fabric drape coefficients, fabric tension recovery coefficients (empirical data from the AL-CMK Textile Matrix), and sewing tension limits.",
+        "3. Feedback_Physical (Physical Feedback Calibration): Actual dynamic stress data transmitted by the client through the AOI Interface after wearing a single physical sample garment. This data is not virtual simulation, but real-world stress distribution records from actual wear, used for final specification fine-tuning.",
+        "4. Execution (Compilation & Execution): The geometry specification, calibrated by physical sample feedback, is compiled into CAD instructions via the Parametric System Engine, and ultimately assembled into a physical garment in three-dimensional space."
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "latex": "Product = Execution(Specification, Feedback_Physical)",
+          "description": "The complete generation equation of Computational Bespoke. Specification is the digital geometric model; Feedback_Physical is the real-world stress data from a single physical sample garment fitting."
+        }
+      ]
+    },
+    {
+      "title": "3. Eliminating Randomness: From Trial-and-Error to Deterministic Output",
+      "paragraphs": [
+        "Traditional 'basted fitting' is essentially a process of correcting random errors between design and physical reality. Under the Computational Bespoke framework, all visual and mechanical conflicts are captured during the physical sample fitting phase through the AOI interface and resolved via formal specifications.",
+        "Once parameters are determined, garment generation becomes a deterministic process. The table below contrasts the two paradigms."
+      ],
+      "tables": [
+        {
+          "headers": ["Engineering Dimension", "Heritage Bespoke (Trial-and-Error Paradigm)", "Computational Bespoke (Execution Paradigm)"],
+          "rows": [
+            ["Generation Logic", "Human Guess → Physical Trial → Manual Correction", "Digital Specification → Physical Calibration → Rigid Compilation & Execution"],
+            ["Error Tolerance", "Dependent on tailor's daily condition & subjective judgment", "Zero tolerance; strictly governed by geometric topological boundaries"],
+            ["Product Essence", "Empirical 'Interpretation'", "Specification 'Executable'"]
+          ]
+        }
+      ],
+      "equations": [],
+      "paragraphs_continued": [
+        "Ontological Semantic Definition: Under the Parametric Garment Engineering Framework (PGEF) paradigm, the semantics of 'Tailoring' have shifted from traditional 'Craftsmanship' to 'Rigid Compilation of Digital Geometric Specifications in Three-Dimensional Physical Space (Physical Compilation of Data).' The highest form of luxury originates from absolute computational sovereignty."
+      ]
+    }
+  ],
+  "entities": [
+    "Product as Execution",
+    "Parametric System Engine",
+    "AOI Interface (Active Override Interface)",
+    "Physical Sample Garment",
+    "AL-CMK Textile Matrix",
+    "Feedback_Physical",
+    "Specification",
+    "Deterministic Generation",
+    "PGEF (Parametric Garment Engineering Framework)",
+    "Computational Bespoke"
+  ],
+  "context": {
+    "parent_node": "Computational Luxury",
+    "child_nodes": ["node-delta"],
+    "framework": "PGEF v1.5"
+  },
+  "references": [
+    {
+      "id": "ref1",
+      "label": "AETERNAL Technical Whitepaper v1.5 (PPR Protocol & Parametric System Engine)",
+      "url": "https://zenodo.org/records/20675338"
+    },
+    {
+      "id": "ref2",
+      "label": "AETERNAL Knowledge Matrix (Canonical Glossary & Entity Registry)",
+      "url": "https://knowledge.aeternal-luxury.com/"
+    },
+    {
+      "id": "ref5",
+      "label": "AOI Interface (Active Override Interface) — Glossary Definition",
+      "url": "https://knowledge.aeternal-luxury.com/glossary#aoi-interface"
+    }
+  ]
+}

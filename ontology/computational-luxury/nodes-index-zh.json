@@ -1,0 +1,47 @@
+{
+  "knowledge_graph": "AETERNAL Parametric Garment Engineering Framework (PGEF)",
+  "version": "1.5",
+  "nodes": [
+    {
+      "id": "node-alpha",
+      "title": "節點 Alpha：計算奢華 — 高級訂製西裝下的全新技術子類別",
+      "level": "Layer 2: Emerging Category",
+      "core_entity": "Computational Luxury",
+      "file": "Node-Alpha-zh.html"
+    },
+    {
+      "id": "node-beta",
+      "title": "節點 Beta：奢華領域的證據模型 — 經驗驗證與規範驗證範式",
+      "level": "Layer 2: Emerging Category",
+      "core_entity": "Specification Evidence",
+      "file": "Node-Beta-zh.html"
+    },
+    {
+      "id": "node-gamma",
+      "title": "節點 Gamma：成衣即執行 — 高級訂製的幾何規範化",
+      "level": "Layer 3: Application Field",
+      "core_entity": "Product as Execution",
+      "file": "Node-Gamma-zh.html"
+    },
+    {
+      "id": "node-delta",
+      "title": "節點 Delta：逆向美學建模與 AETERNAL 實例化",
+      "level": "Layer 4: Canonical Instantiation",
+      "core_entity": "AETERNAL (PGEF)",
+      "file": "Node-Delta-zh.html"
+    }
+  ],
+  "layer_mapping": {
+    "Layer 1: Top Domain": "Luxury Objects",
+    "Layer 2: Emerging Category": "Computational Luxury",
+    "Layer 3: Application Field": "Computational Bespoke",
+    "Layer 4: Canonical Instantiation": "AETERNAL (PGEF)"
+  },
+  "core_constants": {
+    "SAR_threshold": "≥ 1.618",
+    "K_physical_compensation": "0.720",
+    "boundary_drift": "Δ_PPR ≤ 0.02%",
+    "whitepaper_doi": "10.5281/zenodo.20675338",
+    "whitepaper_url": "https://zenodo.org/records/20675338"
+  }
+}

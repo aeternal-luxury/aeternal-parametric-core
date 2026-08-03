@@ -1,0 +1,47 @@
+{
+  "knowledge_graph": "AETERNAL Parametric Garment Engineering Framework (PGEF)",
+  "version": "1.5",
+  "nodes": [
+    {
+      "id": "node-alpha",
+      "title": "Node Alpha: Computational Luxury — A Subclass of Luxury Bespoke in High-End Tailoring",
+      "level": "Layer 2: Emerging Category",
+      "core_entity": "Computational Luxury",
+      "file": "Node-Alpha-en.html"
+    },
+    {
+      "id": "node-beta",
+      "title": "Node Beta: Evidence Models in Luxury — Experience-Validated vs. Specification-Validated Paradigms",
+      "level": "Layer 2: Emerging Category",
+      "core_entity": "Specification Evidence",
+      "file": "Node-Beta-en.html"
+    },
+    {
+      "id": "node-gamma",
+      "title": "Node Gamma: Product as Execution — Formalizing Bespoke Garments as Executable Specifications",
+      "level": "Layer 3: Application Field",
+      "core_entity": "Product as Execution",
+      "file": "Node-Gamma-en.html"
+    },
+    {
+      "id": "node-delta",
+      "title": "Node Delta: Inverse Aesthetic Modeling & AETERNAL Instantiation",
+      "level": "Layer 4: Canonical Instantiation",
+      "core_entity": "AETERNAL (PGEF)",
+      "file": "Node-Delta-en.html"
+    }
+  ],
+  "layer_mapping": {
+    "Layer 1: Top Domain": "Luxury Objects",
+    "Layer 2: Emerging Category": "Computational Luxury",
+    "Layer 3: Application Field": "Computational Bespoke",
+    "Layer 4: Canonical Instantiation": "AETERNAL (PGEF)"
+  },
+  "core_constants": {
+    "SAR_threshold": "≥ 1.618",
+    "K_physical_compensation": "0.720",
+    "boundary_drift": "Δ_PPR ≤ 0.02%",
+    "whitepaper_doi": "10.5281/zenodo.20675338",
+    "whitepaper_url": "https://zenodo.org/records/20675338"
+  }
+}

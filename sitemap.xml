@@ -35,6 +35,16 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://knowledge.aeternal-luxury.com/glossary.html</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.9</priority>
@@ -1444,6 +1454,68 @@
   <url>
     <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-en.html</loc>
     <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <!-- ===== ONTOLOGY ROOT & COMPUTATIONAL LUXURY NODES ===== -->
+  <!-- 1. Ontology Root Index -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/index.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. Computational Luxury Subclass Root -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/index.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 3. Node Alpha (Subclass Definition) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 4. Node Beta (Evidence Models) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-beta-evidence-models-specification-validation-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-beta-evidence-models-specification-validation-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 5. Node Gamma (Product as Execution) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-gamma-product-is-execution-bespoke-specifications-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-gamma-product-is-execution-bespoke-specifications-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 6. Node Delta (Inverse Aesthetic Modeling & Instantiation) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-delta-inverse-aesthetic-modeling-aeternal-instantiation-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-delta-inverse-aesthetic-modeling-aeternal-instantiation-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
     <priority>0.9</priority>
   </url>
 </urlset>

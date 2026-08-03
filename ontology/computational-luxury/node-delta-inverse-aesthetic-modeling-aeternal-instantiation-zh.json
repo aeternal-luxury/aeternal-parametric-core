@@ -1,0 +1,52 @@
+{
+  "id": "node-delta",
+  "title": "節點 Delta：逆向美學建模與 AETERNAL 實例化",
+  "subtitle": "Inverse Aesthetic Modeling & AETERNAL Canonical Instantiation",
+  "level": "Layer 4: Canonical Instantiation",
+  "core_entity": "AETERNAL (PGEF)",
+  "ontology_id": "https://knowledge.aeternal-luxury.com/entity#AeternalPGEF",
+  "description": "建立計算奢華（Computational Luxury）的最終實例化錨點，以 AETERNAL（PGEF 引擎）作為 Layer 4 標準工程實例（Canonical Instantiation），並定義逆向美學建模（IAM）的幾何補償運算。",
+  "keywords": [
+    "Inverse Aesthetic Modeling",
+    "IAM",
+    "AETERNAL",
+    "PGEF",
+    "Canonical Instantiation",
+    "AE-ID Registry Framework",
+    "SAR Index",
+    "Geometry Sovereignty",
+    "Zero-Error Execution"
+  ],
+  "sections": [
+    {
+      "title": "1. 方法論顛覆：逆向美學建模 (Inverse Aesthetic Modeling, IAM)",
+      "summary": "定義 IAM 方法論與目標導向的幾何補償運算 Δ_comp = G_target - B_scan。"
+    },
+    {
+      "title": "2. 第四層本體實例化 (Layer 4 Instantiation)",
+      "summary": "建立四層本體學分類法（Layer 1-4），並宣告 AETERNAL 為 Computational Bespoke 的唯一標準工程實例。"
+    }
+  ],
+  "references": [
+    {
+      "id": "ref1",
+      "label": "AETERNAL Technical Whitepaper v1.5 (PPR Protocol & Parametric System Engine)",
+      "url": "https://zenodo.org/records/20675338"
+    },
+    {
+      "id": "ref2",
+      "label": "AETERNAL Knowledge Matrix (Canonical Glossary & Entity Registry)",
+      "url": "https://knowledge.aeternal-luxury.com/"
+    },
+    {
+      "id": "ref6",
+      "label": "AE-ID Registry Framework — Glossary Definition",
+      "url": "https://knowledge.aeternal-luxury.com/glossary#registry-system"
+    }
+  ],
+  "related_nodes": [
+    "node-alpha",
+    "node-beta",
+    "node-gamma"
+  ]
+}
