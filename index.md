@@ -117,7 +117,13 @@ The AETERNAL framework combines algorithmic fit modeling, **Computational Patter
 
 [🌐 Website](https://aeternal-luxury.com){target="_blank" rel="noopener"} [📚 Knowledge Base](https://knowledge.aeternal-luxury.com){target="_blank" rel="noopener"} [🐙 GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core){target="_blank" rel="noopener"} [📖 GitHub Wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki){target="_blank" rel="noopener"} [▶️ YouTube](https://www.youtube.com/@aeternallux){target="_blank" rel="noopener"} [📷 Instagram](https://www.instagram.com/aeternalluxury/){target="_blank" rel="noopener"} [✍️ Medium](https://medium.com/@ExecutiveWardrobeArchitect){target="_blank" rel="noopener"}
 
-[[\[/EXECUTIVE-SUMMARY\]]{.folder-id}](https://knowledge.aeternal-luxury.com/executive-summary/index.html){.card style="border-left: 3px solid var(--gold);"}
+[[\[/ONTOLOGY\]]{.folder-id}](https://knowledge.aeternal-luxury.com/ontology/index.html){.card style="border-left: 3px solid var(--blue);"}
+
+## Computational Luxury Ontology
+
+Canonical four-node epistemological architecture mapping Computational Luxury as a deterministic subclass of Luxury Bespoke, backed by formal specs and zero-trust proofs.
+
+[ontology/index.html]{.badge} [[\[/EXECUTIVE-SUMMARY\]]{.folder-id}](https://knowledge.aeternal-luxury.com/executive-summary/executive-summary-en.html){.card style="border-left: 3px solid var(--gold);"}
 
 ## Executive Summary
 
