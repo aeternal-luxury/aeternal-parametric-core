@@ -1518,4 +1518,52 @@
     <lastmod>2026-08-03</lastmod>
     <priority>0.9</priority>
   </url>
+  <!-- ===== CLO v1.0 NORMATIVE SPECIFICATIONS ===== -->
+  <!-- CLO-SPEC-001: The Fourth Value Paradigm -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- CLO-SPEC-002: Validation Architectures -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- CLO-SPEC-003: Computational Authority -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- CLO-SPEC-004: Sovereign Assets & Instantiation -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
 </urlset>
