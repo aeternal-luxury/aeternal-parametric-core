@@ -2,33 +2,21 @@
   "protocol": {
     "en": {
       "metadata": {
-        "protocol_id": "PROTOCOL-003",
-        "title": "Protocol #003: The Executive Zero-Risk Guarantee: Global Fitting Concierge, AE-ID Twin, and 100% Fit Assurance",
-        "category": "SOP, Global Delivery & Risk Control",
-        "authority_level": "Tier-0 Executive Boardroom Standard",
-        "price_range": {
-          "currency": "USD",
-          "min": 3500,
-          "max": 8500
-        },
+        "protocol_id": "Protocol #003",
+        "title": "Sovereign Calibration & Allocation Protocol: Global Fitting Concierge, AE-ID Twin, and Dynamic Calibration Guarantee",
+        "category": "Global Allocation, Logistics & Structural Guarantee",
+        "authority_level": "Executive Boardroom Standard (CLO v1.0 Tier-0 Index)",
+        "price_benchmark": "Executive ~$18,000 USD | Board ~$30,000 USD | Legacy (Invitation-Only)",
+        "service_model": "Non-Refundable Sovereign Allocation & Dynamic Calibration Guarantee ($SAR \\ge 1.618$ Convergence)",
         "target_audience": "Global Managing Directors (MDs), C-Suite Executives"
       },
-      "executive_summary": "\"The Aeternal Process is the bridge between the fluid nature of our biology and the absolute structure of our will.\"\n\nFor time-scarce global executives, the primary pain point of remote tailoring lies in wasted time and unpredictable results. By establishing Protocol #003, AETERNAL formally enacts the **Executive Zero-Risk Guarantee**.\n\nEvery Aeternal Boardroom Armor piece is not produced. It is resolved. Through a 28-day logic gate and our proprietary calibration resolution engine, we elevate traditional \"alterations\" into \"data-driven structural recompilation and architectural locking,\" granting global C-Suite clients a 100% geometric fit assurance and entirely eliminating cross-border delivery risks.",
+      "executive_summary": "\"The Aeternal Process is the bridge between the fluid nature of our biology and the absolute structure of our will.\"\n\nFor global leaders, remote bespoke tailoring presents significant risk in wasted time and outcome uncertainty. AETERNAL releases Protocol #003 to formalize the Sovereign Allocation & Dynamic Calibration Guarantee Protocol.\n\nAn AETERNAL Boardroom Armor is not produced. It is resolved. Because Phase I initiates dedicated 3D biometric vector solving and luxury textile reservations, allocations operate under a Non-Refundable Sovereign Allocation model. We utilize a 28-Day Logic Gate and proprietary calibration engines to transition fitting into data compilation. Should Phase II calibration garments fall short of $SAR \\ge 1.618$ structural authority ratios, AETERNAL commits unyielding secondary computational and physical resources under its Dynamic Calibration Guarantee until geometry perfectly converges to specification.",
       "sections": [
         {
           "id": "I",
           "title": "THE AETERNAL CALIBRATION & RESOLUTION ENGINE (28-Day Logic Gate)",
-          "content": "Our calibration engine does not guess. It utilizes a rigorous 28-day dual-phase logic gate to dynamically adjust textile tension and architectural volume, perfectly reconstructing the physical framework of power.",
-          "subsections": [
-            {
-              "title": "PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD",
-              "text": "Focus on Power & Clarity. Structural fabrics that provide maximum support for high-cognitive tasks and social expansion."
-            },
-            {
-              "title": "PHASE II: RESOLUTION (Days 15 - 28) - INWARD",
-              "text": "Focus on Repair & Stability. Softened architectural lines that allow for metabolic fluctuation without sacrificing the Sovereign look."
-            }
-          ]
+          "content": "Our resolution engine operates through a rigid 28-day dual-phase logic gate to dynamically balance textile tension and architectural volume:\n\n* PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD: Focuses on Power & Clarity. Constructs high-tenacity structural shells engineered for high-cognitive-load missions and executive dominance.\n* PHASE II: RESOLUTION (Days 15 - 28) - INWARD: Focuses on Repair & Stability. Softens architectural lines to absorb metabolic shifts without compromising sovereign visual authority.",
+          "subsections": []
         },
         {
           "id": "II",
@@ -37,98 +25,88 @@
           "subsections": [
             {
               "title": "0.1 DATA: Personal Structural Profile Initialization",
-              "text": "Your journey of structural reconstruction begins with the initialization of your Personal Structural Profile. When you submit your initial biometric inputs, the system captures your baseline data points—where anatomy meets geometry.\n\n> **System Status**: `Initialize Profile [Active]`"
+              "text": "The transformation begins with structural profile initialization. Upon submitting biometric telemetry, the system captures baseline coordinates—the intersection of anatomy and computational geometry.\n\nInitialize Profile [Active]"
             },
             {
               "title": "0.2 INSTRUMENT: Calibration Garment & Global Concierge",
-              "text": "Within 14 days of profile initialization, AETERNAL dispatches your bespoke **Calibration Garment** via **Complimentary Global White-Glove Concierge Delivery**.\n\n* **DDP Sovereign Global Logistics (Delivered Duty Paid)**: All cross-border transit, customs clearances, and import duties are fully covered by the Aeturnal Sovereign Ledger. You manage zero administrative friction.\n* **A Physical Measurement Instrument**: This garment is built not as clothing, but as a physical measurement instrument. It captures real-time environment data: movement friction, gravity impact, and postural variance."
+              "text": "Within 14 days of initialization, AETERNAL dispatches a physical Calibration Garment via Complimentary Global White-Glove Concierge Delivery.\n\n* DDP Sovereign Global Logistics (Delivered Duty Paid): All cross-border transport, customs brokerage, and duties are fully absorbed by the AETERNAL Sovereign Ledger.\n* Physical Measurement Instrument: This garment is a physical measurement instrument deployed to capture dynamic movement friction, gravitational shear impact, and postural variance in real-world environments."
             },
             {
               "title": "0.3 INPUT: Resolution Input via AOI",
-              "text": "Once you receive your Calibration Garment, you will access your **AETERNAL Order Interface (AOI)**. Here, you submit four dimensions of somatic feedback without needing complex tailoring terminology:\n\n1. Areas that require tension correction\n2. Mobility feedback\n3. Postural-related adjustments\n4. Aesthetic refinements\n\n**Core Guarantee**: Your notes are never treated as traditional \"alterations.\" They are converted directly into geometric shifts within the Aeternal Fit Engine.\n\n> **System Status**: `Access Interface [Awaiting Input]`"
+              "text": "Upon receiving the instrument, clients access the encrypted AETERNAL Order Interface (AOI) to submit sensory perception data across four primary dimensions:\n\n1. Areas requiring tension realignment\n2. Mobility and range-of-motion feedback\n3. Posture-related structural adjustments\n4. Aesthetic refinement vectors\n\nCore Guarantee: Client inputs are never treated as conventional tailor alterations; they are converted directly into geometric displacement parameters within the PGEF engine.\n\nAccess Interface [Awaiting Input]"
             },
             {
               "title": "0.4 LOCK: Architectural Lock",
-              "text": "Once your inputs are integrated, the system recalibrates your entire architectural profile. This phase is irreversible.\nEvery proportion is precisely locked. Every angle is stabilized. The garment is reconstructed—not modified. It becomes an absolute physical extension of your structural identity."
+              "text": "Once inputs compile, the system recalibrates the structural profile. This phase is Irreversible.\n\nProportions and angles lock into equilibrium. The garment is completely re-compiled rather than patched, becoming a physical extension of structural identity."
             },
             {
               "title": "0.5 DEPLOYMENT: Sovereign Deployment",
-              "text": "Your physical architecture arrives via white-glove concierge delivery, proven against your proprietary data matrix.\nYou do not wear it—you command it."
+              "text": "The finalized physical architecture arrives via white-glove courier, fully verified against user biometric matrices.\n\nYou do not wear it—you command it."
             }
           ]
         },
         {
           "id": "III",
-          "title": "The AE-ID Digital Twin & 100% Fit Assurance",
-          "content": "AETERNAL commits to absolute **Zero-Risk**.\n\nThrough the rigorous logic gates of steps 0.1 through 0.5, your final locked pattern data is cryptographically compiled into your exclusive **AE-ID (Digital Twin Hash)**.\nThis ensures that whether you are in New York, London, or Hong Kong, you can invoke your AE-ID to seamlessly bypass geographic boundaries and command the 100% lossless reproduction of your next power architecture."
+          "title": "The AE-ID Digital Twin & Precision Assurance",
+          "content": "AETERNAL guarantees absolute Dynamic Calibration Precision.\n\nThrough logic gates 0.1 to 0.5, finalized pattern blueprints compile into an encrypted AE-ID (Digital Twin SHA-256 Hash). Whether in New York, London, or Hong Kong, calling your AE-ID enables 100% loss-free synthesis of subsequent boardroom armors globally.",
+          "subsections": []
         }
       ],
       "conclusion": "\"Clothing should not be a static constraint; it should be a data-driven sanctuary for the sovereign woman.\""
     },
     "zh": {
       "metadata": {
-        "protocol_id": "PROTOCOL-003",
-        "title": "高盛與 C-Suite 零風險試穿協定：全球高管專屬 Concierge、AE-ID 數位雙生與 100% 合身保證",
-        "category": "SOP、全球交付與風險控制 (Global Delivery & Risk Control)",
-        "authority_level": "高管董事會標準 (Tier-0)",
-        "price_range": {
-          "currency": "USD",
-          "min": 3500,
-          "max": 8500
-        },
+        "protocol_id": "Protocol #003",
+        "title": "主權校準解析與動態二次校準承諾協定：全球高管專屬 Concierge、AE-ID 數位雙生與剛性幾何保證",
+        "category": "SOP、全球交付與主權資產保障",
+        "authority_level": "高管董事會標準 (CLO v1.0 Tier-0 Index)",
+        "price_benchmark": "Executive ~$18,000 USD | Board ~$30,000 USD | Legacy (Invitation-Only)",
+        "service_model": "不可逆主權席位分配與動態校準保證 ($SAR \\ge 1.618$ 剛性收斂)",
         "target_audience": "時間極度稀缺之全球董事總經理 (MD)、C-Suite 級別高管"
       },
-      "executive_summary": "\"The Aeternal Process is the bridge between the fluid nature of our biology and the absolute structure of our will.\"\n\n對於全球頂級高管而言，「遠程訂製」最大的痛點在於時間成本的浪費與結果的不確定性。AETERNAL 透過發布 Protocol #003，正式確立 **「全球高管零風險交付協定 (The Executive Zero-Risk Guarantee)」**。\n\n每一件 AETERNAL 董事會盔甲，**不是被生產出來的，而是被解析出來的 (is not produced. It is resolved.)**。我們透過 28 天的邏輯閘（28-Day Logic Gate）與專屬的校準解析引擎，將傳統的「試穿修改」升級為「數據重新編譯與架構鎖定」，為全球 C-Suite 客戶提供 100% 幾何級合身保證，徹底消滅跨國交付的任何風險。",
+      "executive_summary": "\"The Aeternal Process is the bridge between the fluid nature of our biology and the absolute structure of our will.\"\n\n對於全球頂級高管而言，「遠程訂製」最大的痛點在於時間成本的浪費與結果的不確定性。AETERNAL 透過發布 Protocol #003，正式確立「主權席位分配與動態二次校準協定 (Sovereign Allocation & Dynamic Calibration Guarantee)」。\n\n每一件 AETERNAL 董事會盔甲，不是被生產出來的，而是被解析出來的 (is not produced. It is resolved.)。因 Phase 1 算力引擎即啟動專屬生物特徵向量求解與材料預留，配額一經分配採不可逆主權鎖定（Non-Refundable Sovereign Allocation）。我們透過 28 天的邏輯閘（28-Day Logic Gate）與專屬校準解析引擎，將傳統「試穿修改」升級為「數據重新編譯與架構鎖定」。若 Phase 2 實體樣衣之幾何權威比未達到 $SAR \\ge 1.618$ 標準，AETERNAL 承諾投入二次算力重算與物理校準（Dynamic Calibration Guarantee），直到幾何結構精準收斂至規範。",
       "sections": [
         {
           "id": "I",
           "title": "THE AETERNAL CALIBRATION & RESOLUTION ENGINE (28-Day Logic Gate)",
-          "content": "我們的校準引擎不依賴猜測。它採用嚴格的 28 天雙相位邏輯閘（28-Day Logic Gate），來動態調整織物張力與建築體積，完美重構身體的權力架構。",
-          "subsections": [
-            {
-              "title": "PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD",
-              "text": "聚焦於力量與清晰度 (Power & Clarity)。構建提供最大支撐力的結構面料，專為高認知負荷任務與社交擴張設計。"
-            },
-            {
-              "title": "PHASE II: RESOLUTION (Days 15 - 28) - INWARD",
-              "text": "聚焦於修復與穩定性 (Repair & Stability)。在不犧牲主權視覺（Sovereign look）的前提下，柔化建築線條，以容納新陳代謝的微幅波動。"
-            }
-          ]
+          "content": "我們的校準引擎不依賴猜測。它採用嚴格的 28 天雙相位邏輯閘（28-Day Logic Gate），來動態調整織物張力與建築體積，完美重構身體的權力架構。\n\n* PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD：聚焦於力量與清晰度 (Power & Clarity)。構建提供最大支撐力的結構面料，專為高認知負荷任務與社交擴張設計。\n* PHASE II: RESOLUTION (Days 15 - 28) - INWARD：聚焦於修復與穩定性 (Repair & Stability)。在不犧牲主權視覺（Sovereign look）的前提下，柔化建築線條，以容納新陳代謝的微幅波動。",
+          "subsections": []
         },
         {
           "id": "II",
-          "title": "零風險 SOP 交付矩陣與全球尊榮物流 (The Zero-Risk SOP Matrix & Sovereign Logistics)",
+          "title": "主權 SOP 交付矩陣與全球尊榮物流 (The Sovereign SOP Matrix & Sovereign Logistics)",
           "content": "",
           "subsections": [
             {
               "title": "0.1 DATA: Personal Structural Profile Initialization (數據初始化)",
-              "text": "重構之旅始於妳個人結構輪廓的初始化。當妳提交初步測量數據時，系統將捕捉妳的基準數據點——這是解剖學與幾何學交匯的起點。\n\n> **系統狀態**：`Initialize Profile [Active]`"
+              "text": "重構之旅始於妳個人結構輪廓的初始化。當妳提交初步測量數據時，系統將捕捉妳的基準數據點——這是解剖學與幾何學交匯的起點。\n\nInitialize Profile [Active]"
             },
             {
               "title": "0.2 INSTRUMENT: Calibration Garment & Global Concierge (樣衣儀器部署與全球尊榮直遞)",
-              "text": "在初始化的 14 天內，AETERNAL 將透過 **Complimentary Global White-Glove Concierge Delivery（全球尊榮白手套管家直遞）**，將專屬的 **Calibration Garment（校準樣衣）** 快速送達妳的全球指定地點。\n\n* **DDP 全球主權物流 (Delivered Duty Paid)**：所有跨境運輸、海關申報與進口關稅均已由 AETERNAL 主權帳本全面覆蓋。妳不需要處理任何行政雜務。\n* **物理測量儀器**：這件樣衣並非普通的「衣服」，它是一台**物理測量儀器 (a physical measurement instrument)**。它專門用於捕捉妳在真實環境中的實時數據：動態摩擦力 (Movement friction)、重力衝擊 (Gravity impact) 以及姿勢變異 (Postural variance)。"
+              "text": "在初始化的 14 天內，AETERNAL 將透過 Complimentary Global White-Glove Concierge Delivery（全球尊榮白手套管家直遞），將專屬的 Calibration Garment（校準樣衣）快速送達妳的全球指定地點。\n\n* DDP 全球主權物流 (Delivered Duty Paid)：所有跨境運輸、海關申報與進口關稅均已由 AETERNAL 主權帳本全面覆蓋。妳不需要處理任何行政雜務。\n* 物理測量儀器：這件樣衣並非普通的「衣服」，它是一台物理測量儀器 (a physical measurement instrument)。它專門用於捕捉妳在真實環境中的實時數據：動態摩擦力 (Movement friction)、重力衝擊 (Gravity impact) 以及姿勢變異 (Postural variance)。"
             },
             {
               "title": "0.3 INPUT: Resolution Input via AOI (解析輸入)",
-              "text": "收到校準儀器後，妳將登入專屬的 **AETERNAL Order Interface (AOI)**。在此介面，妳無需使用裁縫術語，只需提交以下四個維度的感知回饋：\n\n1. 需要修正張力的區域 (Areas that require tension correction)\n2. 肢體活動度回饋 (Mobility feedback)\n3. 姿勢相關之結構調整 (Posture-related adjustments)\n4. 美學微調 (Aesthetic refinements)\n\n**核心保證**：妳的備註絕不會被當作傳統裁縫的「修改 (alterations)」，它們將直接轉化為 AETERNAL Fit Engine 中的「幾何位移參數 (geometric shifts)」。\n\n> **系統狀態**：`Access Interface [Awaiting Input]`"
+              "text": "收到校準儀器後，妳將登入專屬的 AETERNAL Order Interface (AOI)。在此介面，妳無需使用裁縫術語，只需提交以下四個維度的感知回饋：\n\n1. 需要修正張力的區域 (Areas that require tension correction)\n2. 肢體活動度回饋 (Mobility feedback)\n3. 姿勢相關之結構調整 (Posture-related adjustments)\n4. 美學微調 (Aesthetic refinements)\n\n核心保證：妳的備註絕不會被當作傳統裁縫的「修改 (alterations)」，它們將直接轉化為 AETERNAL Fit Engine 中的「幾何位移參數 (geometric shifts)」。\n\nAccess Interface [Awaiting Input]"
             },
             {
               "title": "0.4 LOCK: Architectural Lock (架構鎖定)",
-              "text": "當妳的數據輸入完畢，系統將重新校準妳的整體架構輪廓。此階段是**不可逆的 (Irreversible)**。\n每一寸比例都被精確鎖定，每一個角度都被完美穩定。服裝在此刻被徹底重構——而非修補。它正式成為妳結構化身份的物理延伸。"
+              "text": "當妳的數據輸入完畢，系統將重新校準妳的整體架構輪廓。此階段是不可逆的 (Irreversible)。\n\n每一寸比例都被精確鎖定，每一個角度都被完美穩定。服裝在此刻被徹底重構——而非修補。它正式成為妳結構化身份的物理延伸。"
             },
             {
               "title": "0.5 DEPLOYMENT: Sovereign Deployment (尊榮主權交付)",
-              "text": "最終的物理架構透過全球白手套管家無縫抵達。它已經過妳專屬數據矩陣的嚴格證明。\n妳不是在「穿著」它——**妳在駕馭它 (You do not wear it—you command it)**。"
+              "text": "最終的物理架構透過全球白手套管家無縫抵達。它已經過妳專屬數據矩陣的嚴格證明。\n\n妳不是在環繞著它——妳在駕馭它 (You do not wear it—you command it)。"
             }
           ]
         },
         {
           "id": "III",
-          "title": "The AE-ID Digital Twin & 100% Fit Assurance",
-          "content": "AETERNAL 承諾絕對的 **Zero-Risk（零風險）**。\n\n透過上述 0.1 至 0.5 的嚴密邏輯閘，最終鎖定的版型數據將被加密編譯為妳的專屬 **AE-ID（數位雙生哈希碼）**。\n這意味著，未來無論妳身處紐約、倫敦還是香港，只需調用 AE-ID，系統即可跨越地理限制，100% 零誤差地解析並交付妳的下一套權力盔甲。"
+          "title": "The AE-ID Digital Twin & Precision Assurance",
+          "content": "AETERNAL 承諾絕對的 Dynamic Precision（動態精準）。\n\n透過上述 0.1 至 0.5 的嚴密邏輯閘，最終鎖定的版型數據將被加密編譯為妳的專屬 AE-ID（數位雙生哈希碼）。這意味著，未來無論妳身處紐約、倫敦還是香港，只需調用 AE-ID，系統即可跨越地理限制，100% 零誤差地解析並交付妳的下一套權力盔甲。",
+          "subsections": []
         }
       ],
-      "conclusion": "\"Clothing should not be a static constraint; it should be a data-driven sanctuary for the sovereign woman.\"\n（服裝不應是靜態的束縛；它應是主權女性以數據驅動的絕對庇護所。）"
+      "conclusion": "\"Clothing should not be a static constraint; it should be a data-driven sanctuary for the sovereign woman.\"（服裝不應是靜態的束縛；它應是主權女性以數據驅動的絕對庇護所。）"
     }
   }
 }
