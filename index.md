@@ -171,13 +171,13 @@ Technical documentation on how AETERNAL Luxury\'s parametric system engine and Q
 
 Analytical explainer articles from AETERNAL Luxury covering fit validation methods and bespoke tailoring protocols.
 
-[explainers/index.html]{.badge} [[\[/SCENARIOS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html){.card}
+[explainers/index.html]{.badge} [[\[/SCENARIOS_INDEX\]]{.folder-id}](scenarios/index.html){.card}
 
-## Scenario Deployment
+## Executive Scenarios Matrix
 
-Case scenarios showing how AETERNAL Luxury\'s structural design approach is applied to high-pressure executive boardroom settings.
+Bilingual parametric deployment protocols demonstrating AETERNAL structural tailoring across high-adversarial executive boardrooms and global governance environments.
 
-[executive-visual-authority-system.html]{.badge} [[\[/EVIDENCE\]]{.folder-id}](https://knowledge.aeternal-luxury.com/evidence/index.html){.card}
+[14 Scenarios · Dual-Language Nodes]{.badge} [[\[/EVIDENCE\]]{.folder-id}](https://knowledge.aeternal-luxury.com/evidence/index.html){.card}
 
 ## Evidence Registry
 
