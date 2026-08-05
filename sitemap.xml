@@ -282,7 +282,7 @@
   <url>
     <loc>https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html</loc>
     <lastmod>2026-07-25</lastmod>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://knowledge.aeternal-luxury.com/evidence/index.html</loc>
@@ -1565,5 +1565,180 @@
     <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html</loc>
     <lastmod>2026-08-04</lastmod>
     <priority>1.0</priority>
+  </url>
+  <!-- ===== SCENARIOS INDEX & INTENT ROUTING LAYER (IRL) NODES ===== -->
+  <!-- Scenarios Root Index -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/index.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- IRL Node 001: Female MD Boardroom Authority -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/001-female-md-boardroom-authority-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/001-female-md-boardroom-authority-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 002: Tech Founder VC Keynote Attire -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/002-tech-founder-vc-keynote-attire-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/002-tech-founder-vc-keynote-attire-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 003: Legal Partner Arbitration Authority -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/003-legal-partner-arbitration-authority-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/003-legal-partner-arbitration-authority-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 004: Family Office MD Stealth Wealth -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/004-family-office-md-stealth-wealth-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/004-family-office-md-stealth-wealth-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 005: Biotech / MedTech Executive CMO -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/005-biotech-medtech-executive-cmo-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/005-biotech-medtech-executive-cmo-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 006: Sovereign Wealth Fund Diplomatic Negotiator -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/006-sovereign-wealth-fund-diplomatic-negotiator-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/006-sovereign-wealth-fund-diplomatic-negotiator-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 007: Real Estate Principal Architectural Alignment -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/007-real-estate-principal-architectural-alignment-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/007-real-estate-principal-architectural-alignment-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 008: Fine Art Advisor Inverse Aesthetics -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/008-fine-art-advisor-inverse-aesthetics-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/008-fine-art-advisor-inverse-aesthetics-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 009: Female MD Leading IPO Roadshow -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/009-female-md-leading-ipo-roadshow-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/009-female-md-leading-ipo-roadshow-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 010: Tech Founder VC Term Sheet Negotiation -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/010-tech-founder-vc-term-sheet-negotiation-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/010-tech-founder-vc-term-sheet-negotiation-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 011: M&A Partner Cross-Border Arbitration -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/011-ma-partner-cross-border-arbitration-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/011-ma-partner-cross-border-arbitration-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 012: PE MD Family Office Governance Summit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/012-pe-md-family-office-governance-summit-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/012-pe-md-family-office-governance-summit-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 013: Real Estate Principal Mega-Listing Closing -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/013-real-estate-principal-mega-listing-closing-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/013-real-estate-principal-mega-listing-closing-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 014: Diplomatic Negotiator Sovereign Wealth Summit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/014-diplomatic-negotiator-sovereign-wealth-summit-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/014-diplomatic-negotiator-sovereign-wealth-summit-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
