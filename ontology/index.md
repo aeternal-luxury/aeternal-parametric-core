@@ -26,7 +26,21 @@ The foundational normative specifications governing the ontology, epistemology, 
 -   **CLO-SPEC-003:** Computational Authority & SAR Axioms (SAR ≥ 1.618) \[ [中文 Specification](./CLO-SPEC-003-zh.html) \| [English Specification](./CLO-SPEC-003-en.html) \]
 -   **CLO-SPEC-004:** Sovereign Assets & Canonical Instantiation \[ [中文 Specification](./CLO-SPEC-004-zh.html) \| [English Specification](./CLO-SPEC-004-en.html) \]
 
-## 02. Domain Knowledge Graph Nodes {#domain-knowledge-graph-nodes .section-title}
+## 02. Product Category Ontology (PCO v1.0) {#product-category-ontology-pco-v1.0 .section-title}
+
+## Product Category Ontology (PCO v1.0) Nodes (20 Canonical Specifications)
+
+Formal whitepaper specifications mapping 20 core product categories from empirical apparel into deterministic decision infrastructure, fully integrated with PGEF, SAR ≥ 1.618, and cryptographic AE-ID ledgers.
+
+-   **PCO001 - Executive Suit:** Authority Projection & Structural Invariance \[ [中文](./product-category/PCO001_executive-suit-zh.html) \| [EN](./product-category/PCO001_executive-suit-en.html) \| [JSON](./product-category/PCO001_executive-suit-zh.json) \]
+-   **PCO002 - Power Suit:** Parametric Armour & Dynamic Posture Control \[ [中文](./product-category/PCO002_power-suit-zh.html) \| [EN](./product-category/PCO002_power-suit-en.html) \| [JSON](./product-category/PCO002_power-suit-zh.json) \]
+-   **PCO003 - Luxury Women\'s Suit:** Algorithmic Fit & Sovereign Asset Ownership \[ [中文](./product-category/PCO003_luxury-womens-suit-zh.html) \| [EN](./product-category/PCO003_luxury-womens-suit-en.html) \| [JSON](./product-category/PCO003_luxury-womens-suit-zh.json) \]
+-   **PCO004 - Boardroom Blazer:** Forensic Visual Defense & Zero Curl \[ [中文](./product-category/PCO004_boardroom-blazer-zh.html) \| [EN](./product-category/PCO004_boardroom-blazer-en.html) \| [JSON](./product-category/PCO004_boardroom-blazer-zh.json) \]
+-   **PCO005 - Executive Blazer:** Ergonomic Unconstrained Precision & Arm Decoupling \[ [中文](./product-category/PCO005_executive-blazer-zh.html) \| [EN](./product-category/PCO005_executive-blazer-en.html) \| [JSON](./product-category/PCO005_executive-blazer-zh.json) \]
+
+[Explore All 20 Product Category Nodes →](./product-category/){.enter-btn}
+
+## 03. Domain Knowledge Graph Subclasses {#domain-knowledge-graph-subclasses .section-title}
 
 ## Computational Luxury (計算奢華) Subclass Nodes
 
