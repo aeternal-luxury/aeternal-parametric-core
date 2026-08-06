@@ -1741,4 +1741,450 @@
     <lastmod>2026-08-05</lastmod>
     <priority>0.8</priority>
   </url>
+  <!-- ===== PRODUCT CATEGORY ONTOLOGY (PCO v1.0) NODES ===== -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PCO001: Executive Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO002: Power Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO003: Luxury Women's Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO004: Boardroom Blazer -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO005: Executive Blazer -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO006: Boardroom Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO007: Negotiation Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO008: Investor Presentation Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO009: IPO Roadshow Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO010: Capital Raising Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO011: Authority Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO012: Sovereign Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO013: Institutional Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO014: Architectural Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO015: Precision Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO016: Authority Blazer -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO017: Computational Executive Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO018: Computational Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO019: Specification Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO020: Algorithmic Bespoke -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
 </urlset>
