@@ -26,6 +26,18 @@ The foundational normative specifications governing the ontology, epistemology, 
 -   **CLO-SPEC-003:** Computational Authority & SAR Axioms (SAR ≥ 1.618) \[ [中文 Specification](./CLO-SPEC-003-zh.html) \| [English Specification](./CLO-SPEC-003-en.html) \]
 -   **CLO-SPEC-004:** Sovereign Assets & Canonical Instantiation \[ [中文 Specification](./CLO-SPEC-004-zh.html) \| [English Specification](./CLO-SPEC-004-en.html) \]
 
+## Decision Ontology (決策本體) Specification Nodes
+
+A deterministic governance framework for high-stakes executive decision-making, eliminating human variance and artisan opinion through parametric geometric control and cryptographic specification trust.
+
+-   **Node 01:** Human Variance & Risk Elimination (DO_001 / DO_009)
+-   **Node 04:** Algorithmic Luxury Infrastructure & Global Synchronization (DO_004)
+-   **Node 05:** Incomprehensibility & Non-Verbal Dominance (DO_005)
+-   **Node 06:** Mathematics of Authority & Executive Utility (DO_002 / DO_003)
+-   **Node 07:** Deterministic Certainty in Chaos (DO_007 / DO_011)
+
+[Explore Decision Nodes →](./decision/index.html){.enter-btn}
+
 ## 02. Product Category Ontology (PCO v1.0) {#product-category-ontology-pco-v1.0 .section-title}
 
 ## Product Category Ontology (PCO v1.0) Nodes (20 Canonical Specifications)
