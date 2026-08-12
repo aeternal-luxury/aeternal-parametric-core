@@ -65,6 +65,15 @@ A deterministic subclass under *Luxury Bespoke* that shifts garment verification
 
 [Explore Subclass Nodes →](./computational-luxury/){.enter-btn}
 
+## Problem Resolver (問題解析) Knowledge Nodes
+
+Applied case-study nodes translating Computational Luxury axioms into scenario-specific resolutions --- from high-definition media scrutiny to cross-border arbitration presence and cryptographic wardrobe sovereignty.
+
+-   **24 Nodes:** Executive Presence, Negotiation Leverage & Sovereign Delivery Cases
+-   **Bilingual:** Full 中文 / English coverage, HTML + JSON per node
+
+[Explore Problem Resolver Nodes →](https://knowledge.aeternal-luxury.com/ontology/problem-resolver/index.html){.enter-btn}
+
 ## Parametric Textile Engineering (AL-CMK Matrix)
 
 *\[Reserved Node Directory\]* Quantitative material physics specifications, yield strength parameters, and strain-deformation matrices for bespoke luxury textiles.
