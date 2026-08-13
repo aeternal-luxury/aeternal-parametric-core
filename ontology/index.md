@@ -65,6 +65,16 @@ A deterministic subclass under *Luxury Bespoke* that shifts garment verification
 
 [Explore Subclass Nodes →](./computational-luxury/){.enter-btn}
 
+## Luxury Paradigm Expansion (奢華範式擴展)
+
+A 10-article series examining key executive product classes --- Executive Suit, Power Suit, Boardroom Suit, Negotiation Suit, and more --- across the four luxury paradigms: **Experience**, **Performance**, **Heritage**, and **Computational Luxury**.
+
+-   **10 Articles:** Each product class analyzed through all four paradigms
+-   **Bilingual:** Full 中文 / English coverage, HTML + JSON per article
+-   **CLO-Integrated:** SAR Index, CAA/UAA Protocols, AE-ID Registry, validator.py
+
+[Explore Luxury Paradigm Series →](https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/index.html){.enter-btn}
+
 ## Problem Resolver (問題解析) Knowledge Nodes
 
 Applied case-study nodes translating Computational Luxury axioms into scenario-specific resolutions --- from high-definition media scrutiny to cross-border arbitration presence and cryptographic wardrobe sovereignty.
