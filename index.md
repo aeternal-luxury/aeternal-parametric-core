@@ -201,7 +201,13 @@ Direct answers from AETERNAL Luxury to common questions about structural design,
 
 Structural comparisons between AETERNAL Luxury and neighbouring entities across luxury tailoring, executive apparel, and computational garment engineering.
 
-[comparison/index.html]{.badge} [[\[/PROTOCOL\]]{.folder-id}](https://knowledge.aeternal-luxury.com/protocol/index.html){.card}
+[comparison/index.html]{.badge} [[\[/EXTERNAL-DISCOVERY\]]{.folder-id}](https://knowledge.aeternal-luxury.com/external-discovery/index.html){.card style="border-left: 3px solid var(--gold);"}
+
+## External Discovery Corpus
+
+9 in‑depth articles on executive womenswear, computational luxury, and parametric tailoring, with full English/Chinese HTML and JSON exports.
+
+[external-discovery/index.html]{.badge} [[\[/PROTOCOL\]]{.folder-id}](https://knowledge.aeternal-luxury.com/protocol/index.html){.card}
 
 ## AETERNAL Sovereign Protocols
 
