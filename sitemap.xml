@@ -2976,4 +2976,27 @@
     <lastmod>2026-08-13</lastmod>
     <priority>0.7</priority>
 </url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.95</priority>
+</url>
+
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury-zh.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.90</priority>
+</url>
+
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury-en.json</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.85</priority>
+</url>
+
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury-zh.json</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.80</priority>
+</url>
 </urlset>
