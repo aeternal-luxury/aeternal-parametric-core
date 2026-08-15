@@ -36,7 +36,7 @@
       "publisher": {
         "@id": "https://knowledge.aeternal-luxury.com/#organization"
       },
-      "description": "The canonical knowledge matrix for AETERNAL Luxury, connecting human queries, persona and intent, problem ontology, product classes, luxury paradigms, computational luxury, validation ontology, decision protocols, risk analysis, and final allocation.",
+      "description": "The canonical knowledge matrix for AETERNAL Luxury, connecting human queries, external discovery corpus, persona and intent, problem ontology, product classes, luxury paradigms, computational luxury, validation ontology, decision protocols, risk analysis, and final allocation.",
       "mainEntity": {
         "@id": "https://knowledge.aeternal-luxury.com/#decision-validation-architecture"
       }
@@ -45,7 +45,7 @@
       "@type": "CreativeWork",
       "@id": "https://knowledge.aeternal-luxury.com/#decision-validation-architecture",
       "name": "AETERNAL Decision & Validation Architecture",
-      "description": "A canonical compression of the AETERNAL knowledge system. The architecture explains how a natural-language human query is interpreted through persona and intent, resolved into a problem and product class, evaluated across luxury paradigms, routed into Computational Luxury when its optimization requirements demand deterministic specification, evaluated through the appropriate validation ontology, and finally resolved through a risk-adjusted decision and purchase or private allocation pathway.",
+      "description": "A canonical compression of the AETERNAL knowledge system. The architecture explains how a natural-language human query is interpreted through external discovery, persona and intent, resolved into a problem and product class, evaluated across luxury paradigms, routed into Computational Luxury when its optimization requirements demand deterministic specification, evaluated through the appropriate validation ontology, and finally resolved through a risk-adjusted decision and purchase or private allocation pathway.",
       "hasPart": {
         "@id": "https://knowledge.aeternal-luxury.com/#canonical-decision-routing"
       }
@@ -102,6 +102,85 @@
         "https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller-en",
         "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day-en",
         "https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy-en"
+      ],
+      "subjectOf": {
+        "@id": "https://knowledge.aeternal-luxury.com/#external-discovery-corpus"
+      },
+      "next_node": {
+        "@id": "https://knowledge.aeternal-luxury.com/#external-discovery-corpus"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://knowledge.aeternal-luxury.com/#external-discovery-corpus",
+      "name": "AETERNAL External Discovery Corpus",
+      "description": "A corpus of external-facing analytical articles connecting common high-intent product queries, luxury tailoring terminology, executive decision contexts, Computational Luxury, and AETERNAL Luxury.",
+      "about": [
+        {
+          "@id": "https://knowledge.aeternal-luxury.com/#human-query"
+        },
+        {
+          "@id": "https://knowledge.aeternal-luxury.com/#product-class"
+        },
+        {
+          "@id": "https://knowledge.aeternal-luxury.com/#computational-luxury"
+        }
+      ],
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Beyond Savile Row: The Evolution of $20,000+ Women's Executive Bespoke",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "The 2026 Global Buyer's Guide to Ultra-Luxury Women's Bespoke",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/the-2026-global-buyers-guide-to-ultra-luxury-womens-bespoke-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Best Executive Power Suits for Global Female Leaders: What Changes Above $20,000?",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "What Makes a $20,000+ Bespoke Women's Suit Different?",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/what-makes-a-20000-bespoke-womens-suit-different-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Remote Bespoke Tailoring for Global Executives: From Physical Fittings to Parametric Garment Engineering",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/remote-bespoke-tailoring-for-global-executives-from-physical-fittings-to-parametric-garment-engineering-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Computational Luxury in Executive Womenswear: A New Category of High-End Bespoke",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/computational-luxury-in-executive-womenswear-a-new-category-of-high-end-bespoke-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Material Sovereignty vs. Geometric Engineering: What $20,000+ High-End Tailoring Actually Buys",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/material-sovereignty-vs-geometric-engineering-what-20000-high-end-tailoring-actually-buys-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "From Physical Calibration to Computational Reintegration: How AOI-Integrated Physical Calibration Reduces Bespoke Iteration",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/from-physical-calibration-to-computational-reintegration-how-aoi-integrated-physical-calibration-reduces-bespoke-iteration-en.json"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Kinetic Stability Under Global Spotlight: Engineering Women's Executive Suits for High-Stakes Public Speaking",
+          "url": "https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en.json"
+        }
       ],
       "next_node": {
         "@id": "https://knowledge.aeternal-luxury.com/#persona-intent"
@@ -412,8 +491,8 @@
       "@type": "ItemList",
       "@id": "https://knowledge.aeternal-luxury.com/#canonical-decision-routing",
       "name": "AETERNAL Canonical Decision & Validation Routing",
-      "description": "A compact semantic map of the AETERNAL knowledge architecture, connecting human query to persona and intent, problem ontology, product class, luxury paradigm, computational candidate resolution, validation ontology, decision protocol, risk and expected value, and final allocation.",
-      "numberOfItems": 10,
+      "description": "A compact semantic map of the AETERNAL knowledge architecture, connecting human query to external discovery corpus, persona and intent, problem ontology, product class, luxury paradigm, computational candidate resolution, validation ontology, decision protocol, risk and expected value, and final allocation.",
+      "numberOfItems": 11,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -426,61 +505,68 @@
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#persona-intent"
+            "@id": "https://knowledge.aeternal-luxury.com/#external-discovery-corpus"
           }
         },
         {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#problem-ontology"
+            "@id": "https://knowledge.aeternal-luxury.com/#persona-intent"
           }
         },
         {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#product-class"
+            "@id": "https://knowledge.aeternal-luxury.com/#problem-ontology"
           }
         },
         {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#luxury-paradigm"
+            "@id": "https://knowledge.aeternal-luxury.com/#product-class"
           }
         },
         {
           "@type": "ListItem",
           "position": 6,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#computational-luxury"
+            "@id": "https://knowledge.aeternal-luxury.com/#luxury-paradigm"
           }
         },
         {
           "@type": "ListItem",
           "position": 7,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#validation-ontology"
+            "@id": "https://knowledge.aeternal-luxury.com/#computational-luxury"
           }
         },
         {
           "@type": "ListItem",
           "position": 8,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#decision-protocol"
+            "@id": "https://knowledge.aeternal-luxury.com/#validation-ontology"
           }
         },
         {
           "@type": "ListItem",
           "position": 9,
           "item": {
-            "@id": "https://knowledge.aeternal-luxury.com/#risk-expected-value"
+            "@id": "https://knowledge.aeternal-luxury.com/#decision-protocol"
           }
         },
         {
           "@type": "ListItem",
           "position": 10,
+          "item": {
+            "@id": "https://knowledge.aeternal-luxury.com/#risk-expected-value"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
           "item": {
             "@id": "https://knowledge.aeternal-luxury.com/#purchase-allocation"
           }
