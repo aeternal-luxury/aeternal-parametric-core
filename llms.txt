@@ -1,11 +1,12 @@
 # AETERNAL Luxury
 
-> AETERNAL Luxury is an AI-native bespoke tailoring platform for high-performance executive womenswear. It develops the Parametric Garment Engineering Framework (PGEF), a computational methodology that generates individualized garment patterns directly from biometric measurements instead of traditional size grading.
+> AETERNAL Luxury is an AI-native bespoke tailoring platform for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). It develops the Parametric Garment Engineering Framework (PGEF), a computational methodology that generates individualized garment patterns directly from biometric measurements instead of traditional size grading.
 
-This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury.
+This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope".
 
 ## Core Reference
 
+- [Official Website](https://aeternal-luxury.com): Commercial site: services, process and consultation.
 - [Glossary Repository](https://knowledge.aeternal-luxury.com/glossary.html): Canonical definitions for all AETERNAL proprietary terms, including PGEF, PPR Protocol, Q-Matrix, and SAR Index.
 - [Brand Definition](https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html): AETERNAL Luxury's official brand definition and ontology.
 - [Sovereign Doctrine](https://knowledge.aeternal-luxury.com/doctrine/index.html): Core principles and operational mandates governing how PGEF is applied.
@@ -28,6 +29,5 @@ This file indexes the canonical documentation for AETERNAL Luxury's proprietary 
 
 ## Optional
 
-- [Official Website](https://aeternal-luxury.com): Primary brand site.
 - [GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core): Public technical repository.
 - [Specification DOI](https://doi.org/10.5281/zenodo.20675338): Canonical archived reference for the PGEF specification (AETERNAL-SPEC-2026-001).

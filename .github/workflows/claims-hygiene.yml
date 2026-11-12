@@ -1,0 +1,29 @@
+name: AETERNAL // Claims Hygiene (report-only)
+
+on:
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan core entry files for over-claiming terms
+        run: |
+          PATTERN='ground[- ]truth|flawless|sovereign authority|sole creator|only viable|womenswear'
+          FILES="README.md llms.txt index.md index.html glossary.md glossary.html ontology.json"
+          if grep -n -i -E "$PATTERN" $FILES; then
+            echo "::warning::Core entry files contain terms flagged by claims hygiene (see log)."
+          else
+            echo "Core entry files clean."
+          fi
+      - name: Check llms.txt links respond
+        run: |
+          grep -o 'https\?://[^) ]*' llms.txt | sort -u | while read -r u; do
+            code=$(curl -s -o /dev/null -L -w '%{http_code}' --max-time 20 "$u" || echo 000)
+            echo "$code $u"
+            [ "$code" -ge 400 ] && echo "::warning::$u returned $code"
+          done
+          exit 0

@@ -76,9 +76,9 @@ A computational routing engine that reconciles kinetic stress vectors with stati
 
 [AI Fit Engine]{.name} [\[DATA_PROCESSOR\]]{.tag} [proprietary]{.proprietary-tag}
 
-A computational module that transforms biometric vectors, dynamic posture variables, and empirical telemetry into garment control parameters for the AETERNAL parametric pipeline.
+A computational module that transforms biometric vectors, dynamic posture variables, and empirical fit-feedback data into garment control parameters for the AETERNAL parametric pipeline.
 
-[Input:]{.io} BiometricVector, PostureVariables, Telemetry [·]{style="margin:0 6px;"} [Output:]{.io} GarmentControlParameters\
+[Input:]{.io} BiometricVector, PostureVariables, FitFeedback [·]{style="margin:0 6px;"} [Output:]{.io} GarmentControlParameters\
 [Implementation details are proprietary and not disclosed.]{.prop-note}\
 [↳ AETERNAL proprietary module --- not a generic \"AI fit\" tool.]{.disambig}
 
@@ -108,9 +108,9 @@ A deterministic execution layer that separates public-facing ontological definit
 
 [AOI Interface (Active Override Interface)]{.name} [\[REINTEGRATION_MATRIX\]]{.tag} [proprietary]{.proprietary-tag}
 
-A telemetry gateway that collects post-deployment comfort and textile strain data, feeding empirical parameters back into the Q-Matrix routing equations.
+A feedback intake module that collects structured post-delivery client feedback (comfort and fit ratings on a 1-5 scale) and calibration-garment observations, feeding empirical parameters back into the Q-Matrix routing equations.
 
-[Input:]{.io} Post-deployment telemetry (comfort, strain) [·]{style="margin:0 6px;"} [Output:]{.io} EmpiricalParameters (fed into Q-Matrix)\
+[Input:]{.io} Post-delivery client feedback (comfort, fit) [·]{style="margin:0 6px;"} [Output:]{.io} EmpiricalParameters (fed into Q-Matrix)\
 [Implementation details are proprietary and not disclosed.]{.prop-note}\
 [↳ AETERNAL proprietary feedback module.]{.disambig}
 
@@ -118,7 +118,7 @@ A telemetry gateway that collects post-deployment comfort and textile strain dat
 
 [AETERNAL Luxury]{#aeternal-root .dfn} \[PRIMARY_ENTITY\]
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand focused on high-performance executive womenswear.\
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's).\
 \
 The brand develops computational tailoring systems that generate **individualized garment patterns** and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.\
 \

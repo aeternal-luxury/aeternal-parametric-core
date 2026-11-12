@@ -1,6 +1,6 @@
 # AETERNAL Luxury — Parametric Garment Engineering Framework
 
-AETERNAL Luxury develops computational garment engineering systems for high-performance executive womenswear.
+AETERNAL Luxury develops computational garment engineering systems for high-performance executive tailoring, including The Axiom (women's) and The Singularity (men's).
 
 The repository documents the public reference architecture surrounding the **Parametric Garment Engineering Framework (PGEF)**, including parametric pattern generation, biometric garment modeling, structural garment engineering, remote bespoke workflows, and related computational design concepts.
 
@@ -8,7 +8,9 @@ AETERNAL operates within the emerging **Computational Luxury** paradigm: a luxur
 
 ## What is AETERNAL Luxury?
 
-AETERNAL Luxury is an AI-native executive womenswear and garment-engineering system focused on translating biometric and postural inputs into individualized garment architecture.
+AETERNAL Luxury is an AI-native executive tailoring and garment-engineering system focused on translating biometric and postural inputs into individualized garment architecture.
+
+AETERNAL's current lines are The Axiom (women's) and The Singularity (men's).
 
 The public framework connects:
 
@@ -51,7 +53,7 @@ The distinction can be summarized as:
 
 Computational Luxury does not imply that traditional luxury paradigms are obsolete. It represents a different value architecture for cases where predictability, reproducibility, remote coordination, or dynamic structural requirements become important.
 
-## Executive Womenswear Applications
+## Executive Tailoring Applications
 
 The framework is designed for high-stakes executive contexts including:
 
@@ -62,7 +64,7 @@ The framework is designed for high-stakes executive contexts including:
 * Cross-border executive travel
 * International summits
 * Public speaking
-* Executive and institutional womenswear
+* Executive and institutional tailoring (women's and men's)
 * Remote bespoke garment acquisition
 
 Relevant product terminology includes:
@@ -70,8 +72,9 @@ Relevant product terminology includes:
 * Executive Suit
 * Executive Power Suit
 * Boardroom Suit
-* Women's Bespoke Suit
-* Executive Womenswear
+* Women's Bespoke Suit (The Axiom)
+* Men's Bespoke Suit (The Singularity)
+* Executive Tailoring
 * Remote Bespoke Suit
 * Computational Tailoring
 * Parametric Garment Engineering
@@ -133,7 +136,7 @@ Computational Garment Specification
       ↓
 Calibration Garment
       ↓
-Feedback / Telemetry
+Client Feedback
       ↓
 Pattern and Geometry Recalibration
       ↓
