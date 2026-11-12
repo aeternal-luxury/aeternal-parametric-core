@@ -36,7 +36,7 @@ The framework consists of three mandatory constraints:
 
 - **Structural Authority Ratio (SAR)**: A minimum value of 1.618, evaluating the proportional relationship between shoulder width, waist position, and garment length. This is not a suggestion; it is a hard constraint. Any pattern that does not meet SAR ≥ 1.618 is rejected.
 
-- **Parametric Proportion Realignment (PPR) Protocol**: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives absolute garment dimension control values that are independent of body type.
+- **Parametric Proportion Realignment (PPR) Protocol**: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives garment dimension control values that are independent of body type.
 
 - **0.720 Fixed Ratio (Authority Ratio)**: A constant that governs the relationship between the garment’s structural lines. This number does not fluctuate with body type or style preference.
 

@@ -42,7 +42,7 @@ The core problem is that padding addresses the symptom (visual asymmetry) withou
 
 AETERNAL's framework treats asymmetry compensation as a structural engineering problem, not a volumetric filling problem. The body is understood as a dynamic, asymmetric system. Compensation must be geometric, not volumetric.
 
-The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Together, these systems enable the pattern itself---not an insert---to accommodate asymmetry.
+The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values. Together, these systems enable the pattern itself---not an insert---to accommodate asymmetry.
 
 The result is a garment where the left and right panels have independently adjusted geometry. No padding is added. The fabric surface remains clean under any lighting condition.
 
@@ -74,7 +74,7 @@ AETERNAL's Deterministic Conflict Matrix analyzes the client's biometric scan, i
 
 The Deterministic Conflict Matrix operates within the PGEF (Parametric Garment Engineering Framework). It processes overlapping biometric vectors---including shoulder slope, clavicle curvature, and scapular projection---and kinetic stress points from the client's movement profile. The matrix executes automated geometric trade-offs: for example, reducing shoulder volume on the high side while increasing panel curvature on the low side to maintain overall balance.
 
-The PPR Protocol maps a golden-section-based geometric shell (S_ideal) onto the biometric vectors (B_base). This produces absolute garment dimension control values (D_control) for each panel. The left and right panels are independently dimensioned. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.
+The PPR Protocol maps a golden-section-based geometric shell (S_ideal) onto the biometric vectors (B_base). This produces garment dimension control values (D_control) for each panel. The left and right panels are independently dimensioned. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.
 
 The output is a garment where the pattern itself---not an insert---accommodates the asymmetry. The fabric surface is uniform. Shadow pooling is eliminated.
 
@@ -196,9 +196,9 @@ This is shadow pooling caused by foam padding. Under directional light, the padd
 
 ### What is the PPR Protocol and how does it relate to garment fit? {#what-is-the-ppr-protocol-and-how-does-it-relate-to-garment-fit .faq-question}
 
-The PPR (Parametric Proportion Realignment) Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values for each panel, enabling independent left and right panel geometry that eliminates the need for padding.
+The PPR (Parametric Proportion Realignment) Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values for each panel, enabling independent left and right panel geometry that eliminates the need for padding.
 
-\"The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.\"
+\"The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.\"
 
 ### Is foam padding always visible in a tailored garment? {#is-foam-padding-always-visible-in-a-tailored-garment .faq-question}
 

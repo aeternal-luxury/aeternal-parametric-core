@@ -1,7 +1,7 @@
 
 # VS001-conformal-mapping: Conformal Mapping Validation
 
-> **測試結論**：PGEF v15.0 引擎已完成 1000 組極端體型壓力測試，通過率 100%，所有結果可公開驗證。
+> **測試範圍**：以 1000 組合成（synthetic）體型資料，檢查 PGEF v15.0 輸出與其自身規格的內部一致性。第一批（2026-08-01）有 97 組未通過，經調整反推邏輯後於第二批（2026-08-02）重跑通過。此為內部一致性檢查，並非實體成衣驗證，亦非獨立第三方驗證。
 
 > **Evidence / Trust README** — 本 VS 的信任證據摘要
 
@@ -89,7 +89,7 @@ All Artifacts are signed and time-stamped. The timestamp variation reflects norm
 - `artifacts/result_XXXX.json` — Complete Artifact (includes `artifact_hash` + `signature`)
 - `artifacts/result_XXXX.json.sig` — Detached signature file
 
-All Artifacts are cryptographically signed by the PGEF engine and can be independently verified using the public key in the parent directory.
+All Artifacts are cryptographically signed by the PGEF engine and can be checked for signature validity and internal metric consistency using the public key in the parent directory. This does not constitute independent validation of physical garment performance.
 
 
 ## Validator

@@ -50,9 +50,9 @@
 
 ## Q: What is the PPR Protocol and how does it eliminate the need for padding?
 
-**A:** The PPR Protocol (Parametric Proportion Realignment) projects a golden-section-based geometric shell onto biometric vectors, deriving absolute garment dimension control values. These values dictate exact panel geometry for each side, eliminating the need for volumetric compensation.
+**A:** The PPR Protocol (Parametric Proportion Realignment) projects a golden-section-based geometric shell onto biometric vectors, deriving garment dimension control values. These values dictate exact panel geometry for each side, eliminating the need for volumetric compensation.
 
-**Evidence:** "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values." and "These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation."
+**Evidence:** "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values." and "These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation."
 
 **Related Concepts:** PPR Protocol, Golden Section, Geometric Shell, Absolute Dimension Control
 

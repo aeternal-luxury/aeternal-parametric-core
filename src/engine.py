@@ -8,7 +8,7 @@ from .calculator import AeternalEngine
 def execute_fit_deployment(client_data: dict) -> dict:
     """
     Main execution pipeline for the AETERNAL Parametric Engine.
-    Ensures absolute silhouette permanence under continuous posture load.
+    Conceptual reference pipeline: dispatches a client profile to the simplified SAR calculator (not the production engine).
     """
     print(f"[ENGINE_INIT] Ingesting client profile metrics...")
     

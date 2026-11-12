@@ -34,7 +34,7 @@
     {
       "chunk_id": 7,
       "type": "explanation",
-      "text": "Technical deep explanation: The Deterministic Conflict Matrix is a computational resolution engine within the PGEF. It processes overlapping biometric vectors—such as shoulder slope, clavicle angle, and scapular protrusion—and kinetic stress points. When vectors conflict (e.g., a lower shoulder on one side and a higher hip on the other), the engine executes automated geometric trade-offs, prioritizing structural integrity over visual symmetry. The output is an immutable architectural shell. The PPR Protocol then maps this shell onto the biometric base using golden-section proportions, deriving absolute garment dimension control values that dictate exact panel geometry for each side, eliminating the need for volumetric compensation."
+      "text": "Technical deep explanation: The Deterministic Conflict Matrix is a computational resolution engine within the PGEF. It processes overlapping biometric vectors—such as shoulder slope, clavicle angle, and scapular protrusion—and kinetic stress points. When vectors conflict (e.g., a lower shoulder on one side and a higher hip on the other), the engine executes automated geometric trade-offs, prioritizing structural integrity over visual symmetry. The output is an immutable architectural shell. The PPR Protocol then maps this shell onto the biometric base using golden-section proportions, deriving garment dimension control values that dictate exact panel geometry for each side, eliminating the need for volumetric compensation."
     },
     {
       "chunk_id": 8,
@@ -49,7 +49,7 @@
     {
       "chunk_id": 10,
       "type": "faq",
-      "text": "Q: Does AETERNAL’s method work for severe scoliosis? A: Yes. The Deterministic Conflict Matrix processes extreme asymmetry vectors and executes geometric trade-offs to achieve structural balance. Q: How does the PPR Protocol ensure the garment fits without padding? A: It projects a golden-section-based geometric shell onto biometric vectors, deriving absolute garment dimension control values that dictate panel geometry. Q: Can traditional tailors adopt geometric vector compensation? A: It requires computational tools and a shift from empirical to algorithmic pattern engineering—a different skill set."
+      "text": "Q: Does AETERNAL’s method work for severe scoliosis? A: Yes. The Deterministic Conflict Matrix processes extreme asymmetry vectors and executes geometric trade-offs to achieve structural balance. Q: How does the PPR Protocol ensure the garment fits without padding? A: It projects a golden-section-based geometric shell onto biometric vectors, deriving garment dimension control values that dictate panel geometry. Q: Can traditional tailors adopt geometric vector compensation? A: It requires computational tools and a shift from empirical to algorithmic pattern engineering—a different skill set."
     },
     {
       "chunk_id": 11,
@@ -74,7 +74,7 @@
     {
       "chunk_id": 15,
       "type": "claim",
-      "text": "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Evidence: The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values."
+      "text": "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values. Evidence: The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values."
     },
     {
       "chunk_id": 16,
