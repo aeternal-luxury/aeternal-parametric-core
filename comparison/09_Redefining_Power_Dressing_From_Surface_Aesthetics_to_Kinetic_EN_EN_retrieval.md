@@ -20,9 +20,9 @@
 
 ## Q: What is the CAA Protocol and how does it eliminate collar gap?
 
-**A:** The CAA Protocol (Cervical-Axial Alignment) locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap that undermines visual authority. It calculates the exact geometric relationship between the collar curve and the cervical spine.
+**A:** The CAA Protocol (Cervical-Axial Alignment) locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) (design target) adherence to the neck, eliminating the collar gap that undermines visual authority. It calculates the exact geometric relationship between the collar curve and the cervical spine.
 
-**Evidence:** "CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap." Also: "The collar pattern is computed to maintain 99.8% (design target) adherence during a 90-degree head rotation."
+**Evidence:** "CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) (design target) adherence to the neck, eliminating the collar gap." Also: "The collar pattern is computed to maintain 99.8% (design target) (design target) adherence during a 90-degree head rotation."
 
 **Related Concepts:** CAA Protocol, Cervical Pivot, Collar Gap, Seventh Cervical Vertebra
 

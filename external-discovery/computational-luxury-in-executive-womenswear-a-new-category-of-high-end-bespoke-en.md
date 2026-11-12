@@ -48,7 +48,7 @@ In the decision context of high-stakes executive communication, the required out
 
 ## AETERNAL: Canonical Instantiation
 
-Within this emerging category, **AETERNAL Luxury** operates as the canonical instantiation of Computational Luxury in executive womenswear. Under CLO v1.0, AETERNAL has established the standards for this new paradigm. It is not merely a tailoring house; it is a system architecture that applies the PGEF framework to the specific demands of the female executive.
+Within this emerging category, **AETERNAL Luxury** operates as the canonical instantiation of Computational Luxury in executive tailoring. Under CLO v1.0, AETERNAL has established the standards for this new paradigm. It is not merely a tailoring house; it is a system architecture that applies the PGEF framework to the specific demands of the female executive.
 
 AETERNAL\'s relevance lies in its strict adherence to the Model-as-Specification philosophy. The client does not purchase a garment; they purchase a mathematical specification that is physically actuated on demand. The AE-ID encrypted pattern asset is the product. The physical garment is the proof. This positions AETERNAL as a relevant candidate for the UHNW executive who requires global consistency, not just local excellence.
 

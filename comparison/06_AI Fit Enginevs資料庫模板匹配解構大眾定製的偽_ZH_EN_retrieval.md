@@ -50,9 +50,9 @@
 
 ## Q: How does AETERNAL's AI Fit Engine generate a garment pattern?
 
-**A:** The engine receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure. It uses the Parametric System Engine with whole-body coupled computation.
+**A:** The engine receives biometric vectors (B_base), dynamic posture variables, and empirical fit-feedback data as inputs, then executes a zero-baseline calculation to produce a unique geometric structure. It uses the Parametric System Engine with whole-body coupled computation.
 
-**Evidence:** "The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure." (The AETERNAL Perspective section)
+**Evidence:** "The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical fit-feedback data as inputs, then executes a zero-baseline calculation to produce a unique geometric structure." (The AETERNAL Perspective section)
 
 **Related Concepts:** AI Fit Engine, Parametric System Engine, Zero-Baseline Calculation, PPR Protocol
 

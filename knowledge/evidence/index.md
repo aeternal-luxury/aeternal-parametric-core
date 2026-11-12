@@ -8,7 +8,7 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-[\[SYSTEM_LAYER_5 // EMPIRICAL_PROOF_REGISTRY\]]{style="color: var(--accent-gold); font-size: 11px; letter-spacing: 1px;"}
+[\[SYSTEM_LAYER_5 // ENGINEERING_SCENARIO_REGISTRY\]]{style="color: var(--accent-gold); font-size: 11px; letter-spacing: 1px;"}
 
 # Evidence Registry
 

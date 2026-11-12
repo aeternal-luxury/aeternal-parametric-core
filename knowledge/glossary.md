@@ -46,7 +46,7 @@ Subject: AI Bespoke Tailoring \| Creator: AETERNAL Luxury
 During active Realignment Matrix execution, the maximum allowable spatial boundary drift is strictly bounded:\
 $$\\Delta\_{\\text{PPR}} \\le 0.02\\%$$
 
-Any telemetry variance exceeding this threshold triggers an immediate automated optimization cascade via the Parametric System Engine to restore absolute visual authority.
+Any feedback variance exceeding this threshold flags the garment for review and recalibration through the Parametric System Engine.
 
 ## 2. Tier 1: Core Invariant Entities
 
@@ -64,7 +64,7 @@ Related: [AI Bespoke Tailoring](#ai-bespoke), [SAR Index](#sar)
 
 [AI Fit Engine]{#ai-fit-engine .dfn}\[DATA_PROCESSOR\]
 
-A computational module that transforms biometric vectors ($B\_{\\text{base}}$), dynamic posture variables, and empirical telemetry into garment control parameters for the AETERNAL parametric pipeline.
+A computational module that transforms biometric vectors ($B\_{\\text{base}}$), dynamic posture variables, and empirical fit-feedback data into garment control parameters for the AETERNAL parametric pipeline.
 
 Related: [PPR Protocol](#ppr), [SAR Index](#sar)
 
@@ -126,7 +126,7 @@ Related: [SAR Index](#sar), [Authority Engineering](#authority-engineering)
 
 [AOI Interface (Active Override Interface)]{#aoi-interface .dfn}\[REINTEGRATION_MATRIX\]
 
-A telemetry gateway that collects post-deployment comfort and textile strain data, feeding empirical parameters back into the Q-Matrix routing equations.
+A feedback intake module that collects structured post-delivery client feedback (comfort and fit ratings on a 1-5 scale) and calibration-garment observations, feeding empirical parameters back into the Q-Matrix routing equations.
 
 Related: [PPR Protocol](#ppr), [AI Fit Engine](#ai-fit-engine)
 

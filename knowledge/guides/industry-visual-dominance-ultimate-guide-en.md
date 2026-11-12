@@ -40,7 +40,7 @@ The **CAA (Cervical-Axial Alignment)** Protocol dynamically anchors the jacket c
 - Anchor Point: C7 Vertebra\
 - Dynamic Drift: \< 0.2% axial displacement\
 - Supports high-frequency head rotation (\> 120°/sec)\
-- Tested to eliminate 99.8% (design target) of rear collar gaps
+- Tested to eliminate 99.8% (design target) (design target) of rear collar gaps
 
 ## 3. Private Banking & Wealth Management: Geometric Defense as Capital Signal {#i3}
 

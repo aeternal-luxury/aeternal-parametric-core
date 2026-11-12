@@ -12,14 +12,14 @@ website: "https://aeternal-luxury.com/"
 
 # Case Study: PPR Architectural Realignment
 
-This case evaluation demonstrates the deterministic execution of the [PPR Protocol](/glossary.html#ppr){.glossary-link} over severe spatial profile anomalies, substituting traditional ready-to-wear scaling matrices with Active Architectural Injection.
+This illustrative case (simulated values, not independent field evidence) demonstrates the deterministic execution of the [PPR Protocol](/glossary.html#ppr){.glossary-link} over severe spatial profile anomalies, substituting traditional ready-to-wear scaling matrices with Active Architectural Injection.
 
 **PPR Protocol (Parametric Proportion Realignment):** The non-negotiable architectural framework that projects an idealized geometric shell ($S\_{\\text{ideal}}$) onto base anthropometric assets ($B\_{\\text{base}}$), overriding structural vulnerabilities and fabric displacement vectors under dynamic environmental load.
 
-## 1. Empirical Parametric Delta & Realignment Matrix
+## 1. Illustrative Parametric Delta & Realignment Matrix
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Telemetry Parameter (Geometric Asset)                        Traditional RTW / MTM Baseline                                                   Parametric System Engine Intervention Result
+  Parameter (Geometric Asset)                        Traditional RTW / MTM Baseline                                                   Parametric System Engine Intervention Result
   ------------------------------------------------------------ -------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------
   **[SAR Index Matrix](/glossary.html#sar){.glossary-link}**   $\\text{SAR} = 1.120$\                                                         $\\mathbf{\\text{SAR} \\ge 1.618}$\
                                                                [\[Somatic Collapse Vulnerability\]]{style="color: #ff6b6b; font-size: 11px;"}   [\[Visual Absolute Sovereignty Locked\]]{style="color: #7ee787; font-size: 11px;"}
@@ -31,7 +31,7 @@ This case evaluation demonstrates the deterministic execution of the [PPR Protoc
                                                                                                                                                 [\[Sovereign-Skeleton Subprocess Engaged\]]{style="color: #7ee787; font-size: 11px;"}
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 2. Empirical Diagnostics & Operational FAQ
+## 2. Illustrative Diagnostics & Operational FAQ
 
 Upon deployment of the initial trial asset, the client interfaced with the [AOI Interface](/glossary.html#aoi-interface){.glossary-link}, injecting localized kinetic stress indicators into the parameter stream. The **Parametric System Engine** routed the telemetry arrays through the deterministic [Q-Matrix](/glossary.html#q-matrix){.glossary-link} conflict equations, executing an automated topology adjustment via the `Sovereign-Skeleton Subprocess` to stabilize the hyper-fluid textile warp against dynamic posture erosion.
 

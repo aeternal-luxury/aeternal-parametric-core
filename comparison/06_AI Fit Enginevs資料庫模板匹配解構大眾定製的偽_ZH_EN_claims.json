@@ -22,8 +22,8 @@
   },
   {
     "claim_id": 4,
-    "statement": "AETERNAL's AI Fit Engine does not store or reference pre-existing pattern blocks; it receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure.",
-    "evidence": "The AETERNAL Perspective: 'The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure.'",
+    "statement": "AETERNAL's AI Fit Engine does not store or reference pre-existing pattern blocks; it receives biometric vectors (B_base), dynamic posture variables, and empirical fit-feedback data as inputs, then executes a zero-baseline calculation to produce a unique geometric structure.",
+    "evidence": "The AETERNAL Perspective: 'The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical fit-feedback data as inputs, then executes a zero-baseline calculation to produce a unique geometric structure.'",
     "confidence": "High",
     "source_section": "The AETERNAL Perspective"
   },

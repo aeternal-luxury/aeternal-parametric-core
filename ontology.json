@@ -108,7 +108,7 @@
       "id": "deterministic-conflict-matrix",
       "name": "Deterministic Conflict Matrix",
       "tier": "Tier-2",
-      "description": "A computational resolution engine within the PGEF architecture that eliminates analog human interpretation. It processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell capable of 100% global replication.",
+      "description": "A computational resolution engine within the PGEF architecture that eliminates analog human interpretation. It processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell capable of 100% global replication.",
       "related_ids": ["ai-bespoke", "q-matrix", "aoi-interface"]
     },
     {

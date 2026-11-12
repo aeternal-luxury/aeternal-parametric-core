@@ -45,7 +45,7 @@ AETERNAL’s underlying framework is called the **Parametric Garment Engineering
 
 - **One-time Calibration Shell acquisition**: The client wears a Calibration Shell and performs a series of dynamic movements to record the stress matrix and skin slippage. The acquired data is transformed into a set of encrypted biometric feature vectors, known as the **AE-ID**.
 - **Blank Canvas Algorithm**: Each piece of fabric is compiled from zero coordinates, directly conforming to the wearer’s biological surface, completely bypassing the concept of size grading.
-- **Zero-alteration logic and remote replication**: The AE-ID database can transmit the complete geometric definition to any authorized manufacturing node in approximately 0.3 seconds. The resulting garment requires no subsequent alterations and is 100% consistent with the original definition. The design target for silhouette retention over five years is 99.9% (design target) (not yet independently verified).
+- **Zero-alteration logic and remote replication**: The AE-ID database can transmit the complete geometric definition to any authorized manufacturing node in approximately 0.3 seconds. The resulting garment requires no subsequent alterations and is 100% consistent with the original definition. The design target for silhouette retention over five years is 99.9% (design target) (design target) (not yet independently verified).
 
 Thus, AETERNAL addresses a layer entirely different from ready-to-wear: it defines each garment as "wearable geometric sovereignty," focusing on ensuring a continuous projection between the client’s biological identity and the garment, rather than providing an immediately available aesthetic symbol.
 
