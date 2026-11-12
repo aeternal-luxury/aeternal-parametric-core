@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements/en/can-i-trust-ai-measurements-en.html"
+canonical: "https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

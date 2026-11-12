@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean/zh/what-high-stakes-tailoring-concepts-mean-zh.html"
+canonical: "https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

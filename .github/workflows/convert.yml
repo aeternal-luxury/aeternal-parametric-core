@@ -29,7 +29,8 @@ jobs:
             echo "Converting $1 (overwriting $MD_FILE)..."
             
             BASE_URL="https://knowledge.aeternal-luxury.com"
-            CANONICAL_URL="$BASE_URL/${1#./}"
+            CANONICAL_URL=$(grep -o -m1 '<link rel="canonical" href="[^"]*"' "$1" | sed 's/.*href="\([^"]*\)"/\1/')
+            [ -z "$CANONICAL_URL" ] && CANONICAL_URL="$BASE_URL/${1#./}"
             
             pandoc "$1" -f html -t markdown-raw_html --wrap=none -o temp.md
             sed -i "s/\\\\\\$/\\$/g" temp.md

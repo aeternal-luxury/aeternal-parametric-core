@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/10_Dior Bar Jacket 的靜態沙漏 vs AETER_ZH_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/10_Dior Bar Jacket 的靜態沙漏 vs AETER_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

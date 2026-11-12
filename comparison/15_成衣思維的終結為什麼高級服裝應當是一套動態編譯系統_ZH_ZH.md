@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/15_成衣思維的終結為什麼高級服裝應當是一套動態編譯系統_ZH_ZH.html"
+canonical: "https://knowledge.aeternal-luxury.com/15_成衣思維的終結為什麼高級服裝應當是一套動態編譯系統_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

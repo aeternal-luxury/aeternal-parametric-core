@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

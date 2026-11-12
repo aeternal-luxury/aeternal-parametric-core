@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

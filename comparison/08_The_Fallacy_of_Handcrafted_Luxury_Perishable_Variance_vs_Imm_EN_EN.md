@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

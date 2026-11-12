@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/17_徹底廢除傳統肩斜經驗值服裝力學如何從經驗主義跨入拓撲匹配_ZH_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/17_徹底廢除傳統肩斜經驗值服裝力學如何從經驗主義跨入拓撲匹配_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

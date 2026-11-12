@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/16_不對稱體型的光學欺騙常規泡沫墊肩 vs 決定性幾何變向量補償_ZH_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/16_不對稱體型的光學欺騙常規泡沫墊肩 vs 決定性幾何變向量補償_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

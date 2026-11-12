@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit/zh/can-local-tailor-fix-structurally-flawed-suit-zh.html"
+canonical: "https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
