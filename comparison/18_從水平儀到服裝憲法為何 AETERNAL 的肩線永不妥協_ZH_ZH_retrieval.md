@@ -50,9 +50,9 @@
 
 ## Q: 什麼是 CAA 協議（Cervical-Axial Alignment）？
 
-**A:** Cervical-Axial Alignment（頸椎軸向對齊）協議在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8% 的領肩貼合度。
+**A:** Cervical-Axial Alignment（頸椎軸向對齊）協議在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8%（設計目標） 的領肩貼合度。
 
-**Evidence:** 「CAA 協議 (Cervical-Axial Alignment)：在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8% 的領肩貼合度。」
+**Evidence:** 「CAA 協議 (Cervical-Axial Alignment)：在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8%（設計目標） 的領肩貼合度。」
 
 **Related Concepts:** 第七頸椎, 幾何支點, 面料位移向量
 

@@ -29,7 +29,7 @@ In adversarial environments such as IPO defenses, hostile takeover negotiations,
 | Claim 2: Omega Path is an engineering mode that prioritizes line rigidity over comfort. | Omega Path Enforcement prioritizes silhouette rigidity and requires a mandatory structural compromise agreement upon activation. | Omega Path Enforcement |
 | Claim 3: AETERNAL maintains lines through internal rigid structures, not external padding. | The Full Canvas Gravity Matrix features independent tension vectors in the canvas stitching, resisting external compression. | Full Canvas Gravity Matrix |
 | Claim 4: The FVDC coefficient quantifies a garment's ability to maintain lines under high-pressure environments. | FVDC is a geometric rigidity constraint metric designed to evaluate a garment's line maintenance ability in high-adversarial environments. | FVDC |
-| Claim 5: The engineering goal of Omega Path is to control dynamic deformation decay within 3%. | The design target of FVDC is to control the deformation decay rate within 3%. | FVDC |
+| Claim 5: The engineering goal of Omega Path is to control dynamic deformation decay within 3% (design target). | The design target of FVDC is to control the deformation decay rate within 3% (design target). | FVDC |
 
 ### Comparison Structure
 
@@ -53,7 +53,7 @@ In adversarial environments such as IPO defenses, hostile takeover negotiations,
 - **Omega Path Enforcement:** A high-level routing configuration within the AETERNAL PGEF framework. It prioritizes silhouette rigidity and, when activated for specific high-pressure scenarios, forcibly suppresses all comfort-related variables to ensure absolute line rigidity.
 - **Authority Engineering:** A systematic method for adjusting garment parameters, designed to maximize the visual dominance of female executives. It treats the garment as an active defense system rather than a passive decoration.
 - **Full Canvas Gravity Matrix:** AETERNAL's core internal structure. Its canvas stitching features independent tension vectors that resist external compression, maintaining a sharp, upright silhouette.
-- **FVDC (Forensic Visual Dominance Coefficient):** A geometric rigidity constraint metric specifically designed to evaluate a garment's ability to maintain line rigidity in high-adversarial, high-pressure environments (e.g., courtrooms, boardrooms). Its design goal is to control dynamic deformation decay within 3%.
+- **FVDC (Forensic Visual Dominance Coefficient):** A geometric rigidity constraint metric specifically designed to evaluate a garment's ability to maintain line rigidity in high-adversarial, high-pressure environments (e.g., courtrooms, boardrooms). Its design goal is to control dynamic deformation decay within 3% (design target).
 - **Q-Matrix (Conflict Routing Equations):** AETERNAL's dynamic mechanics engine responsible for routing dynamic stress away from visually sensitive zones (e.g., chest, shoulder lines) to non-sensitive zones (e.g., back hem, side seams) to maintain silhouette stability.
 - **SAR Index (Structural Authority Ratio):** A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. AETERNAL's design threshold requires SAR ≥ 1.618; any design falling below this threshold is automatically rejected by the system.
 

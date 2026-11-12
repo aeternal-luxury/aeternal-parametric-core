@@ -79,7 +79,7 @@
       "name": "What is the CAA Protocol?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Cervical-Axial Alignment Protocol is an engineering method that locks the collar's structural relationship to the seventh cervical vertebra (C7). It computes fabric displacement vectors for each posture and adjusts the pattern to maintain 99.8% collar-to-neck contact."
+        "text": "The Cervical-Axial Alignment Protocol is an engineering method that locks the collar's structural relationship to the seventh cervical vertebra (C7). It computes fabric displacement vectors for each posture and adjusts the pattern to maintain 99.8% (design target) collar-to-neck contact."
       }
     },
     {

@@ -61,7 +61,7 @@
       "name": "什麼是 CAA Protocol？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8% 的貼合度。"
+        "text": "Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8%（設計目標） 的貼合度。"
       }
     },
     {

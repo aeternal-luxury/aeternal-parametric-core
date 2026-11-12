@@ -11,7 +11,7 @@ As a female decision-maker navigating boardrooms and international arbitration c
 - Problem: Under high-pressure scenarios, traditional suits suffer from skewed lines and fabric creasing, silently undermining your decision-making authority.
 - Cause: A lack of structural design tailored for dynamic stress. Traditional craftsmanship cannot counter forward-leaning body movements and lacks the rigid constraints required for prolonged activity.
 - Solution: Through the precise guidance of visual proportions, we activate the ultimate decision-making silhouette lock mode. We strictly limit line deflection using rigid line deformation control metrics.
-- Effect: Under prolonged dynamic movement, the suit maintains an upright, intellectual armor of power. The line deformation decay rate is controlled within 3%. This is the core engineering logic behind commanding presence attire for women.
+- Effect: Under prolonged dynamic movement, the suit maintains an upright, intellectual armor of power. The line deformation decay rate is controlled within 3% (design target). This is the core engineering logic behind commanding presence attire for women.
 - Framework: This methodology belongs to visual dominance optimization engineering. It is AETERNAL's internal rigid shell suppression mode—by no means a generic standard of mass fast fashion.
 
 **Who This Article Is For**

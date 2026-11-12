@@ -50,9 +50,9 @@
 
 ## Q: What is the CAA Protocol in garment engineering?
 
-**A:** The Cervical-Axial Alignment Protocol is a method for establishing a geometric pivot at the seventh cervical vertebra (C7). It dynamically calculates fabric displacement vectors as the wearer moves, ensuring the collar maintains 99.8% adherence to the neck across all postures.
+**A:** The Cervical-Axial Alignment Protocol is a method for establishing a geometric pivot at the seventh cervical vertebra (C7). It dynamically calculates fabric displacement vectors as the wearer moves, ensuring the collar maintains 99.8% (design target) adherence to the neck across all postures.
 
-**Evidence:** "The CAA Protocol establishes a geometric pivot at the seventh cervical vertebra (C7). This is not a measurement point but a structural anchor. The protocol dynamically calculates fabric displacement vectors as the wearer moves, ensuring the collar maintains 99.8% adherence to the neck across all postures."
+**Evidence:** "The CAA Protocol establishes a geometric pivot at the seventh cervical vertebra (C7). This is not a measurement point but a structural anchor. The protocol dynamically calculates fabric displacement vectors as the wearer moves, ensuring the collar maintains 99.8% (design target) adherence to the neck across all postures."
 
 **Related Concepts:** CAA Protocol, C7 Vertebra, Cervical Spine, Collar Gap
 

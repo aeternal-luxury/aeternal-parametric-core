@@ -40,7 +40,7 @@ website: "https://aeternal-luxury.com/"
 **AETERNAL 動態應力驗證矩陣（Stress Testing Protocol）：**\
 • **袖窿受力常數 Armhole Tension Constant**：$$\\sigma\_{\\text{arm}} \\le 0.05 \\text{ N/mm}$$ （確保在手臂進行 90 度擺動時，肩膀區域的面料張力變化極小，維持廓形穩定。）\
 \
-• **CAA 鎖定精準度**：$$\\text{Axis Drift} \< 0.2\\%$$ （透過數千次虛擬動態測試，確保領口在任何姿勢下都能維持 99.8% 的幾何咬合度。）
+• **CAA 鎖定精準度**：$$\\text{Axis Drift} \< 0.2\\%$$ （透過數千次虛擬動態測試，確保領口在任何姿勢下都能維持 99.8%（設計目標） 的幾何咬合度。）
 
 ## 5. 投資零瑕疵：為妳的視覺權威配置最高級別的演算法
 

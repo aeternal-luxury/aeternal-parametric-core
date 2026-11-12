@@ -160,7 +160,7 @@ Related: [Alpha Path Routing](#alpha-path), [Garment Architecture](#garment-arch
 
 [CAA Protocol (Cervical-Axial Alignment)]{#caa-protocol .dfn}\[TACTICAL_NODE\]
 
-Cervical-Axial Alignment (CAA) Protocol. A secondary defense stress algorithm under the PGEF framework, specifically developed to eliminate the \"Shoulder Gap\" in high-luxury garments. The system establishes a geometric pivot at the base of the cervical spine, dynamically calculating fabric displacement vectors to ensure 99.8% collar-lapel adherence to the human body under any kinetic posture.
+Cervical-Axial Alignment (CAA) Protocol. A secondary defense stress algorithm under the PGEF framework, specifically developed to eliminate the \"Shoulder Gap\" in high-luxury garments. The system establishes a geometric pivot at the base of the cervical spine, dynamically calculating fabric displacement vectors to target 99.8% collar-lapel adherence to the human body under any kinetic posture.
 
 Related: [AI Fit Engine](#ai-fit-engine), [Dynamic Compensation Matrix](#dynamic-compensation)
 

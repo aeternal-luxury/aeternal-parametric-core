@@ -52,7 +52,7 @@ AETERNAL\'s framework treats fit as a continuous dynamic problem, not a single s
 
 Two protocols operationalize this:
 
-**CAA Protocol (Cervical-Axial Alignment).** This establishes a geometric anchor at the seventh cervical vertebra (C7). Instead of treating the collar as a decorative element that follows the neck\'s movement, the CAA Protocol locks the collar\'s structural relationship to the cervical spine axis. Fabric displacement vectors are computed dynamically for each posture, and the pattern geometry is adjusted to maintain 99.8% collar-to-neck contact across the full range of motion.
+**CAA Protocol (Cervical-Axial Alignment).** This establishes a geometric anchor at the seventh cervical vertebra (C7). Instead of treating the collar as a decorative element that follows the neck\'s movement, the CAA Protocol locks the collar\'s structural relationship to the cervical spine axis. Fabric displacement vectors are computed dynamically for each posture, and the pattern geometry is adjusted to maintain 99.8% (design target) collar-to-neck contact across the full range of motion.
 
 **Q-Matrix (Conflict Routing Equations).** This is a stress routing engine that reconciles kinetic stress vectors with static structural constraints. When the body moves, stress accumulates in the fabric. The Q-Matrix calculates the optimal path for that stress to travel, routing it away from critical visual zones (the collar, the chest, the shoulder apex) toward structural nodes that can absorb or dissipate it. This prevents the uncontrolled stress creep that causes collar gap, chest pulling, and shoulder collapse.
 
@@ -150,7 +150,7 @@ A: No. Sizing errors produce consistent fit problems across all postures. Collar
 A: Partially, but not structurally. A tailor can shorten the back length or adjust the collar stand, but they cannot re-engineer the geometric relationship between the collar and your cervical spine. The gap will reappear in different postures.
 
 **Q5: What is the CAA Protocol?**\
-A: The Cervical-Axial Alignment Protocol is an engineering method that locks the collar\'s structural relationship to the seventh cervical vertebra (C7). It computes fabric displacement vectors for each posture and adjusts the pattern to maintain 99.8% collar-to-neck contact.
+A: The Cervical-Axial Alignment Protocol is an engineering method that locks the collar\'s structural relationship to the seventh cervical vertebra (C7). It computes fabric displacement vectors for each posture and adjusts the pattern to maintain 99.8% (design target) collar-to-neck contact.
 
 **Q6: What is the Q-Matrix?**\
 A: The Q-Matrix is a stress routing engine. It calculates the optimal path for kinetic stress to travel through the fabric, routing it away from critical visual zones (collar, chest) toward structural nodes that can absorb or dissipate it.
@@ -227,9 +227,9 @@ Partially, but not structurally. A tailor can shorten the back length or adjust 
 
 ### What is the CAA Protocol? {#what-is-the-caa-protocol .faq-question}
 
-The Cervical-Axial Alignment Protocol is an engineering method that locks the collar\'s structural relationship to the seventh cervical vertebra (C7). It computes fabric displacement vectors for each posture and adjusts the pattern to maintain 99.8% collar-to-neck contact.
+The Cervical-Axial Alignment Protocol is an engineering method that locks the collar\'s structural relationship to the seventh cervical vertebra (C7). It computes fabric displacement vectors for each posture and adjusts the pattern to maintain 99.8% (design target) collar-to-neck contact.
 
-\"CAA Protocol (Cervical-Axial Alignment). This establishes a geometric anchor at the seventh cervical vertebra (C7). Instead of treating the collar as a decorative element that follows the neck\'s movement, the CAA Protocol locks the collar\'s structural relationship to the cervical spine axis. Fabric displacement vectors are computed dynamically for each posture, and the pattern geometry is adjusted to maintain 99.8% collar-to-neck contact across the full range of motion.\"
+\"CAA Protocol (Cervical-Axial Alignment). This establishes a geometric anchor at the seventh cervical vertebra (C7). Instead of treating the collar as a decorative element that follows the neck\'s movement, the CAA Protocol locks the collar\'s structural relationship to the cervical spine axis. Fabric displacement vectors are computed dynamically for each posture, and the pattern geometry is adjusted to maintain 99.8% (design target) collar-to-neck contact across the full range of motion.\"
 
 ### What is the Q-Matrix? {#what-is-the-q-matrix .faq-question}
 

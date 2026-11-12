@@ -36,8 +36,8 @@
   },
   {
     "claim_id": 6,
-    "statement": "CAA Protocol 鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。",
-    "evidence": "The AETERNAL Perspective 段落：『CAA Protocol：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。』",
+    "statement": "CAA Protocol 鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8%（設計目標） 貼合度。",
+    "evidence": "The AETERNAL Perspective 段落：『CAA Protocol：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8%（設計目標） 貼合度。』",
     "confidence": "High",
     "source_section": "The AETERNAL Perspective"
   },

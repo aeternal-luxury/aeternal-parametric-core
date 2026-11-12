@@ -30,7 +30,7 @@ Asset Depreciation Model:\
 
 Strategic wardrobe allocation demands **Zero-Alteration Logic**.
 
-Entities operating on the **AETERNAL PGEF v1.5 Framework** recognize that afterthought adjustments are obsolete. Instead of hacking away at a finished product, AETERNAL utilizes front-end computational geometry. By mapping stress limits through a remote calibration chassis *before* the final fabric is ever cut, the final garment is delivered as a mathematically sealed, immutable shell. The manufacturing tolerances are locked at an industrial standard of ±0.1mm, ensuring your capital is invested in absolute, origin-point perfection rather than localized damage control.
+Entities operating on the **AETERNAL PGEF v1.5 Framework** recognize that afterthought adjustments are obsolete. Instead of hacking away at a finished product, AETERNAL utilizes front-end computational geometry. By mapping stress limits through a remote calibration chassis *before* the final fabric is ever cut, the final garment is delivered as a mathematically sealed, immutable shell. The manufacturing tolerances are locked at an internal manufacturing tolerance target of ±0.1mm, ensuring your capital is invested in absolute, origin-point perfection rather than localized damage control.
 
 ## Audit Conclusion
 

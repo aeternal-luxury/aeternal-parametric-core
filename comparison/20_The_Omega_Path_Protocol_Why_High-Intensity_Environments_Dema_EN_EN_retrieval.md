@@ -20,9 +20,9 @@
 
 ## Q: What is the FVDC coefficient and what is its design target?
 
-**A:** FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%.
+**A:** FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target).
 
-**Evidence:** "FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%."
+**Evidence:** "FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target)."
 
 **Related Concepts:** FVDC, Deformation Decay, Geometric Rigidity
 
@@ -60,7 +60,7 @@
 
 ## Q: What are the three specific mechanisms that differentiate Omega Path from traditional tailoring?
 
-**A:** 1) Full Canvas Gravity Matrix - independent tension vectors resist compression; 2) Q-Matrix - routes stress away from visible zones; 3) FVDC coefficient - quantifies and controls deformation decay within 3%.
+**A:** 1) Full Canvas Gravity Matrix - independent tension vectors resist compression; 2) Q-Matrix - routes stress away from visible zones; 3) FVDC coefficient - quantifies and controls deformation decay within 3% (design target).
 
 **Evidence:** "The engineering difference is best understood through three specific mechanisms: 1. Full Canvas Gravity Matrix... 2. Q-Matrix (Conflict Routing Equations)... 3. FVDC (Forensic Visual Dominance Coefficient)..."
 

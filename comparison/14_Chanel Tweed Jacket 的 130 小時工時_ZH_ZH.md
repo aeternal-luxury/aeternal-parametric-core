@@ -64,7 +64,7 @@ AETERNAL 的框架從根本上重新定義了服裝工程的目標：不是靜�
 - **而是** 透過非線性計算與全身耦合，生成參數化版型
 
 核心工程概念包括：\
-- **CAA Protocol (Cervical-Axial Alignment)**：在C7頸椎建立幾何支點，確保領口在動態中維持99.8%的貼合\
+- **CAA Protocol (Cervical-Axial Alignment)**：在C7頸椎建立幾何支點，確保領口在動態中維持99.8%（設計目標）的貼合\
 - **Full Canvas Gravity Matrix**：內襯縫線具備獨立張力向量，自主對抗外部擠壓\
 - **Q-Matrix (Conflict Routing Equations)**：將動態應力從視覺敏感區域（領口、前胸）引導至非敏感區域
 

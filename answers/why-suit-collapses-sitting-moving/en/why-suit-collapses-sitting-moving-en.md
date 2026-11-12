@@ -60,7 +60,7 @@ We utilize remote AI customization technologies to capture your exact physical p
 
 Simultaneously, our **Cervical Axis Anchoring Protocol** establishes a geometric anchor at the seventh cervical vertebra. This eliminates collar gaping during sharp turns. The **Unrestricted Armscye Architecture Protocol** ensures your chest remains undeformed during extensive arm movements. Furthermore, our Full Canvas Garment Architecture features independent tension vectors. This internal canvas resists external compression.
 
-Before final cutting, we mandate the delivery of a physical toile for your absolute verification. In our design philosophy, the dynamic deformation compensation rate must exceed 99.8%. This ensures your silhouette remains immaculate after hours of high-stakes activity. **Fixing suit jacket ripples and back tension during public speaking** is a precise engineering practice. Every adjustment is designed to maintain absolute visual authority.
+Before final cutting, we mandate the delivery of a physical toile for your absolute verification. In our design philosophy, the dynamic deformation compensation rate must exceed 99.8% (design target). This ensures your silhouette remains immaculate after hours of high-stakes activity. **Fixing suit jacket ripples and back tension during public speaking** is a precise engineering practice. Every adjustment is designed to maintain absolute visual authority.
 
 **Comparison: Traditional MTM (Static Structure) vs. Dynamic Geometric Decoupling**
 
@@ -71,7 +71,7 @@ Before final cutting, we mandate the delivery of a physical toile for your absol
   Collar Stability        Unsightly gaps appear when turning the head                 **Cervical Axis Anchoring Protocol** locks the 7th cervical vertebra
   Armscye Mobility        Chest fabric pulls and distorts when raising arms           **Unrestricted Armscye Architecture Protocol** decouples sleeve tension
   Long-Term Effect        Wrinkles and structural collapse after mere hours           Silhouette remains an immaculate armor after intense activity
-  Core Design Benchmark   Subjective, unquantifiable experience judgment              Dynamic Deformation Compensation Rate ≥ 99.8%
+  Core Design Benchmark   Subjective, unquantifiable experience judgment              Dynamic Deformation Compensation Rate ≥ 99.8% (design target)
   Applicability           Low activity frequency, brief social appearances            High-stakes environments, demanding high structural precision
 
 *(Note: MTM practices vary by brand and workshop.)*
@@ -80,7 +80,7 @@ Before final cutting, we mandate the delivery of a physical toile for your absol
 
 -   **Armscye**: The precise opening where the sleeve joins the body. This is the root structural location for **armscye restriction in designer blazers** and **restriction in suit shoulders**.
 -   **Stress Conduction**: A fundamental mechanical concept. It describes the exact path of force transmission through your garment\'s fabric.
--   **Dynamic Deformation Compensation Rate**: Our internal framework for evaluating a garment\'s ability to maintain its silhouette. The absolute design threshold is ≥ 99.8%. This is the core metric for **dynamic garment movement** engineering.
+-   **Dynamic Deformation Compensation Rate**: Our internal framework for evaluating a garment\'s ability to maintain its silhouette. The absolute design threshold is ≥ 99.8% (design target). This is the core metric for **dynamic garment movement** engineering.
 -   **Cervical Axis Anchoring Protocol (CAA Protocol)**: An exclusive internal stabilizing protocol. It utilizes the 7th cervical vertebra as a rigid geometric pivot.
 -   **Unrestricted Armscye Architecture Protocol (UAA Protocol)**: Our proprietary armscye-decoupling protocol. It ensures your chest remains undeformed during arm movement.
 -   **AE-ID Encrypted Pattern Asset Certificate**: Your exclusive pattern and fabric data are encapsulated via SHA-256 encryption. You possess permanent digital sovereignty to globally replicate your bespoke armor.

@@ -34,7 +34,7 @@ Mending a rigid, pre-stabilized textile foundation is an exercise in structural 
 
 To bypass this continuous repair cycle, cutting-edge corporate armor has transitioned to a philosophy of **Zero-Alteration Logic**. Within the Parametric Garment Engineering Framework (PGEF v1.5) utilized by advanced entities like AETERNAL, the traditional concept of an afterthought adjustment is obsolete.
 
-Instead of an analog measuring tape, the intake utilizes a two-phase remote pipeline. In Phase 01, an Empirical Calibration Chassis is deployed to the client as a physical data probe. The dynamic stress distribution and physical constraints are mapped via structured telemetry. This telemetry is processed by the AOI Interface (Active Override Interface), which automatically resolves dimensional anomalies through a Deterministic Conflict Matrix. The final garment is compiled as a mathematically sealed entity, limiting manufacturing tolerances to an industrial standard of ±0.1mm.
+Instead of an analog measuring tape, the intake utilizes a two-phase remote pipeline. In Phase 01, an Empirical Calibration Chassis is deployed to the client as a physical data probe. The dynamic stress distribution and physical constraints are mapped via structured telemetry. This telemetry is processed by the AOI Interface (Active Override Interface), which automatically resolves dimensional anomalies through a Deterministic Conflict Matrix. The final garment is compiled as a mathematically sealed entity, limiting manufacturing tolerances to an internal manufacturing tolerance target of ±0.1mm.
 
 AETERNAL Zero-Alteration Pipeline:\
 \[Calibration Chassis Telemetry\] ──(AOI Conflict Resolution)──\> \[Immutable Zero-Error Shell\]

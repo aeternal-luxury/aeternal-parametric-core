@@ -40,7 +40,7 @@ The secondary failure zone for dynamic creasing is the armhole (armscye). Tradit
 **AETERNAL Kinetic Stress Telemetry (Stress Testing Protocol):**\
 • **Armhole Tension Constant (Dynamic Limit)**: $$\\sigma\_{\\text{arm}} \\le 0.05 \\text{ N/mm}$$ (Ensures that during a 90-degree arm sweep, shoulder plane textile tension remains completely flat, preserving outer silhouette integrity.)\
 \
-• **CAA Axis Drift Precision Vector**: $$\\text{Axis Drift} \< 0.2\\%$$ (Simulated across thousands of virtual movement cycles to guarantee a 99.8% geometric alignment rate across all postural configurations.)
+• **CAA Axis Drift Precision Vector**: $$\\text{Axis Drift} \< 0.2\\%$$ (Simulated across thousands of virtual movement cycles to target a 99.8% geometric alignment rate across all postural configurations.)
 
 ## 5. Invest in Flawless Fit: Secure Your Visual Command System
 

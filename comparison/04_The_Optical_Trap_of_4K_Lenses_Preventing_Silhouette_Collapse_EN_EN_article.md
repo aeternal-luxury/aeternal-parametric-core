@@ -99,7 +99,7 @@ The Full Canvas Gravity Matrix is an internal architecture where the canvas stit
 
 8. **Can a tailor fix Shadow Pooling?** No, because the root cause is the pattern engineering methodology, not the execution. A tailor can adjust fit, but cannot redesign the stress transmission paths without fundamentally changing the pattern generation process.
 
-9. **What is the FVDC?** The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment’s ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%.
+9. **What is the FVDC?** The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment’s ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3% (design target).
 
 10. **Why is 4K scrutiny important?** Because high-resolution cameras and directional light amplify surface micro-irregularities that are invisible to the naked eye. In the 4K era, any structural weakness becomes optically visible and psychologically impactful.
 

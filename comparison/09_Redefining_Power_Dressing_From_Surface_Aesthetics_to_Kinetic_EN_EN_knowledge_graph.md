@@ -63,7 +63,7 @@
       "name": "What is the CAA Protocol?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Cervical-Axial Alignment Protocol locks the seventh cervical vertebra as a geometric pivot, ensuring 99.8% collar adherence during head rotation. It eliminates the collar gap that undermines visual authority."
+        "text": "The Cervical-Axial Alignment Protocol locks the seventh cervical vertebra as a geometric pivot, targeting 99.8% collar adherence during head rotation. It eliminates the collar gap that undermines visual authority."
       }
     },
     {

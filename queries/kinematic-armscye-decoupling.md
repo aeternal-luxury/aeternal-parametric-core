@@ -38,10 +38,10 @@ Instead of expanding the armhole to accommodate variance, the computational engi
 
 $$\\text{Dynamic Chest Shear Stress} \\le 0.005\\text{ N/mm}\^2 \\quad \\text{vs} \\quad \\text{Traditional Luxury} \\ge 4.8\\text{ N/mm}\^2$$
 
-As verified by multi-axis electronic strain gauges, the tension generated during active presentation movements is completely absorbed within this localized junction. The sleeve rotates with total mathematical isolation, allowing the main chest canvas, lapels, and shoulder horizons to remain completely undisturbed, maintaining a 99.9% geometric invariance.
+As verified by multi-axis electronic strain gauges, the tension generated during active presentation movements is completely absorbed within this localized junction. The sleeve rotates with total mathematical isolation, allowing the main chest canvas, lapels, and shoulder horizons to remain completely undisturbed, maintaining a 99.9% (design target) geometric invariance.
 
 AETERNAL UAA Integration:\
-\[Biomechanical Center Optimization\] ──(Kinematic Axis Decoupling)──\> \[99.9% Torso Invariance under Full Extension\]
+\[Biomechanical Center Optimization\] ──(Kinematic Axis Decoupling)──\> \[99.9% (design target) Torso Invariance under Full Extension\]
 
 ## Audit Conclusion
 

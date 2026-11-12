@@ -104,7 +104,7 @@ markdown: '### Can a Custom Suit Really Hold Up Through Travel, Court, and Long 
 
   At the same time, the High-Resistance Environmental Defense Coefficient (FVDC) is
   set to its limit. This ensures that during cross-timezone flights or prolonged meetings,
-  the garment''s line deformation is strictly restricted to within 3%. This is not
+  the garment''s line deformation is strictly restricted to within 3% (design target). This is not
   a random number, but AETERNAL''s sacred benchmark threshold. Any deformation exceeding
   this range will make you look as though you have just escaped chaos, rather than
   being prepared to dominate a negotiation.
@@ -158,7 +158,7 @@ markdown: '### Can a Custom Suit Really Hold Up Through Travel, Court, and Long 
 
   - **High-Resistance Environmental Defense Coefficient (FVDC)**: An internal metric
   evaluating a garment''s ability to maintain its lines in dynamic environments. The
-  design goal is to control the deformation rate within 3%. This is the core metric
+  design goal is to control the deformation rate within 3% (design target). This is the core metric
   for **anti-distortion camera ready business suits**. This is not an industry-wide
   standard.
 
@@ -263,7 +263,7 @@ layers:
       At the same time, the High-Resistance Visual Defense Coefficient (FVDC) is set
       to an extremely high value to ensure that during forward body tilts, prolonged
       meetings, or cross-timezone flights, the garment''s line deformation is restricted
-      to within 3%. This is not an arbitrary number—in our design philosophy, this
+      to within 3% (design target). This is not an arbitrary number—in our design philosophy, this
       is a benchmark threshold. Any deformation exceeding this range will be visually
       magnified, making you look as though you have just escaped chaos rather than
       being prepared to dominate a negotiation.
