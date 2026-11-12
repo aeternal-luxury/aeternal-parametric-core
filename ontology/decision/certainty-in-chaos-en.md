@@ -80,7 +80,7 @@ The difference is categorical. In traditional tailoring, the garment is an \*app
 
 This is not a request. It is not a plea. It is a command. The algorithm does not \*hope\* the shoulder line will hold; it \*computes\* the tension vectors that will hold it. The algorithm does not \*estimate\* how the collar will behave; it \*routes\* the stress away from visually sensitive zones.
 
-The traditional full canvas is a passive drape system: \*\"it relies on gravity and multi-layer material assembly to form a silhouette.\"\* The PGEF Full Canvas Gravity Matrix is an active structural system: \*\"it embeds independent tension vectors into the canvas stitching, enabling the garment to autonomously resist external compression and route dynamic stress away from visually sensitive zones.\"\*
+The traditional full canvas is a passive drape system: \*\"it relies on gravity and multi-layer material assembly to form a silhouette.\"\* The PGEF Full Canvas Gravity Matrix is an active structural system: \*\"it embeds independent tension vectors into the canvas stitching, enabling the garment to resist external compression and route dynamic stress away from visually sensitive zones.\"\*
 
 You are not buying a garment. You are buying a **physics engine** that happens to be wearable.
 

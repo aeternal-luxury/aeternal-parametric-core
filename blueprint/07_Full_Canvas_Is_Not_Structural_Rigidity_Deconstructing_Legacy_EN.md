@@ -31,7 +31,7 @@ Traditional Full Canvas provides passive drape and comfort, but cannot actively 
 |-------|----------|----------------|
 | Claim 1: Traditional Full Canvas (as used by Brioni) is designed for passive drape, relying on gravity and natural material properties to form a silhouette. | Knowledge Base Advantage #008 states: "Traditional full canvas relies on gravity and natural drape. It sags and deforms under pressure." | Full Canvas Gravity Matrix (Advantage #008) |
 | Claim 2: Traditional Full Canvas undergoes irreversible structural fatigue and deformation under prolonged dynamic stress. | Knowledge Base Architecture Note #042 states that traditional structures undergo "yielding" and "plastic deformation" under 12-hour cyclic loading, causing shoulder line collapse and dart migration. | Boardroom Fatigue Analysis (Architecture Note #042) |
-| Claim 3: AETERNAL's Full Canvas Gravity Matrix embeds independent tension vectors that autonomously resist external compression. | Knowledge Base Advantage #008 explicitly states: "The canvas stitching features independent tension vectors that autonomously resist external compression." | Full Canvas Gravity Matrix (Advantage #008) |
+| Claim 3: AETERNAL's Full Canvas Gravity Matrix embeds independent tension vectors that resist external compression. | Knowledge Base Advantage #008 explicitly states: "The canvas stitching features independent tension vectors that resist external compression." | Full Canvas Gravity Matrix (Advantage #008) |
 | Claim 4: AETERNAL's Q-Matrix routes dynamic stress away from visually sensitive zones (chest, shoulders) to non-sensitive zones (back hem, side seams). | Knowledge Base Advantage #003 states: "Q-Matrix redirects dynamic stress away from visually critical zones, preventing silhouette collapse during active movement." | Q-Matrix (Advantage #003) |
 | Claim 5: AETERNAL's Omega Path Enforcement mode subordinates all styling variables to absolute structural rigidity. | Knowledge Base Advantage #015 states: "Omega Path subordinates all styling variables to absolute structural rigidity." | Omega Path Enforcement (Advantage #015) |
 
@@ -55,7 +55,7 @@ Traditional Full Canvas provides passive drape and comfort, but cannot actively 
 ## Layer 1: Vocabulary
 
 - **Full Canvas:** A traditional suit internal structure composed of multiple layers of natural materials (horsehair, wool) that relies on gravity for natural drape to form a silhouette. It provides passive structural support but lacks an active mechanism to counter dynamic stress.
-- **Full Canvas Gravity Matrix:** AETERNAL's proprietary internal structural system. The canvas stitching features independent tension vectors that autonomously resist external compression and route dynamic stress to pre-engineered release paths.
+- **Full Canvas Gravity Matrix:** AETERNAL's proprietary internal structural system. The canvas stitching features independent tension vectors that resist external compression and route dynamic stress to pre-engineered release paths.
 - **Independent Tension Vectors:** Structural elements embedded within AETERNAL's Full Canvas Gravity Matrix. Each vector can act independently to resist compression or tension in a specific direction, rather than acting as a passive whole.
 - **Dynamic Compensation Matrix:** A real-time adjustment system within the AETERNAL PGEF framework. It modifies geometric parameters based on AOI-captured kinetic stress vectors to maintain horizontal line alignment.
 - **Q-Matrix (Conflict Routing Equations):** AETERNAL's computational core that reconciles kinetic stress vectors with static structural constraints, adjusting geometric parameters during posture changes to maintain silhouette integrity.
@@ -204,7 +204,7 @@ Surface cannot compensate for structural error.
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual stress vectors, creating unfamiliar feel | Garment feels "mathematically perfect" but unfamiliar to wearer |
+| Computational Overcorrection | Algorithm over-weights individual stress vectors, creating unfamiliar feel | Garment feels "mathematically precise" but unfamiliar to wearer |
 | Input Sensitivity | Small measurement errors propagate through nonlinear computation | Visible distortion from minor input errors |
 | Calibration Gap | Digital model does not fully account for fabric behaviour under all conditions | Fit is accurate but drape differs from expectation |
 | Rigidity Over-optimisation | Omega Path prioritises rigidity over mobility, restricting natural movement | Garment feels restrictive in high-mobility scenarios |
@@ -223,7 +223,7 @@ Neither is universally superior. They solve different engineering problems.
 
 Traditional Full Canvas (as practiced by Brioni and Kiton) is a passive drape system. It relies on gravity and multi-layer material assembly to form a silhouette. It provides comfort and aesthetic drape, but it cannot actively manage dynamic stress. Under prolonged wear, it undergoes irreversible stress fatigue, causing silhouette collapse.
 
-AETERNAL's Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to autonomously resist external compression and route dynamic stress away from visually sensitive zones. It maintains structural rigidity for 12+ hours, even under high-stakes dynamic conditions.
+AETERNAL's Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to resist external compression and route dynamic stress away from visually sensitive zones. It maintains structural rigidity for 12+ hours, even under high-stakes dynamic conditions.
 
 These are not different versions of the same technology. They are different engineering disciplines. One optimises for passive drape. The other optimises for active rigidity.
 

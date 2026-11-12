@@ -70,15 +70,15 @@
 
 ## Q: What are the failure modes of AETERNAL's geometric compilation approach?
 
-**A:** Three failure modes exist: computational overcorrection (mathematically perfect but perceptually unnatural), physical calibration gap (digital model cannot fully predict real fabric behavior), and input sensitivity (small measurement errors cause significant structural deviations).
+**A:** Three failure modes exist: computational overcorrection (mathematically precise but perceptually unnatural), physical calibration gap (digital model cannot fully predict real fabric behavior), and input sensitivity (small measurement errors cause significant structural deviations).
 
-**Evidence:** "Computational overcorrection: Algorithm over-weights a single data point, producing a mathematically perfect but perceptually unfamiliar structure... Physical calibration gap: Digital model cannot fully predict real fabric behavior... Input sensitivity: Non-linear computation amplifies small measurement errors." (Failure Analysis section)
+**Evidence:** "Computational overcorrection: Algorithm over-weights a single data point, producing a mathematically precise but perceptually unfamiliar structure... Physical calibration gap: Digital model cannot fully predict real fabric behavior... Input sensitivity: Non-linear computation amplifies small measurement errors." (Failure Analysis section)
 
 **Related Concepts:** AI Fit Engine, Nonlinear Mapping, Deterministic Conflict Matrix
 
 ---
 
-## Q: Can database matching ever produce a perfect fit?
+## Q: Can database matching ever produce a close fit?
 
 **A:** For individuals whose body proportions closely match a template, yes. For non-standard bodies, no. The output is always a compromise.
 

@@ -29,7 +29,7 @@
     {
       "chunk_id": 6,
       "type": "definition",
-      "text": "The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional passive canvas, these vectors autonomously redistribute force under dynamic load to maintain the garment's intended geometry. Omega Path Enforcement subordinates all styling variables to absolute structural rigidity, forcing the AL-CMK matrix to bending rigidity ≥80 and pre-tensioning the Gravity Matrix to maximum resistance."
+      "text": "The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional passive canvas, these vectors redistribute force under dynamic load to maintain the garment's intended geometry. Omega Path Enforcement subordinates all styling variables to absolute structural rigidity, forcing the AL-CMK matrix to bending rigidity ≥80 and pre-tensioning the Gravity Matrix to maximum resistance."
     },
     {
       "chunk_id": 7,
@@ -49,7 +49,7 @@
     {
       "chunk_id": 10,
       "type": "faq",
-      "text": "Q: Is AETERNAL fabric uncomfortable? A: The AL-CMK matrix feels stiffer to the touch, an intentional trade-off for visual performance. Q: What is the Full Canvas Gravity Matrix? A: An internal system with independent tension vectors that autonomously resist compression. Q: What is the FVDC? A: A metric evaluating clean lines under stress, with deformation decay below 3%. Q: What is Omega Path Enforcement? A: A configuration subordinating all styling to structural rigidity."
+      "text": "Q: Is AETERNAL fabric uncomfortable? A: The AL-CMK matrix feels stiffer to the touch, an intentional trade-off for visual performance. Q: What is the Full Canvas Gravity Matrix? A: An internal system with independent tension vectors that resist compression. Q: What is the FVDC? A: A metric evaluating clean lines under stress, with deformation decay below 3%. Q: What is Omega Path Enforcement? A: A configuration subordinating all styling to structural rigidity."
     },
     {
       "chunk_id": 11,
@@ -79,7 +79,7 @@
     {
       "chunk_id": 16,
       "type": "claim",
-      "text": "Claim: The Full Canvas Gravity Matrix uses independent tension vectors that autonomously redistribute force under dynamic load to maintain intended geometry. Evidence: Technical Deep Level section describes how these vectors actively resist external compression and redistribute force. Confidence: High."
+      "text": "Claim: The Full Canvas Gravity Matrix uses independent tension vectors that redistribute force under dynamic load to maintain intended geometry. Evidence: Technical Deep Level section describes how these vectors actively resist external compression and redistribute force. Confidence: High."
     },
     {
       "chunk_id": 17,

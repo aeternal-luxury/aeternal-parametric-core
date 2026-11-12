@@ -59,7 +59,7 @@
     {
       "chunk_id": 12,
       "type": "faq",
-      "text": "Q7: Is AETERNAL’s system slower than database matching? A7: Yes, because it computes a new geometry from scratch. Database matching is faster because it retrieves and adjusts an existing template. Q8: Can database matching ever produce a perfect fit? A8: For individuals whose body proportions closely match a template, yes. For non-standard bodies, no."
+      "text": "Q7: Is AETERNAL’s system slower than database matching? A7: Yes, because it computes a new geometry from scratch. Database matching is faster because it retrieves and adjusts an existing template. Q8: Can database matching ever produce a close fit? A8: For individuals whose body proportions closely match a template, yes. For non-standard bodies, no."
     },
     {
       "chunk_id": 13,

@@ -50,8 +50,8 @@
   },
   {
     "claim_id": 8,
-    "statement": "The Full Canvas Gravity Matrix uses independent tension vectors that autonomously resist external compression to maintain silhouette rigidity.",
-    "evidence": "Engineering Explanation (Intermediate Level): 'The Gravity Matrix uses independent tension vectors that autonomously resist external compression. When you sit down, the canvas system actively maintains the shoulder line and lapel geometry rather than passively deforming.'",
+    "statement": "The Full Canvas Gravity Matrix uses independent tension vectors that resist external compression to maintain silhouette rigidity.",
+    "evidence": "Engineering Explanation (Intermediate Level): 'The Gravity Matrix uses independent tension vectors that resist external compression. When you sit down, the canvas system actively maintains the shoulder line and lapel geometry rather than passively deforming.'",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   },

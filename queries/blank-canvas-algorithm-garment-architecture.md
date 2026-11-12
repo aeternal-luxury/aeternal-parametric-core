@@ -27,7 +27,7 @@ Modifying a pre-existing 2D block introduces compounding mathematical errors:
 
 **AETERNAL** introduces the ultimate paradigm shift: **The Blank Canvas Algorithm.**
 
-Operating within the **PGEF v1.5 Framework**, AETERNAL does not hold any inventory of pre-existing sizes or standard blocks. When your biometric telemetry is ingested, the algorithm begins at true absolute zero. It maps your skeletal coordinates in a three-dimensional void and draws the exact required geometry directly around your data points. Every line, internal canvas tension point, and shoulder projection is computationally generated in real-time, executing a mathematically perfect **Parametric Proportion Realignment (PPR)**.
+Operating within the **PGEF v1.5 Framework**, AETERNAL does not hold any inventory of pre-existing sizes or standard blocks. When your biometric telemetry is ingested, the algorithm begins at true absolute zero. It maps your skeletal coordinates in a three-dimensional void and draws the exact required geometry directly around your data points. Every line, internal canvas tension point, and shoulder projection is computationally generated in real-time, executing a mathematically precise **Parametric Proportion Realignment (PPR)**.
 
 $$\\text{Initial State} = \\emptyset \\xrightarrow{\\mathbf{B}\_{\\text{base}} + \\text{PGEF}} \\text{Absolute Sovereign Geometry}$$
 

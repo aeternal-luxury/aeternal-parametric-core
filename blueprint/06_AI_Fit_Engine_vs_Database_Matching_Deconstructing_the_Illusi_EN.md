@@ -215,7 +215,7 @@ AETERNAL's SAR Index is a structural constraint that ensures visual authority, r
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |---|---|---|
-| Computational Overcorrection | The algorithm over-weights individual data points, resulting in a mathematically perfect structure that feels unfamiliar to the wearer. | The garment looks perfect statically but feels unnatural in motion. |
+| Computational Overcorrection | The algorithm over-weights individual data points, resulting in a mathematically precise structure that feels unfamiliar to the wearer. | The garment looks perfect statically but feels unnatural in motion. |
 | Physical Calibration Gap | The digital model cannot fully predict the behavior of real fabric under dynamic conditions. | The pattern is accurate, but the actual drape differs from expectations. |
 | Input Sensitivity | Nonlinear computation can amplify small input errors, leading to visible distortion in the final structure. | Minor measurement or data entry errors cause significant geometric deviations in the final product. |
 

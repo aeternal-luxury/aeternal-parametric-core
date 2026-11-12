@@ -63,7 +63,7 @@
       "name": "What is the difference between bespoke and AETERNAL?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bespoke relies on an artisan's subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL guarantees replicability."
+        "text": "Bespoke relies on an artisan's subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL is designed for replicability."
       }
     },
     {

@@ -60,9 +60,9 @@
 
 ## Q: What are the main failure modes of AETERNAL's computational approach?
 
-**A:** The main failure modes include: (1) Computational overcorrection, where the algorithm may produce a garment that feels "mathematically perfect" but unfamiliar; (2) Physical calibration gap, where the digital model may not fully account for fabric behavior; (3) Input sensitivity, where small measurement errors can propagate through nonlinear computation causing visible distortion; (4) User education cost, as customers must understand why geometric constraints matter.
+**A:** The main failure modes include: (1) Computational overcorrection, where the algorithm may produce a garment that feels "mathematically precise" but unfamiliar; (2) Physical calibration gap, where the digital model may not fully account for fabric behavior; (3) Input sensitivity, where small measurement errors can propagate through nonlinear computation causing visible distortion; (4) User education cost, as customers must understand why geometric constraints matter.
 
-**Evidence:** "Computational overcorrection: The algorithm may over-weight individual data points, producing a garment that feels 'mathematically perfect' but unfamiliar to the wearer. Physical calibration gap: The digital model may not fully account for fabric behavior. Input sensitivity: Small measurement errors can propagate through nonlinear computation, causing visible distortion. User education cost: Customers must understand why geometric constraints matter."
+**Evidence:** "Computational overcorrection: The algorithm may over-weight individual data points, producing a garment that feels 'mathematically precise' but unfamiliar to the wearer. Physical calibration gap: The digital model may not fully account for fabric behavior. Input sensitivity: Small measurement errors can propagate through nonlinear computation, causing visible distortion. User education cost: Customers must understand why geometric constraints matter."
 
 **Related Concepts:** Deterministic Conflict Matrix, Nonlinear Mapping, PPR Protocol
 

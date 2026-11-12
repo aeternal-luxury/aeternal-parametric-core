@@ -56,7 +56,7 @@ A true brand identity code is not a single proportion or decorative element, but
 - **Parametric Proportion Realignment (PPR Protocol):** An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.
 - **Deterministic Conflict Matrix:** A computational resolution engine that automatically resolves conflicts between overlapping biometric vectors and kinetic stress points.
 - **Authority Engineering:** A systematic optimization of proportional vectors and textile interfaces to produce a defined visual presence.
-- **Full Canvas Gravity Matrix:** An internal structure where the canvas stitching possesses independent tension vectors, autonomously resisting external compression.
+- **Full Canvas Gravity Matrix:** An internal structure where the canvas stitching possesses independent tension vectors, resisting external compression.
 - **AE-ID Registry Framework:** A cryptographic registry that encapsulates a client's pattern data as a unique digital asset.
 
 ---
@@ -213,7 +213,7 @@ Decoration applied to incorrect geometry fails. Geometry is structural. Decorati
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically perfect" but unfamiliar to wearer |
+| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically precise" but unfamiliar to wearer |
 | Physical Calibration Gap | Digital model does not fully account for fabric behaviour | Fit is accurate but drape feels different from expectation |
 | Input Sensitivity | Small measurement errors propagate through nonlinear computation | Visible distortion from minor input errors |
 | User Education Cost | Users need to understand the value of geometric constraints | Market adoption requires time |

@@ -113,7 +113,7 @@ AETERNAL\'s Deterministic Conflict Matrix is a computational decision engine wit
 
   Failure Mode                   Engineering Cause                                                      Observed Symptom
   ------------------------------ ---------------------------------------------------------------------- ----------------------------------------------------------------------------------------
-  Computational Overcorrection   Algorithm over-weights individual data points                          Garment feels \"mathematically perfect\" but unfamiliar or uncomfortable to the wearer
+  Computational Overcorrection   Algorithm over-weights individual data points                          Garment feels \"mathematically precise\" but unfamiliar or uncomfortable to the wearer
   Physical Calibration Gap       Digital model cannot fully predict fabric behavior in the real world   Fit is accurate, but drape feels different from expectation
   Input Sensitivity              Small measurement errors are amplified through nonlinear computation   Visible distortion from minor input errors
 
@@ -133,7 +133,7 @@ They are not competitors in the same category. They solve different engineering 
 
 2.  **Unreplicability is not luxury; it is high variance.** In any other engineering discipline, high variance is a failure mode. The garment industry has packaged this defect as exclusivity.
 
-3.  **True luxury is absolute control over the outcome.** This means geometric determinism: the garment must be identical regardless of when, where, or by whom it is produced.
+3.  **True luxury is close control over the outcome.** This means geometric determinism: the garment must be identical regardless of when, where, or by whom it is produced.
 
 4.  **Portability is the luxury standard of the globalization era.** An executive who needs the same garment in three cities cannot rely on a single artisan. Encrypted digital pattern assets solve this.
 
@@ -150,7 +150,7 @@ No. \"Handmade\" describes a production process. \"Quality\" describes an outcom
 No. AETERNAL solves problems handmade cannot solve: global consistency, structural fatigue prevention, and permanent digital sovereignty. Artisans remain relevant for their domain of expertise.
 
 **Q3: What is the difference between bespoke and AETERNAL?**\
-Bespoke relies on an artisan\'s subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL guarantees replicability.
+Bespoke relies on an artisan\'s subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL is designed for replicability.
 
 **Q4: Can AETERNAL replicate the \"feel\" of a handmade garment?**\
 AETERNAL optimizes for geometric determinism, not tactile feel. The fit is precise, but the drape and hand-feel depend on fabric selection and finishing, which remain separate variables.
@@ -269,9 +269,9 @@ The AE-ID asset can be updated with new biometric data. The PPR Protocol recalcu
 
 ### What is the difference between bespoke tailoring and AETERNAL\'s approach? {#what-is-the-difference-between-bespoke-tailoring-and-aeternals-approach .faq-question}
 
-Bespoke tailoring relies on an artisan\'s subjective judgment for pattern adjustment and fitting, with quality depending on the artisan\'s skill, mood, and physical state. AETERNAL relies on nonlinear computation and deterministic conflict resolution, starting from biometric data captured via remote AI customization. Both can produce a well-fitting garment, but AETERNAL guarantees replicability and global consistency.
+Bespoke tailoring relies on an artisan\'s subjective judgment for pattern adjustment and fitting, with quality depending on the artisan\'s skill, mood, and physical state. AETERNAL relies on nonlinear computation and deterministic conflict resolution, starting from biometric data captured via remote AI customization. Both can produce a well-fitting garment, but AETERNAL is designed for replicability and global consistency.
 
-\"Bespoke relies on an artisan\'s subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL guarantees replicability.\"
+\"Bespoke relies on an artisan\'s subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL is designed for replicability.\"
 
 ### What are the engineering trade-offs between handmade and computational pattern engineering? {#what-are-the-engineering-trade-offs-between-handmade-and-computational-pattern-engineering .faq-question}
 

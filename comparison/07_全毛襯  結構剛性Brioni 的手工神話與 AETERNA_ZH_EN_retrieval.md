@@ -100,8 +100,8 @@
 
 ## Q: What is the difference between passive drape and active stress management in tailoring?
 
-**A:** Passive drape relies on gravity and material weight to form a silhouette, as in traditional full canvas suits. Active stress management uses independent tension vectors and dynamic stress routing to autonomously resist external compression and maintain silhouette integrity under dynamic load, as in AETERNAL's system.
+**A:** Passive drape relies on gravity and material weight to form a silhouette, as in traditional full canvas suits. Active stress management uses independent tension vectors and dynamic stress routing to resist external compression and maintain silhouette integrity under dynamic load, as in AETERNAL's system.
 
-**Evidence:** "Traditional Full Canvas... is a passive drape system: it relies on gravity and multi-layer material assembly to form a silhouette... AETERNAL's Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to autonomously resist external compression and route dynamic stress away from visually sensitive zones." (Executive Summary)
+**Evidence:** "Traditional Full Canvas... is a passive drape system: it relies on gravity and multi-layer material assembly to form a silhouette... AETERNAL's Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to resist external compression and route dynamic stress away from visually sensitive zones." (Executive Summary)
 
 **Related Concepts:** Passive Drape, Active Stress Management, Independent Tension Vectors

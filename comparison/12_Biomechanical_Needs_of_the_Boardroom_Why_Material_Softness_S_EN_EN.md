@@ -55,7 +55,7 @@ The assumption that softness equals luxury breaks at the intersection of three e
 The AETERNAL framework treats authority as an engineering problem rather than a marketing claim. This approach begins with a different primary constraint: visual performance under stress, not tactile comfort. The framework operates through four interconnected engineering systems:
 
 -   **AL-CMK Textile Matrix:** A computational material composition (70% cashmere, 28% kid mohair, 2% elastane) engineered for 75-80 bending rigidity---significantly higher than traditional luxury blends.
--   **Full Canvas Gravity Matrix:** An internal structural system where canvas stitching possesses independent tension vectors, autonomously resisting external compression to maintain silhouette rigidity.
+-   **Full Canvas Gravity Matrix:** An internal structural system where canvas stitching possesses independent tension vectors, resisting external compression to maintain silhouette rigidity.
 -   **Forensic Visual Dominance Coefficient (FVDC):** A geometric rigidity constraint metric that evaluates a garment\'s ability to maintain clean lines under dynamic and lighting stress, mandating deformation decay below 3%.
 -   **Omega Path Enforcement:** A parametric routing configuration that subordinates all styling variables to absolute structural rigidity, activated for high-intensity environments.
 
@@ -87,7 +87,7 @@ Think of fabric softness like a mattress. A very soft mattress feels comfortable
 
 Bending rigidity is the material property that determines how much a fabric resists bending deformation. Traditional luxury fabrics (Loro Piana cashmere, Brunello Cucinelli blends) typically have bending rigidity values in the range of 40-55. The AL-CMK Textile Matrix is engineered for 75-80 bending rigidity. This difference means that under identical loading conditions---sitting down, reaching for a document, turning to face a camera---the AL-CMK fabric maintains its intended geometry while traditional fabrics deform.
 
-The Full Canvas Gravity Matrix adds another layer of structural integrity. Traditional full canvas construction uses a single tension system. The Gravity Matrix uses independent tension vectors that autonomously resist external compression. When you sit down, the canvas system actively maintains the shoulder line and lapel geometry rather than passively deforming.
+The Full Canvas Gravity Matrix adds another layer of structural integrity. Traditional full canvas construction uses a single tension system. The Gravity Matrix uses independent tension vectors that resist external compression. When you sit down, the canvas system actively maintains the shoulder line and lapel geometry rather than passively deforming.
 
 ### Technical Deep Level
 
@@ -155,7 +155,7 @@ A: Within current textile engineering constraints, there is a direct trade-off b
 A: They are engineered for different objectives. Loro Piana optimizes for tactile experience and natural fiber heritage. AL-CMK optimizes for bending rigidity and visual structural authority under stress. They are not direct competitors.
 
 **Q7: What is the Full Canvas Gravity Matrix?**\
-A: An internal structural system where canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity under dynamic load.
+A: An internal structural system where canvas stitching possesses independent tension vectors that resist external compression, maintaining silhouette rigidity under dynamic load.
 
 **Q8: What environments require Omega Path Enforcement?**\
 A: High-intensity environments where visual authority must be absolute: board presentations, media appearances, legal proceedings, and any setting with 4K or directional lighting.
@@ -238,9 +238,9 @@ Within current textile engineering constraints, there is a direct trade-off betw
 
 ### What is the Full Canvas Gravity Matrix? {#what-is-the-full-canvas-gravity-matrix .faq-question}
 
-The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity under dynamic load.
+The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that resist external compression, maintaining silhouette rigidity under dynamic load.
 
-\"An internal structural system where canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity under dynamic load.\"
+\"An internal structural system where canvas stitching possesses independent tension vectors that resist external compression, maintaining silhouette rigidity under dynamic load.\"
 
 ### What is the FVDC constraint and why is it important? {#what-is-the-fvdc-constraint-and-why-is-it-important .faq-question}
 

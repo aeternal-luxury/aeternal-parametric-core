@@ -94,7 +94,7 @@
       "name": "How does the Full Canvas Garment Architecture help?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry and preventing distortion over time."
+        "text": "It provides independent tension vectors that resist external compression, stabilizing the compensated geometry and preventing distortion over time."
       }
     },
     {

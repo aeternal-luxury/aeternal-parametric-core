@@ -59,7 +59,7 @@ Traditional paper patterns degrade, cannot be replicated across borders, and off
 - **Digital Twin:** A dynamic, computable geometric file. It records not only static body measurements but also dynamic data such as postural habits and muscle tension.
 - **SHA-256 Secure Encryption Technology:** A cryptographic hash function used to transform data into a fixed-length, unique fingerprint. Any minor change to the original data produces a completely different hash, ensuring data integrity and immutability.
 - **Spatial Boundary Drift:** A metric for evaluating geometric error during the process of converting data into garment parameters. AETERNAL compresses this to within 0.02%.
-- **Full Canvas Garment Architecture:** AETERNAL's core craftsmanship. The inner canvas stitching possesses independent tension vectors, autonomously resisting external compression to maintain a sharp, upright silhouette.
+- **Full Canvas Garment Architecture:** AETERNAL's core craftsmanship. The inner canvas stitching possesses independent tension vectors, resisting external compression to maintain a sharp, upright silhouette.
 
 ### Layer 2: Concept Comparison
 

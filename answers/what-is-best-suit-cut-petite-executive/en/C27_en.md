@@ -49,7 +49,7 @@ The perfect solution is to choose a precisely tapered narrow lapel. Its visual w
 | Hem Length | Below the hips | Lands precisely near the waistline |
 | Button Stance Height | Linearly scaled from master pattern, sits low | Precisely calculated via remote AI customization technologies, significantly raised |
 | Lapel Width | Standard width | Tapered narrow cut, achieving geometric balance with shoulder width |
-| Shoulder Line Tension | Tension completely disappears after linear scaling | Full-canvas gravity matrix, autonomously resisting external compression |
+| Shoulder Line Tension | Tension completely disappears after linear scaling | Full-canvas gravity matrix, resisting external compression |
 | Visual Effect | Visual center of gravity sinks, compressing presence | Visual center of gravity shifts upward, projecting absolute sovereign authority |
 | Core Design Benchmark | Crude subjective empirical judgment | Structural Authority Ratio (SAR Index) ≥ 1.618 |
 | Application Prerequisite | Minimal deviation from standard size | Exclusive AE-ID encrypted pattern, for those seeking ultimate structure |

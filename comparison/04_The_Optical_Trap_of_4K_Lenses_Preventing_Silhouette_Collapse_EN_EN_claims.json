@@ -64,8 +64,8 @@
   },
   {
     "claim_id": 10,
-    "statement": "The Full Canvas Gravity Matrix is an internal architecture where canvas stitching possesses independent tension vectors that autonomously resist external compression, unlike traditional fused interlining which deforms under pressure.",
-    "evidence": "The article states: 'The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that autonomously resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths.' (Engineering Explanation, Level 3).",
+    "statement": "The Full Canvas Gravity Matrix is an internal architecture where canvas stitching possesses independent tension vectors that resist external compression, unlike traditional fused interlining which deforms under pressure.",
+    "evidence": "The article states: 'The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths.' (Engineering Explanation, Level 3).",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   }

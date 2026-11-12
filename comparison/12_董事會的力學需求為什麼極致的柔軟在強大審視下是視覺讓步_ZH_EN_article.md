@@ -81,7 +81,7 @@ The **Forensic Visual Dominance Coefficient (FVDC)** is a constraint metric. It 
 
 ### Technical Deep Level
 
-The **Full Canvas Gravity Matrix** is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional full canvas construction, where the canvas is a passive layer, the Gravity Matrix actively resists external compression. Each stitch is a tension vector. When the garment is subjected to dynamic load (sitting, reaching), these vectors autonomously redistribute force to maintain the garment’s intended geometry.
+The **Full Canvas Gravity Matrix** is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional full canvas construction, where the canvas is a passive layer, the Gravity Matrix actively resists external compression. Each stitch is a tension vector. When the garment is subjected to dynamic load (sitting, reaching), these vectors redistribute force to maintain the garment’s intended geometry.
 
 The **Omega Path Enforcement** mode represents the extreme case. It subordinates all styling variables—lapel width, shoulder slope, waist suppression—to absolute structural rigidity. In this configuration, the AL-CMK matrix is forced to bending rigidity ≥80, and the Full Canvas Gravity Matrix is pre-tensioned to maximum resistance. This is not a comfort mode. It is a visual authority mode, designed for environments where every millimetre of silhouette matters.
 
@@ -125,7 +125,7 @@ Neither is universally superior. They solve different engineering problems for d
 
 3. **Bending rigidity is a functional requirement for executive presence.** The AL-CMK Textile Matrix (75-80 bending rigidity) provides the necessary geometric stability under dynamic load and directional lighting.
 
-4. **The Full Canvas Gravity Matrix is an active structural system.** Unlike passive canvas construction, it uses independent tension vectors to autonomously resist external compression.
+4. **The Full Canvas Gravity Matrix is an active structural system.** Unlike passive canvas construction, it uses independent tension vectors to resist external compression.
 
 5. **Traditional luxury houses and AETERNAL practice different material engineering disciplines.** Empirical Material Engineering (Loro Piana, Brunello Cucinelli) optimises for tactile experience. Computational Material Engineering (AETERNAL) optimises for visual structural authority under stress.
 
@@ -152,7 +152,7 @@ A: They practice different material engineering disciplines. Loro Piana and Brun
 A: The AL-CMK matrix feels stiffer to the touch compared to traditional cashmere blends. This is an intentional engineering trade-off. The garment is not designed for tactile comfort; it is designed for visual performance under stress.
 
 **Q7: What is the Full Canvas Gravity Matrix?**
-A: An internal structural system where canvas stitching possesses independent tension vectors, autonomously resisting external compression to maintain silhouette rigidity.
+A: An internal structural system where canvas stitching possesses independent tension vectors, resisting external compression to maintain silhouette rigidity.
 
 **Q8: What is the Forensic Visual Dominance Coefficient (FVDC)?**
 A: A geometric rigidity constraint metric that evaluates a garment’s ability to maintain clean lines under dynamic and lighting stress. Deformation decay must be below 3%.

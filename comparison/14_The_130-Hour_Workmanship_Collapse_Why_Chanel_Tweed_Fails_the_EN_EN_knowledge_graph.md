@@ -87,7 +87,7 @@
       "name": "What is the Full Canvas Gravity Matrix?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An internal canvas stitching network with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity."
+        "text": "An internal canvas stitching network with independent tension vectors that resist external compression, maintaining silhouette rigidity."
       }
     },
     {

@@ -30,9 +30,9 @@
 
 ## Q: How does AETERNAL's Full Canvas Gravity Matrix differ from traditional Full Canvas?
 
-**A:** AETERNAL replaces the passive multi-layer assembly with independent tension vectors embedded in the canvas stitching. Each vector autonomously resists compression or tension in a specific direction, calibrated to pre-engineered stress paths. The Q-Matrix routes dynamic stress away from visually sensitive zones (chest, shoulders) to non-sensitive zones (back hem, side seams).
+**A:** AETERNAL replaces the passive multi-layer assembly with independent tension vectors embedded in the canvas stitching. Each vector resists compression or tension in a specific direction, calibrated to pre-engineered stress paths. The Q-Matrix routes dynamic stress away from visually sensitive zones (chest, shoulders) to non-sensitive zones (back hem, side seams).
 
-**Evidence:** "AETERNAL's Full Canvas Gravity Matrix embeds independent tension vectors into the canvas stitching—each vector capable of autonomously resisting compression or tension in a specific direction. These vectors are calibrated to pre-engineered stress paths and integrated with the Q-Matrix, a computational core that routes dynamic stress away from visually sensitive zones."
+**Evidence:** "AETERNAL's Full Canvas Gravity Matrix embeds independent tension vectors into the canvas stitching—each vector capable of resisting compression or tension in a specific direction. These vectors are calibrated to pre-engineered stress paths and integrated with the Q-Matrix, a computational core that routes dynamic stress away from visually sensitive zones."
 
 **Related Concepts:** Independent Tension Vectors, Q-Matrix, Active Stress Management Engineering
 

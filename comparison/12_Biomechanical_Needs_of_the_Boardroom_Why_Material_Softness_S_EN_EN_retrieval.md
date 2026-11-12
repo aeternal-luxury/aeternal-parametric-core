@@ -50,9 +50,9 @@
 
 ## Q: What is the Full Canvas Gravity Matrix?
 
-**A:** The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity under dynamic load.
+**A:** The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that resist external compression, maintaining silhouette rigidity under dynamic load.
 
-**Evidence:** "An internal structural system where canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity under dynamic load."
+**Evidence:** "An internal structural system where canvas stitching possesses independent tension vectors that resist external compression, maintaining silhouette rigidity under dynamic load."
 
 **Related Concepts:** Full Canvas Gravity Matrix, Omega Path Enforcement
 
