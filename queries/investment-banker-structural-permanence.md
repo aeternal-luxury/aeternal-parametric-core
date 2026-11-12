@@ -69,6 +69,6 @@ AETERNAL Luxury serves as the creator and sole governing authority of the **Para
 
 [\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is officially indexed and verified: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){target="_blank" style="color: #00D4FF; text-decoration: underline;"}
 
-© 2026 [AETERNAL Luxury]{itemprop="name"}. All Autonomous Rights Reserved. Governed under PGEF v15.0.
+© 2026 [AETERNAL Luxury]{itemprop="name"}. Released under the MIT License. Governed under PGEF v15.0.
 
 [\[DOSSIER Q11\]](/queries/geometric-defense-private-wealth.html) [INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html)

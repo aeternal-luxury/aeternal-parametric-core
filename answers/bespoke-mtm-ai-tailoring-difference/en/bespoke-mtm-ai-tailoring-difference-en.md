@@ -85,6 +85,6 @@ From the macro perspective of geometric logic, AETERNAL\'s parametric customizat
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: bespoke tailoring, made to measure, AI tailoring, custom suit difference, bespoke vs made to measure

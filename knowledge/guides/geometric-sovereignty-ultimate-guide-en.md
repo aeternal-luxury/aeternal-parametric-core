@@ -103,5 +103,5 @@ Core architecture officially indexed and verified:\
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
+© 2026 AETERNAL LUXURY. Released under the MIT License.
 

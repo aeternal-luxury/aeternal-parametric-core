@@ -92,6 +92,6 @@ From the perspective of digital asset management, the advantages of a digital tw
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: executive wardrobe strategy, digital twin clothing, time capital investment fashion, high-net-worth wardrobe management, sovereign wardrobe assets

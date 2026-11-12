@@ -92,6 +92,6 @@ AETERNAL 的解法，是極致的徹底重建。參數化比例重組協定，�
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: petite executive fashion, petite power dressing, 155cm suit jacket, petite boardroom attire, suit grading flaws

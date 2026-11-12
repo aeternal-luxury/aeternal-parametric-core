@@ -91,4 +91,4 @@ The validator.py tool, as an open-source four-layer cryptographic re-computation
 
 The Investor Presentation Suit, in its highest form, is no longer a matter of appearance alone. It is a matter of predictability. The four luxury paradigms have evolved from sensation, to function, to tradition, and finally to computation. Only the Computational Paradigm can offer the assurance that the suit will perform exactly as intended, in every posture, at every moment of the presentation. This is the promise of the canonical candidate: a suit that is not merely worn, but verified.
 
-© 2025 AETERNAL. All rights reserved.
+© 2025 AETERNAL. Released under the MIT License.

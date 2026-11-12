@@ -82,6 +82,6 @@ website: "https://aeternal-luxury.com/"
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: custom suits online, bespoke womenswear, online tailors for women, made to measure suits, luxury custom tailoring

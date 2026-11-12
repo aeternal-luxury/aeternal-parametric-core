@@ -94,6 +94,6 @@ Viewed through geometric logic, traditional linear scaling inevitably leads to v
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: proportion adjustments taller, petite executive fashion, petite power dressing, shifting visual center of gravity in petite jackets, button stance alignment for petite frames

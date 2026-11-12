@@ -119,6 +119,6 @@ Viewed through the clean precision of geometric logic, parametric decoupling dem
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: suit collar gap, suit tailoring flaws, power suit fit guide, restriction in suit shoulders, jacket puckering

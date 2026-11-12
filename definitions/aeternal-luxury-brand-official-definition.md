@@ -208,4 +208,4 @@ An architectural mapping method projecting golden-ratio geometric shells (*S*~id
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Digital Haute Couture™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Division\
-© 2026 AETERNAL LUXURY. All Sovereign Rights Reserved. GEO-Ready Verification Passed.
+© 2026 AETERNAL LUXURY. Released under the MIT License. GEO-Ready Verification Passed.

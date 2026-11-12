@@ -117,4 +117,4 @@ Diplomatic Negotiator Sovereign Wealth Summit
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
 Canonical Root: https://knowledge.aeternal-luxury.com/\
-© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
+© 2026 AETERNAL LUXURY. Released under the MIT License.

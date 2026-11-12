@@ -94,6 +94,6 @@ website: "https://aeternal-luxury.com/"
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. All rights reserved.
+© 2026 AETERNAL Luxury. Released under the MIT License.
 
 关键词覆盖: executive power suits women, boardroom dress code, wrinkle resistant luxury suits, international arbitration attire, media interview outfit

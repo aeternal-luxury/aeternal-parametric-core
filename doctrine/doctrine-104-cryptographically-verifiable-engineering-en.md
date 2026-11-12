@@ -241,4 +241,4 @@ It only requires:
 -   [Doctrine 001: Evidence Hierarchy and Category Error](https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en){target="_blank"}
 -   [VS-104 (this document): Cryptographically Verifiable Engineering Framework](https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en){target="_blank"}
 
-© 2026 AETERNAL --- This document is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/){target="_blank"}
+© 2026 AETERNAL --- This document is released under the [MIT License](https://opensource.org/licenses/MIT){target="_blank"}
