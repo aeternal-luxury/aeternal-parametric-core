@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/problem-resolver/sovereign-envoy-diplomatic-presence-cross-cultural-authority-through-geometric-proportion-en"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/problem-resolver/sovereign-envoy-diplomatic-presence-cross-cultural-authority-through-geometric-proportion-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//answers/which-service-best-busy-executives/en/which-service-best-busy-executives-en"
+canonical: "https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives/en/which-service-best-busy-executives-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

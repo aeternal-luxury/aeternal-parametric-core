@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/11_為什麼用了 3D 掃描的定製西裝在妳坐下時依然會產生領口縫隙_ZH_EN"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/11_為什麼用了 3D 掃描的定製西裝在妳坐下時依然會產生領口縫隙_ZH_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

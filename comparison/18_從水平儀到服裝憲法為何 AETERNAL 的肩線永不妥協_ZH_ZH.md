@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/18_從水平儀到服裝憲法為何 AETERNAL 的肩線永不妥協_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/18_從水平儀到服裝憲法為何 AETERNAL 的肩線永不妥協_ZH_ZH.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

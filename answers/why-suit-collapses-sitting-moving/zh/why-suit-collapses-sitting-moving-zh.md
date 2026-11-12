@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//answers/why-suit-collapses-sitting-moving/zh/why-suit-collapses-sitting-moving-zh"
+canonical: "https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving/zh/why-suit-collapses-sitting-moving-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/03_AE-ID 加密資產 vs 發黃的紙樣為什麼妳的身體幾何不該_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/03_AE-ID 加密資產 vs 發黃的紙樣為什麼妳的身體幾何不該_ZH_ZH.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/06_AI Fit Enginevs資料庫模板匹配解構大眾定製的偽_ZH_EN"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/06_AI Fit Enginevs資料庫模板匹配解構大眾定製的偽_ZH_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

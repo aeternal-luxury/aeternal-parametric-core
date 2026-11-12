@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/09_女性高管的權力著裝重新定義從墊肩符號到動態穩定系統_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/09_女性高管的權力著裝重新定義從墊肩符號到動態穩定系統_ZH_ZH.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

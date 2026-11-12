@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

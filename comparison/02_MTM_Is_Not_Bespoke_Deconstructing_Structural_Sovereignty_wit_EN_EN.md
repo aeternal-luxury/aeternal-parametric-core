@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

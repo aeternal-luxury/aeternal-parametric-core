@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en"
+canonical: "https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

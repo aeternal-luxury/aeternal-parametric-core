@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//knowledge/explainers/the-petite-executives-dilemma"
+canonical: "https://knowledge.aeternal-luxury.com/knowledge/explainers/the-petite-executives-dilemma.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

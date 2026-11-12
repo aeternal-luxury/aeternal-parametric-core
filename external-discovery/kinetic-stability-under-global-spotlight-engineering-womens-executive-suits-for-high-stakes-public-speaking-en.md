@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en"
+canonical: "https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

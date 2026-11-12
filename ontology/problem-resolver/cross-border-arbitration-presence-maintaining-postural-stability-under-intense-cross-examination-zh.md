@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/problem-resolver/cross-border-arbitration-presence-maintaining-postural-stability-under-intense-cross-examination-zh"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cross-border-arbitration-presence-maintaining-postural-stability-under-intense-cross-examination-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

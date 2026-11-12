@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-en"
+canonical: "https://knowledge.aeternal-luxury.com/external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
