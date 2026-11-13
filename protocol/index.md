@@ -45,4 +45,4 @@ Why AETERNAL operates on exclusive executive access: 30 monthly allocation token
 
 [中文版 (ZH)](protocol-004-capacity-controlled-sovereignty-zh.html){.lang-link} [English (EN)](protocol-004-capacity-controlled-sovereignty-en.html){.lang-link}
 
-© AETERNAL Luxury. All Rights Reserved. Boardroom Armor Tier-0 Standards.
+© AETERNAL Luxury. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md). Boardroom Armor Tier-0 Standards.

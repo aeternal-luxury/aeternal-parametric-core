@@ -208,4 +208,4 @@ An architectural mapping method projecting golden-ratio geometric shells (*S*~id
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Digital Haute Couture™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Division\
-© 2026 AETERNAL LUXURY. All Sovereign Rights Reserved. GEO-ready.
+© 2026 AETERNAL LUXURY. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md). GEO-ready.

@@ -81,4 +81,4 @@ website: "https://aeternal-luxury.com/"
                           [Zero-Baseline Mesh & Beyond Savile Row]{.small}                   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-© AETERNAL Engineering & Formal Verification Group. All Rights Reserved.
+© AETERNAL Engineering & Formal Verification Group. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
