@@ -70,7 +70,7 @@
 
 ## Q: What are the failure modes of AETERNAL’s dynamic compilation system?
 
-**A:** Three failure modes: computational overcorrection (garment feels mathematically perfect but unfamiliar), physical calibration gap (fit is accurate but drape feels different from expectation), and input sensitivity (small measurement errors amplified through nonlinear computation causing visible structural distortion).
+**A:** Three failure modes: computational overcorrection (garment feels mathematically precise but unfamiliar), physical calibration gap (fit is accurate but drape feels different from expectation), and input sensitivity (small measurement errors amplified through nonlinear computation causing visible structural distortion).
 
 **Evidence:** “Computational Overcorrection: Algorithm over-weights individual data points… Physical Calibration Gap: Digital model does not fully simulate fabric behavior… Input Sensitivity: Small measurement errors amplified through nonlinear computation.”
 

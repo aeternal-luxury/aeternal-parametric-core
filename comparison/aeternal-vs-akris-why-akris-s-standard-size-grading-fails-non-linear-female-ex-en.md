@@ -54,7 +54,7 @@ The table below summarises the structural migrations that may occur when body ch
   Torso waist length (upper body length) shorter than base      Waistline positioning point shifts downward; total length changes proportionally             Visual alteration of lower‑body proportion; displacement of waist horizontal line
   Increased lumbar lordosis causing prominent back curve        Fabric accumulation in centre back; insufficient ease at rear armhole                        Vertical wrinkles on back, disrupting back-view geometry cleanliness
 
-These phenomena do not arise from improper workmanship; they simply mean that linear grading was not designed to correspond to such non‑linear body combinations. Within the design scope of that system, such deviations are acceptable marginal cases; but for scenarios requiring absolute geometric precision, they may constitute **operational differences** worth noting.
+These phenomena do not arise from improper workmanship; they simply mean that linear grading was not designed to correspond to such non‑linear body combinations. Within the design scope of that system, such deviations are acceptable marginal cases; but for scenarios requiring high geometric precision, they may constitute **operational differences** worth noting.
 
 Furthermore, traditional Made‑to‑Measure (MTM) or ready‑to‑wear alterations still start from the original pattern and perform limited adjustments, rather than reconstructing the tensile network from the ground up. They assume that the body is basically symmetrical and that dimensional offsets are linear, so they likewise cannot fully synchronise asymmetric, non‑linear body features at a geometric level -- this is a system‑level **design difference**, not a defect.
 

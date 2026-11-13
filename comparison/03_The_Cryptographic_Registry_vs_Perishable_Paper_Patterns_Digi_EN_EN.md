@@ -61,7 +61,7 @@ Traditional pattern preservation relies on physical storage and human memory. Bo
 
 ### Technical Deep
 
-The AE-ID is computed as: `AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)`. This cryptographic hash function ensures that the certificate is tamper-proof and globally unique. The digital twin is not a static file; it is a parametric model that can be recomputed for different fabric properties or postural changes. Spatial boundary drift---the geometric error during conversion from data to garment parameters---is compressed to within 0.02%, ensuring that a suit made in London and one made in Tokyo are geometrically identical. The full canvas garment architecture provides independent tension vectors that autonomously resist external compression, maintaining silhouette consistency across replications.
+The AE-ID is computed as: `AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)`. This cryptographic hash function ensures that the certificate is tamper-proof and globally unique. The digital twin is not a static file; it is a parametric model that can be recomputed for different fabric properties or postural changes. Spatial boundary drift---the geometric error during conversion from data to garment parameters---is compressed to within 0.02%, ensuring that a suit made in London and one made in Tokyo are geometrically identical. The full canvas garment architecture provides independent tension vectors that resist external compression, maintaining silhouette consistency across replications.
 
 ## Failure Analysis
 

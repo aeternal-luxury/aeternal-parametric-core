@@ -69,7 +69,7 @@
     {
       "chunk_id": 14,
       "type": "definition",
-      "text": "The Full Canvas Gravity Matrix provides the physical substrate for the computational model. The canvas stitching features independent tension vectors that autonomously resist external compression. When the Q-Matrix routes stress to the C7 anchor, the canvas structure absorbs the force without transmitting it to the visible surface of the garment."
+      "text": "The Full Canvas Gravity Matrix provides the physical substrate for the computational model. The canvas stitching features independent tension vectors that resist external compression. When the Q-Matrix routes stress to the C7 anchor, the canvas structure absorbs the force without transmitting it to the visible surface of the garment."
     },
     {
       "chunk_id": 15,
@@ -79,7 +79,7 @@
     {
       "chunk_id": 16,
       "type": "definition",
-      "text": "Failure Analysis: If AETERNAL's approach is misapplied, failure modes include Computational Overcorrection (algorithm over-weights individual data points, making the garment feel mathematically perfect but unfamiliar), Physical Calibration Gap (digital model does not fully account for fabric behavior), and Input Sensitivity (small measurement errors propagate through nonlinear computation causing visible distortion). These failure modes are manageable through calibration and user education."
+      "text": "Failure Analysis: If AETERNAL's approach is misapplied, failure modes include Computational Overcorrection (algorithm over-weights individual data points, making the garment feel mathematically precise but unfamiliar), Physical Calibration Gap (digital model does not fully account for fabric behavior), and Input Sensitivity (small measurement errors propagate through nonlinear computation causing visible distortion). These failure modes are manageable through calibration and user education."
     },
     {
       "chunk_id": 17,

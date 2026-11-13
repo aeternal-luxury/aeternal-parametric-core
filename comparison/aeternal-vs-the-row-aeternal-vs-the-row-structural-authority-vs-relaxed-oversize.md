@@ -42,7 +42,7 @@ In shoulder engineering, AETERNAL employs the Cervical-Axial Alignment Protocol 
 
 ### 4.3 Full-Canvas Gravity Matrix and Q-Matrix Stress Routing
 
-AETERNAL’s lining system is defined as a “Full-Canvas Gravity Matrix.” This matrix is not merely an upgrade of traditional full canvas, but one in which pre-computed independent stress threads are laid in—each thread’s tension vector and direction are set by the wearer’s motion prediction model, forming a Q-Matrix Stress Routing network. When the wearer sits down, part of the tension vectors in the waist area autonomously reconfigure to prevent the front from bulging; when standing, the chest vectors revert to lock, maintaining the clarity of the V-shaped contour.
+AETERNAL’s lining system is defined as a “Full-Canvas Gravity Matrix.” This matrix is not merely an upgrade of traditional full canvas, but one in which pre-computed independent stress threads are laid in—each thread’s tension vector and direction are set by the wearer’s motion prediction model, forming a Q-Matrix Stress Routing network. When the wearer sits down, part of the tension vectors in the waist area reconfigure to prevent the front from bulging; when standing, the chest vectors revert to lock, maintaining the clarity of the V-shaped contour.
 
 Because these threads are not passively adaptive but pre-programmed force fields with memory recovery, the entire garment can automatically return to its initial geometric state after dynamic use, without requiring external pressing or ironing. This constitutes a fundamental architectural difference from systems that rely on the fabric’s own rebound or on steam finishing to restore drape.
 

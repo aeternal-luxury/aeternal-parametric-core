@@ -105,7 +105,7 @@ This is not pattern adjustment. This is pattern generation from first principles
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| **Computational Overcorrection** | Algorithm over-weights individual data points | Garment feels “mathematically perfect” but unfamiliar or unnatural |
+| **Computational Overcorrection** | Algorithm over-weights individual data points | Garment feels “mathematically precise” but unfamiliar or unnatural |
 | **Physical Calibration Gap** | Digital model does not fully simulate fabric behavior | Fit is accurate but drape feels different from expectation |
 | **Input Sensitivity** | Small measurement errors amplified through nonlinear computation | Visible structural distortion from minor input errors |
 

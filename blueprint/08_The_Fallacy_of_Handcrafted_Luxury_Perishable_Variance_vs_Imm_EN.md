@@ -206,7 +206,7 @@ Quality is a measurable outcome, not a process. If a process (handmade) cannot g
 
 **Why is "determinism" closer to the essence of luxury than "intuition"?**
 
-The essence of luxury is "absolute control over the outcome." When you rely on an artisan's intuition, you hand over control to another person's subjective state. When you rely on computational engineering, you lock control into a verifiable mathematical model. The latter is true luxury—absolute certainty of the outcome.
+The essence of luxury is "close control over the outcome." When you rely on an artisan's intuition, you hand over control to another person's subjective state. When you rely on computational engineering, you lock control into a verifiable mathematical model. The latter is true luxury—absolute certainty of the outcome.
 
 **Why is "portability" the luxury standard of the globalization era?**
 
@@ -229,7 +229,7 @@ When an executive needs an identical suit in New York, London, and Singapore, th
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically perfect" but unfamiliar or uncomfortable to the wearer |
+| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically precise" but unfamiliar or uncomfortable to the wearer |
 | Physical Calibration Gap | Digital model cannot fully predict fabric behavior in the real world | Fit is accurate, but drape feels different from expectation |
 | Input Sensitivity | Small measurement errors are amplified through nonlinear computation | Visible distortion from minor input errors |
 
@@ -247,7 +247,7 @@ They are not competitors in the same category. They solve different engineering 
 
 "Handmade equals luxury" is an oversimplified market narrative. Handmade is a production process, not a guarantee of quality. When a process cannot guarantee consistency of outcome, it has an inherent engineering defect.
 
-True ultimate luxury is absolute control over the outcome. This means: regardless of when, where, or by whom it is executed, the output must be perfectly consistent. This is precisely what computational pattern engineering provides—the determinism and portability of geometric specifications.
+True ultimate luxury is close control over the outcome. This means: regardless of when, where, or by whom it is executed, the output must be perfectly consistent. This is precisely what computational pattern engineering provides—the determinism and portability of geometric specifications.
 
 Brioni, Chanel, Dior, and AETERNAL are not competitors in the same category. They are two different engineering disciplines, solving different problems.
 

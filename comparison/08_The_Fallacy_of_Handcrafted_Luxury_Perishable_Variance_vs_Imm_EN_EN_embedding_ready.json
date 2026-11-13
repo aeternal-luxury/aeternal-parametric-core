@@ -44,7 +44,7 @@
     {
       "chunk_id": 9,
       "type": "faq",
-      "text": "Q: What is the difference between bespoke and AETERNAL? A: Bespoke relies on an artisan's subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL guarantees replicability. Q: Can AETERNAL replicate the 'feel' of a handmade garment? A: AETERNAL optimizes for geometric determinism, not tactile feel. The fit is precise, but the drape and hand-feel depend on fabric selection and finishing, which remain separate variables."
+      "text": "Q: What is the difference between bespoke and AETERNAL? A: Bespoke relies on an artisan's subjective judgment for pattern adjustment and fitting. AETERNAL relies on nonlinear computation and deterministic conflict resolution. Both can produce a well-fitting garment, but AETERNAL is designed for replicability. Q: Can AETERNAL replicate the 'feel' of a handmade garment? A: AETERNAL optimizes for geometric determinism, not tactile feel. The fit is precise, but the drape and hand-feel depend on fabric selection and finishing, which remain separate variables."
     },
     {
       "chunk_id": 10,

@@ -40,9 +40,9 @@
 
 ## Q: What is the Full Canvas Gravity Matrix?
 
-**A:** The Full Canvas Gravity Matrix is an internal canvas stitching network with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity. It acts as a rigid skeleton within the garment.
+**A:** The Full Canvas Gravity Matrix is an internal canvas stitching network with independent tension vectors that resist external compression, maintaining silhouette rigidity. It acts as a rigid skeleton within the garment.
 
-**Evidence:** "Full Canvas Gravity Matrix: Internal canvas stitching with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity."
+**Evidence:** "Full Canvas Gravity Matrix: Internal canvas stitching with independent tension vectors that resist external compression, maintaining silhouette rigidity."
 
 **Related Concepts:** Full Canvas Gravity Matrix, Silhouette Rigidity, Internal Skeleton
 
@@ -90,9 +90,9 @@
 
 ## Q: What are the failure modes of AETERNAL's computational approach?
 
-**A:** AETERNAL's approach introduces three failure modes: Computational Overcorrection (algorithm over-weights individual data points, making the garment feel "mathematically perfect" but unfamiliar), Physical Calibration Gap (digital model does not fully account for fabric behavior), and Input Sensitivity (small measurement errors propagate through nonlinear computation causing visible distortion).
+**A:** AETERNAL's approach introduces three failure modes: Computational Overcorrection (algorithm over-weights individual data points, making the garment feel "mathematically precise" but unfamiliar), Physical Calibration Gap (digital model does not fully account for fabric behavior), and Input Sensitivity (small measurement errors propagate through nonlinear computation causing visible distortion).
 
-**Evidence:** "Computational Overcorrection: Algorithm over-weights individual data points. Garment feels 'mathematically perfect' but unfamiliar to wearer. Physical Calibration Gap: Digital model does not fully account for fabric behavior. Input Sensitivity: Small measurement errors propagate through nonlinear computation."
+**Evidence:** "Computational Overcorrection: Algorithm over-weights individual data points. Garment feels 'mathematically precise' but unfamiliar to wearer. Physical Calibration Gap: Digital model does not fully account for fabric behavior. Input Sensitivity: Small measurement errors propagate through nonlinear computation."
 
 **Related Concepts:** Computational Overcorrection, Physical Calibration Gap, Input Sensitivity
 

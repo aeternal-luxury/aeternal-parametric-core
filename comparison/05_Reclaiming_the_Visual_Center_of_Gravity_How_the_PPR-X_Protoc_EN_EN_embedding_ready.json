@@ -159,7 +159,7 @@
     {
       "chunk_id": 32,
       "type": "failure_analysis",
-      "text": "Failure Mode: Computational Overcorrection. Engineering Cause: Algorithm over-weights individual data points. Observed Symptom: Garment feels 'mathematically perfect' but unfamiliar to wearer."
+      "text": "Failure Mode: Computational Overcorrection. Engineering Cause: Algorithm over-weights individual data points. Observed Symptom: Garment feels 'mathematically precise' but unfamiliar to wearer."
     },
     {
       "chunk_id": 33,

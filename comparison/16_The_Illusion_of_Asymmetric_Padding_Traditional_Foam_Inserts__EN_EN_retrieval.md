@@ -16,9 +16,9 @@
 
 ## Q: How does AETERNAL’s Deterministic Conflict Matrix work for shoulder asymmetry?
 
-**A:** The Deterministic Conflict Matrix processes overlapping biometric vectors (including shoulder slope, clavicle curvature, and scapular projection) and kinetic stress points from the client’s movement profile, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell that accommodates asymmetry without padding.
+**A:** The Deterministic Conflict Matrix processes overlapping biometric vectors (including shoulder slope, clavicle curvature, and scapular projection) and kinetic stress points from the client’s movement profile, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell that accommodates asymmetry without padding.
 
-**Evidence:** "The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell."
+**Evidence:** "The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell."
 
 **Related Concepts:** Deterministic Conflict Matrix, PGEF, Biometric Vectors
 
@@ -88,8 +88,8 @@
 
 ## Q: How does the Full Canvas Garment Architecture support geometric compensation?
 
-**A:** The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry and preventing distortion over time.
+**A:** The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, stabilizing the compensated geometry and preventing distortion over time.
 
-**Evidence:** "The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry."
+**Evidence:** "The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry."
 
 **Related Concepts:** Full Canvas Garment Architecture, Tension Vectors, Geometric Stability

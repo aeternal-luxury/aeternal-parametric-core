@@ -93,7 +93,7 @@
       "name": "Is AETERNAL more expensive than The Row or Hermès?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The pricing is comparable, but the value proposition is different. AETERNAL guarantees structural performance under dynamic and optical scrutiny, while The Row and Hermès guarantee tactile luxury and static aesthetics."
+        "text": "The pricing is comparable, but the value proposition is different. AETERNAL is designed to deliver structural performance under dynamic and optical scrutiny, while The Row and Hermès guarantee tactile luxury and static aesthetics."
       }
     },
     {

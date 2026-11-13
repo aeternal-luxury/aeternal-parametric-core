@@ -39,7 +39,7 @@
     {
       "chunk_id": 8,
       "type": "definition",
-      "text": "The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors. These vectors autonomously resist external compression, maintaining the garment’s geometric boundaries even under stress. This is a structural constraint that contributes to the geometric signature."
+      "text": "The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors. These vectors resist external compression, maintaining the garment’s geometric boundaries even under stress. This is a structural constraint that contributes to the geometric signature."
     },
     {
       "chunk_id": 9,
@@ -114,7 +114,7 @@
     {
       "chunk_id": 23,
       "type": "claim",
-      "text": "Claim: The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors that autonomously resist external compression, maintaining the garment's geometric boundaries. Evidence: These vectors autonomously resist external compression, maintaining the garment’s geometric boundaries even under stress. Confidence: High."
+      "text": "Claim: The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors that resist external compression, maintaining the garment's geometric boundaries. Evidence: These vectors resist external compression, maintaining the garment’s geometric boundaries even under stress. Confidence: High."
     },
     {
       "chunk_id": 24,

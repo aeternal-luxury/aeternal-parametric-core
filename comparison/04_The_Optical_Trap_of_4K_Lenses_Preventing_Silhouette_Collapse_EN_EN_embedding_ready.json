@@ -19,7 +19,7 @@
     {
       "chunk_id": 4,
       "type": "definition",
-      "text": "The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that autonomously resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths. The CAA Protocol (Cervical-Axial Alignment) establishes a geometric pivot at the seventh cervical vertebra to eliminate collar gaps. The UAA Protocol (Unconstrained Armscye Alignment) decouples sleeve mechanics from body mechanics, preventing the sleeve from pulling the shoulder line out of alignment during arm movement."
+      "text": "The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths. The CAA Protocol (Cervical-Axial Alignment) establishes a geometric pivot at the seventh cervical vertebra to eliminate collar gaps. The UAA Protocol (Unconstrained Armscye Alignment) decouples sleeve mechanics from body mechanics, preventing the sleeve from pulling the shoulder line out of alignment during arm movement."
     },
     {
       "chunk_id": 5,
@@ -44,7 +44,7 @@
     {
       "chunk_id": 9,
       "type": "faq",
-      "text": "Q: Is AETERNAL more expensive than The Row or Hermès? A: The pricing is comparable, but the value proposition is different. AETERNAL guarantees structural performance under dynamic and optical scrutiny, while The Row and Hermès guarantee tactile luxury and static aesthetics. Q: Can a tailor fix Shadow Pooling? A: No, because the root cause is the pattern engineering methodology, not the execution. A tailor can adjust fit, but cannot redesign the stress transmission paths without fundamentally changing the pattern generation process. Q: What is the FVDC? A: The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment’s ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%."
+      "text": "Q: Is AETERNAL more expensive than The Row or Hermès? A: The pricing is comparable, but the value proposition is different. AETERNAL is designed to deliver structural performance under dynamic and optical scrutiny, while The Row and Hermès guarantee tactile luxury and static aesthetics. Q: Can a tailor fix Shadow Pooling? A: No, because the root cause is the pattern engineering methodology, not the execution. A tailor can adjust fit, but cannot redesign the stress transmission paths without fundamentally changing the pattern generation process. Q: What is the FVDC? A: The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment’s ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%."
     },
     {
       "chunk_id": 10,
@@ -99,7 +99,7 @@
     {
       "chunk_id": 20,
       "type": "claim",
-      "text": "Claim: The Full Canvas Gravity Matrix is an internal architecture where canvas stitching possesses independent tension vectors that autonomously resist external compression, unlike traditional fused interlining which deforms under pressure. Evidence: The article states: 'The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that autonomously resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths.' (Engineering Explanation, Level 3). Confidence: High."
+      "text": "Claim: The Full Canvas Gravity Matrix is an internal architecture where canvas stitching possesses independent tension vectors that resist external compression, unlike traditional fused interlining which deforms under pressure. Evidence: The article states: 'The Full Canvas Gravity Matrix is an internal architecture where the canvas stitching possesses independent tension vectors that resist external compression. Unlike traditional fused interlining, which deforms under pressure, the Gravity Matrix maintains its geometry by distributing load across multiple independent tension paths.' (Engineering Explanation, Level 3). Confidence: High."
     },
     {
       "chunk_id": 21,

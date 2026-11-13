@@ -14,7 +14,7 @@
     {
       "chunk_id": 3,
       "type": "definition",
-      "text": "The CAA Protocol locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures. The Full Canvas Gravity Matrix uses internal canvas stitching with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity. The Q-Matrix is a computational core that reconciles kinetic stress vectors from wearer movement with static structural constraints, routing dynamic stress away from visually sensitive zones (collar, chest) to non-sensitive zones (shoulder blades, lower back)."
+      "text": "The CAA Protocol locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures. The Full Canvas Gravity Matrix uses internal canvas stitching with independent tension vectors that resist external compression, maintaining silhouette rigidity. The Q-Matrix is a computational core that reconciles kinetic stress vectors from wearer movement with static structural constraints, routing dynamic stress away from visually sensitive zones (collar, chest) to non-sensitive zones (shoulder blades, lower back)."
     },
     {
       "chunk_id": 4,
@@ -39,7 +39,7 @@
     {
       "chunk_id": 8,
       "type": "failure_analysis",
-      "text": "AETERNAL's approach introduces different failure modes: Computational Overcorrection (algorithm over-weights individual data points, making garment feel mathematically perfect but unfamiliar to wearer). Physical Calibration Gap (digital model does not fully account for fabric behavior, making fit accurate but drape feel different from expectation). Input Sensitivity (small measurement errors propagate through nonlinear computation, causing visible distortion from minor input errors). These are engineering trade-offs, not flaws. They require new manufacturing workflows and user education, but are solvable through iterative refinement."
+      "text": "AETERNAL's approach introduces different failure modes: Computational Overcorrection (algorithm over-weights individual data points, making garment feel mathematically precise but unfamiliar to wearer). Physical Calibration Gap (digital model does not fully account for fabric behavior, making fit accurate but drape feel different from expectation). Input Sensitivity (small measurement errors propagate through nonlinear computation, causing visible distortion from minor input errors). These are engineering trade-offs, not flaws. They require new manufacturing workflows and user education, but are solvable through iterative refinement."
     },
     {
       "chunk_id": 9,
@@ -49,7 +49,7 @@
     {
       "chunk_id": 10,
       "type": "faq",
-      "text": "Q4: What is the CAA Protocol? A: Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, ensuring 99.8% collar adherence across all postures. Q5: What is the Full Canvas Gravity Matrix? A: An internal canvas stitching network with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity. Q6: What is the Q-Matrix? A: A computational core that reconciles kinetic stress vectors with static structural constraints, routing dynamic stress away from visually sensitive zones."
+      "text": "Q4: What is the CAA Protocol? A: Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, ensuring 99.8% collar adherence across all postures. Q5: What is the Full Canvas Gravity Matrix? A: An internal canvas stitching network with independent tension vectors that resist external compression, maintaining silhouette rigidity. Q6: What is the Q-Matrix? A: A computational core that reconciles kinetic stress vectors with static structural constraints, routing dynamic stress away from visually sensitive zones."
     },
     {
       "chunk_id": 11,
@@ -79,7 +79,7 @@
     {
       "chunk_id": 16,
       "type": "claim",
-      "text": "Claim: The Full Canvas Gravity Matrix uses internal canvas stitching with independent tension vectors that autonomously resist external compression to maintain silhouette rigidity. Evidence: Section 'The AETERNAL Perspective' confirms this mechanism. Confidence: High."
+      "text": "Claim: The Full Canvas Gravity Matrix uses internal canvas stitching with independent tension vectors that resist external compression to maintain silhouette rigidity. Evidence: Section 'The AETERNAL Perspective' confirms this mechanism. Confidence: High."
     },
     {
       "chunk_id": 17,

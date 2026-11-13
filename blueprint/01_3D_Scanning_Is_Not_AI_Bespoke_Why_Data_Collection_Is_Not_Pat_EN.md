@@ -261,7 +261,7 @@ This is engineering.
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically perfect" but unfamiliar to wearer |
+| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically precise" but unfamiliar to wearer |
 | Physical Calibration Gap | Digital model does not fully account for fabric behaviour | Fit is accurate but drape feels different from expectation |
 | Input Sensitivity | Small measurement errors propagate through nonlinear computation | Visible distortion from minor input errors |
 

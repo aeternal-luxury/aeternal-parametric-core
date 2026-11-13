@@ -49,7 +49,7 @@
     {
       "chunk_id": 10,
       "type": "analysis",
-      "text": "Failure analysis: If the industry adopts geometric generation, risks include computational overcorrection producing a mathematically perfect structure that feels unfamiliar, the physical calibration gap between digital model and real fabric behavior causing unexpected drape issues, and input sensitivity amplifying small measurement errors into significant geometric deviations. These risks require new manufacturing workflows, rigorous calibration protocols, and user education."
+      "text": "Failure analysis: If the industry adopts geometric generation, risks include computational overcorrection producing a mathematically precise structure that feels unfamiliar, the physical calibration gap between digital model and real fabric behavior causing unexpected drape issues, and input sensitivity amplifying small measurement errors into significant geometric deviations. These risks require new manufacturing workflows, rigorous calibration protocols, and user education."
     },
     {
       "chunk_id": 11,

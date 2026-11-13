@@ -50,8 +50,8 @@
   },
   {
     "claim_id": 8,
-    "statement": "The Full Canvas Gravity Matrix provides the physical substrate for the computational model, with canvas stitching featuring independent tension vectors that autonomously resist external compression.",
-    "evidence": "Section 'Technical Deep Layer': 'The Full Canvas Gravity Matrix provides the physical substrate for this computational model. The canvas stitching features independent tension vectors that autonomously resist external compression.'",
+    "statement": "The Full Canvas Gravity Matrix provides the physical substrate for the computational model, with canvas stitching featuring independent tension vectors that resist external compression.",
+    "evidence": "Section 'Technical Deep Layer': 'The Full Canvas Gravity Matrix provides the physical substrate for this computational model. The canvas stitching features independent tension vectors that resist external compression.'",
     "confidence": "High",
     "source_section": "Technical Deep Layer"
   },

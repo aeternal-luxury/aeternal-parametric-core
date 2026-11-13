@@ -185,7 +185,7 @@ Fit is not subjective preference. Fit is the alignment between body geometry and
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically perfect" but unfamiliar to wearer |
+| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically precise" but unfamiliar to wearer |
 | Physical Calibration Gap | Digital model does not fully account for real fabric dynamic behavior | Fit is accurate but drape feels different from expectation |
 | Input Sensitivity | Small measurement errors propagate through non-linear computation | Visible structural distortion from minor input errors |
 

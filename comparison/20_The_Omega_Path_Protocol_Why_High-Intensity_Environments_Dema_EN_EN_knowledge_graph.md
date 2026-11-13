@@ -102,7 +102,7 @@
       "name": "How does the Full Canvas Gravity Matrix work?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It uses independent tension vectors in the canvas stitching to autonomously resist external compression, maintaining silhouette."
+        "text": "It uses independent tension vectors in the canvas stitching to resist external compression, maintaining silhouette."
       }
     },
     {

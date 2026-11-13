@@ -64,7 +64,7 @@
     {
       "chunk_id": 13,
       "type": "failure_analysis",
-      "text": "Failure Analysis: If AETERNAL's approach is adopted without proper calibration: Computational Overcorrection - Algorithm over-weights individual data points, garment feels 'mathematically perfect' but unfamiliar. Physical Calibration Gap - Digital model does not fully account for fabric behavior. Input Sensitivity - Small measurement errors propagate through nonlinear computation. These are calibration challenges, not paradigm failures. They can be addressed through iterative refinement of the computational model and physical calibration protocols."
+      "text": "Failure Analysis: If AETERNAL's approach is adopted without proper calibration: Computational Overcorrection - Algorithm over-weights individual data points, garment feels 'mathematically precise' but unfamiliar. Physical Calibration Gap - Digital model does not fully account for fabric behavior. Input Sensitivity - Small measurement errors propagate through nonlinear computation. These are calibration challenges, not paradigm failures. They can be addressed through iterative refinement of the computational model and physical calibration protocols."
     },
     {
       "chunk_id": 14,

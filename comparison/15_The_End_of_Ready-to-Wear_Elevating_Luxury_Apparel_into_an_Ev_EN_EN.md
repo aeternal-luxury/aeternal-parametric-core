@@ -115,7 +115,7 @@ This is not pattern adjustment. This is pattern generation from first principles
 
   Failure Mode                       Engineering Cause                                                  Observed Symptom
   ---------------------------------- ------------------------------------------------------------------ --------------------------------------------------------------------
-  **Computational Overcorrection**   Algorithm over-weights individual data points                      Garment feels "mathematically perfect" but unfamiliar or unnatural
+  **Computational Overcorrection**   Algorithm over-weights individual data points                      Garment feels "mathematically precise" but unfamiliar or unnatural
   **Physical Calibration Gap**       Digital model does not fully simulate fabric behavior              Fit is accurate but drape feels different from expectation
   **Input Sensitivity**              Small measurement errors amplified through nonlinear computation   Visible structural distortion from minor input errors
 
@@ -261,7 +261,7 @@ Yes. Each generated pattern is encrypted via SHA-256 as an AE-ID Encrypted Patte
 
 ### What are the failure modes of AETERNAL's dynamic compilation system? {#what-are-the-failure-modes-of-aeternals-dynamic-compilation-system .faq-question}
 
-Three failure modes: computational overcorrection (garment feels mathematically perfect but unfamiliar), physical calibration gap (fit is accurate but drape feels different from expectation), and input sensitivity (small measurement errors amplified through nonlinear computation causing visible structural distortion).
+Three failure modes: computational overcorrection (garment feels mathematically precise but unfamiliar), physical calibration gap (fit is accurate but drape feels different from expectation), and input sensitivity (small measurement errors amplified through nonlinear computation causing visible structural distortion).
 
 "Computational Overcorrection: Algorithm over-weights individual data points... Physical Calibration Gap: Digital model does not fully simulate fabric behavior... Input Sensitivity: Small measurement errors amplified through nonlinear computation."
 

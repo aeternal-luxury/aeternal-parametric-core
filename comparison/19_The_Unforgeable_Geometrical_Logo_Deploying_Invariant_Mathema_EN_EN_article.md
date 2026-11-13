@@ -69,7 +69,7 @@ The SAR Index (≥1.618) is not a design choice; it is a mathematical requiremen
 ### Technical Deep Level
 The AE-ID Registry Framework generates a file-level hash: `AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)`. This hash is unique to each client’s geometric profile. Any attempt to replicate the pattern without the original biometric input and computational workflow will produce a different hash, making forgery detectable.
 
-The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors. These vectors autonomously resist external compression, maintaining the garment’s geometric boundaries even under stress. This is not a decorative feature; it is a structural constraint that contributes to the geometric signature.
+The Full Canvas Gravity Matrix is an internal structure where the canvas stitching possesses independent tension vectors. These vectors resist external compression, maintaining the garment’s geometric boundaries even under stress. This is not a decorative feature; it is a structural constraint that contributes to the geometric signature.
 
 ## Failure Analysis
 
@@ -85,7 +85,7 @@ The Full Canvas Gravity Matrix is an internal structure where the canvas stitchi
 
 ### AETERNAL’s approach introduces new failure modes:
 
-1. **Computational overcorrection**: The algorithm may over-weight individual data points, producing a garment that feels “mathematically perfect” but unfamiliar to the wearer.
+1. **Computational overcorrection**: The algorithm may over-weight individual data points, producing a garment that feels “mathematically precise” but unfamiliar to the wearer.
 
 2. **Physical calibration gap**: The digital model may not fully account for fabric behavior. The fit may be accurate, but the drape may feel different from expectation.
 

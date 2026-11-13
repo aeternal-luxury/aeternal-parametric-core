@@ -68,7 +68,7 @@ The structural consequences of continued reliance on database matching are predi
 
 ### If the Industry Adopts Geometric Generation
 
-The risks of geometric generation are different but real. Computational overcorrection can produce a mathematically perfect structure that feels unfamiliar to the wearer. The physical calibration gap---the difference between the digital model and real fabric behavior---can cause unexpected drape issues. Input sensitivity means that small measurement errors can be amplified into significant geometric deviations. These risks require new manufacturing workflows, rigorous calibration protocols, and user education. They are not trivial, but they are solvable through engineering discipline rather than through the inherent limitations of database matching.
+The risks of geometric generation are different but real. Computational overcorrection can produce a mathematically precise structure that feels unfamiliar to the wearer. The physical calibration gap---the difference between the digital model and real fabric behavior---can cause unexpected drape issues. Input sensitivity means that small measurement errors can be amplified into significant geometric deviations. These risks require new manufacturing workflows, rigorous calibration protocols, and user education. They are not trivial, but they are solvable through engineering discipline rather than through the inherent limitations of database matching.
 
 ## Key Takeaways
 

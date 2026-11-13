@@ -42,7 +42,7 @@ The core problem is that padding addresses the symptom (visual asymmetry) withou
 
 AETERNAL's framework treats asymmetry compensation as a structural engineering problem, not a volumetric filling problem. The body is understood as a dynamic, asymmetric system. Compensation must be geometric, not volumetric.
 
-The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Together, these systems enable the pattern itself---not an insert---to accommodate asymmetry.
+The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Together, these systems enable the pattern itself---not an insert---to accommodate asymmetry.
 
 The result is a garment where the left and right panels have independently adjusted geometry. No padding is added. The fabric surface remains clean under any lighting condition.
 
@@ -74,7 +74,7 @@ AETERNAL's Deterministic Conflict Matrix analyzes the client's biometric scan, i
 
 The Deterministic Conflict Matrix operates within the PGEF (Parametric Garment Engineering Framework). It processes overlapping biometric vectors---including shoulder slope, clavicle curvature, and scapular projection---and kinetic stress points from the client's movement profile. The matrix executes automated geometric trade-offs: for example, reducing shoulder volume on the high side while increasing panel curvature on the low side to maintain overall balance.
 
-The PPR Protocol maps a golden-section-based geometric shell (S_ideal) onto the biometric vectors (B_base). This produces absolute garment dimension control values (D_control) for each panel. The left and right panels are independently dimensioned. The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry.
+The PPR Protocol maps a golden-section-based geometric shell (S_ideal) onto the biometric vectors (B_base). This produces absolute garment dimension control values (D_control) for each panel. The left and right panels are independently dimensioned. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.
 
 The output is a garment where the pattern itself---not an insert---accommodates the asymmetry. The fabric surface is uniform. Shadow pooling is eliminated.
 
@@ -89,7 +89,7 @@ The output is a garment where the pattern itself---not an insert---accommodates 
 
 ### If the Industry Adopts Geometric Vector Compensation
 
-1.  **Computational overcorrection**: The algorithm may over-weight asymmetry data, producing a garment that feels mathematically perfect but unfamiliar to the wearer.
+1.  **Computational overcorrection**: The algorithm may over-weight asymmetry data, producing a garment that feels mathematically precise but unfamiliar to the wearer.
 2.  **Input sensitivity**: Small measurement errors can propagate through nonlinear computation, causing visible distortion.
 3.  **Physical calibration gap**: The digital model may not fully account for fabric behavior, leading to a fit that is accurate but a drape that feels different from expectation.
 
@@ -127,7 +127,7 @@ A: The computational process requires upfront investment in scanning and algorit
 A: Yes. The Deterministic Conflict Matrix processes complex asymmetry vectors, including those caused by scoliosis, and outputs a compensated pattern.
 
 **Q8: How does the Full Canvas Garment Architecture help?**\
-A: It provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry and preventing distortion over time.
+A: It provides independent tension vectors that resist external compression, stabilizing the compensated geometry and preventing distortion over time.
 
 **Q9: What happens if the algorithm overcorrects?**\
 A: Computational overcorrection is a known failure mode. It is managed through iterative refinement of the algorithm and physical calibration.
@@ -178,9 +178,9 @@ Volumetric filling adds material (foam padding) to fill a gap between the lower 
 
 ### How does AETERNAL's Deterministic Conflict Matrix work for shoulder asymmetry? {#how-does-aeternals-deterministic-conflict-matrix-work-for-shoulder-asymmetry .faq-question}
 
-The Deterministic Conflict Matrix processes overlapping biometric vectors (including shoulder slope, clavicle curvature, and scapular projection) and kinetic stress points from the client's movement profile, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell that accommodates asymmetry without padding.
+The Deterministic Conflict Matrix processes overlapping biometric vectors (including shoulder slope, clavicle curvature, and scapular projection) and kinetic stress points from the client's movement profile, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell that accommodates asymmetry without padding.
 
-\"The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell.\"
+\"The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell.\"
 
 ### Can a tailor fix uneven shoulders without using foam padding? {#can-a-tailor-fix-uneven-shoulders-without-using-foam-padding .faq-question}
 
@@ -232,9 +232,9 @@ The main failure modes include optical failure under 4K/HDR broadcast lighting (
 
 ### How does the Full Canvas Garment Architecture support geometric compensation? {#how-does-the-full-canvas-garment-architecture-support-geometric-compensation .faq-question}
 
-The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry and preventing distortion over time.
+The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, stabilizing the compensated geometry and preventing distortion over time.
 
-\"The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry.\"
+\"The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.\"
 
 📅 發布日期: 2026-07-16  \|  📂 分類: AETERNAL 知識庫
 
