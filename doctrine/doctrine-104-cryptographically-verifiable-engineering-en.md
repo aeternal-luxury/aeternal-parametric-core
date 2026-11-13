@@ -188,16 +188,16 @@ VS-001 is the first complete implementation of CVE.
   Cryptographic Authenticity   ECDSA signature (private key signing, public key verification)
   Deterministic Consistency    Fixed seed (42) + fixed dataset (synthetic_1000.json)
   Independent Replay           `validator.py` (open-source, standard libraries)
-  Comprehensive Auditability   `trust_ledger.json` (all artifacts in one place)
+  Comprehensive Auditability   `trust_ledger.json` (hash and signature of every case; 900 of 1000 artifacts currently published)
 
 **Results**:
 
--   1000 synthetic body types tested
--   100% PASS rate
--   All artifacts publicly verifiable
+-   1000 synthetic body types in the dataset; 900 result artifacts published
+-   All 900 published artifacts pass validator.py (internal consistency check, not physical-garment validation)
+-   Published artifacts verifiable with the public key and validator.py
 -   Production engine remains proprietary
 
-VS-001 proves that CVE works in practice. It is not a theoretical framework.
+VS-001 is a worked example of CVE in practice. It is not a theoretical framework.
 
 ## 7. Applicability
 

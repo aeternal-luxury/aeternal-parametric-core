@@ -88,7 +88,7 @@
       "points": [
         {
           "name": "Synthetic Extreme Stress Testing (VS001 Conformal Mapping)",
-          "detail": "Openly publish 1,000 synthetic extreme anatomical test cases to prove 100% mathematical consistency and convergence of the PGEF engine."
+          "detail": "Openly publish synthetic extreme anatomical test cases (dataset: 1,000; 900 result artifacts currently published) to check the internal mathematical consistency of the PGEF engine."
         },
         {
           "name": "ECDSA Digital Signatures & Anti-Tamper Beacons (Trust Ledger)",

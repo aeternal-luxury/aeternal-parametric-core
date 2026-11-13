@@ -16,7 +16,7 @@
 ## 五层信任架构 (Five-Layer Trust Architecture)
 - Layer 5: Trust Ledger (TRUST_LEDGER.md / trust_ledger.json)
 - Layer 4: Attestation (public_key.pem + validator.py 簽名驗證)
-- Layer 3: Artifacts (artifacts/result_XXXX.json + .sig)
+- Layer 3: Artifacts (artifacts/result_XXXX.json, signature embedded)
 - Layer 2: Validator (validator.py)
 - Layer 1: Specification (specification.md)
 

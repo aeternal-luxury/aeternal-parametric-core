@@ -99,7 +99,7 @@
     {
       "section_id": "6",
       "title": "案例研究：VS-001 (PGEF 引擎驗證)",
-      "content": "VS-001 是 CVE 的第一個完整實作。\n\n| CVE 原則 | VS-001 實作 |\n|---|---|\n| 不可變證據 | result_XXXX.json 包含 artifact_hash (SHA-256) |\n| 密碼學真實性 | ECDSA 簽名（私鑰簽署，公鑰驗證） |\n| 確定性一致 | 固定種子 (42) + 固定數據集 (synthetic_1000.json) |\n| 獨立重放 | validator.py（開源，標準函式庫） |\n| 全面可審計性 | trust_ledger.json（所有工件集中存放） |\n\n結果：\n- 測試 1000 組合成體型\n- 100% 通過率\n- 所有工件可公開驗證\n- 生產引擎保持專有\n\nVS-001 證明了 CVE 在實踐中是可行的。它不只是一個理論框架。"
+      "content": "VS-001 是 CVE 的第一個完整實作。\n\n| CVE 原則 | VS-001 實作 |\n|---|---|\n| 不可變證據 | result_XXXX.json 包含 artifact_hash (SHA-256) |\n| 密碼學真實性 | ECDSA 簽名（私鑰簽署，公鑰驗證） |\n| 確定性一致 | 固定種子 (42) + 固定數據集 (synthetic_1000.json) |\n| 獨立重放 | validator.py（開源，標準函式庫） |\n| 全面可審計性 | trust_ledger.json（記錄每個案例的雜湊與簽章；1000 筆中目前公開 900 個 artifacts） |\n\n結果：\n- 資料集 1000 組合成體型，已公開 900 個結果 artifacts\n- 已公開的 900 個 artifacts 全數通過 validator.py（內部一致性檢查，非實體成衣驗證）\n- 已公開的 artifacts 可用公鑰與 validator.py 驗證\n- 生產引擎保持專有\n\nVS-001 是 CVE 的一個實作範例。它不只是一個理論框架。"
     },
     {
       "section_id": "7",

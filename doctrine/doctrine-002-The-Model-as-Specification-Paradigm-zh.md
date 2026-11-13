@@ -91,7 +91,7 @@ $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\
 
 在《Doctrine 002》框架下，評估一個幾何工程系統可信度的核心標準，從「社會共識（口碑/評價）」徹底轉移至「密碼學事實（Cryptographic Fact）」：
 
--   **極端合成測試 (VS001 Conformal Mapping)：** 公開 1,000 組涵蓋極端體型幾何的壓力測試案例，證明 PGEF 引擎在數學層面的 100% 幾何自洽。
+-   **極端合成測試 (VS001 Conformal Mapping)：** 公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 900 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。
 -   **ECDSA 數位簽名與抗竄改信標 (Trust Ledger)：** 每組計算輸出附帶 ECDSA 密碼學簽名，可運行公開腳本 `validator.py` 完成 100% 密碼學與幾何重算驗證。
 
 ## 五、 客觀理性與知識論的升維 (Epistemological Elevation & Objective Rationality)

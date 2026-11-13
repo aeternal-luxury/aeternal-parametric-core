@@ -8,3 +8,6 @@ Trust Ledger 是一份公開的信任帳本，記錄所有工程工件 (Artifact
 使用方式：
 cd VS001-conformal-mapping
 python validator.py --verify-ledger
+
+
+注意：`trust_ledger.json` 記錄 1000 筆，目前 repo 只有其中 900 個 artifacts（案例 0601–0700 缺），因此 `--verify-ledger` 會回報這 100 筆 artifact missing。

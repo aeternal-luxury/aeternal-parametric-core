@@ -454,17 +454,17 @@
                         <tr><td>密碼學真實性</td><td>ECDSA 簽名（私鑰簽署，公鑰驗證）</td></tr>
                         <tr><td>確定性一致</td><td>固定種子 (42) + 固定數據集 (synthetic_1000.json)</td></tr>
                         <tr><td>獨立重放</td><td><code>validator.py</code>（開源，標準函式庫）</td></tr>
-                        <tr><td>全面可審計性</td><td><code>trust_ledger.json</code>（所有工件集中存放）</td></tr>
+                        <tr><td>全面可審計性</td><td><code>trust_ledger.json</code>（記錄每個案例的雜湊與簽章；1000 筆中目前公開 900 個 artifacts）</td></tr>
                     </tbody>
                 </table>
                 <p><strong>結果</strong>：</p>
                 <ul>
-                    <li>測試 1000 組合成體型</li>
-                    <li>100% 通過率</li>
-                    <li>所有工件可公開驗證</li>
+                    <li>資料集 1000 組合成體型，已公開 900 個結果 artifacts</li>
+                    <li>已公開的 900 個 artifacts 全數通過 validator.py（內部一致性檢查，非實體成衣驗證）</li>
+                    <li>已公開的 artifacts 可用公鑰與 validator.py 驗證</li>
                     <li>生產引擎保持專有</li>
                 </ul>
-                <p>VS-001 證明了 CVE 在實踐中是可行的。它不只是一個理論框架。</p>
+                <p>VS-001 是 CVE 的一個實作範例。它不只是一個理論框架。</p>
             </section>
             
             <section>
