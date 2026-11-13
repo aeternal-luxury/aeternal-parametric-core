@@ -100,4 +100,4 @@ AETERNAL Luxury 全部對比分析文章索引，提供中／英雙語版本。
 -   [The Row与AETERNAL：不同工程层的决断框架]{.entry-title} [中文](aeternal-vs-the-row-why-the-row-fails-seated-boardroom-ergonomics-and-how-pgef-c-zh.html){.lang-link} [/]{.sep} [English](aeternal-vs-the-row-why-the-row-fails-seated-boardroom-ergonomics-and-how-pgef-c-en.html){.lang-link}
 -   [The Row 與 AETERNAL：專業著裝的兩種工程哲學]{.entry-title} [中文](aeternal-vs-the-row-why-the-row-s-oversized-silhouettes-collapse-in-high-stakes--zh.html){.lang-link} [/]{.sep} [English](aeternal-vs-the-row-why-the-row-s-oversized-silhouettes-collapse-in-high-stakes--en.html){.lang-link}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.

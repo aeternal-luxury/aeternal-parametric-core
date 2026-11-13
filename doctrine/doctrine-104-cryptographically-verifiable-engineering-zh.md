@@ -241,4 +241,4 @@ CVE 提供了實現此目標的方法論。它不需要開源專有演算法。�
 -   [Doctrine 001: 證據層級與範疇錯誤](https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh){target="_blank"}
 -   [VS-104 (本文檔)：密碼學可驗證工程框架](https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh){target="_blank"}
 
-© 2026 AETERNAL --- 本文檔採用 [MIT License](https://opensource.org/licenses/MIT){target="_blank"} 授權
+© 2026 AETERNAL --- 本文檔採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/){target="_blank"} 授權

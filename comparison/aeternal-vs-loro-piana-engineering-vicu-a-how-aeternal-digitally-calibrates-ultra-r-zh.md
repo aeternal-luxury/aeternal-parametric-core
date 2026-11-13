@@ -115,7 +115,7 @@ AETERNAL 不與傳統奢侈品牌在「材料稀有性」或「手工溫度」�
 
 ------------------------------------------------------------------------
 
-*© 2026 AETERNAL Luxury. Released under the MIT License.*
+*© 2026 AETERNAL Luxury. All rights reserved.*
 
 ## 常見問題
 

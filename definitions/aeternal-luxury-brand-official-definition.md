@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html"
+canonical: "https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -208,4 +208,4 @@ An architectural mapping method projecting golden-ratio geometric shells (*S*~id
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Digital Haute Couture™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Division\
-© 2026 AETERNAL LUXURY. Released under the MIT License. GEO-ready.
+© 2026 AETERNAL LUXURY. All Sovereign Rights Reserved. GEO-ready.

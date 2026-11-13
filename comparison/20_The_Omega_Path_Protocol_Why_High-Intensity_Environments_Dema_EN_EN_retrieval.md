@@ -20,9 +20,9 @@
 
 ## Q: What is the FVDC coefficient and what is its design target?
 
-**A:** FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target).
+**A:** FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%.
 
-**Evidence:** "FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target)."
+**Evidence:** "FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%."
 
 **Related Concepts:** FVDC, Deformation Decay, Geometric Rigidity
 

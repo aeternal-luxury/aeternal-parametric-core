@@ -243,4 +243,4 @@ https://knowledge.aeternal-luxury.com/ontology/
 
 ## License
 
-Released under the MIT License. See [LICENSE](LICENSE).
+See the repository license for permitted use of the public reference implementation and associated documentation.

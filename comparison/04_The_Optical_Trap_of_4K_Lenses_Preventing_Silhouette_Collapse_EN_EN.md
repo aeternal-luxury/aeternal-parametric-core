@@ -118,7 +118,7 @@ The Full Canvas Gravity Matrix is an internal architecture where the canvas stit
 
 8.  **Can a tailor fix Shadow Pooling?** No, because the root cause is the pattern engineering methodology, not the execution. A tailor can adjust fit, but cannot redesign the stress transmission paths without fundamentally changing the pattern generation process.
 
-9.  **What is the FVDC?** The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3% (design target).
+9.  **What is the FVDC?** The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%.
 
 10. **Why is 4K scrutiny important?** Because high-resolution cameras and directional light amplify surface micro-irregularities that are invisible to the naked eye. In the 4K era, any structural weakness becomes optically visible and psychologically impactful.
 
@@ -193,9 +193,9 @@ Through the PGEF (Parametric Garment Engineering Framework), which deploys the F
 
 ### What is the FVDC (Forensic Visual Dominance Coefficient)? {#what-is-the-fvdc-forensic-visual-dominance-coefficient .faq-question}
 
-The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3% (design target), ensuring silhouette rigidity under adversarial optical conditions.
+The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%, ensuring silhouette rigidity under adversarial optical conditions.
 
-\"The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3% (design target).\"
+\"The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%.\"
 
 ### What is the difference between Empirical Pattern Engineering and Computational Pattern Engineering? {#what-is-the-difference-between-empirical-pattern-engineering-and-computational-pattern-engineering .faq-question}
 

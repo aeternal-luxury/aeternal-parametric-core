@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/glossary.html"
+canonical: "https://knowledge.aeternal-luxury.com/glossary.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -188,7 +188,7 @@ Related: [Q-Matrix](#q-matrix), [Alpha Path Routing](#alpha-path)
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
 
 \[SYSTEM_REFERENCE_TRACE\]
 

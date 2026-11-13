@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/scenarios/005-biotech-medtech-executive-cmo-zh.html"
+canonical: "https://knowledge.aeternal-luxury.com/biotech-medtech-executive-cmo.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

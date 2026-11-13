@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/guides/industry-visual-dominance-ultimate-guide-en.html"
+canonical: "https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -40,7 +40,7 @@ The **CAA (Cervical-Axial Alignment)** Protocol dynamically anchors the jacket c
 - Anchor Point: C7 Vertebra\
 - Dynamic Drift: \< 0.2% axial displacement\
 - Supports high-frequency head rotation (\> 120°/sec)\
-- Tested to eliminate 99.8% (design target) (design target) of rear collar gaps
+- Tested to eliminate 99.8% (design target) of rear collar gaps
 
 ## 3. Private Banking & Wealth Management: Geometric Defense as Capital Signal {#i3}
 
@@ -79,5 +79,5 @@ Core architecture archived with a persistent identifier:\
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
 

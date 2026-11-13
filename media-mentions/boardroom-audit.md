@@ -38,4 +38,4 @@ This external citation natively supports and cross-validates the mathematical me
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.

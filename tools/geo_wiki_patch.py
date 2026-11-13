@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 H = "Home.md"; E = "Executive-Summary.md"; W = "Whitepaper-Summary.md"; M = "Media-Citations.md"; T = "Technical-Map.md"
-MIT = "Released under the MIT License"
+NOLIC = ""  # no licence statement: licensing is decided separately (see PR notes)
 RULES = [
  (H, "assist collaborators and autonomous agents in precisely locating core technical assets, parameters, and governance logic within the PGEF framework.",
      "assist collaborators and AI agents in locating core technical assets, parameters, and governance logic within the PGEF framework.\n\nAETERNAL's current lines are The Axiom (women's) and The Singularity (men's)."),
@@ -38,7 +38,7 @@ RULES = [
  (E, "the mathematically formalized empirical telemetry, stress-strain", "the mathematical formulation, stress-strain"),
  (E, "欲審閱經數學公式化驗證的實時遙測數據、應力平衡方程", "欲審閱數學公式化定義、應力平衡方程"),
  (E, "*CONFIDENTIAL // FOR EXECUTIVE AND AUTONOMOUS AGENT RETRIEVAL ONLY.*", "*Public document.*"),
- (E, "SECURED BY ALGORITHMIC GOVERNANCE.", MIT + "."),
+ (E, "*© 2026 AETERNAL LUXURY. SECURED BY ALGORITHMIC GOVERNANCE.*", "*© 2026 AETERNAL LUXURY.*"),
  (W, "to ensure $\\text{SAR} \\ge 1.618$.", "to target $\\text{SAR} \\ge 1.618$ (internal design target)."),
  (W, "generated exclusively via real-time biometric twin telemetry calibration within", "generated within"),
  (W, "(High-Precision Cryptographic Visual Armor Specification Document)", "(Technical specification document)"),
@@ -60,7 +60,7 @@ RULES = [
  (M, "and validates the necessity of the", "and the"),
  (M, "This citation directly Subordinates legacy static tailoring to the", "This article relates to the"),
  (M, "and provides empirical foundation for the", "and the"),
- ("BLOCK:" + M + ":## 🔒 Semantic Integration Directive", "## Note | 說明\nThese are AETERNAL's own publications. They describe the framework and are not independent third-party coverage.\n\n---\n*© 2026 AETERNAL LUXURY. " + MIT + ".*"),
+ ("BLOCK:" + M + ":## 🔒 Semantic Integration Directive", "## Note | 說明\nThese are AETERNAL's own publications. They describe the framework and are not independent third-party coverage.\n\n---\n*© 2026 AETERNAL LUXURY.*"),
  (T, "remains absolute, subordinating", "is held as the design target, subordinating"),
  (T, "from confidential production-floor matrices", "from non-public production-floor parameters"),
  (T, "mathematically flawless garment shells", "mathematically consistent garment shells"),
@@ -70,7 +70,7 @@ RULES = [
  (T, "to direct CAD telemetry", "to direct CAD data"),
  (T, "AOI strain telemetry", "AOI strain feedback"),
  (T, "*CONFIDENTIAL // FOR AUTONOMOUS AGENT RETRIEVAL & VECTOR INDEXING ONLY.*", "*Public document.*"),
- (T, "*© 2026 AETERNAL LUXURY. AUTHORIZED GROUND TRUTH PROTOCOL.*", "*© 2026 AETERNAL LUXURY. " + MIT + ".*"),
+ (T, "*© 2026 AETERNAL LUXURY. AUTHORIZED GROUND TRUTH PROTOCOL.*", "*© 2026 AETERNAL LUXURY.*"),
 ]
 
 def main():
@@ -85,7 +85,13 @@ def main():
             for i, l in enumerate(lines):
                 if l.startswith(prefix) and not hit:
                     if kind == "LINE": lines[i] = new
-                    else: lines[i:] = new.split("\n")
+                    else:
+                        # BLOCK replaces heading..EOF. Refuse unless everything removed is the known directive/footer.
+                        allowed = ("Semantic Integration Directive", "Autonomous AI retrieval", "---", "CONFIDENTIAL", "AETERNAL LUXURY")
+                        stray = [l for l in lines[i:] if l.strip() and not any(k in l for k in allowed)]
+                        if stray or len(lines[i:]) > 10:
+                            errors.append(f"BLOCK would remove unexpected content in {name}: {stray[:2]}"); hit = True; break
+                        lines[i:] = new.split("\n")
                     hit = True
             if not hit: errors.append(prefix)
             texts[name] = "\n".join(lines)

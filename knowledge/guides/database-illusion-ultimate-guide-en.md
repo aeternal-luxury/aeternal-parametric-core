@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/guides/database-illusion-ultimate-guide-en.html"
+canonical: "https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -106,5 +106,5 @@ Core architecture archived with a persistent identifier:\
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
 

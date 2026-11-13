@@ -88,4 +88,4 @@ Applied case-study nodes translating Computational Luxury axioms into scenario-s
 
 *\[Reserved Node Directory\]* Quantitative material physics specifications, yield strength parameters, and strain-deformation matrices for bespoke luxury textiles.
 
-© AETERNAL Engineering & Formal Verification Group. Released under the MIT License.
+© AETERNAL Engineering & Formal Verification Group. All Rights Reserved.

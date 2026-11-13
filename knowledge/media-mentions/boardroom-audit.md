@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/media-mentions/boardroom-audit.html"
+canonical: "https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -38,4 +38,4 @@ This external citation natively supports and cross-validates the mathematical me
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.

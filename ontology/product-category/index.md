@@ -81,4 +81,4 @@ website: "https://aeternal-luxury.com/"
                           [Zero-Baseline Mesh & Beyond Savile Row]{.small}                   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-© AETERNAL Engineering & Formal Verification Group. Released under the MIT License.
+© AETERNAL Engineering & Formal Verification Group. All Rights Reserved.

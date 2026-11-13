@@ -93,6 +93,6 @@ From a rigorous geometric perspective, when structural deviation exceeds three d
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 关键词覆盖: suit collar gap, suit tailoring flaws, power suit fit guide, restriction in suit shoulders, jacket puckering

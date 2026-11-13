@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/index.html"
+canonical: "https://knowledge.aeternal-luxury.com/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -111,4 +111,4 @@ Sovereign Registry Hash: SHA-256: 4f8d2b9a7e1c5f3b9d8a2f4e6b1c0d5a3f9e8d7c6b5a4d
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) --- Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
 Last Semantic Audit: 2026-06-24 · Canonical Root: https://knowledge.aeternal-luxury.com/\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.

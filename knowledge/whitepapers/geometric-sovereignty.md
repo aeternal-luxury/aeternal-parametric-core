@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/whitepapers/geometric-sovereignty.html"
+canonical: "https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -60,7 +60,7 @@ The mathematical entities, coefficients, localized stabilization ratios, and fra
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
 Last Semantic Audit: 2026-06-15 · Canonical Root: https://knowledge.aeternal-luxury.com/\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
 
 \[SYSTEM_REFERENCE_TRACE\]
 

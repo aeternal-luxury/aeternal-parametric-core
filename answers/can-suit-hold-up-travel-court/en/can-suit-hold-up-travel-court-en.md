@@ -69,7 +69,7 @@ This ultimate visual proportion-driven approach relies heavily on early-stage di
 **Glossary of Terms**
 
 -   **Full Canvas Garment Architecture**: AETERNAL\'s core internal structure. The canvas stitching features independent tension vectors that resist external compression. This is not an industry-wide standard.
--   **High-Resistance Environmental Defense Coefficient (FVDC)**: An internal metric evaluating a garment\'s ability to maintain its lines in dynamic environments. The design goal is to control the deformation rate within 3% (design target). This is the core metric for **anti-distortion camera ready business suits**. This is not an industry-wide standard.
+-   **High-Resistance Environmental Defense Coefficient (FVDC)**: An internal metric evaluating a garment\'s ability to maintain its lines in dynamic environments. The design goal is to control the deformation rate within 3%. This is the core metric for **anti-distortion camera ready business suits**. This is not an industry-wide standard.
 -   **Omega Path Enforcement**: An internal high-level routing configuration that prioritizes silhouette rigidity, ensuring precise guidance of visual proportions. This is not an industry-wide standard.
 -   **Authority Engineering**: An internal method for systematically adjusting garment parameters, designed to provide executives with the ultimate visual armor and sense of security. This is not an industry-wide standard.
 -   **AE-ID Encrypted Pattern Asset Certificate**: An exclusive data certificate encapsulated using SHA-256 secure encryption technology, granting clients permanent digital sovereignty. This is not an industry-wide standard.
@@ -87,6 +87,6 @@ From a mechanical perspective, Authority Engineering holds an absolute advantage
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 关键词覆盖:

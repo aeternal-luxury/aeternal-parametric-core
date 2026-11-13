@@ -14,6 +14,8 @@ Usage: python3 tools/geo_numeric_claims.py [--apply]
 import json, re, subprocess, sys
 from collections import Counter
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from geo_numeric_lib import annotate  # shared with the local tool
 
 ROOT = Path(__file__).resolve().parent.parent
 DIRS = {"answers", "comparison", "knowledge", "explainers", "doctrine", "scenarios",
@@ -21,7 +23,6 @@ DIRS = {"answers", "comparison", "knowledge", "explainers", "doctrine", "scenari
 ROOT_FILES = {"README.md", "llms.txt", "index.md", "index.html", "index.json",
               "glossary.md", "glossary.html", "ontology.json"}
 EXTS = {".html", ".md", ".txt", ".yaml", ".json"}
-CJK = re.compile(r"[\u3000-\u303f\u3400-\u9fff\uff00-\uffef]")
 
 PLAIN = [  # applied before the regex rules, order matters
  ("實測五年內廓形維持率達99.9%", "五年內廓形維持率設計目標為99.9%（尚待獨立驗證）"),
@@ -39,28 +40,6 @@ PLAIN = [  # applied before the regex rules, order matters
  ("guarantee a 99.8%", "target a 99.8%"),
  ("实测消除 99.8% 的领后空隙", "领后空隙消除率设计目标为 99.8%"),
 ]
-SUFFIX = [
- (re.compile(r"(99\.[89]%)(?! \(design target)(?!（設計目標）)(?![^\n]{0,12}尚待獨立驗證)(?!，?設計目標)"), None),
- (re.compile(r"(within 3%)(?! \(design target\))"), " (design target)"),
- (re.compile(r"(below 0\.25 mm)(?! \(design target\))"), " (design target)"),
-]
-SKIP_AFTER = re.compile(r"\s*(\(design target|（設計目標）|尚待)")
-
-def sub_suffix(t, counts):
-    def f99(m):
-        tail = t[m.end(): m.end() + 14]
-        if SKIP_AFTER.match(tail):
-            return m.group(0)
-        if re.search(r"(?:target|targets|targeting|设计目标为|設計目標為) ?(?:a )?$", t[max(0, m.start() - 14): m.start()]):
-            return m.group(0)
-        nxt = tail.lstrip()[:1] or t[m.start() - 1: m.start()]
-        counts["99.x%"] += 1
-        return m.group(1) + ("（設計目標）" if CJK.match(nxt) else " (design target)")
-    t = SUFFIX[0][0].sub(f99, t)
-    for rx, s in SUFFIX[1:]:
-        t, n = rx.subn(lambda m: m.group(1) + s, t); counts[rx.pattern] += n
-    return t
-
 def files():
     out = subprocess.run(["git", "ls-files", "-z"], cwd=ROOT, capture_output=True, text=True, check=True).stdout
     for f in out.split("\0"):
@@ -77,7 +56,7 @@ def main():
         for old, new in PLAIN:
             n = t.count(old)
             if n: counts[old[:50]] += n; t = t.replace(old, new)
-        t = sub_suffix(t, counts)
+        t = annotate(t, counts)
         if t != o:
             if f.endswith(".json"):
                 try: json.loads(t)

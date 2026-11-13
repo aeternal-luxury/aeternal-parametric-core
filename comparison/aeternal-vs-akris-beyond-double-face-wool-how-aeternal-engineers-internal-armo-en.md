@@ -202,7 +202,7 @@ They fundamentally serve different operational needs, scenario assumptions, and 
 
 **AETERNAL LUXURY**\
 \
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 ## Frequently Asked Questions
 

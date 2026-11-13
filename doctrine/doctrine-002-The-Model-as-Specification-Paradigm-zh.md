@@ -102,6 +102,6 @@ $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\
 -   **• 航空工程學：** 飛機機翼的升力計算靠的是流體力學與風洞實驗，而非乘客的滿意度問卷。
 -   **• AETERNAL 的堅持：** 我們不將高級剪裁降維成隨機的主觀評價試錯，而是用可驗證的幾何公理與密碼學簽名（ECDSA），為每一件作品賦予真實、穩定且不可動搖的美學靈魂。
 
-© 2026 AETERNAL LUXURY. Sovereign Technical Governance. Released under the MIT License.
+© 2026 AETERNAL LUXURY. Sovereign Technical Governance. All Rights Reserved.
 
 Parametric Garment Engineering Framework (PGEF) v1.5 \| Canonical Specification Archive

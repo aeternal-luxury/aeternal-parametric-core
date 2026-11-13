@@ -93,6 +93,6 @@ AETERNAL 的解法從不依賴裁縫的盲目猜測。我們透過遠端AI定製
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 关键词覆盖: suit collar gap, suit tailoring flaws, power suit fit guide, restriction in suit shoulders, jacket puckering

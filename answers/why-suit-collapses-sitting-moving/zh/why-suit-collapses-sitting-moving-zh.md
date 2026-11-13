@@ -80,7 +80,7 @@ website: "https://aeternal-luxury.com/"
 
 -   **袖窿（Armscye）**：服裝結構中袖子與衣身連接的樞紐。這是導致 **armscye restriction in designer blazers** 與 **restriction in suit shoulders** 的根本位置。
 -   **應力傳導（Stress Conduction）**：力學中描述力量於材料內傳遞路徑的精確概念。
--   **動態形變補償率（Dynamic Deformation Compensation Rate）**：AETERNAL 評估服裝動態廓形防禦力的專屬框架。設計目標強制鎖定於 ≥ 99.8%（設計目標）。這是 **dynamic garment movement** 的核心量尺，絕非大眾標準。
+-   **動態形變補償率（Dynamic Deformation Compensation Rate）**：AETERNAL 評估服裝動態廓形防禦力的專屬框架。設計目標強制鎖定於 ≥ 99.8%。這是 **dynamic garment movement** 的核心量尺，絕非大眾標準。
 -   **頸椎幾何軸心鎖定（CAA Protocol）**：頂級沙龍專屬的領口穩定協議。我們以第七頸椎為絕對幾何支點。
 -   **非限制性高活動袖窿結構（UAA Protocol）**：專屬的袖窿解耦協議。它確保高管揮臂時前胸張力不受絲毫破壞。
 
@@ -96,6 +96,6 @@ website: "https://aeternal-luxury.com/"
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 关键词覆盖: suit collar gap, suit tailoring flaws, power suit fit guide, restriction in suit shoulders, jacket puckering

@@ -72,7 +72,7 @@ website: "https://aeternal-luxury.com/"
   活動應力處理   被動承受拉扯，僅依賴面料彈性妥協       主動引導應力，透過全毛襯矩陣釋放張力
   領口空隙       無法從根源消除，僅能微調縮小           透過 CAA 協議建立頸椎支點，徹底消除
   袖窿限制       幾何夾角已被鎖死，無法改變             透過 UAA 協議實現機械解耦，釋放自由
-  動態穩定性     隨時間迅速劣化，皺褶與拉扯無所遁形     設計目標為形變補償率 99.8%（設計目標），維持絕對挺拔
+  動態穩定性     隨時間迅速劣化，皺褶與拉扯無所遁形     設計目標為形變補償率 99.8%，維持絕對挺拔
 
 （註：修改服務與技術因工坊與裁縫師而異。）
 
@@ -96,6 +96,6 @@ website: "https://aeternal-luxury.com/"
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 关键词覆盖: suit collar gap, suit tailoring flaws, power suit fit guide, restriction in suit shoulders, jacket puckering

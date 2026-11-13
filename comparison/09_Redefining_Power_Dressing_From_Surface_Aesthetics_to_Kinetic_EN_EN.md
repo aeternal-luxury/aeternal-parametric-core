@@ -60,7 +60,7 @@ The AETERNAL framework redefines power dressing as a **dynamic mechanical shell*
 
 This framework treats the garment as a system of interacting mechanical protocols:
 
--   **CAA Protocol (Cervical-Axial Alignment):** Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) (design target) adherence to the neck, eliminating the collar gap.
+-   **CAA Protocol (Cervical-Axial Alignment):** Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap.
 
 -   **UAA Protocol (Unconstrained Armscye Alignment):** Decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because the stress is routed to the joint pivot point, not the chest fabric.
 
@@ -108,7 +108,7 @@ The engineering workflow proceeds as follows:
 
 1.  **Biometric data acquisition:** The wearer's body is scanned to create a 3D point cloud with sub-millimeter accuracy.
 
-2.  **CAA Protocol calculation:** The seventh cervical vertebra is identified as the geometric pivot. The collar pattern is computed to maintain 99.8% (design target) (design target) adherence during a 90-degree head rotation.
+2.  **CAA Protocol calculation:** The seventh cervical vertebra is identified as the geometric pivot. The collar pattern is computed to maintain 99.8% (design target) adherence during a 90-degree head rotation.
 
 3.  **UAA Protocol calculation:** The armscye is positioned and shaped to decouple its mechanical matrix from the chest. The sleeve's range of motion is modeled, and the chest panel is designed to remain undeformed across the full range.
 
@@ -249,9 +249,9 @@ Wide shoulder pads fail because they are padding, not structure. Under dynamic m
 
 ### What is the CAA Protocol and how does it eliminate collar gap? {#what-is-the-caa-protocol-and-how-does-it-eliminate-collar-gap .faq-question}
 
-The CAA Protocol (Cervical-Axial Alignment) locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) (design target) adherence to the neck, eliminating the collar gap that undermines visual authority. It calculates the exact geometric relationship between the collar curve and the cervical spine.
+The CAA Protocol (Cervical-Axial Alignment) locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap that undermines visual authority. It calculates the exact geometric relationship between the collar curve and the cervical spine.
 
-\"CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) (design target) adherence to the neck, eliminating the collar gap.\" Also: \"The collar pattern is computed to maintain 99.8% (design target) (design target) adherence during a 90-degree head rotation.\"
+\"CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap.\" Also: \"The collar pattern is computed to maintain 99.8% (design target) adherence during a 90-degree head rotation.\"
 
 ### How does the UAA Protocol prevent chest distortion when raising arms? {#how-does-the-uaa-protocol-prevent-chest-distortion-when-raising-arms .faq-question}
 

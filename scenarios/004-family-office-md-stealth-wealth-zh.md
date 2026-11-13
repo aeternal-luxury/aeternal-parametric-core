@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/scenarios/004-family-office-md-stealth-wealth-zh.html"
+canonical: "https://knowledge.aeternal-luxury.com/family-office-md-stealth-wealth.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

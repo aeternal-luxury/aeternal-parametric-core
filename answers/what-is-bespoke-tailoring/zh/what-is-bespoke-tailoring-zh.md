@@ -95,6 +95,6 @@ MTM 的運作邏輯，是從一個既有的母版出發。這個母版通常是�
 
 Access Aeternal Luxury: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){rel="noopener noreferrer"}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.
 
 关键词覆盖: bespoke womenswear, custom suits online, made to measure suits, luxury custom tailoring, what is bespoke tailoring

@@ -91,8 +91,8 @@ Sitemap: https://knowledge.aeternal-luxury.com/sitemap.xml
 # ====================================================================
 # 5. Notes on crawling and licensing
 # ====================================================================
-# - Content is released under the MIT License (see LICENSE in the repository)
-# - All crawlers are welcome, including search, AI retrieval and AI training crawlers
+# - AI search, retrieval, indexing and training crawlers are all welcome
+# - Licensing: see LICENSE (source code) and the licence notice on each document
 # - Contact: https://aeternal-luxury.com/contact
 # ====================================================================
 

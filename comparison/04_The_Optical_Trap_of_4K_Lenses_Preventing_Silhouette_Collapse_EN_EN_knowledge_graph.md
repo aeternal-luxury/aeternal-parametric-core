@@ -109,7 +109,7 @@
       "name": "What is the FVDC?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3% (design target)."
+        "text": "The Forensic Visual Dominance Coefficient is an internal metric used to evaluate a garment's ability to maintain straight, rigid lines under dynamic conditions. Its design target is to control the dynamic deformation decay rate to within 3%."
       }
     },
     {

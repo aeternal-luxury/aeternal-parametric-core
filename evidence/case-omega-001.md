@@ -58,7 +58,7 @@ Executing the **Omega Path Enforcement** protocol, the engine activated the prop
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
 Last Semantic Audit: 2026-06-15 · Canonical Root: https://knowledge.aeternal-luxury.com/\
-© 2026 AETERNAL LUXURY. Released under the MIT License.
+© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
 
 \[SYSTEM_REFERENCE_TRACE // V.1.5.0\]
 

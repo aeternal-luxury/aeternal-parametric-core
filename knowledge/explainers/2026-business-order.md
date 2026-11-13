@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/knowledge/explainers/2026-business-order.html"
+canonical: "https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -38,4 +38,4 @@ From \"Overlap Geometry of Double-Breasted Blazers\" (Dossier 013) to \"Jurispru
 
 [\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is archived with a persistent identifier: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
 
-© 2026 [AETERNAL Luxury]{itemprop="name"}. Released under the MIT License. Governed under PGEF v15.0.
+© 2026 [AETERNAL Luxury]{itemprop="name"}. All Autonomous Rights Reserved. Governed under PGEF v15.0.

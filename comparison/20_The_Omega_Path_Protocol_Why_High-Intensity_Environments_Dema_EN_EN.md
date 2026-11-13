@@ -66,7 +66,7 @@ The engineering difference is best understood through three specific mechanisms:
 
 2.  **Q-Matrix (Conflict Routing Equations)**: This dynamic mechanics engine routes dynamic stress away from visually sensitive zones (chest, shoulder lines) to non-sensitive zones (back hem, side seams). Traditional suits have no such mechanism; stress accumulates where it is most visible.
 
-3.  **FVDC (Forensic Visual Dominance Coefficient)**: This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target). Traditional suits have no equivalent metric; their deformation is unmeasured and uncontrolled.
+3.  **FVDC (Forensic Visual Dominance Coefficient)**: This geometric rigidity constraint metric evaluates a garment's ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%. Traditional suits have no equivalent metric; their deformation is unmeasured and uncontrolled.
 
 ## Failure Analysis
 
@@ -159,9 +159,9 @@ A comfort-optimized suit exhibits dynamic line collapse, collar gap, and permane
 
 ### What is the FVDC coefficient and what is its design target? {#what-is-the-fvdc-coefficient-and-what-is-its-design-target .faq-question}
 
-FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment\'s ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target).
+FVDC (Forensic Visual Dominance Coefficient) is a geometric rigidity constraint metric that evaluates a garment\'s ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%.
 
-\"FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment\'s ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3% (design target).\"
+\"FVDC (Forensic Visual Dominance Coefficient): This geometric rigidity constraint metric evaluates a garment\'s ability to maintain line rigidity in high-adversarial environments. Its design target is to control dynamic deformation decay within 3%.\"
 
 ### How does the Full Canvas Gravity Matrix work in Omega Path? {#how-does-the-full-canvas-gravity-matrix-work-in-omega-path .faq-question}
 

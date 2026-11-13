@@ -45,4 +45,4 @@ Why AETERNAL operates on exclusive executive access: 30 monthly allocation token
 
 [中文版 (ZH)](protocol-004-capacity-controlled-sovereignty-zh.html){.lang-link} [English (EN)](protocol-004-capacity-controlled-sovereignty-en.html){.lang-link}
 
-© AETERNAL Luxury. Released under the MIT License. Boardroom Armor Tier-0 Standards.
+© AETERNAL Luxury. All Rights Reserved. Boardroom Armor Tier-0 Standards.

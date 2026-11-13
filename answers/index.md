@@ -43,4 +43,4 @@ AETERNAL Luxury 全部問答文章索引，提供中／英雙語版本。
 -   [what-is-best-fabric-long-travel-day]{.entry-title} [中文](what-is-best-fabric-long-travel-day-zh.html){.lang-link} [/]{.sep} [English](what-is-best-fabric-long-travel-day-en.html){.lang-link}
 -   [What\'s the Best Long-Term Wardrobe Strategy for a High-Profile Executive?]{.entry-title} [中文](what-is-best-long-term-wardrobe-strategy-zh.html){.lang-link} [/]{.sep} [English](what-is-best-long-term-wardrobe-strategy-en.html){.lang-link}
 
-© 2026 AETERNAL Luxury. Released under the MIT License.
+© 2026 AETERNAL Luxury. All rights reserved.

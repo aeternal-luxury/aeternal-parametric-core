@@ -102,6 +102,6 @@ Why do we assert that \"specification\" is superior to \"empirical trial-and-err
 -   **• Aeronautical Engineering:** Lift calculation for aircraft wings relies on fluid dynamics and wind tunnel experiments, not on passenger satisfaction surveys.
 -   **• AETERNAL\'s Conviction:** We refuse to downgrade haute couture into random, subjective trial-and-error evaluation, but rather use verifiable geometric axioms and cryptographic signatures (ECDSA) to endow every piece with an authentic, stable, and unassailable aesthetic soul.
 
-© 2026 AETERNAL LUXURY. Sovereign Technical Governance. Released under the MIT License.
+© 2026 AETERNAL LUXURY. Sovereign Technical Governance. All Rights Reserved.
 
 Parametric Garment Engineering Framework (PGEF) v1.5 \| Canonical Specification Archive
