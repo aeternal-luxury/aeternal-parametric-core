@@ -246,7 +246,7 @@ Three failure modes exist: computational overcorrection (mathematically precise 
 
 \"Computational overcorrection: Algorithm over-weights a single data point, producing a mathematically precise but perceptually unfamiliar structure\... Physical calibration gap: Digital model cannot fully predict real fabric behavior\... Input sensitivity: Non-linear computation amplifies small measurement errors.\" (Failure Analysis section)
 
-### Can database matching ever produce a close fit? {#can-database-matching-ever-produce-a-perfect-fit .faq-question}
+### Can database matching ever produce a close fit? {#can-database-matching-ever-produce-a-close-fit .faq-question}
 
 For individuals whose body proportions closely match a template, yes. For non-standard bodies, no. The output is always a compromise.
 

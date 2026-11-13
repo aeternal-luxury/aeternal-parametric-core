@@ -57,7 +57,7 @@ This ultimate visual proportion-driven approach relies heavily on early-stage di
 **Comparison: Ready-to-Wear vs. Authority Engineering Suits in Travel Performance**
 
   Aspect                       Standard Ready-to-Wear                                 Authority Engineering Suits
-  ---------------------------- ------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------
+  ---------------------------- ------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------
   Internal Structural Logic    Standard full canvas or half canvas                    Full Canvas Garment Architecture; canvas features independent tension vectors to resist compression
   Dynamic Stress Management    No specific design; deformation diffuses randomly      Stress is precisely guided to preset release paths, activating Omega Path Enforcement
   Long-Travel Performance      Lines visibly collapse, with wrinkles and distortion   Lines maintain absolute rigidity; deformation rate is strictly controlled within 3%
