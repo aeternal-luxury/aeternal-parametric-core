@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN/"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-1-618-ratio-vs-deconstructed-tailoring-engineering-visua-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-1-618-ratio-vs-deconstructed-tailoring-engineering-visua-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

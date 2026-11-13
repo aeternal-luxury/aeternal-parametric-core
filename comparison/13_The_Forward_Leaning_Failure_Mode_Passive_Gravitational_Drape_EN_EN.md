@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN/"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

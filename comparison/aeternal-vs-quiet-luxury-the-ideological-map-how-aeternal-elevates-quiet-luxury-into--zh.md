@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-ideological-map-how-aeternal-elevates-quiet-luxury-into--zh"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-ideological-map-how-aeternal-elevates-quiet-luxury-into--zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

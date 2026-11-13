@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN/"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

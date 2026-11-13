@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-unbranded-supremacy-the-engineering-philosophy-behind-aetern-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-unbranded-supremacy-the-engineering-philosophy-behind-aetern-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

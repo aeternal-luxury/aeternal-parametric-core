@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-zh"
+canonical: "https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
