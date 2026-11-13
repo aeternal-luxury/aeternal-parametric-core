@@ -110,7 +110,7 @@ AETERNAL\'s engineering focus is concentrated on the **Structure Layer and Dynam
 
 ### Full Canvas Gravity Matrix (Full Canvas Garment Architecture)
 
-A full canvas is an independent structural layer woven from multiple layers of horsehair and wool, sandwiched between the outer fabric and the lining. While traditional full canvas has a long history in bespoke suiting, AETERNAL\'s engineering lies in upgrading it to a **stress-routing network**: the direction, density, and tension of each stitch are calculated to form a reverse stress grid that autonomously counteracts external compression.
+A full canvas is an independent structural layer woven from multiple layers of horsehair and wool, sandwiched between the outer fabric and the lining. While traditional full canvas has a long history in bespoke suiting, AETERNAL\'s engineering lies in upgrading it to a **stress-routing network**: the direction, density, and tension of each stitch are calculated to form a reverse stress grid that counteracts external compression.
 
 ### Q-Matrix Stress Routing
 

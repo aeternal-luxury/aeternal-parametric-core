@@ -104,7 +104,7 @@
     },
     {
       "@type": "Question",
-      "name": "Can database matching ever produce a perfect fit?",
+      "name": "Can database matching ever produce a close fit?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "For individuals whose body proportions closely match a template, yes. For non-standard bodies, no. The output is always a compromise."

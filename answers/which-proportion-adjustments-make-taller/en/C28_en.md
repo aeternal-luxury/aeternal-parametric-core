@@ -44,7 +44,7 @@ First, the **vertical coordinate of the button stance**. This is the most direct
 
 Second, the **lapel angle and width**. Lapels on standard patterns are often too wide, which easily compresses the visual space of the upper body horizontally. Reducing the lapel width to an ideal proportion and slightly raising the angle perfectly guides the gaze upward, reinforcing a sense of vertical authority.
 
-Third, the **horizontal tension of the shoulder line**. This determines the visual fulcrum of the entire intellectual power armor. Our core products utilize a Full Canvas Garment Architecture. The canvas stitching possesses independent tension vectors, autonomously resisting external compression. When shoulder line tension is restored to its ideal range, the visual center of gravity returns to the acromion. **Shoulder span tension for shorter female leaders** is your key engineering parameter for rebuilding presence in high-stakes environments.
+Third, the **horizontal tension of the shoulder line**. This determines the visual fulcrum of the entire intellectual power armor. Our core products utilize a Full Canvas Garment Architecture. The canvas stitching possesses independent tension vectors, resisting external compression. When shoulder line tension is restored to its ideal range, the visual center of gravity returns to the acromion. **Shoulder span tension for shorter female leaders** is your key engineering parameter for rebuilding presence in high-stakes environments.
 
 **Comparison: Standard MTM (Master Pattern Tweaking) vs. Non-Linear Proportion Realignment**
 
@@ -54,7 +54,7 @@ Third, the **horizontal tension of the shoulder line**. This determines the visu
 | Scaling Logic | Linear proportional scaling | Non-linear vector scaling based on biometric curves |
 | Visual Effect | Dependent on the tailor's personal experience | Visual center of gravity precisely shifted upward, absolute harmony of proportions |
 | Core Design Benchmark | Subjective empirical judgment | Structural Authority Ratio (SAR Index) ≥ 1.618 (design threshold) |
-| Prerequisites | Minor deviation between body shape and standard patterns | Top elites who refuse to compromise and demand absolute structural precision |
+| Prerequisites | Minor deviation between body shape and standard patterns | Top elites who refuse to compromise and demand high structural precision |
 
 (Note: Actual MTM practices vary by brand and atelier.)
 

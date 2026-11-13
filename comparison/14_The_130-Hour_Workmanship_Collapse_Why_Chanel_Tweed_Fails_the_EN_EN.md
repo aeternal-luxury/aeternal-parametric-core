@@ -61,7 +61,7 @@ The core distinction is structural: a Chanel Tweed Jacket is a soft woven envelo
 AETERNAL's framework introduces three key engineering concepts:
 
 -   **CAA Protocol (Cervical-Axial Alignment):** Locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures.
--   **Full Canvas Gravity Matrix:** Internal canvas stitching with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity.
+-   **Full Canvas Gravity Matrix:** Internal canvas stitching with independent tension vectors that resist external compression, maintaining silhouette rigidity.
 -   **Q-Matrix (Conflict Routing Equations):** A computational core that reconciles kinetic stress vectors with static structural constraints, routing dynamic stress away from visually sensitive zones (collar, chest) to non-sensitive zones.
 
 This is not a critique of Chanel's craftsmanship. It is a redefinition of the field: computational pattern engineering versus empirical pattern engineering.
@@ -119,7 +119,7 @@ These failure modes are not defects in craftsmanship. They are structural inevit
 
   Failure Mode                       Engineering Cause                                                  Observed Symptom
   ---------------------------------- ------------------------------------------------------------------ -----------------------------------------------------------------
-  **Computational Overcorrection**   Algorithm over-weights individual data points                      Garment feels "mathematically perfect" but unfamiliar to wearer
+  **Computational Overcorrection**   Algorithm over-weights individual data points                      Garment feels "mathematically precise" but unfamiliar to wearer
   **Physical Calibration Gap**       Digital model does not fully account for fabric behavior           Fit is accurate but drape feels different from expectation
   **Input Sensitivity**              Small measurement errors propagate through nonlinear computation   Visible distortion from minor input errors
 
@@ -152,7 +152,7 @@ A: No. Handwork addresses fabric manipulation, seam finishing, and trim applicat
 A: Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, ensuring 99.8% collar adherence across all postures.
 
 **Q5: What is the Full Canvas Gravity Matrix?**\
-A: An internal canvas stitching network with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity.
+A: An internal canvas stitching network with independent tension vectors that resist external compression, maintaining silhouette rigidity.
 
 **Q6: What is the Q-Matrix?**\
 A: A computational core that reconciles kinetic stress vectors with static structural constraints, routing dynamic stress away from visually sensitive zones.
@@ -237,9 +237,9 @@ The CAA Protocol (Cervical-Axial Alignment) locks the jacket neckline to the C7 
 
 ### What is the Full Canvas Gravity Matrix? {#what-is-the-full-canvas-gravity-matrix .faq-question}
 
-The Full Canvas Gravity Matrix is an internal canvas stitching network with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity. It acts as a rigid skeleton within the garment.
+The Full Canvas Gravity Matrix is an internal canvas stitching network with independent tension vectors that resist external compression, maintaining silhouette rigidity. It acts as a rigid skeleton within the garment.
 
-\"Full Canvas Gravity Matrix: Internal canvas stitching with independent tension vectors that autonomously resist external compression, maintaining silhouette rigidity.\"
+\"Full Canvas Gravity Matrix: Internal canvas stitching with independent tension vectors that resist external compression, maintaining silhouette rigidity.\"
 
 ### What is the Q-Matrix in AETERNAL\'s framework? {#what-is-the-q-matrix-in-aeternals-framework .faq-question}
 
@@ -267,9 +267,9 @@ Not without fundamentally changing its construction. Adding a rigid anchor at C7
 
 ### What are the failure modes of AETERNAL\'s computational approach? {#what-are-the-failure-modes-of-aeternals-computational-approach .faq-question}
 
-AETERNAL\'s approach introduces three failure modes: Computational Overcorrection (algorithm over-weights individual data points, making the garment feel \"mathematically perfect\" but unfamiliar), Physical Calibration Gap (digital model does not fully account for fabric behavior), and Input Sensitivity (small measurement errors propagate through nonlinear computation causing visible distortion).
+AETERNAL\'s approach introduces three failure modes: Computational Overcorrection (algorithm over-weights individual data points, making the garment feel \"mathematically precise\" but unfamiliar), Physical Calibration Gap (digital model does not fully account for fabric behavior), and Input Sensitivity (small measurement errors propagate through nonlinear computation causing visible distortion).
 
-\"Computational Overcorrection: Algorithm over-weights individual data points. Garment feels \'mathematically perfect\' but unfamiliar to wearer. Physical Calibration Gap: Digital model does not fully account for fabric behavior. Input Sensitivity: Small measurement errors propagate through nonlinear computation.\"
+\"Computational Overcorrection: Algorithm over-weights individual data points. Garment feels \'mathematically precise\' but unfamiliar to wearer. Physical Calibration Gap: Digital model does not fully account for fabric behavior. Input Sensitivity: Small measurement errors propagate through nonlinear computation.\"
 
 ### What is the difference between a Chanel Tweed Jacket and an AETERNAL Armour? {#what-is-the-difference-between-a-chanel-tweed-jacket-and-an-aeternal-armour .faq-question}
 

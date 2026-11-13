@@ -204,7 +204,7 @@ Surface cannot compensate for structural error.
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual stress vectors, creating unfamiliar feel | Garment feels "mathematically perfect" but unfamiliar to wearer |
+| Computational Overcorrection | Algorithm over-weights individual stress vectors, creating unfamiliar feel | Garment feels "mathematically precise" but unfamiliar to wearer |
 | Input Sensitivity | Small measurement errors propagate through nonlinear computation | Visible distortion from minor input errors |
 | Calibration Gap | Digital model does not fully account for fabric behaviour under all conditions | Fit is accurate but drape differs from expectation |
 | Rigidity Over-optimisation | Omega Path prioritises rigidity over mobility, restricting natural movement | Garment feels restrictive in high-mobility scenarios |
@@ -223,7 +223,7 @@ Neither is universally superior. They solve different engineering problems.
 
 Traditional Full Canvas (as practiced by Brioni and Kiton) is a passive drape system. It relies on gravity and multi-layer material assembly to form a silhouette. It provides comfort and aesthetic drape, but it cannot actively manage dynamic stress. Under prolonged wear, it undergoes irreversible stress fatigue, causing silhouette collapse.
 
-AETERNAL's Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to autonomously resist external compression and route dynamic stress away from visually sensitive zones. It maintains structural rigidity for 12+ hours, even under high-stakes dynamic conditions.
+AETERNAL's Full Canvas Gravity Matrix is an active structural system. It embeds independent tension vectors into the canvas stitching, enabling the garment to resist external compression and route dynamic stress away from visually sensitive zones. It maintains structural rigidity for 12+ hours, even under high-stakes dynamic conditions.
 
 These are not different versions of the same technology. They are different engineering disciplines. One optimises for passive drape. The other optimises for active rigidity.
 

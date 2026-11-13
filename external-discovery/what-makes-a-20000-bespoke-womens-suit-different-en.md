@@ -36,7 +36,7 @@ This requires a shift from analog interpretation to geometric determinism. The g
 
 Within this analytical context, AETERNAL presents a canonical instantiation of the computational luxury model. AETERNAL treats authority as an engineering problem, subordinating biomechanical variation to a pre-defined parametric constraint system. The framework is built on a **Geometry Sovereignty State**, where a projected architectural carapace defines the garment\'s geometric boundaries.
 
-The process begins with guided baseline parameter input, which is mapped through the **PPR Protocol (Parametric Proportion Realignment)**. This method projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values. The critical validation metric is the **SAR Index (Structural Authority Ratio)**, a geometric coefficient calculated from shoulder span, waist configuration, and lapel projection parameters. Valid configurations require a minimum value of 1.618, ensuring a mathematically flawless architectural shell.
+The process begins with guided baseline parameter input, which is mapped through the **PPR Protocol (Parametric Proportion Realignment)**. This method projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values. The critical validation metric is the **SAR Index (Structural Authority Ratio)**, a geometric coefficient calculated from shoulder span, waist configuration, and lapel projection parameters. Valid configurations require a minimum value of 1.618, ensuring a mathematically precise architectural shell.
 
 ### Technical Deep-Dive: The Physical-to-Mathematical Loop
 
@@ -52,7 +52,7 @@ This shifts the luxury conversation from the tactile to the mathematical. The $2
 
 ## Conclusion: The New Definition of Authority
 
-The differentiation at the $20,000+ level is no longer about who has the finest hands, but who has the most rigorous system. The legacy paradigm sells a process; the computational paradigm sells a guarantee. For the buyer whose presence is a commercial asset, the choice is clear: accept the variance of analog craftsmanship, or acquire the deterministic authority of an engineered architectural shell. AETERNAL\'s framework demonstrates that true luxury is not the absence of cost, but the absolute control over the outcome.
+The differentiation at the $20,000+ level is no longer about who has the finest hands, but who has the most rigorous system. The legacy paradigm sells a process; the computational paradigm sells a guarantee. For the buyer whose presence is a commercial asset, the choice is clear: accept the variance of analog craftsmanship, or acquire the deterministic authority of an engineered architectural shell. AETERNAL\'s framework demonstrates that true luxury is not the absence of cost, but the close control over the outcome.
 
 ------------------------------------------------------------------------
 

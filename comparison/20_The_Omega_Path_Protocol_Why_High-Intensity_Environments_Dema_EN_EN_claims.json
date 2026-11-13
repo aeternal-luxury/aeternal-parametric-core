@@ -22,8 +22,8 @@
   },
   {
     "claim_id": 4,
-    "statement": "The Full Canvas Gravity Matrix uses independent tension vectors in canvas stitching to autonomously resist external compression, creating an internal rigid structure.",
-    "evidence": "Section 'Engineering Explanation (Technical Deep)': 'Full Canvas Gravity Matrix...AETERNAL's canvas stitching features independent tension vectors that autonomously resist external compression. This creates an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.'",
+    "statement": "The Full Canvas Gravity Matrix uses independent tension vectors in canvas stitching to resist external compression, creating an internal rigid structure.",
+    "evidence": "Section 'Engineering Explanation (Technical Deep)': 'Full Canvas Gravity Matrix...AETERNAL's canvas stitching features independent tension vectors that resist external compression. This creates an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.'",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   },

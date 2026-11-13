@@ -43,7 +43,7 @@ AETERNAL’s Omega Path uses **Computational Pattern Engineering**. Remote AI cu
 ### Technical Deep
 The engineering difference is best understood through three specific mechanisms:
 
-1. **Full Canvas Gravity Matrix**: Unlike traditional floating canvas, which allows fabric to drape naturally, AETERNAL’s canvas stitching features independent tension vectors that autonomously resist external compression. This creates an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.
+1. **Full Canvas Gravity Matrix**: Unlike traditional floating canvas, which allows fabric to drape naturally, AETERNAL’s canvas stitching features independent tension vectors that resist external compression. This creates an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.
 
 2. **Q-Matrix (Conflict Routing Equations)**: This dynamic mechanics engine routes dynamic stress away from visually sensitive zones (chest, shoulder lines) to non-sensitive zones (back hem, side seams). Traditional suits have no such mechanism; stress accumulates where it is most visible.
 
@@ -103,7 +103,7 @@ The engineering difference is best understood through three specific mechanisms:
    Yes. It is part of AETERNAL’s parametric framework, allowing biometric data to drive the engineering.
 
 9. **How does the Full Canvas Gravity Matrix work?**  
-   It uses independent tension vectors in the canvas stitching to autonomously resist external compression, maintaining silhouette.
+   It uses independent tension vectors in the canvas stitching to resist external compression, maintaining silhouette.
 
 10. **What is the Q-Matrix?**  
     A dynamic mechanics engine that routes stress away from visually sensitive zones to non-sensitive zones.

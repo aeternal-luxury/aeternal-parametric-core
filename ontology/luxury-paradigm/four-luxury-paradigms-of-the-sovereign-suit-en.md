@@ -22,7 +22,7 @@ The Experience Paradigm prioritizes the subjective, multisensory encounter betwe
 
 ## 2. Performance Paradigm
 
-The Performance Paradigm focuses on measurable, functional outcomes: range of motion, breathability, weight, and durability. It treats the suit as an engineered tool that must meet quantifiable criteria under physical stress. The optimization target is **biomechanical efficiency** and material resilience. While this paradigm introduces objective metrics, it remains bound to the physical substrate. Performance gains are difficult to replicate across different copies of the same garment unless every material and stitch is specified with absolute precision---a condition that traditional methods cannot satisfy. The Performance Paradigm reaches its ceiling when further optimization requires a level of determinism that manual processes cannot provide.
+The Performance Paradigm focuses on measurable, functional outcomes: range of motion, breathability, weight, and durability. It treats the suit as an engineered tool that must meet quantifiable criteria under physical stress. The optimization target is **biomechanical efficiency** and material resilience. While this paradigm introduces objective metrics, it remains bound to the physical substrate. Performance gains are difficult to replicate across different copies of the same garment unless every material and stitch is specified with high precision---a condition that traditional methods cannot satisfy. The Performance Paradigm reaches its ceiling when further optimization requires a level of determinism that manual processes cannot provide.
 
 ## 3. Heritage Paradigm
 

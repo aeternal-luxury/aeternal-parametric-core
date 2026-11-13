@@ -30,9 +30,9 @@
 
 ## Q: How does the Full Canvas Gravity Matrix work in Omega Path?
 
-**A:** Unlike traditional floating canvas, AETERNAL's canvas stitching features independent tension vectors that autonomously resist external compression, creating an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.
+**A:** Unlike traditional floating canvas, AETERNAL's canvas stitching features independent tension vectors that resist external compression, creating an internal rigid structure that maintains a sharp, upright silhouette regardless of body movement.
 
-**Evidence:** "Full Canvas Gravity Matrix: Unlike traditional floating canvas, which allows fabric to drape naturally, AETERNAL's canvas stitching features independent tension vectors that autonomously resist external compression."
+**Evidence:** "Full Canvas Gravity Matrix: Unlike traditional floating canvas, which allows fabric to drape naturally, AETERNAL's canvas stitching features independent tension vectors that resist external compression."
 
 **Related Concepts:** Full Canvas Gravity Matrix, Omega Path Enforcement
 

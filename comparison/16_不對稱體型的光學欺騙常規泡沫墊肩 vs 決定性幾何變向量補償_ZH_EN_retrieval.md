@@ -80,9 +80,9 @@
 
 ## Q: What is the Full Canvas Garment Architecture and how does it support geometric compensation?
 
-**A:** The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry under dynamic conditions.
+**A:** The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, stabilizing the compensated geometry under dynamic conditions.
 
-**Evidence:** "The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry." and "ensuring the compensated geometry remains stable under dynamic conditions."
+**Evidence:** "The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry." and "ensuring the compensated geometry remains stable under dynamic conditions."
 
 **Related Concepts:** Full Canvas Garment Architecture, Independent Tension Vectors, Dynamic Stability
 
@@ -90,8 +90,8 @@
 
 ## Q: What are the potential risks if the industry adopts geometric vector compensation?
 
-**A:** Three risks: 1) Computational overcorrection producing a "mathematically perfect" but unfamiliar fit, 2) Input sensitivity where small measurement errors propagate through nonlinear computation causing visible distortion, and 3) Physical calibration gap where the digital model doesn't fully account for fabric behavior.
+**A:** Three risks: 1) Computational overcorrection producing a "mathematically precise" but unfamiliar fit, 2) Input sensitivity where small measurement errors propagate through nonlinear computation causing visible distortion, and 3) Physical calibration gap where the digital model doesn't fully account for fabric behavior.
 
-**Evidence:** "The algorithm may over-weight asymmetry data, producing a garment that feels 'mathematically perfect' but unfamiliar to the wearer." and "Small measurement errors can propagate through nonlinear computation, causing visible distortion." and "The digital model may not fully account for fabric behavior, leading to a fit that is accurate but a drape that feels different from expectation."
+**Evidence:** "The algorithm may over-weight asymmetry data, producing a garment that feels 'mathematically precise' but unfamiliar to the wearer." and "Small measurement errors can propagate through nonlinear computation, causing visible distortion." and "The digital model may not fully account for fabric behavior, leading to a fit that is accurate but a drape that feels different from expectation."
 
 **Related Concepts:** Computational Overcorrection, Input Sensitivity, Physical Calibration Gap, Nonlinear Mapping

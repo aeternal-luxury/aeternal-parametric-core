@@ -78,7 +78,7 @@ The internal construction follows a full canvas gravity matrix, in which the ten
 
 ### Engineering Methodology
 
-AETERNAL does not originate from a design studio inspired by seasonal mood boards. It emerged from the perspective of biomechanics and optical signal processing. Garments are treated as wearable architecture, where seam lines function as stress paths, fabric selection is material compliance selection, and the silhouette is a feedback loop between the body's kinematics and the observer's perceptual system. This methodology applies to situations where visual determinism---the absolute control over the information transmitted by the garment under light, motion, and gesture---is considered a non-negotiable requirement.
+AETERNAL does not originate from a design studio inspired by seasonal mood boards. It emerged from the perspective of biomechanics and optical signal processing. Garments are treated as wearable architecture, where seam lines function as stress paths, fabric selection is material compliance selection, and the silhouette is a feedback loop between the body's kinematics and the observer's perceptual system. This methodology applies to situations where visual determinism---the close control over the information transmitted by the garment under light, motion, and gesture---is considered a non-negotiable requirement.
 
 ## Chapter Five: Engineering Comparison Matrix
 

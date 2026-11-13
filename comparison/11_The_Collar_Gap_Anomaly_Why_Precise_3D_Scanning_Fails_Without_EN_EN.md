@@ -100,7 +100,7 @@ The engineering challenge is that dynamic stress vectors are nonlinear and inter
 
 AETERNAL\'s PGEF uses a whole-body coupled computation that treats all geometric parameters as interdependent variables. When the CAA Protocol activates, it establishes the C7 vertebra as a boundary condition in the stress vector field. The Q-Matrix then solves a system of conflict routing equations that minimize stress at the collar node while maintaining structural integrity at all other nodes.
 
-The Full Canvas Gravity Matrix provides the physical substrate for this computational model. The canvas stitching features independent tension vectors that autonomously resist external compression. When the Q-Matrix routes stress to the C7 anchor, the canvas structure absorbs the force without transmitting it to the visible surface of the garment.
+The Full Canvas Gravity Matrix provides the physical substrate for this computational model. The canvas stitching features independent tension vectors that resist external compression. When the Q-Matrix routes stress to the C7 anchor, the canvas structure absorbs the force without transmitting it to the visible surface of the garment.
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ These failure modes are structural, not cosmetic. They cannot be resolved throug
 
   Failure Mode                       Engineering Cause                                                  Observed Symptom
   ---------------------------------- ------------------------------------------------------------------ -------------------------------------------------------------------
-  **Computational Overcorrection**   Algorithm over-weights individual data points                      Garment feels \"mathematically perfect\" but unfamiliar to wearer
+  **Computational Overcorrection**   Algorithm over-weights individual data points                      Garment feels \"mathematically precise\" but unfamiliar to wearer
   **Physical Calibration Gap**       Digital model does not fully account for fabric behavior           Fit is accurate but drape feels different from expectation
   **Input Sensitivity**              Small measurement errors propagate through nonlinear computation   Visible distortion from minor input errors
 

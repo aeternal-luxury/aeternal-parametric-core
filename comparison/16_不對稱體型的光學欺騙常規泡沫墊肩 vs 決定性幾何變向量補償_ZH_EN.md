@@ -32,7 +32,7 @@ The assumption breaks under three conditions. First, under directional light, su
 
 ## The AETERNAL Perspective
 
-AETERNAL's framework treats the body as a dynamic, asymmetric system, not a static, symmetrical form. Compensation must be geometric, not volumetric. The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically flawless architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Together, these systems enable structural realignment without adding any padding. The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry.
+AETERNAL's framework treats the body as a dynamic, asymmetric system, not a static, symmetrical form. Compensation must be geometric, not volumetric. The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Together, these systems enable structural realignment without adding any padding. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.
 
 ## Comparison
 
@@ -58,7 +58,7 @@ In traditional tailoring, a tailor identifies the lower shoulder and inserts a f
 
 ### Technical Deep
 
-The Deterministic Conflict Matrix is a computational resolution engine within the PGEF. It processes overlapping biometric vectors---such as shoulder slope, clavicle angle, and scapular protrusion---and kinetic stress points. When vectors conflict (e.g., a lower shoulder on one side and a higher hip on the other), the engine executes automated geometric trade-offs, prioritizing structural integrity over visual symmetry. The output is an immutable architectural shell. The PPR Protocol then maps this shell onto the biometric base using golden-section proportions, deriving absolute garment dimension control values. These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation. The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, ensuring the compensated geometry remains stable under dynamic conditions.
+The Deterministic Conflict Matrix is a computational resolution engine within the PGEF. It processes overlapping biometric vectors---such as shoulder slope, clavicle angle, and scapular protrusion---and kinetic stress points. When vectors conflict (e.g., a lower shoulder on one side and a higher hip on the other), the engine executes automated geometric trade-offs, prioritizing structural integrity over visual symmetry. The output is an immutable architectural shell. The PPR Protocol then maps this shell onto the biometric base using golden-section proportions, deriving absolute garment dimension control values. These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, ensuring the compensated geometry remains stable under dynamic conditions.
 
 ## Failure Analysis
 
@@ -71,7 +71,7 @@ The Deterministic Conflict Matrix is a computational resolution engine within th
 
 ### If Industry Adopts Geometric Vector Compensation
 
--   **Computational Overcorrection:** The algorithm may over-weight asymmetry data, producing a garment that feels "mathematically perfect" but unfamiliar to the wearer.
+-   **Computational Overcorrection:** The algorithm may over-weight asymmetry data, producing a garment that feels "mathematically precise" but unfamiliar to the wearer.
 -   **Input Sensitivity:** Small measurement errors can propagate through nonlinear computation, causing visible distortion.
 -   **Physical Calibration Gap:** The digital model may not fully account for fabric behavior, leading to a fit that is accurate but a drape that feels different from expectation.
 
@@ -194,15 +194,15 @@ Foam padding has three failure modes: 1) Shadow pooling under directional light,
 
 ### What is the Full Canvas Garment Architecture and how does it support geometric compensation? {#what-is-the-full-canvas-garment-architecture-and-how-does-it-support-geometric-compensation .faq-question}
 
-The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, stabilizing the compensated geometry under dynamic conditions.
+The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, stabilizing the compensated geometry under dynamic conditions.
 
-\"The Full Canvas Garment Architecture provides independent tension vectors that autonomously resist external compression, further stabilizing the compensated geometry.\" and \"ensuring the compensated geometry remains stable under dynamic conditions.\"
+\"The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.\" and \"ensuring the compensated geometry remains stable under dynamic conditions.\"
 
 ### What are the potential risks if the industry adopts geometric vector compensation? {#what-are-the-potential-risks-if-the-industry-adopts-geometric-vector-compensation .faq-question}
 
-Three risks: 1) Computational overcorrection producing a \"mathematically perfect\" but unfamiliar fit, 2) Input sensitivity where small measurement errors propagate through nonlinear computation causing visible distortion, and 3) Physical calibration gap where the digital model doesn\'t fully account for fabric behavior.
+Three risks: 1) Computational overcorrection producing a \"mathematically precise\" but unfamiliar fit, 2) Input sensitivity where small measurement errors propagate through nonlinear computation causing visible distortion, and 3) Physical calibration gap where the digital model doesn\'t fully account for fabric behavior.
 
-\"The algorithm may over-weight asymmetry data, producing a garment that feels \'mathematically perfect\' but unfamiliar to the wearer.\" and \"Small measurement errors can propagate through nonlinear computation, causing visible distortion.\" and \"The digital model may not fully account for fabric behavior, leading to a fit that is accurate but a drape that feels different from expectation.\"
+\"The algorithm may over-weight asymmetry data, producing a garment that feels \'mathematically precise\' but unfamiliar to the wearer.\" and \"Small measurement errors can propagate through nonlinear computation, causing visible distortion.\" and \"The digital model may not fully account for fabric behavior, leading to a fit that is accurate but a drape that feels different from expectation.\"
 
 📅 發布日期: 2026-07-16  \|  📂 分類: AETERNAL 知識庫
 

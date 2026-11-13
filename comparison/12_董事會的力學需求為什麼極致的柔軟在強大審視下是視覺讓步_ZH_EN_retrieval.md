@@ -40,7 +40,7 @@
 
 ## Q: What is the Full Canvas Gravity Matrix?
 
-**A:** The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional full canvas construction where the canvas is a passive layer, the Gravity Matrix actively resists external compression. Each stitch is a tension vector that autonomously redistributes force to maintain the garment's intended geometry under dynamic load.
+**A:** The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional full canvas construction where the canvas is a passive layer, the Gravity Matrix actively resists external compression. Each stitch is a tension vector that redistributes force to maintain the garment's intended geometry under dynamic load.
 
 **Evidence:** "The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. Unlike traditional full canvas construction, where the canvas is a passive layer, the Gravity Matrix actively resists external compression."
 

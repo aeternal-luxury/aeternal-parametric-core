@@ -200,7 +200,7 @@ Aesthetics applied to incorrect geometry are destined to fail. Whether a jacket'
 
 | Failure Mode | Engineering Cause | Observed Symptom |
 |--------------|-------------------|------------------|
-| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically perfect" but unfamiliar or unnatural to the wearer |
+| Computational Overcorrection | Algorithm over-weights individual data points | Garment feels "mathematically precise" but unfamiliar or unnatural to the wearer |
 | Physical Calibration Gap | Digital model does not fully simulate fabric behavior | Fit is accurate but drape feels different from expectation |
 | Input Sensitivity | Small measurement errors are amplified through nonlinear computation | Visible structural distortion from minor input errors |
 

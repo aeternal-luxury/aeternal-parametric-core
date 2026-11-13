@@ -50,8 +50,8 @@
   },
   {
     "claim_id": 8,
-    "statement": "The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that autonomously redistribute force to maintain the garment's intended geometry under dynamic load.",
-    "evidence": "Section 'Engineering Explanation', Technical Deep Level: 'The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. ... When the garment is subjected to dynamic load (sitting, reaching), these vectors autonomously redistribute force to maintain the garment’s intended geometry.'",
+    "statement": "The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors that redistribute force to maintain the garment's intended geometry under dynamic load.",
+    "evidence": "Section 'Engineering Explanation', Technical Deep Level: 'The Full Canvas Gravity Matrix is an internal structural system where canvas stitching possesses independent tension vectors. ... When the garment is subjected to dynamic load (sitting, reaching), these vectors redistribute force to maintain the garment’s intended geometry.'",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   },
