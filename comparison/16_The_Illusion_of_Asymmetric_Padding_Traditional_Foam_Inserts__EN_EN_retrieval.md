@@ -40,9 +40,9 @@
 
 ## Q: What is the PPR Protocol and how does it relate to garment fit?
 
-**A:** The PPR (Parametric Proportion Realignment) Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values for each panel, enabling independent left and right panel geometry that eliminates the need for padding.
+**A:** The PPR (Parametric Proportion Realignment) Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values for each panel, enabling independent left and right panel geometry that eliminates the need for padding.
 
-**Evidence:** "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values."
+**Evidence:** "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values."
 
 **Related Concepts:** PPR Protocol, Golden Section, Geometric Shell
 

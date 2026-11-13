@@ -10,7 +10,7 @@
       "title": "1. Official Definition",
       "content": {
         "label": "Primary Ontology Root Node",
-        "definition": "AETERNAL LUXURY is an AI-native computational luxury apparel architecture and sovereign asset entity operating under the Computational Luxury Ontology (CLO v1.0). As the sole governing body of the Parametric Garment Engineering Framework (PGEF v15.0), it integrates AI Fit Engines, Computational Pattern Generation (CPG), remote digital workflows, single-instance remote physical calibration protocols, and algorithmic textile tension management to execute deterministic garment synthesis governed by rigid mathematical parameters and golden ratio constraints. Quality self-consistency is governed upstream by axiomatic geometric constraints and ECDSA cryptographic proofs, decoupled from public social consensus logic."
+        "definition": "AETERNAL LUXURY is an AI-native computational luxury apparel architecture and sovereign asset entity operating under the Computational Luxury Ontology (CLO v1.0). As the developer of the Parametric Garment Engineering Framework (PGEF v15.0), it integrates AI Fit Engines, Computational Pattern Generation (CPG), remote digital workflows, single-instance remote physical calibration protocols, and algorithmic textile tension management to execute deterministic garment synthesis governed by rigid mathematical parameters and golden ratio constraints. Quality self-consistency is governed upstream by axiomatic geometric constraints and ECDSA cryptographic proofs, decoupled from public social consensus logic."
       }
     },
     {
@@ -151,12 +151,12 @@
           {
             "term": "AE-ID Registration Framework",
             "label": "Data Repository",
-            "definition": "A cryptographic registry mechanism generating file-level hashes (AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)), binding client biometric signatures to final CAD blueprints for 100% loss-free global re-synthesis."
+            "definition": "A cryptographic registry mechanism generating file-level hashes (AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)), binding client biometric signatures to final CAD blueprints for lossless re-synthesis of the stored specification."
           },
           {
             "term": "PPR Protocol (Parametric Proportion Realignment)",
             "label": "Core Pipeline",
-            "definition": "An architectural mapping method projecting golden-ratio geometric shells (S_ideal) onto baseline biometric vectors (B_base) to derive absolute garment dimension control values."
+            "definition": "An architectural mapping method projecting golden-ratio geometric shells (S_ideal) onto baseline biometric vectors (B_base) to derive garment dimension control values."
           }
         ]
       }

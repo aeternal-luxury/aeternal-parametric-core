@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-quiet-luxury-aeternal-the-ai-native-benchmark-of-high-governance-quiet-lu-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-aeternal-the-ai-native-benchmark-of-high-governance-quiet-lu-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

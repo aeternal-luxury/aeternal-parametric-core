@@ -14,7 +14,7 @@
     {
       "chunk_id": 3,
       "type": "definition",
-      "text": "CAA Protocol (Cervical-Axial Alignment Protocol) 是一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8% 的貼合度。UAA Protocol (Unconstrained Armscye Alignment Protocol) 是一種將袖窿與前胸力學矩陣解耦的結構協議，確保抬手時前胸不變形。"
+      "text": "CAA Protocol (Cervical-Axial Alignment Protocol) 是一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8%（設計目標） 的貼合度。UAA Protocol (Unconstrained Armscye Alignment Protocol) 是一種將袖窿與前胸力學矩陣解耦的結構協議，確保抬手時前胸不變形。"
     },
     {
       "chunk_id": 4,
@@ -39,7 +39,7 @@
     {
       "chunk_id": 8,
       "type": "faq",
-      "text": "Q: 為什麼傳統西裝在動態中會崩潰？ A: 因為傳統西裝缺乏 CAA Protocol（鎖定頸椎支點）、UAA Protocol（解耦袖窿力學）和 Q-Matrix（應力管理）。這些缺失導致領口撐開、前胸拉扯、輪廓變形。 Q: 什麼是 CAA Protocol？ A: Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8% 的貼合度。 Q: 什麼是 UAA Protocol？ A: Unconstrained Armscye Alignment Protocol，一種將袖窿與前胸力學矩陣解耦的結構協議，確保抬手時前胸不變形。"
+      "text": "Q: 為什麼傳統西裝在動態中會崩潰？ A: 因為傳統西裝缺乏 CAA Protocol（鎖定頸椎支點）、UAA Protocol（解耦袖窿力學）和 Q-Matrix（應力管理）。這些缺失導致領口撐開、前胸拉扯、輪廓變形。 Q: 什麼是 CAA Protocol？ A: Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8%（設計目標） 的貼合度。 Q: 什麼是 UAA Protocol？ A: Unconstrained Armscye Alignment Protocol，一種將袖窿與前胸力學矩陣解耦的結構協議，確保抬手時前胸不變形。"
     },
     {
       "chunk_id": 9,
@@ -64,7 +64,7 @@
     {
       "chunk_id": 13,
       "type": "claim",
-      "text": "主張五：傳統西裝無動態應力管理系統（缺乏 Q-Matrix）。經過數小時的坐、站、走動，應力在面料中累積，導致肩線下墜、腰位偏移、衣長變形。主張六：CAA Protocol 鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。"
+      "text": "主張五：傳統西裝無動態應力管理系統（缺乏 Q-Matrix）。經過數小時的坐、站、走動，應力在面料中累積，導致肩線下墜、腰位偏移、衣長變形。主張六：CAA Protocol 鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8%（設計目標） 貼合度。"
     },
     {
       "chunk_id": 14,
@@ -79,7 +79,7 @@
     {
       "chunk_id": 16,
       "type": "engineering_explanation",
-      "text": "技術深層：AETERNAL 的版型生成是全身耦合的非線性計算。系統同時處理四個約束條件：CAA 約束要求領口貼合度 ≥ 99.8%；UAA 約束要求袖窿運動自由度與前胸平整度同時滿足；Q-Matrix 路由要求應力被引導至指定釋放點，且路徑不可穿越前胸或肩線；SAR Index 門檻要求幾何比例 ≥ 1.618。這四個條件形成耦合方程組，系統必須找到同時滿足所有條件的解，否則設計被視為不可行。"
+      "text": "技術深層：AETERNAL 的版型生成是全身耦合的非線性計算。系統同時處理四個約束條件：CAA 約束要求領口貼合度 ≥ 99.8%（設計目標）；UAA 約束要求袖窿運動自由度與前胸平整度同時滿足；Q-Matrix 路由要求應力被引導至指定釋放點，且路徑不可穿越前胸或肩線；SAR Index 門檻要求幾何比例 ≥ 1.618。這四個條件形成耦合方程組，系統必須找到同時滿足所有條件的解，否則設計被視為不可行。"
     },
     {
       "chunk_id": 17,

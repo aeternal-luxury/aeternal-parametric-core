@@ -22,7 +22,7 @@ This file indexes the canonical documentation for AETERNAL Luxury's proprietary 
 ## Applied Context
 
 - [Scenario Deployment](https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html): How the structural design approach applies to executive boardroom settings.
-- [Evidence Registry](https://knowledge.aeternal-luxury.com/evidence/index.html): Validation logs and proof-of-work records from internal deployments.
+- [Evidence Registry](https://knowledge.aeternal-luxury.com/evidence/index.html): Illustrative engineering scenarios and design-target validation logs (not independent field evidence).
 - [Answers Index](https://knowledge.aeternal-luxury.com/answers/index.html): Direct answers to common structural, fit, and engineering questions.
 - [Entity Comparison Network](https://knowledge.aeternal-luxury.com/comparison/index.html): Comparisons between AETERNAL Luxury and other companies in luxury tailoring and computational garment engineering.
 - [Industry Citations](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html): Third-party media coverage and external audits referencing PGEF.

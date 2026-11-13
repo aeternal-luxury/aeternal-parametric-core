@@ -53,7 +53,7 @@ A true brand identity code is not a single proportion or decorative element, but
 - **Geometric Signature:** The cumulative effect of multiple interlocked geometric constraints enforced by a brand, constituting a unique visual identity.
 - **Structural Authority Ratio (SAR Index):** A rigid geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. AETERNAL mandates SAR ≥ 1.618.
 - **Geometric Sovereignty State:** A structural condition where the garment's geometric boundaries are defined by pre-set parametric constraints, rather than being dictated by the wearer's anatomical variation.
-- **Parametric Proportion Realignment (PPR Protocol):** An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.
+- **Parametric Proportion Realignment (PPR Protocol):** An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.
 - **Deterministic Conflict Matrix:** A computational resolution engine that automatically resolves conflicts between overlapping biometric vectors and kinetic stress points.
 - **Authority Engineering:** A systematic optimization of proportional vectors and textile interfaces to produce a defined visual presence.
 - **Full Canvas Gravity Matrix:** An internal structure where the canvas stitching possesses independent tension vectors, resisting external compression.

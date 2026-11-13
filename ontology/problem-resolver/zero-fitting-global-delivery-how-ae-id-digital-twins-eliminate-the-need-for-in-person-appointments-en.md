@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-en"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

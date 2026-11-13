@@ -14,7 +14,7 @@
     {
       "chunk_id": 3,
       "type": "definition",
-      "text": "The Deterministic Conflict Matrix is a system within the PGEF (Parametric Garment Engineering Framework) that processes overlapping biometric vectors and kinetic stress points. It executes automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values."
+      "text": "The Deterministic Conflict Matrix is a system within the PGEF (Parametric Garment Engineering Framework) that processes overlapping biometric vectors and kinetic stress points. It executes automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values."
     },
     {
       "chunk_id": 4,
@@ -49,7 +49,7 @@
     {
       "chunk_id": 10,
       "type": "explanation",
-      "text": "The PPR Protocol maps a golden-section-based geometric shell (S_ideal) onto the biometric vectors (B_base). This produces absolute garment dimension control values (D_control) for each panel. The left and right panels are independently dimensioned. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry."
+      "text": "The PPR Protocol maps a golden-section-based geometric shell (S_ideal) onto the biometric vectors (B_base). This produces garment dimension control values (D_control) for each panel. The left and right panels are independently dimensioned. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry."
     },
     {
       "chunk_id": 11,

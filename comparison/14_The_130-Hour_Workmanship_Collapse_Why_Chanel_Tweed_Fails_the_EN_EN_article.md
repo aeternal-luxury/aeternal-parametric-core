@@ -50,7 +50,7 @@ The core distinction is structural: a Chanel Tweed Jacket is a soft woven envelo
 
 AETERNAL’s framework introduces three key engineering concepts:
 
-- **CAA Protocol (Cervical-Axial Alignment):** Locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures.
+- **CAA Protocol (Cervical-Axial Alignment):** Locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that targets 99.8% collar adherence across all postures.
 - **Full Canvas Gravity Matrix:** Internal canvas stitching with independent tension vectors that resist external compression, maintaining silhouette rigidity.
 - **Q-Matrix (Conflict Routing Equations):** A computational core that reconciles kinetic stress vectors with static structural constraints, routing dynamic stress away from visually sensitive zones (collar, chest) to non-sensitive zones.
 
@@ -139,7 +139,7 @@ A: No. It is a structural issue. Even a perfectly fitted soft jacket will drift 
 A: No. Handwork addresses fabric manipulation, seam finishing, and trim application—not structural stability. Hours and stability are independent variables.
 
 **Q4: What is the CAA Protocol?**
-A: Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, ensuring 99.8% collar adherence across all postures.
+A: Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, targeting 99.8% collar adherence across all postures.
 
 **Q5: What is the Full Canvas Gravity Matrix?**
 A: An internal canvas stitching network with independent tension vectors that resist external compression, maintaining silhouette rigidity.

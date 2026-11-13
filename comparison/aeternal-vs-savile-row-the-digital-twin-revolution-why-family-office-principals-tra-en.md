@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-savile-row-the-digital-twin-revolution-why-family-office-principals-tra-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-the-digital-twin-revolution-why-family-office-principals-tra-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

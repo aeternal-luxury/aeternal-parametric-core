@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//answers/why-petite-women-swallowed-suits/zh/why-petite-women-swallowed-suits-zh"
+canonical: "https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

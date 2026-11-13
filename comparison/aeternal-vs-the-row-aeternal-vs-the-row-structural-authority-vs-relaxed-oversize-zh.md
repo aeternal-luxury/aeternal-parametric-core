@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-the-row-aeternal-vs-the-row-structural-authority-vs-relaxed-oversize-zh"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-aeternal-vs-the-row-structural-authority-vs-relaxed-oversize-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

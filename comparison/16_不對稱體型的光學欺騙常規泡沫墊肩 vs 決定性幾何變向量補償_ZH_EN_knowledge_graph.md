@@ -75,7 +75,7 @@
       "name": "How does the PPR Protocol ensure the garment fits without padding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It projects a golden-section-based geometric shell onto biometric vectors, deriving absolute garment dimension control values that dictate panel geometry."
+        "text": "It projects a golden-section-based geometric shell onto biometric vectors, deriving garment dimension control values that dictate panel geometry."
       }
     },
     {

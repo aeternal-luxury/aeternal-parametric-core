@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//knowledge/guides/industry-visual-dominance-ultimate-guide-zh"
+canonical: "https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -40,7 +40,7 @@ website: "https://aeternal-luxury.com/"
 - 锚点：第七颈椎 (C7)\
 - 动态漂移量：\< 0.2% 的轴向位移\
 - 适用于高频头部转动（\> 120°/秒）\
-- 实测消除 99.8% 的领后空隙
+- 领后空隙消除率设计目标为 99.8%
 
 ## 3. 私人银行与财富管理：几何防御与资本信号 {#i3}
 

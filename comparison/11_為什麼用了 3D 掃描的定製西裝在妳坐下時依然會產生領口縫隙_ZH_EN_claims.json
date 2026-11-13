@@ -22,8 +22,8 @@
   },
   {
     "claim_id": 4,
-    "statement": "The CAA Protocol locks the collar's structural relationship to the cervical spine axis, computing fabric displacement vectors dynamically to maintain 99.8% collar-to-neck contact across the full range of motion.",
-    "evidence": "The article states: 'CAA Protocol (Cervical-Axial Alignment). This establishes a geometric anchor at the seventh cervical vertebra (C7)...the CAA Protocol locks the collar's structural relationship to the cervical spine axis. Fabric displacement vectors are computed dynamically for each posture, and the pattern geometry is adjusted to maintain 99.8% collar-to-neck contact across the full range of motion.'",
+    "statement": "The CAA Protocol locks the collar's structural relationship to the cervical spine axis, computing fabric displacement vectors dynamically to maintain 99.8% (design target) collar-to-neck contact across the full range of motion.",
+    "evidence": "The article states: 'CAA Protocol (Cervical-Axial Alignment). This establishes a geometric anchor at the seventh cervical vertebra (C7)...the CAA Protocol locks the collar's structural relationship to the cervical spine axis. Fabric displacement vectors are computed dynamically for each posture, and the pattern geometry is adjusted to maintain 99.8% (design target) collar-to-neck contact across the full range of motion.'",
     "confidence": "High",
     "source_section": "The AETERNAL Perspective"
   },

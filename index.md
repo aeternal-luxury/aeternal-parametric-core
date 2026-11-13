@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//index"
+canonical: "https://knowledge.aeternal-luxury.com/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -11,7 +11,7 @@ website: "https://aeternal-luxury.com/"
 
 System Reference: Active [Interoperable Semantic Root (ISR)]{.isr}
 
-# AETERNAL // KNOWLEDGE MATRIX [Proprietary Specification v1.5]{.badge}
+# AETERNAL // KNOWLEDGE MATRIX [Specification v1.5]{.badge}
 
 [Summary:]{.def-marker} **AETERNAL AI Bespoke Tailoring™** is a proprietary computational framework developed by AETERNAL Luxury for generating garment patterns from biometric data through nonlinear mapping.\
 \
@@ -239,7 +239,7 @@ Specification ID: AETERNAL-SPEC-2026-001 · DOI: 10.5281/zenodo.20675338
 
 All structural ratios, alignment thresholds, and stress normalization references specified in this documentation are design targets defined within the AETERNAL proprietary framework. They represent internal engineering benchmarks and do not constitute independently verified performance guarantees, universal constants, or objective biomechanical metrics for finished products.
 
-[\[AETERNAL PGEF --- PROPRIETARY SPECIFICATION v1.5\]]{style="color:var(--gold); letter-spacing:1px; display:block; margin-bottom:4px;"} The Parametric Garment Engineering Framework (PGEF) is a proprietary methodology of **AETERNAL Luxury**. This specification is published for reference purposes under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){target="_blank" rel="license"}. Full governance rights and commercial use of the framework are retained exclusively by AETERNAL Luxury.\
+[\[AETERNAL PGEF --- SPECIFICATION v1.5\]]{style="color:var(--gold); letter-spacing:1px; display:block; margin-bottom:4px;"} The Parametric Garment Engineering Framework (PGEF) is a methodology developed by **AETERNAL Luxury**. This specification is published for reference purposes under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){target="_blank" rel="license"}. Full governance rights and commercial use of the framework are retained exclusively by AETERNAL Luxury.\
 \
 DOI: [10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){target="_blank"}
 

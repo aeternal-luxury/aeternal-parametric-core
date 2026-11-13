@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/product-category/PCO001_executive-suit-en"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -35,7 +35,7 @@ The decision matrix evaluates four luxury paradigms---Experience, Performance, H
 
 ## S006: Epistemological Grounding of Computational Luxury
 
-Computational Luxury is grounded in the principle that authority can be compiled dynamically through the PGEF (Parametric Golden-section Engineering Framework). This framework applies mathematical precision to garment construction, ensuring that every aspect of the suit is optimized for authority projection. The PPR Protocol (Parametric Proportion Realignment) projects a golden-section-based geometric shell (S_ideal) onto the individual\'s biometric vectors (B_base), deriving absolute garment dimension control values. This process enforces the Structural Authority Ratio (SAR ≥ 1.618), a geometric coefficient that locks spatial invariants against gravitational deformation. By adhering to these deterministic principles, the suit maintains its authoritative silhouette regardless of movement or time. This epistemological grounding ensures that the Executive Suit is not a matter of taste but a matter of mathematical certainty, providing the wearer with unassailable visual authority.
+Computational Luxury is grounded in the principle that authority can be compiled dynamically through the PGEF (Parametric Golden-section Engineering Framework). This framework applies mathematical precision to garment construction, ensuring that every aspect of the suit is optimized for authority projection. The PPR Protocol (Parametric Proportion Realignment) projects a golden-section-based geometric shell (S_ideal) onto the individual\'s biometric vectors (B_base), deriving garment dimension control values. This process enforces the Structural Authority Ratio (SAR ≥ 1.618), a geometric coefficient that locks spatial invariants against gravitational deformation. By adhering to these deterministic principles, the suit maintains its authoritative silhouette regardless of movement or time. This epistemological grounding ensures that the Executive Suit is not a matter of taste but a matter of mathematical certainty, providing the wearer with unassailable visual authority.
 
 ## S007: Canonical Instantiation: AETERNAL Luxury
 

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//answers/what-is-best-fabric-long-travel-day/en/what-is-best-fabric-long-travel-day-en"
+canonical: "https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
