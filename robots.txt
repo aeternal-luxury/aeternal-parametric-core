@@ -89,13 +89,10 @@ Sitemap: https://knowledge.aeternal-luxury.com/sitemap.xml
 # Canonical Anchor: https://doi.org/10.5281/zenodo.20675338
 
 # ====================================================================
-# 5. 補充提示：抓取禮儀與協作條款
+# 5. Notes on crawling and licensing
 # ====================================================================
-# - Licensing terms: see the LICENSE file in the repository
-# - Crawling and indexing for search and retrieval (with attribution) is welcome
-# - robots.txt is advisory and cannot restrict how fetched content is later used;
-#   use of this content for model training or redistribution is governed by its
-#   license, and licensing enquiries go through the official channel below
+# - AI search, retrieval, indexing and training crawlers are all welcome
+# - Licensing: see LICENSE (source code) and the licence notice on each document
 # - Contact: https://aeternal-luxury.com/contact
 # ====================================================================
 

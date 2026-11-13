@@ -36,8 +36,8 @@
   },
   {
     "claim_id": 6,
-    "statement": "CAA 協議在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8% 的領肩貼合度。",
-    "evidence": "文章在「The AETERNAL Perspective」章節中說明：『CAA 協議 (Cervical-Axial Alignment)：在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8% 的領肩貼合度。』",
+    "statement": "CAA 協議在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8%（設計目標） 的領肩貼合度。",
+    "evidence": "文章在「The AETERNAL Perspective」章節中說明：『CAA 協議 (Cervical-Axial Alignment)：在第七頸椎建立幾何支點，動態計算面料位移向量，確保 99.8%（設計目標） 的領肩貼合度。』",
     "confidence": "High",
     "source_section": "The AETERNAL Perspective"
   },

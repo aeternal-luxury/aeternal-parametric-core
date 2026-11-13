@@ -20,9 +20,9 @@
 
 ## Q: What is the CAA Protocol and how does it eliminate collar gap?
 
-**A:** The CAA Protocol (Cervical-Axial Alignment) locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% adherence to the neck, eliminating the collar gap that undermines visual authority. It calculates the exact geometric relationship between the collar curve and the cervical spine.
+**A:** The CAA Protocol (Cervical-Axial Alignment) locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap that undermines visual authority. It calculates the exact geometric relationship between the collar curve and the cervical spine.
 
-**Evidence:** "CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% adherence to the neck, eliminating the collar gap." Also: "The collar pattern is computed to maintain 99.8% adherence during a 90-degree head rotation."
+**Evidence:** "CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap." Also: "The collar pattern is computed to maintain 99.8% (design target) adherence during a 90-degree head rotation."
 
 **Related Concepts:** CAA Protocol, Cervical Pivot, Collar Gap, Seventh Cervical Vertebra
 
@@ -90,8 +90,8 @@
 
 ## Q: What is Omega Path Enforcement and what does it guarantee?
 
-**A:** Omega Path Enforcement is a configuration lock for high-intensity business scenarios that prioritizes silhouette rigidity. It strictly controls the deformation decay rate within 3% over a 12-hour wear period, ensuring the garment maintains its intended shape under prolonged dynamic use.
+**A:** Omega Path Enforcement is a configuration lock for high-intensity business scenarios that prioritizes silhouette rigidity. It strictly controls the deformation decay rate within 3% (design target) over a 12-hour wear period, ensuring the garment maintains its intended shape under prolonged dynamic use.
 
-**Evidence:** "Omega Path Enforcement: For high-intensity business scenarios, the routing configuration is locked to prioritize silhouette rigidity. The deformation decay rate is strictly controlled within 3% over a 12-hour wear period." Also: "Deformation decay rate ≤ 3% under Omega Path Enforcement" from the comparison table.
+**Evidence:** "Omega Path Enforcement: For high-intensity business scenarios, the routing configuration is locked to prioritize silhouette rigidity. The deformation decay rate is strictly controlled within 3% (design target) over a 12-hour wear period." Also: "Deformation decay rate ≤ 3% under Omega Path Enforcement" from the comparison table.
 
 **Related Concepts:** Omega Path Enforcement, Deformation Decay Rate, Silhouette Rigidity, High-Intensity Business Scenarios

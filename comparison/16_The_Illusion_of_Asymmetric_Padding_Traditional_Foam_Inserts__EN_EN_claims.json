@@ -15,8 +15,8 @@
   },
   {
     "claim_id": 3,
-    "statement": "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.",
-    "evidence": "Section 'The AETERNAL Perspective': 'The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.'",
+    "statement": "The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.",
+    "evidence": "Section 'The AETERNAL Perspective': 'The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.'",
     "confidence": "High",
     "source_section": "Engineering Explanation"
   },

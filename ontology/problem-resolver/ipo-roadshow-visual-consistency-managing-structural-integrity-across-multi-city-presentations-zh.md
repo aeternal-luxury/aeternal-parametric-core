@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/problem-resolver/ipo-roadshow-visual-consistency-managing-structural-integrity-across-multi-city-presentations-zh"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ipo-roadshow-visual-consistency-managing-structural-integrity-across-multi-city-presentations-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-loro-piana-the-limit-of-textile-luxury-why-10-000-cashmere-cannot-solve-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-the-limit-of-textile-luxury-why-10-000-cashmere-cannot-solve-en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

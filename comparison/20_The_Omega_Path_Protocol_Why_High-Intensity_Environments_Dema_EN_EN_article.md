@@ -28,7 +28,7 @@ AETERNAL’s framework treats the garment not as a passive decoration but as an 
 | Ownership | Client owns the garment; fit is subjective and iterative | Client owns the engineered outcome; fit is validated against geometric thresholds |
 | Iteration | Multiple manual fittings; corrections are tactile and subjective | Geometric generation and rigidity validation; corrections are computational |
 | Scalability | Limited by artisan availability and manual skill | Scalable through parametric frameworks and automated validation |
-| Long-term consistency | Degrades with wear; fabric fatigue is expected | Maintains line rigidity; deformation decay controlled within 3% |
+| Long-term consistency | Degrades with wear; fabric fatigue is expected | Maintains line rigidity; deformation decay controlled within 3% (design target) |
 
 ## Engineering Explanation
 

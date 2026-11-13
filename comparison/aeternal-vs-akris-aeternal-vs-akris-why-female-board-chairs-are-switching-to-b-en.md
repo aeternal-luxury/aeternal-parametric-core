@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-akris-aeternal-vs-akris-why-female-board-chairs-are-switching-to-b-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-why-female-board-chairs-are-switching-to-b-en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

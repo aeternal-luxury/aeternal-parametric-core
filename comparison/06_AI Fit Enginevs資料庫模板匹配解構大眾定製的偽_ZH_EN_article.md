@@ -34,7 +34,7 @@ The assumption collapses when examined through the lens of human body geometry. 
 
 ## The AETERNAL Perspective
 
-AETERNAL’s framework treats garment generation as a computational geometry problem, not a database retrieval problem. The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical telemetry as inputs, then executes a zero-baseline calculation to produce a unique geometric structure. This process is governed by the Parametric System Engine, which enforces whole-body coupled computation: a change in one parameter triggers automatic recalculation of all related geometric parameters. The system also applies the PPR Protocol (Parametric Proportion Realignment) to enforce a golden-ratio geometric shell (S_ideal), and the Deterministic Conflict Matrix resolves overlapping biometric vectors through automated geometric trade-offs. The result is a garment that is structurally consistent, not merely statistically close.
+AETERNAL’s framework treats garment generation as a computational geometry problem, not a database retrieval problem. The AI Fit Engine does not store or reference pre-existing pattern blocks. It receives biometric vectors (B_base), dynamic posture variables, and empirical fit-feedback data as inputs, then executes a zero-baseline calculation to produce a unique geometric structure. This process is governed by the Parametric System Engine, which enforces whole-body coupled computation: a change in one parameter triggers automatic recalculation of all related geometric parameters. The system also applies the PPR Protocol (Parametric Proportion Realignment) to enforce a golden-ratio geometric shell (S_ideal), and the Deterministic Conflict Matrix resolves overlapping biometric vectors through automated geometric trade-offs. The result is a garment that is structurally consistent, not merely statistically close.
 
 ---
 
@@ -70,7 +70,7 @@ Geometric compilation uses nonlinear mapping. It treats each biometric dimension
 
 The AI Fit Engine operates on the following computational pipeline:
 
-1. **Biometric Vectorization:** User data is transformed into a multi-dimensional vector (B_base) representing static measurements, dynamic posture variables, and empirical telemetry.
+1. **Biometric Vectorization:** User data is transformed into a multi-dimensional vector (B_base) representing static measurements, dynamic posture variables, and empirical fit-feedback data.
 2. **Zero-Baseline Initialization:** No template is loaded. The system initializes a blank geometric space.
 3. **Parametric System Engine Execution:** The engine applies the PPR Protocol to enforce a golden-ratio geometric shell (S_ideal). This shell is not a pattern; it is a mathematical constraint space within which the garment must exist.
 4. **Deterministic Conflict Matrix Resolution:** Overlapping biometric vectors (e.g., a broad chest with narrow shoulders) are resolved through automated geometric trade-offs. The matrix uses the Q-Matrix (Conflict Routing Equations) to reconcile kinetic stress vectors with static structural constraints.

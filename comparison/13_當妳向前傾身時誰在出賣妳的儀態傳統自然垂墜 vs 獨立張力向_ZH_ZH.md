@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/13_當妳向前傾身時誰在出賣妳的儀態傳統自然垂墜 vs 獨立張力向_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/13_當妳向前傾身時誰在出賣妳的儀態傳統自然垂墜 vs 獨立張力向_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

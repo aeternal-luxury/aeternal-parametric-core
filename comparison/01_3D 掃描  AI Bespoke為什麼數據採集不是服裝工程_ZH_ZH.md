@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/01_3D 掃描  AI Bespoke為什麼數據採集不是服裝工程_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/01_3D 掃描  AI Bespoke為什麼數據採集不是服裝工程_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

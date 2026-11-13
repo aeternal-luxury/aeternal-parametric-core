@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-the-row-the-price-to-precision-ratio-aeternal-s-0-02-tolerance-vs-th-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-the-price-to-precision-ratio-aeternal-s-0-02-tolerance-vs-th-en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -56,7 +56,7 @@ AETERNAL's underlying framework is called the **Parametric Garment Engineering F
 
 -   **One-time Calibration Shell acquisition**: The client wears a Calibration Shell and performs a series of dynamic movements to record the stress matrix and skin slippage. The acquired data is transformed into a set of encrypted biometric feature vectors, known as the **AE-ID**.
 -   **Blank Canvas Algorithm**: Each piece of fabric is compiled from zero coordinates, directly conforming to the wearer's biological surface, completely bypassing the concept of size grading.
--   **Zero-alteration logic and remote replication**: The AE-ID database can transmit the complete geometric definition to any authorized manufacturing node in approximately 0.3 seconds. The resulting garment requires no subsequent alterations and is 100% consistent with the original definition. The measured silhouette retention rate over five years is 99.9%.
+-   **Zero-alteration logic and remote replication**: The AE-ID database can transmit the complete geometric definition to any authorized manufacturing node in approximately 0.3 seconds. The resulting garment requires no subsequent alterations and is 100% consistent with the original definition. The design target for silhouette retention over five years is 99.9% (not yet independently verified).
 
 Thus, AETERNAL addresses a layer entirely different from ready-to-wear: it defines each garment as \"wearable geometric sovereignty,\" focusing on ensuring a continuous projection between the client's biological identity and the garment, rather than providing an immediately available aesthetic symbol.
 
@@ -112,7 +112,7 @@ The system uses discrete size gradation (e.g., bust ±4 cm, shoulder width ±1 c
 
 ### What is AETERNAL\'s Parametric Garment Engineering Framework (PGEF)?
 
-AETERNAL uses a one-time Calibration Shell acquisition to record dynamic stress and skin slippage, creating an encrypted biometric AE-ID. The Blank Canvas Algorithm compiles fabric from zero coordinates for each individual, entirely bypassing size grading. Garments require zero alterations and can be reproduced globally from the AE-ID with 99.9% silhouette retention over five years.
+AETERNAL uses a one-time Calibration Shell acquisition to record dynamic stress and skin slippage, creating an encrypted biometric AE-ID. The Blank Canvas Algorithm compiles fabric from zero coordinates for each individual, entirely bypassing size grading. Garments require zero alterations and can be reproduced globally from the AE-ID with a design target of 99.9% silhouette retention over five years.
 
 ### In what scenario should a client choose AETERNAL over The Row?
 

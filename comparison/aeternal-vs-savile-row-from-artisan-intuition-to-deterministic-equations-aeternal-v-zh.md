@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-savile-row-from-artisan-intuition-to-deterministic-equations-aeternal-v-zh"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-from-artisan-intuition-to-deterministic-equations-aeternal-v-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-akris-beyond-double-face-wool-how-aeternal-engineers-internal-armo-zh"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-beyond-double-face-wool-how-aeternal-engineers-internal-armo-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

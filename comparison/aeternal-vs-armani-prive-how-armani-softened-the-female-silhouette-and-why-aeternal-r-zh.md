@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-armani-prive-how-armani-softened-the-female-silhouette-and-why-aeternal-r-zh"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-how-armani-softened-the-female-silhouette-and-why-aeternal-r-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -75,7 +75,7 @@ AETERNAL 的版型生成不以經驗式裁縫直覺為基礎，而是透過高�
 
 ### 4.2 核心工程協議
 
--   **CAA Protocol（Cervical‑Axial Alignment）**：在 C7 頸椎建立不可移動的幾何支點，確保領口在動態中維持 99.8% 貼合，避免後領口偏離。
+-   **CAA Protocol（Cervical‑Axial Alignment）**：在 C7 頸椎建立不可移動的幾何支點，確保領口在動態中維持 99.8%（設計目標） 貼合，避免後領口偏離。
 -   **UAA Protocol（Unconstrained Armscye Alignment）**：將袖窿與前胸進行力學矩陣解耦，使抬手動作不將應力傳導至主體輪廓，防止前胸面料變形。
 -   **Q‑Matrix（Conflict Routing Equations）**：透過確定的應力路由機制，將動態產生的應力從視覺敏感區域（領口、前胸、肩線）引導至非敏感區，防止輪廓疲勞變形。
 -   **Full Canvas Gravity Matrix**：內襯縫線具備獨立張力向量，能自主對抗外部擠壓與重力，形成自我支撐的內部架構。

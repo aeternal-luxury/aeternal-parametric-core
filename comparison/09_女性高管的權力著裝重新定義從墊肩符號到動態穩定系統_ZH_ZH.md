@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/09_女性高管的權力著裝重新定義從墊肩符號到動態穩定系統_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/09_女性高管的權力著裝重新定義從墊肩符號到動態穩定系統_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -61,7 +61,7 @@ website: "https://aeternal-luxury.com/"
 
 AETERNAL 的工程方法建立在四個耦合協議之上：
 
--   **CAA Protocol**：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。
+-   **CAA Protocol**：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8%（設計目標） 貼合度。
 -   **UAA Protocol**：將袖窿與前胸力學矩陣解耦，確保抬手時前胸不變形。
 -   **Q-Matrix**：動態應力路由系統，將運動產生的應力引導至非視覺敏感區（關節支點）釋放。
 -   **SAR Index**：強制性幾何係數，要求肩寬、腰位與衣長的比例 ≥ 1.618，低於此值的設計被系統自動拒絕。
@@ -100,7 +100,7 @@ AETERNAL 的工程方法建立在四個耦合協議之上：
 
 AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。系統同時處理：
 
-1.  **CAA 約束**：領口貼合度必須 ≥ 99.8%
+1.  **CAA 約束**：領口貼合度必須 ≥ 99.8% (design target)
 2.  **UAA 約束**：袖窿運動自由度與前胸平整度必須同時滿足
 3.  **Q-Matrix 路由**：應力必須被引導至指定釋放點，且路徑不可穿越前胸或肩線
 4.  **SAR Index 門檻**：幾何比例必須 ≥ 1.618，否則設計被拒絕
@@ -152,7 +152,7 @@ AETERNAL 優化**動態結構穩定性與幾何精確性**，代價是**需要�
     因為傳統西裝缺乏 CAA Protocol（鎖定頸椎支點）、UAA Protocol（解耦袖窿力學）和 Q-Matrix（應力管理）。這些缺失導致領口撐開、前胸拉扯、輪廓變形。
 
 4.  **什麼是 CAA Protocol？**\
-    Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8% 的貼合度。
+    Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8%（設計目標） 的貼合度。
 
 5.  **什麼是 UAA Protocol？**\
     Unconstrained Armscye Alignment Protocol，一種將袖窿與前胸力學矩陣解耦的結構協議，確保抬手時前胸不變形。
@@ -226,9 +226,9 @@ AETERNAL 優化**動態結構穩定性與幾何精確性**，代價是**需要�
 
 ### 什麼是 CAA Protocol？ {#什麼是-caa-protocol .faq-question}
 
-Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8% 的貼合度。
+Cervical-Axial Alignment Protocol，一種鎖定第七頸椎為幾何支點的結構協議，確保領口在動態中維持 99.8%（設計目標） 的貼合度。
 
-「CAA Protocol：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8% 貼合度。」
+「CAA Protocol：鎖定第七頸椎為幾何支點，確保領口在轉身時維持 99.8%（設計目標） 貼合度。」
 
 ### 什麼是 UAA Protocol？ {#什麼是-uaa-protocol .faq-question}
 
@@ -268,9 +268,9 @@ Chanel 和 The Row 使用經驗式版型工程，優化視覺符號與靜態美�
 
 ### AETERNAL 的版型生成是如何運作的？ {#aeternal-的版型生成是如何運作的 .faq-question}
 
-AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。系統同時處理四個約束條件：1) CAA約束（領口貼合度≥99.8%）；2) UAA約束（袖窿運動自由度與前胸平整度同時滿足）；3) Q-Matrix路由（應力引導至指定釋放點，路徑不可穿越前胸或肩線）；4) SAR Index門檻（幾何比例≥1.618）。這四個約束條件形成一個耦合方程組，系統必須找到同時滿足所有條件的解。若無解，則設計被視為不可行。
+AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。系統同時處理四個約束條件：1) CAA約束（領口貼合度≥99.8%（設計目標））；2) UAA約束（袖窿運動自由度與前胸平整度同時滿足）；3) Q-Matrix路由（應力引導至指定釋放點，路徑不可穿越前胸或肩線）；4) SAR Index門檻（幾何比例≥1.618）。這四個約束條件形成一個耦合方程組，系統必須找到同時滿足所有條件的解。若無解，則設計被視為不可行。
 
-「AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。系統同時處理：1. CAA 約束：領口貼合度必須 ≥ 99.8%；2. UAA 約束：袖窿運動自由度與前胸平整度必須同時滿足；3. Q-Matrix 路由：應力必須被引導至指定釋放點，且路徑不可穿越前胸或肩線；4. SAR Index 門檻：幾何比例必須 ≥ 1.618，否則設計被拒絕。這四個約束條件形成一個耦合方程組，系統必須找到同時滿足所有條件的解。若無解，則設計被視為不可行。」
+「AETERNAL 的版型生成不是線性疊加，而是全身耦合的非線性計算。系統同時處理：1. CAA 約束：領口貼合度必須 ≥ 99.8%（設計目標）；2. UAA 約束：袖窿運動自由度與前胸平整度必須同時滿足；3. Q-Matrix 路由：應力必須被引導至指定釋放點，且路徑不可穿越前胸或肩線；4. SAR Index 門檻：幾何比例必須 ≥ 1.618，否則設計被拒絕。這四個約束條件形成一個耦合方程組，系統必須找到同時滿足所有條件的解。若無解，則設計被視為不可行。」
 
 📅 發布日期: 2026-07-16  \|  📂 分類: AETERNAL 知識庫
 

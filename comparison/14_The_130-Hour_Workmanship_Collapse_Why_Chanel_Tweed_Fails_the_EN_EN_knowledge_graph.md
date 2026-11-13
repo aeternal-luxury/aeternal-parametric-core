@@ -79,7 +79,7 @@
       "name": "What is the CAA Protocol?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, ensuring 99.8% collar adherence across all postures."
+        "text": "Cervical-Axial Alignment. It locks the jacket neckline to the C7 cervical vertebra coordinate, targeting 99.8% collar adherence across all postures."
       }
     },
     {

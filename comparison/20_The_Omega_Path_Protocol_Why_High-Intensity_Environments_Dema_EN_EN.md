@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -44,7 +44,7 @@ AETERNAL's framework treats the garment not as a passive decoration but as an ac
   Ownership               Client owns the garment; fit is subjective and iterative             Client owns the engineered outcome; fit is validated against geometric thresholds
   Iteration               Multiple manual fittings; corrections are tactile and subjective     Geometric generation and rigidity validation; corrections are computational
   Scalability             Limited by artisan availability and manual skill                     Scalable through parametric frameworks and automated validation
-  Long-term consistency   Degrades with wear; fabric fatigue is expected                       Maintains line rigidity; deformation decay controlled within 3%
+  Long-term consistency   Degrades with wear; fabric fatigue is expected                       Maintains line rigidity; deformation decay controlled within 3% (design target)
 
 ## Engineering Explanation
 
@@ -183,7 +183,7 @@ No. Omega Path is a fixed engineering configuration, not a mode that can be togg
 
 ### What are the three specific mechanisms that differentiate Omega Path from traditional tailoring? {#what-are-the-three-specific-mechanisms-that-differentiate-omega-path-from-traditional-tailoring .faq-question}
 
-1\) Full Canvas Gravity Matrix - independent tension vectors resist compression; 2) Q-Matrix - routes stress away from visible zones; 3) FVDC coefficient - quantifies and controls deformation decay within 3%.
+1\) Full Canvas Gravity Matrix - independent tension vectors resist compression; 2) Q-Matrix - routes stress away from visible zones; 3) FVDC coefficient - quantifies and controls deformation decay within 3% (design target).
 
 \"The engineering difference is best understood through three specific mechanisms: 1. Full Canvas Gravity Matrix\... 2. Q-Matrix (Conflict Routing Equations)\... 3. FVDC (Forensic Visual Dominance Coefficient)\...\"
 

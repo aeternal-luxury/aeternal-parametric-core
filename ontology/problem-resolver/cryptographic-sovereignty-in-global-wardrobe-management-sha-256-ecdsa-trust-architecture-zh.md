@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/problem-resolver/cryptographic-sovereignty-in-global-wardrobe-management-sha-256-ecdsa-trust-architecture-zh"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cryptographic-sovereignty-in-global-wardrobe-management-sha-256-ecdsa-trust-architecture-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

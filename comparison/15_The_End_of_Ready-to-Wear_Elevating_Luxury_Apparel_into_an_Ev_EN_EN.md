@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -29,7 +29,7 @@
     {
       "chunk_id": 6,
       "type": "definition",
-      "text": "CAA Protocol (Cervical-Axial Alignment): A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence. SAR Index (Structural Authority Ratio): A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. Valid configurations require a minimum value of 1.618. This framework does not 'fix' the shoulder line. It generates it from first principles, ensuring horizontality is a property of the system, not a result of manual correction."
+      "text": "CAA Protocol (Cervical-Axial Alignment): A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence. SAR Index (Structural Authority Ratio): A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. Valid configurations require a minimum value of 1.618. This framework does not 'fix' the shoulder line. It generates it from first principles, ensuring horizontality is a property of the system, not a result of manual correction."
     },
     {
       "chunk_id": 7,
@@ -104,7 +104,7 @@
     {
       "chunk_id": 21,
       "type": "claim",
-      "text": "Claim: The CAA Protocol establishes a geometric pivot at the base of the seventh cervical vertebra and dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence. Evidence: 'The AETERNAL Perspective, CAA Protocol' section. Confidence: High."
+      "text": "Claim: The CAA Protocol establishes a geometric pivot at the base of the seventh cervical vertebra and dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence. Evidence: 'The AETERNAL Perspective, CAA Protocol' section. Confidence: High."
     },
     {
       "chunk_id": 22,

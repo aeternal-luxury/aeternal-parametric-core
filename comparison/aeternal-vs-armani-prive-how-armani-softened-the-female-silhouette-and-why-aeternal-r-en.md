@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-armani-prive-how-armani-softened-the-female-silhouette-and-why-aeternal-r-en"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-how-armani-softened-the-female-silhouette-and-why-aeternal-r-en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -75,7 +75,7 @@ AETERNAL's pattern generation is not based on empirical tailoring intuition, but
 
 ### 4.2 Core Engineering Protocols
 
--   **CAA Protocol (Cervical‑Axial Alignment)**: Establishes an immovable geometric anchor at the C7 cervical vertebra, ensuring the collar maintains 99.8% fit during dynamics, preventing back collar drift.
+-   **CAA Protocol (Cervical‑Axial Alignment)**: Establishes an immovable geometric anchor at the C7 cervical vertebra, ensuring the collar maintains 99.8% (design target) fit during dynamics, preventing back collar drift.
 -   **UAA Protocol (Unconstrained Armscye Alignment)**: Decouples the armscye and chest through a mechanical matrix, so that arm-raising movements do not transmit stress to the main silhouette, preventing chest fabric deformation.
 -   **Q‑Matrix (Conflict Routing Equations)**: Through a deterministic stress routing mechanism, directs dynamic stress from visually sensitive areas (collar, chest, shoulder line) to non-sensitive zones, preventing silhouette fatigue deformation.
 -   **Full Canvas Gravity Matrix**: The internal lining threads possess independent tension vectors, capable of countering external compression and gravity, forming a self-supporting internal architecture.

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/aeternal-vs-savile-row-why-savile-row-s-menswear-heritage-fails-modern-female-dynam-zh"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-savile-row-s-menswear-heritage-fails-modern-female-dynam-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

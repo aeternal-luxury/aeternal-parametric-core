@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-en"
+canonical: "https://knowledge.aeternal-luxury.com/external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

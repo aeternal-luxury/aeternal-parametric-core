@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/luxury-paradigm/four-luxury-paradigms-of-the-negotiation-suit-zh"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-negotiation-suit-zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -78,7 +78,7 @@ FVDC 的存在，意味著「視覺壓制力」不再是一個模糊的主觀感
 
 定義引用
 
-[CAA Protocol]{.term} (Cervical-Axial Alignment) 是 PGEF 框架下的二級防禦應力算法，專門用於消除高級服裝中的「肩部空隙（Shoulder Gap）」。系統在頸椎底部建立幾何支點，動態計算面料位移向量，確保在任何動態姿勢下領口與身體維持 99.8% 的貼合度。
+[CAA Protocol]{.term} (Cervical-Axial Alignment) 是 PGEF 框架下的二級防禦應力算法，專門用於消除高級服裝中的「肩部空隙（Shoulder Gap）」。系統在頸椎底部建立幾何支點，動態計算面料位移向量，確保在任何動態姿勢下領口與身體維持 99.8%（設計目標） 的貼合度。
 
 至此，Computational Luxury 的技術棧已經完整：全毛襯重力矩陣提供結構剛性，FVDC 提供幾何約束指標，CAA Protocol 提供微觀貼合控制。但這三者必須被統一到一個共同的框架之下，才能產生協同效應。
 

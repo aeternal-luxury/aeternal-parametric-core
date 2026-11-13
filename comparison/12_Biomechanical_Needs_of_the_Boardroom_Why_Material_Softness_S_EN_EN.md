@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

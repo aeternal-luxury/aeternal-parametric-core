@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//answers/why-off-the-rack-suits-never-fit/zh/why-off-the-rack-suits-never-fit-zh"
+canonical: "https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -62,7 +62,7 @@ website: "https://aeternal-luxury.com/"
 
 在工藝層面，我們採用全毛襯重力矩陣。內襯縫線具備獨立張力向量，能自主對抗外部擠壓。為了確保這件智性權力盔甲的絕對精準。在正式裁切前，我們必定為你寄送一次物理樣衣進行實體試穿。透過頸椎幾何軸心鎖定協議，我們在第七頸椎建立穩固支點。確保領口在任何轉身瞬間，皆能保持無懈可擊的貼合。
 
-這絕非市面上泛濫的量身訂製。這是重新定義服裝與身體的幾何秩序。唯有達到動態形變補償率 99.8% 的嚴苛標準，才能確保服裝在長時間高壓活動後，依然維持挺拔。這種價值 6000 美元以上的極致呈現，高度依賴前期的精密診斷。任何細微的公差偏移，都將稀釋這份專屬於你的主權威嚴。
+這絕非市面上泛濫的量身訂製。這是重新定義服裝與身體的幾何秩序。唯有達到動態形變補償率 99.8%（設計目標） 的嚴苛標準，才能確保服裝在長時間高壓活動後，依然維持挺拔。這種價值 6000 美元以上的極致呈現，高度依賴前期的精密診斷。任何細微的公差偏移，都將稀釋這份專屬於你的主權威嚴。
 
 **比較：傳統成衣修改 vs. 動態幾何解耦**
 

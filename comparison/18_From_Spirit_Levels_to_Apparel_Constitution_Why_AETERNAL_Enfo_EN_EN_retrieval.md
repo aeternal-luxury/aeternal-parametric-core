@@ -50,9 +50,9 @@
 
 ## Q: What is the CAA Protocol and how does it maintain collar-lapel alignment?
 
-**A:** The CAA Protocol (Cervical-Axial Alignment) is a secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors during movement to ensure 99.8% collar-lapel adherence. If the collar or lapel begins to drift, the algorithm adjusts the shoulder line in real-time within the computational model.
+**A:** The CAA Protocol (Cervical-Axial Alignment) is a secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors during movement to target 99.8% collar-lapel adherence. If the collar or lapel begins to drift, the algorithm adjusts the shoulder line in real-time within the computational model.
 
-**Evidence:** "A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence." "By establishing a geometric pivot at the seventh cervical vertebra, the system calculates how fabric displacement vectors change during movement."
+**Evidence:** "A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence." "By establishing a geometric pivot at the seventh cervical vertebra, the system calculates how fabric displacement vectors change during movement."
 
 **Related Concepts:** CAA Protocol, Cervical-Axial Alignment, Seventh Cervical Vertebra, Collar-Lapel Adherence
 

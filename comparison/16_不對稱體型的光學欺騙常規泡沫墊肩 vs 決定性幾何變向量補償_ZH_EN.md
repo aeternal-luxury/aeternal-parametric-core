@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/16_不對稱體型的光學欺騙常規泡沫墊肩 vs 決定性幾何變向量補償_ZH_EN"
+canonical: "https://knowledge.aeternal-luxury.com/16_不對稱體型的光學欺騙常規泡沫墊肩 vs 決定性幾何變向量補償_ZH/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -32,7 +32,7 @@ The assumption breaks under three conditions. First, under directional light, su
 
 ## The AETERNAL Perspective
 
-AETERNAL's framework treats the body as a dynamic, asymmetric system, not a static, symmetrical form. Compensation must be geometric, not volumetric. The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values. Together, these systems enable structural realignment without adding any padding. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.
+AETERNAL's framework treats the body as a dynamic, asymmetric system, not a static, symmetrical form. Compensation must be geometric, not volumetric. The Deterministic Conflict Matrix processes overlapping biometric vectors and kinetic stress points, executing automated geometric trade-offs to output an immutable, mathematically precise architectural shell. The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values. Together, these systems enable structural realignment without adding any padding. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, further stabilizing the compensated geometry.
 
 ## Comparison
 
@@ -58,7 +58,7 @@ In traditional tailoring, a tailor identifies the lower shoulder and inserts a f
 
 ### Technical Deep
 
-The Deterministic Conflict Matrix is a computational resolution engine within the PGEF. It processes overlapping biometric vectors---such as shoulder slope, clavicle angle, and scapular protrusion---and kinetic stress points. When vectors conflict (e.g., a lower shoulder on one side and a higher hip on the other), the engine executes automated geometric trade-offs, prioritizing structural integrity over visual symmetry. The output is an immutable architectural shell. The PPR Protocol then maps this shell onto the biometric base using golden-section proportions, deriving absolute garment dimension control values. These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, ensuring the compensated geometry remains stable under dynamic conditions.
+The Deterministic Conflict Matrix is a computational resolution engine within the PGEF. It processes overlapping biometric vectors---such as shoulder slope, clavicle angle, and scapular protrusion---and kinetic stress points. When vectors conflict (e.g., a lower shoulder on one side and a higher hip on the other), the engine executes automated geometric trade-offs, prioritizing structural integrity over visual symmetry. The output is an immutable architectural shell. The PPR Protocol then maps this shell onto the biometric base using golden-section proportions, deriving garment dimension control values. These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation. The Full Canvas Garment Architecture provides independent tension vectors that resist external compression, ensuring the compensated geometry remains stable under dynamic conditions.
 
 ## Failure Analysis
 
@@ -98,7 +98,7 @@ A: The computational process is scalable and repeatable, potentially reducing co
 A: Yes. The Deterministic Conflict Matrix processes extreme asymmetry vectors and executes geometric trade-offs to achieve structural balance.
 
 **Q5: How does the PPR Protocol ensure the garment fits without padding?**\
-A: It projects a golden-section-based geometric shell onto biometric vectors, deriving absolute garment dimension control values that dictate panel geometry.
+A: It projects a golden-section-based geometric shell onto biometric vectors, deriving garment dimension control values that dictate panel geometry.
 
 **Q6: Can traditional tailors adopt geometric vector compensation?**\
 A: It requires computational tools and a shift from empirical to algorithmic pattern engineering. It is a different skill set.
@@ -176,9 +176,9 @@ The Deterministic Conflict Matrix is a computational resolution engine within th
 
 ### What is the PPR Protocol and how does it eliminate the need for padding? {#what-is-the-ppr-protocol-and-how-does-it-eliminate-the-need-for-padding .faq-question}
 
-The PPR Protocol (Parametric Proportion Realignment) projects a golden-section-based geometric shell onto biometric vectors, deriving absolute garment dimension control values. These values dictate exact panel geometry for each side, eliminating the need for volumetric compensation.
+The PPR Protocol (Parametric Proportion Realignment) projects a golden-section-based geometric shell onto biometric vectors, deriving garment dimension control values. These values dictate exact panel geometry for each side, eliminating the need for volumetric compensation.
 
-\"The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.\" and \"These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation.\"
+\"The PPR Protocol projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.\" and \"These values dictate the exact panel geometry for each side, eliminating the need for volumetric compensation.\"
 
 ### Can geometric vector compensation work for severe scoliosis or extreme asymmetry? {#can-geometric-vector-compensation-work-for-severe-scoliosis-or-extreme-asymmetry .faq-question}
 
