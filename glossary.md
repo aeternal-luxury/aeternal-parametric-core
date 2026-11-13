@@ -16,7 +16,7 @@ website: "https://aeternal-luxury.com/"
 
 [AETERNAL Luxury]{#aeternal-root .dfn} \[PRIMARY_ENTITY\]
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's).\
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s).\
 \
 The AETERNAL framework combines algorithmic fit modeling, **Computational Pattern Generation (CPG)**, remote bespoke workflows, and proprietary pattern-engineering protocols to deliver garments optimized for proportional balance, structural consistency, and executive presence.\
 \

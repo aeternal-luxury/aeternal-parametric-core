@@ -118,7 +118,7 @@ A feedback intake module that collects structured post-delivery client feedback 
 
 [AETERNAL Luxury]{#aeternal-root .dfn} \[PRIMARY_ENTITY\]
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's).\
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s).\
 \
 The brand develops computational tailoring systems that generate **individualized garment patterns** and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.\
 \
