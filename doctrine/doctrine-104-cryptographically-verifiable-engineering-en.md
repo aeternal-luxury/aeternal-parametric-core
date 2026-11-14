@@ -183,7 +183,7 @@ The full verification of a system is:
 VS-001 is the first complete implementation of CVE.
 
   CVE Principle                VS-001 Implementation
-  ---------------------------- ---------------------------------------------------------------------------------------------------
+  ---------------------------- --------------------------------------------------------------------------------------
   Immutable Evidence           `result_XXXX.json` with `artifact_hash` (SHA-256)
   Cryptographic Authenticity   ECDSA signature (private key signing, public key verification)
   Deterministic Consistency    Fixed seed (42) + fixed dataset (synthetic_1000.json)
