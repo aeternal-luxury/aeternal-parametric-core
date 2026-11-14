@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://aeternal.com/articles/power-dressing-engineering-shift"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html"
   }
 }
 ```

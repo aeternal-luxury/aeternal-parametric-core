@@ -40,7 +40,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://aeternal.com/articles/chanel-tweed-jacket-vs-aeternal-armour"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html"
   }
 }
 ```

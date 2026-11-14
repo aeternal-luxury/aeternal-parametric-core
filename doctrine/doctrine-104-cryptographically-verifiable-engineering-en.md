@@ -188,12 +188,12 @@ VS-001 is the first complete implementation of CVE.
   Cryptographic Authenticity   ECDSA signature (private key signing, public key verification)
   Deterministic Consistency    Fixed seed (42) + fixed dataset (synthetic_1000.json)
   Independent Replay           `validator.py` (open-source, standard libraries)
-  Comprehensive Auditability   `trust_ledger.json` (hash and signature of every case; 900 of 1000 artifacts currently published)
+  Comprehensive Auditability   `trust_ledger.json` (hash and signature of every case; all 1000 artifacts published)
 
 **Results**:
 
--   1000 synthetic body types in the dataset; 900 result artifacts published
--   All 900 published artifacts pass validator.py (internal consistency check, not physical-garment validation)
+-   1000 synthetic body types in the dataset; all 1000 result artifacts published
+-   All 1000 published artifacts pass validator.py (internal consistency check, not physical-garment validation)
 -   Published artifacts verifiable with the public key and validator.py
 -   Production engine remains proprietary
 
@@ -241,4 +241,4 @@ It only requires:
 -   [Doctrine 001: Evidence Hierarchy and Category Error](https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en){target="_blank"}
 -   [VS-104 (this document): Cryptographically Verifiable Engineering Framework](https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en){target="_blank"}
 
-© 2026 AETERNAL --- This document is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/){target="_blank"}
+© 2026 AETERNAL --- This document is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){target="_blank"}

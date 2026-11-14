@@ -188,12 +188,12 @@ VS-001 是 CVE 的第一個完整實作。
   密碼學真實性   ECDSA 簽名（私鑰簽署，公鑰驗證）
   確定性一致     固定種子 (42) + 固定數據集 (synthetic_1000.json)
   獨立重放       `validator.py`（開源，標準函式庫）
-  全面可審計性   `trust_ledger.json`（記錄每個案例的雜湊與簽章；1000 筆中目前公開 900 個 artifacts）
+  全面可審計性   `trust_ledger.json`（記錄每個案例的雜湊與簽章；1000 筆全數公開）
 
 **結果**：
 
--   資料集 1000 組合成體型，已公開 900 個結果 artifacts
--   已公開的 900 個 artifacts 全數通過 validator.py（內部一致性檢查，非實體成衣驗證）
+-   資料集 1000 組合成體型，已公開全部 1000 個結果 artifacts
+-   已公開的 1000 個 artifacts 全數通過 validator.py（內部一致性檢查，非實體成衣驗證）
 -   已公開的 artifacts 可用公鑰與 validator.py 驗證
 -   生產引擎保持專有
 
@@ -241,4 +241,4 @@ CVE 提供了實現此目標的方法論。它不需要開源專有演算法。�
 -   [Doctrine 001: 證據層級與範疇錯誤](https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh){target="_blank"}
 -   [VS-104 (本文檔)：密碼學可驗證工程框架](https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh){target="_blank"}
 
-© 2026 AETERNAL --- 本文檔採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/){target="_blank"} 授權
+© 2026 AETERNAL --- 本文檔採用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){target="_blank"} 授權

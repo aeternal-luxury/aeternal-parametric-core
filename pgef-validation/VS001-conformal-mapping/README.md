@@ -1,7 +1,7 @@
 
 # VS001-conformal-mapping: Conformal Mapping Validation
 
-> **紀錄核對（以 repo 現存檔案為準）**：本 VS 的資料集為 1000 組合成（synthetic）體型參數（`dataset/synthetic_1000.json`）。repo 公開的 artifacts 共 900 個（案例 0601–0700 的 100 個未公開），全數通過 `validator.py` 的雜湊、簽章、結構與指標一致性檢查（900/900）；等級分布為 A+ 54、A 180、B 666；產生日期為 2026-08-01（818 個）與 2026-08-02（82 個）。`trust_ledger.json` 記錄 1000 筆，其中 100 筆（案例 0601–0700）沒有對應的公開 artifact，因此 `python validator.py --verify-ledger` 目前會回報 FAIL。PASS 依下方「工程決策品質」分級判定，並非依數值誤差門檻。本驗證檢查的是引擎輸出與其自身規格的內部一致性，並非實體成衣驗證，亦非獨立第三方驗證。
+> **紀錄核對（以 repo 現存檔案為準）**：本 VS 的資料集為 1000 組合成（synthetic）體型參數（`dataset/synthetic_1000.json`）。repo 公開的 artifacts 共 1000 個（案例 0001–1000），全數通過 `validator.py` 的雜湊、簽章、結構與指標一致性檢查（1000/1000）；等級分布為 A+ 61、A 202、B 737；產生日期為 2026-08-01（903 個）與 2026-08-02（97 個）。`trust_ledger.json` 記錄 1000 筆，與公開 artifacts 一一對應，`python validator.py --verify-ledger` 通過。PASS 依下方「工程決策品質」分級判定，並非依數值誤差門檻。本驗證檢查的是引擎輸出與其自身規格的內部一致性，並非實體成衣驗證，亦非獨立第三方驗證。
 
 > **Evidence / Trust README** — 本 VS 的信任證據摘要
 
@@ -76,11 +76,11 @@ The grades below describe **engineering decision quality**, not product quality.
 
 ## Execution Notes
 
-- The dataset has 1000 synthetic cases; the repository publishes 900 result artifacts (case IDs 0001–0600 and 0701–1000).
-- Artifacts carry two generation dates: 2026-08-01 (818) and 2026-08-02 (82). The repository contains no per-run logs, so how many cases were re-run, and why, cannot be derived from it.
+- The dataset has 1000 synthetic cases; the repository publishes all 1000 result artifacts (case IDs 0001–1000).
+- Artifacts carry two generation dates: 2026-08-01 (903) and 2026-08-02 (97). The repository contains no per-run logs, so how many cases were re-run, and why, cannot be derived from it.
 - Signatures are embedded in each artifact (`signature` field); there are no separate `.sig` files.
-- `trust_ledger.json` lists 1000 entries; the 100 entries for cases 0601–0700 have no published artifact, so `--verify-ledger` reports FAIL until those artifacts are published.
-- Observed metrics over the 900 artifacts: MSE mean 47.6 (max 169.0); ΔP mean 0.092 (max 0.161); area distortion mean 0.146 (max 0.242). Grades are decided by the decision-quality rules above, not by a numeric error threshold.
+- `trust_ledger.json` lists 1000 entries; every entry has a published artifact, and `python validator.py --verify-ledger` passes (1000/1000).
+- Observed metrics over the 1000 artifacts: MSE mean 47.9 (max 169.0); ΔP mean 0.092 (max 0.161); area distortion mean 0.146 (max 0.242). Grades are decided by the decision-quality rules above, not by a numeric error threshold.
 
 ## Artifacts
 

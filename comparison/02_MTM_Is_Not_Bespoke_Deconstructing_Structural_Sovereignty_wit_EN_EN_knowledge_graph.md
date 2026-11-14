@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://aeternal.com/engineering-difference-mtm-ai-bespoke"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html"
   }
 }
 ```

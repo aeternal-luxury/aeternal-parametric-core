@@ -88,7 +88,7 @@
       "points": [
         {
           "name": "極端合成測試 (VS001 Conformal Mapping)",
-          "detail": "公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 900 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。"
+          "detail": "公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 1000 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。"
         },
         {
           "name": "ECDSA 數位簽名與抗竄改信標 (Trust Ledger)",
