@@ -29,7 +29,7 @@ jobs:
           grep -o 'https\?://[^) ]*' llms.txt | sort -u | while read -r u; do
             code=$(curl -s -o /dev/null -L -w '%{http_code}' --max-time 20 "$u" || echo 000)
             echo "$code $u"
-            [ "$code" -ge 400 ] && echo "::warning::$u returned $code"
+            if [ "$code" -ge 400 ]; then echo "::warning::$u returned $code"; fi
           done
           exit 0
       - name: Unit tests (numeric claims + canonical parser)
