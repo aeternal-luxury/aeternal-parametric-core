@@ -48,6 +48,13 @@ jobs:
         run: |
           python3 tools/geo_numeric_claims.py --apply
           git diff --exit-code
+      - name: Licence wording, sitemap, JSON-LD ids, canonical fixes are idempotent
+        run: |
+          python3 tools/geo_license_apply.py --apply
+          python3 tools/sitemap_add.py --apply
+          python3 tools/jsonld_page_id.py --apply
+          python3 tools/canonical_fix.py --apply
+          git diff --exit-code
       - name: Canonical HTTP reachability (manual run only)
         if: ${{ github.event.inputs.http_check == 'true' }}
         run: python3 tools/canonical_check.py --http

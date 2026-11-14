@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://aeternal.com/articles/database-matching-vs-geometric-generation"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html"
   }
 }
 ```

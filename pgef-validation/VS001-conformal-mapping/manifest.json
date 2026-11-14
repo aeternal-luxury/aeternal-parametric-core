@@ -6,7 +6,7 @@
   "signature": {
     "algorithm": "ECDSA-secp256k1",
     "public_key_url": "https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/public_key.pem",
-    "signature_count": 900,
+    "signature_count": 1000,
     "all_signed": true,
     "note": "Signatures are embedded in each published artifact; no detached .sig files."
   },
@@ -25,44 +25,44 @@
     "size": 1000,
     "seed": 42,
     "generated": "2026-08-01",
-    "note": "Dataset has 1000 synthetic cases; results are published for 900 of them (cases 0601-0700 are not in artifacts/)."
+    "note": "Dataset has 1000 synthetic cases; results are published for all 1000 (artifacts/result_0001–result_1000)."
   },
   "validation": {
     "validator": "validator.py",
     "results": {
-      "published_artifacts": 900,
-      "passed": 900,
+      "published_artifacts": 1000,
+      "passed": 1000,
       "failed": 0,
       "pass_rate_of_published": 1.0,
-      "overall_status": "PASS (published artifacts only)",
+      "overall_status": "PASS",
       "ledger_entries": 1000,
-      "ledger_entries_without_published_artifact": 100
+      "ledger_entries_without_published_artifact": 0
     },
     "pass_criterion": "Engineering-decision-quality grade (A++, A+, A, B, C = PASS; F, F- = FAIL), as defined in specification.md. No numeric error threshold is applied."
   },
   "metrics_summary": {
-    "average_dimension_mse": 47.57449014671112,
+    "average_dimension_mse": 47.91159259028001,
     "max_dimension_mse": 168.9883,
-    "average_delta_p": 0.09161063481921766,
+    "average_delta_p": 0.0920161706055512,
     "max_delta_p": 0.16059714071664766,
-    "average_area_distortion": 0.14609730620957453,
+    "average_area_distortion": 0.14642249552387432,
     "max_area_distortion": 0.24212129239752472,
-    "basis": "900 published artifacts"
+    "basis": "1000 published artifacts"
   },
   "grade_distribution": {
     "A++": 0,
-    "A+": 54,
-    "A": 180,
-    "B": 666,
+    "A+": 61,
+    "A": 202,
+    "B": 737,
     "F": 0,
     "F-": 0,
-    "basis": "900 published artifacts"
+    "basis": "1000 published artifacts"
   },
   "test_summary": {
     "total_cases": "1000 (dataset)",
     "extreme_body_types_included": true,
-    "conclusion": "All 900 published artifacts pass validator.py (internal consistency on synthetic data). Not physical-garment validation; not independent third-party validation. 100 ledger entries (cases 0601-0700) have no published artifact.",
-    "published_artifacts": 900
+    "conclusion": "All 1000 published artifacts pass validator.py (internal consistency on synthetic data) and match the 1000 trust_ledger.json entries. Not physical-garment validation; not independent third-party validation.",
+    "published_artifacts": 1000
   },
   "generated": "2026-08-02",
   "generated_by": "PGEF v15.0 Internal Pipeline"

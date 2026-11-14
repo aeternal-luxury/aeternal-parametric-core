@@ -248,7 +248,7 @@ AETERNAL uses a three-tier structure (details in [NOTICE.md](NOTICE.md)):
 | Tier | Covers | Terms |
 |---|---|---|
 | Open-source code | `tools/`, `src/`, validator and reproduction scripts | MIT, see [LICENSE](LICENSE) |
-| Public documentation | Technical documentation, research articles, white papers, knowledge pages, figures, validation records | CC BY-NC-ND 4.0, see [LICENSE-DOCS.md](LICENSE-DOCS.md) |
+| Public documentation | Technical documentation, research articles, white papers, knowledge pages, figures, validation records | CC BY 4.0, see [LICENSE-DOCS.md](LICENSE-DOCS.md) |
 | Proprietary assets | PGEF production engine and private assets (not in this repository) | All Rights Reserved |
 
 AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury; see [TRADEMARKS.md](TRADEMARKS.md).

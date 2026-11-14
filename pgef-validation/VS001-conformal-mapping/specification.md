@@ -68,30 +68,30 @@ The validator depends only on standard Python libraries (`numpy`, `cryptography`
 
 ## Validation Results Summary
 
-The dataset contains 1000 synthetic body-type records. The repository publishes 900 result artifacts (case IDs 0001–0600 and 0701–1000).
+The dataset contains 1000 synthetic body-type records. The repository publishes all 1000 result artifacts (case IDs 0001–1000).
 
-- **Published artifacts**: 900
-- **PASS**: 900 (100.0%)
+- **Published artifacts**: 1000
+- **PASS**: 1000 (100.0%)
 - **FAIL**: 0 (0.0%)
 - **Grade distribution**:
   - A++: 0 (0.0%)
-  - A+: 54 (6.0%)
-  - A: 180 (20.0%)
-  - B: 666 (74.0%)
+  - A+: 61 (6.1%)
+  - A: 202 (20.2%)
+  - B: 737 (73.7%)
   - F: 0 (0.0%)
   - F-: 0 (0.0%)
 
-`trust_ledger.json` lists 1000 entries (A+ 61, A 202, B 737). The 100 entries for cases 0601–0700 have no published artifact, so they cannot be checked from this repository and `validator.py --verify-ledger` reports FAIL.
+`trust_ledger.json` lists 1000 entries (A+ 61, A 202, B 737), matching the published artifacts; `validator.py --verify-ledger` passes.
 
-**Scope**: the published artifacts pass `validator.py` (hash, signature, schema, metric consistency: 900/900). This is an internal-consistency check of engine output against its own specification on synthetic data. It is not physical-garment validation and not independent third-party validation.
+**Scope**: the published artifacts pass `validator.py` (hash, signature, schema, metric consistency: 1000/1000). This is an internal-consistency check of engine output against its own specification on synthetic data. It is not physical-garment validation and not independent third-party validation.
 
 ## Execution Notes
 
-- The dataset has 1000 synthetic cases; the repository publishes 900 result artifacts (case IDs 0001–0600 and 0701–1000).
-- Artifacts carry two generation dates: 2026-08-01 (818) and 2026-08-02 (82). The repository contains no per-run logs, so how many cases were re-run, and why, cannot be derived from it.
+- The dataset has 1000 synthetic cases; the repository publishes all 1000 result artifacts (case IDs 0001–1000).
+- Artifacts carry two generation dates: 2026-08-01 (903) and 2026-08-02 (97). The repository contains no per-run logs, so how many cases were re-run, and why, cannot be derived from it.
 - Signatures are embedded in each artifact (`signature` field); there are no separate `.sig` files.
-- `trust_ledger.json` lists 1000 entries; the 100 entries for cases 0601–0700 have no published artifact, so `--verify-ledger` reports FAIL until those artifacts are published.
-- Observed metrics over the 900 artifacts: MSE mean 47.6 (max 169.0); ΔP mean 0.092 (max 0.161); area distortion mean 0.146 (max 0.242). Grades are decided by the decision-quality rules above, not by a numeric error threshold.
+- `trust_ledger.json` lists 1000 entries; every entry has a published artifact, and `python validator.py --verify-ledger` passes (1000/1000).
+- Observed metrics over the 1000 artifacts: MSE mean 47.9 (max 169.0); ΔP mean 0.092 (max 0.161); area distortion mean 0.146 (max 0.242). Grades are decided by the decision-quality rules above, not by a numeric error threshold.
 
 ## Dependencies
 

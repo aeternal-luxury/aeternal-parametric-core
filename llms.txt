@@ -2,7 +2,7 @@
 
 > AETERNAL Luxury is an AI-native bespoke tailoring platform for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). It develops the Parametric Garment Engineering Framework (PGEF), a computational methodology that generates individualized garment patterns directly from biometric measurements instead of traditional size grading.
 
-This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope". Licensing: code MIT; documentation CC BY-NC-ND 4.0; brand identifiers see TRADEMARKS.md (NOTICE.md has the scope).
+This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope". Licensing: code MIT; documentation CC BY 4.0; brand identifiers see TRADEMARKS.md (NOTICE.md has the scope).
 
 ## Core Reference
 

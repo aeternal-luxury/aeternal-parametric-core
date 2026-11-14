@@ -1,6 +1,6 @@
 # Figures — VS001 視覺化圖表
 
-本目錄包含 VS-001 驗證結果的視覺化圖表，用於直觀展示 repo 公開的 900 個 artifacts 的分佈（資料集 1000 組、帳本 1000 筆，其中 0601–0700 未公開）。圖表由 `reproduction/summarize_artifacts.py --figures` 重新產生。
+本目錄包含 VS-001 驗證結果的視覺化圖表，用於直觀展示 repo 公開的 1000 個 artifacts 的分佈（資料集 1000 組、帳本 1000 筆）。圖表由 `reproduction/summarize_artifacts.py --figures` 重新產生。
 
 ## 圖表清單
 

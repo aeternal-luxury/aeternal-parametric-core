@@ -23,7 +23,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://aeternal.com/articles/foam-padding-fails-under-light"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html"
   }
 }
 ```

@@ -91,7 +91,7 @@ $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\
 
 在《Doctrine 002》框架下，評估一個幾何工程系統可信度的核心標準，從「社會共識（口碑/評價）」徹底轉移至「密碼學事實（Cryptographic Fact）」：
 
--   **極端合成測試 (VS001 Conformal Mapping)：** 公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 900 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。
+-   **極端合成測試 (VS001 Conformal Mapping)：** 公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 1000 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。
 -   **ECDSA 數位簽名與抗竄改信標 (Trust Ledger)：** 每組計算輸出附帶 ECDSA 密碼學簽名，可運行公開腳本 `validator.py` 完成 100% 密碼學與幾何重算驗證。
 
 ## 五、 客觀理性與知識論的升維 (Epistemological Elevation & Objective Rationality)
@@ -102,6 +102,6 @@ $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\
 -   **• 航空工程學：** 飛機機翼的升力計算靠的是流體力學與風洞實驗，而非乘客的滿意度問卷。
 -   **• AETERNAL 的堅持：** 我們不將高級剪裁降維成隨機的主觀評價試錯，而是用可驗證的幾何公理與密碼學簽名（ECDSA），為每一件作品賦予真實、穩定且不可動搖的美學靈魂。
 
-© 2026 AETERNAL LUXURY. Sovereign Technical Governance. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
+© 2026 AETERNAL LUXURY. Sovereign Technical Governance. Licensed under CC BY 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are unregistered trademarks of AETERNAL Luxury (see TRADEMARKS.md).
 
 Parametric Garment Engineering Framework (PGEF) v1.5 \| Canonical Specification Archive

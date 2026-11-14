@@ -20,7 +20,9 @@ class LocalTool(unittest.TestCase):
         p = self.page.read_text(encoding="utf-8")
         self.assertIn("99.8% (design target)", p)
         self.assertIn("autonomously", p)                       # style wording is NOT swept by default
-        self.assertIn("All Rights Reserved", p)                 # licence wording is never touched
+        self.assertNotIn("All Rights Reserved", p)              # footer wording replaced by the CC BY + trademark statement
+        self.assertIn("Licensed under CC BY 4.0", p)
+        self.assertIn("unregistered trademarks", p)
         self.assertNotIn("guarantees structural", p)            # guarantee-type claim IS corrected
         self.assertNotIn("design target", self.wp.read_text(encoding="utf-8"))   # review-only folder: no numeric rule
         self.assertIn("ENGINEERING_SCENARIO", self.ev.read_text(encoding="utf-8"))
@@ -31,5 +33,21 @@ class LocalTool(unittest.TestCase):
     def test_wide_flag_applies_pr2_lexicon(self):
         run(self.r, "--apply", "--with-pr2-lexicon")
         self.assertNotIn("autonomously", self.page.read_text(encoding="utf-8"))
+    def test_canonical_and_merged_pages(self):
+        import json
+        src = Path(__file__).resolve().parent.parent / "aeternal_local_fix.py"
+        ns = {}; exec(compile(src.read_text(encoding="utf-8").replace('if __name__ == "__main__":\n    main()', ""), "x", "exec"), ns)
+        rel, url = next(iter(ns["CANON"].items()))
+        f = self.r / rel; f.parent.mkdir(parents=True, exist_ok=True)
+        f.write_text("<html><head>\n  <title>t</title>\n</head><body></body></html>", encoding="utf-8")
+        run(self.r, "--apply")
+        self.assertIn(f'<link rel="canonical" href="{url}">', f.read_text(encoding="utf-8"))
+        self.assertIn("0 changed", run(self.r, "--apply"))
+        old, new = next(iter(ns["MERGED"].items()))
+        idx = self.r / "comparison" / "index.html"; idx.parent.mkdir(exist_ok=True)
+        idx.write_text(f'<a href="{old}.html">English</a>', encoding="utf-8")
+        run(self.r, "--apply")
+        self.assertEqual(idx.read_text(encoding="utf-8"), f'<a href="{new}.html">English</a>')
+
 if __name__ == "__main__":
     unittest.main()

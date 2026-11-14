@@ -88,4 +88,4 @@ Applied case-study nodes translating Computational Luxury axioms into scenario-s
 
 *\[Reserved Node Directory\]* Quantitative material physics specifications, yield strength parameters, and strain-deformation matrices for bespoke luxury textiles.
 
-© AETERNAL Engineering & Formal Verification Group. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
+© AETERNAL Engineering & Formal Verification Group. Licensed under CC BY 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are unregistered trademarks of AETERNAL Luxury (see TRADEMARKS.md).

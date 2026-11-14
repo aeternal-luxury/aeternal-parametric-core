@@ -4,4 +4,4 @@
 每個 Artifact 格式參見 specification.md。
 
 
-> 本目錄現有 900 個 artifacts（案例 0601–0700 不在其中）。簽章內嵌於各 artifact 的 `signature` 欄位，沒有獨立 `.sig` 檔。
+> 本目錄現有 1000 個 artifacts（案例 0001–1000）。簽章內嵌於各 artifact 的 `signature` 欄位，沒有獨立 `.sig` 檔。

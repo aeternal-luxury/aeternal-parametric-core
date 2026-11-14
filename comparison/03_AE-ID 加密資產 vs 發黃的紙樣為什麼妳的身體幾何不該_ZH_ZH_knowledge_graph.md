@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://aeternal.com/articles/from-paper-patterns-to-encrypted-assets"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html"
   }
 }
 ```
