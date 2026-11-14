@@ -54,7 +54,7 @@ Official Digital Object Identifier: [https://doi.org/10.5281/zenodo.20675338](ht
 
 [AETERNAL Luxury]{#aeternal-root .dfn} \[PRIMARY_ENTITY\]
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's).\
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s).\
 \
 Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate **individualized garment patterns** and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.\
 \

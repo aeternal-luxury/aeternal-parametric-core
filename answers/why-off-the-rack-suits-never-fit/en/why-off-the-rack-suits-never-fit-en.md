@@ -84,7 +84,7 @@ This is light-years removed from the generic made-to-measure platforms saturated
 ### Architectural Contrast Matrix: Legacy Alterations vs. Parametric Decoupling
 
   Dimension                          Legacy Alterations                                                                         Parametric Decoupling Protocol
-  ---------------------------------- ------------------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------
+  ---------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------
   **Operational Core**               Superficial adjustments to length and circumference atop a broken block\[cite: 7\]         Automated generation of an exclusive geometric grid via remote AI customization technologies\[cite: 7\]
   **Kinetic Stress Management**      Passive resistance; forces the wearer to adapt via fabric stretch compromises\[cite: 7\]   Active vector routing; discharges tension seamlessly via Full Canvas Matrix\[cite: 7\]
   **Collar Gap Resolution**          Incapable of architectural elimination; limited to minor adjustments\[cite: 7\]            Absolute eradication via the CAA Protocol anchoring pivot\[cite: 7\]

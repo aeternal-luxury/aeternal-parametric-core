@@ -12,7 +12,7 @@ website: "https://aeternal-luxury.com/"
 
 # Behavioral Environment Profiling
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). The Executive Visual Authority System operationalizes high-pressure executive and boardroom environments into structural visual matrices, deploying specialized garment architecture calibrated directly by the **Parametric Garment Engineering Framework (PGEF)**.
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s). The Executive Visual Authority System operationalizes high-pressure executive and boardroom environments into structural visual matrices, deploying specialized garment architecture calibrated directly by the **Parametric Garment Engineering Framework (PGEF)**.
 
 \[SYSTEMIC ENVIRONMENT ROUTING // PSYCHO-GEOMETRIC COUPLING\]
 

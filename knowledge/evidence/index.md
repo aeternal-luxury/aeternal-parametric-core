@@ -12,7 +12,7 @@ website: "https://aeternal-luxury.com/"
 
 # Evidence Registry
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.
 
 [[CASE_ID: PGEF-PPR-001]{.case-id}](/evidence/case-ppr-001.html){.evidence-card}
 

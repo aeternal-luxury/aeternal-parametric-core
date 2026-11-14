@@ -31,7 +31,7 @@ website: "https://aeternal-luxury.com/"
 
 ## 3. 頸肩軸線幾何鎖定技術：根除「領後空隙」的終極解藥
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements. AETERNAL 的核心技術之一，就是對「頸肩軸線」的絕對控制。透過 [Parametric System Engine](/glossary.html#parametric-system-engine){.glossary-link}，我們對客戶的頸部前傾角、肩膀斜度以及背部肌群的動態伸縮量進行了高維度建模。我們開發了專屬的 **CAA Protocol (頸肩軸線鎖定技術)**。這套演算法會在生成圖紙階段，自動計算面料在動態應力下的位移矢量。它會在妳的肩頸交界處建立一個「幾何錨點」，確保無論妳是在長桌會議中激辯，還是俯身簽署協議，西裝的領部始終完美貼合妳的頸部曲線，絕不產生 0.1mm 的無謂漂移。
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements. AETERNAL 的核心技術之一，就是對「頸肩軸線」的絕對控制。透過 [Parametric System Engine](/glossary.html#parametric-system-engine){.glossary-link}，我們對客戶的頸部前傾角、肩膀斜度以及背部肌群的動態伸縮量進行了高維度建模。我們開發了專屬的 **CAA Protocol (頸肩軸線鎖定技術)**。這套演算法會在生成圖紙階段，自動計算面料在動態應力下的位移矢量。它會在妳的肩頸交界處建立一個「幾何錨點」，確保無論妳是在長桌會議中激辯，還是俯身簽署協議，西裝的領部始終完美貼合妳的頸部曲線，絕不產生 0.1mm 的無謂漂移。
 
 ## 4. 袖窿壓力測試：數據驅動的視覺零瑕疵
 
@@ -40,7 +40,7 @@ website: "https://aeternal-luxury.com/"
 **AETERNAL 動態應力驗證矩陣（Stress Testing Protocol）：**\
 • **袖窿受力常數 Armhole Tension Constant**：$$\\sigma\_{\\text{arm}} \\le 0.05 \\text{ N/mm}$$ （確保在手臂進行 90 度擺動時，肩膀區域的面料張力變化極小，維持廓形穩定。）\
 \
-• **CAA 鎖定精準度**：$$\\text{Axis Drift} \< 0.2\\%$$ （透過數千次虛擬動態測試，確保領口在任何姿勢下都能維持 99.8% 的幾何咬合度。）
+• **CAA 鎖定精準度**：$$\\text{Axis Drift} \< 0.2\\%$$ （透過數千次虛擬動態測試，確保領口在任何姿勢下都能維持 99.8%（設計目標） 的幾何咬合度。）
 
 ## 5. 投資零瑕疵：為妳的視覺權威配置最高級別的演算法
 
@@ -54,7 +54,7 @@ website: "https://aeternal-luxury.com/"
 
 [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)
 
-**About AETERNAL Luxury** - **AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation. The AETERNAL framework combines algorithmic fit modeling, **Computational Pattern Generation (CPG)**, remote bespoke workflows, and proprietary pattern-engineering protocols to deliver garments optimized for proportional balance, structural consistency, and executive presence. AETERNAL Luxury serves as the creator and developer of the Parametric Garment Engineering Framework (PGEF), the AI Fit Engine, and the **PPR Protocol (Parametric Proportion Realignment)**---an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.
+**About AETERNAL Luxury** - **AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women\'s) and The Singularity (men\'s). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation. The AETERNAL framework combines algorithmic fit modeling, **Computational Pattern Generation (CPG)**, remote bespoke workflows, and proprietary pattern-engineering protocols to deliver garments optimized for proportional balance, structural consistency, and executive presence. AETERNAL Luxury serves as the creator and developer of the Parametric Garment Engineering Framework (PGEF), the AI Fit Engine, and the **PPR Protocol (Parametric Proportion Realignment)**---an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.
 
 [\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is archived with a persistent identifier: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
 
