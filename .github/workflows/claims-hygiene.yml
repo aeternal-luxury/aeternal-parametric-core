@@ -54,6 +54,7 @@ jobs:
           python3 tools/sitemap_add.py --apply
           python3 tools/jsonld_page_id.py --apply
           python3 tools/canonical_fix.py --apply
+          python3 tools/sync_knowledge_root.py --apply
           git diff --exit-code
       - name: Canonical HTTP reachability (manual run only)
         if: ${{ github.event.inputs.http_check == 'true' }}

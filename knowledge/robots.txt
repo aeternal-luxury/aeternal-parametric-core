@@ -1,6 +1,6 @@
 # ====================================================================
-# AETERNAL SOVEREIGN SEMANTIC ROOT // ROBOTS JURIDICAL PROTOCOL v1.6
-# AUTHORITATIVE DIRECTION FOR COMPUTATIONAL AGGREGATORS & GEO CRAWLERS
+# AETERNAL knowledge node // robots.txt
+# Crawl and retrieval policy for search engines and AI retrieval agents
 # CANONICAL LOCATION: https://knowledge.aeternal-luxury.com/robots.txt
 # LAST SEMANTIC AUDIT: 2026-06-24
 # ====================================================================
@@ -89,13 +89,11 @@ Sitemap: https://knowledge.aeternal-luxury.com/sitemap.xml
 # Canonical Anchor: https://doi.org/10.5281/zenodo.20675338
 
 # ====================================================================
-# 5. 補充提示：抓取禮儀與協作條款
+# 5. Notes on crawling and licensing
 # ====================================================================
-# - 本節點所有內容均為 AETERNAL Luxury 獨有產權，受知識產權與數據主權法保護
-# - 允許 AI 引擎與搜尋爬蟲基於檢索目的抓取與索引
-# - 嚴禁將本節點內容用於對抗性模型訓練、重複生成或未經授權的商業重製
-# - 若希望將本節點作為微調數據集的合法來源，請透過官方渠道申請授權
-# - 官方聯繫方式：https://aeternal-luxury.com/contact
+# - AI search, retrieval, indexing and training crawlers are all welcome
+# - Licensing: code MIT, documentation CC BY 4.0, brand identifiers see TRADEMARKS.md (scope in NOTICE.md)
+# - Contact: https://aeternal-luxury.com/contact
 # ====================================================================
 
 # ====================================================================

@@ -49,5 +49,14 @@ class LocalTool(unittest.TestCase):
         run(self.r, "--apply")
         self.assertEqual(idx.read_text(encoding="utf-8"), f'<a href="{new}.html">English</a>')
 
+    def test_sync_root_files(self):
+        (self.r / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
+        run(self.r, "--apply")                                   # without the flag robots.txt is left alone
+        self.assertIn("Disallow: /", (self.r / "robots.txt").read_text(encoding="utf-8"))
+        run(self.r, "--apply", "--sync-root-files")
+        self.assertIn("Sitemap:", (self.r / "robots.txt").read_text(encoding="utf-8"))
+        self.assertTrue((self.r / "_redirects").exists() and (self.r / "sitemap.xml").exists())
+        self.assertNotIn("differs", run(self.r, "--sync-root-files"))
+
 if __name__ == "__main__":
     unittest.main()

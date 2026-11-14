@@ -125,11 +125,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://knowledge.aeternal-luxury.com/queries/index.html</loc>
-    <lastmod>2026-07-25</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://knowledge.aeternal-luxury.com/doctrine/index.html</loc>
     <lastmod>2026-07-25</lastmod>
     <priority>0.5</priority>
@@ -3051,6 +3046,11 @@
   </url>
   <url>
     <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/index.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/index.html</loc>
     <lastmod>2026-11-14</lastmod>
     <priority>0.7</priority>
   </url>
