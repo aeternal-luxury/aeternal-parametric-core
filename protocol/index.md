@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//protocol/index"
+canonical: "https://knowledge.aeternal-luxury.com/protocol/index.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -45,4 +45,4 @@ Why AETERNAL operates on exclusive executive access: 30 monthly allocation token
 
 [中文版 (ZH)](protocol-004-capacity-controlled-sovereignty-zh.html){.lang-link} [English (EN)](protocol-004-capacity-controlled-sovereignty-en.html){.lang-link}
 
-© AETERNAL Luxury. All Rights Reserved. Boardroom Armor Tier-0 Standards.
+© AETERNAL Luxury. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md). Boardroom Armor Tier-0 Standards.

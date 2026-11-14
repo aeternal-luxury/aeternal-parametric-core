@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/product-category/index"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/product-category/index.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -81,4 +81,4 @@ website: "https://aeternal-luxury.com/"
                           [Zero-Baseline Mesh & Beyond Savile Row]{.small}                   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-© AETERNAL Engineering & Formal Verification Group. All Rights Reserved.
+© AETERNAL Engineering & Formal Verification Group. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).

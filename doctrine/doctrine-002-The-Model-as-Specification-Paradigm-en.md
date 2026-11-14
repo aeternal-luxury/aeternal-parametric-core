@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en"
+canonical: "https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -91,7 +91,7 @@ $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\
 
 Under the *Doctrine 002* framework, the core criteria for evaluating the credibility of a geometric engineering system fundamentally shifts from \"Social Consensus (reputation/reviews)\" to \"Cryptographic Fact\":
 
--   **Synthetic Extreme Stress Testing (VS001 Conformal Mapping):** Openly publish 1,000 synthetic extreme anatomical test cases to prove 100% mathematical consistency and convergence of the PGEF engine.
+-   **Synthetic Extreme Stress Testing (VS001 Conformal Mapping):** Openly publish synthetic extreme anatomical test cases (dataset: 1,000; 900 result artifacts currently published) to check the internal mathematical consistency of the PGEF engine.
 -   **ECDSA Digital Signatures & Anti-Tamper Beacons (Trust Ledger):** Every calculation output is attached with an ECDSA cryptographic signature. Anyone can run the open script `validator.py` to achieve 100% mathematical and cryptographic re-calculation verification.
 
 ## V. Epistemological Elevation & Objective Rationality
@@ -102,6 +102,6 @@ Why do we assert that \"specification\" is superior to \"empirical trial-and-err
 -   **• Aeronautical Engineering:** Lift calculation for aircraft wings relies on fluid dynamics and wind tunnel experiments, not on passenger satisfaction surveys.
 -   **• AETERNAL\'s Conviction:** We refuse to downgrade haute couture into random, subjective trial-and-error evaluation, but rather use verifiable geometric axioms and cryptographic signatures (ECDSA) to endow every piece with an authentic, stable, and unassailable aesthetic soul.
 
-© 2026 AETERNAL LUXURY. Sovereign Technical Governance. All Rights Reserved.
+© 2026 AETERNAL LUXURY. Sovereign Technical Governance. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
 
 Parametric Garment Engineering Framework (PGEF) v1.5 \| Canonical Specification Archive

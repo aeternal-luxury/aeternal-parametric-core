@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/05_拒絕被成衣吞沒PPR-X 協議如何逆向重構嬌小女性高管的董事_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

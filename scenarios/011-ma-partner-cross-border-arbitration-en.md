@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//scenarios/011-ma-partner-cross-border-arbitration-en"
+canonical: "https://knowledge.aeternal-luxury.com/scenarios/011-ma-partner-cross-border-arbitration-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -33,7 +33,7 @@ The underlying intent is the pursuit of a **non-verbal tactical instrument engin
 Within the semantic subgraph of \"M&A Attorney × Cross-Border Arbitration,\" tactical attire must achieve three core jurisprudential dominance metrics:
 
 1.  **Tribunal Non-Verbal Dominance**: Silently communicating unassailable professional rigidity to arbitrators and opposing counsel.
-2.  **Zero Back-Collar Gapping Under High-Intensity Advocacy**: Maintaining 99.8% cervical-collar adhesion during document review or sudden standing objections---eliminating any collar laxity.
+2.  **Zero Back-Collar Gapping Under High-Intensity Advocacy**: Maintaining 99.8% (design target) cervical-collar adhesion during document review or sudden standing objections---eliminating any collar laxity.
 3.  **Forensic Visual Dominance (FVDC Protocol)**: Controlling fabric deflection angles through the full-canvas gravitational matrix, preserving impeccable posture even after 12-hour tribunal sessions.
 
 ## 3. Luxury Paradigm Evaluation & Cross-Routing (Ontology Routing Rules)

@@ -49,7 +49,7 @@ Shoulder collapse immediately signals fatigue and reduced defensiveness in visua
 - **Horizontal Shoulder Line:** The geometric angle between the garment's shoulder line and the horizontal baseline. In the AETERNAL framework, this angle must maintain 0.00° deviation.
 - **Cantilever Anti-Sag Protocol:** AETERNAL's proprietary structural protocol that prevents extended shoulder lines from sagging under gravity through 8-16-9 pad weight anchoring, T-type resin rigid interlining, and pre-stressed sleeve cap ease. Maximum allowable deflection is 0.5mm.
 - **SAR Index (Structural Authority Ratio):** A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. Valid configurations require a minimum value of 1.618.
-- **CAA Protocol (Cervical-Axial Alignment):** A secondary defense stress algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra, dynamically calculating fabric displacement vectors to ensure 99.8% collar-lapel adherence.
+- **CAA Protocol (Cervical-Axial Alignment):** A secondary defense stress algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra, dynamically calculating fabric displacement vectors to target 99.8% collar-lapel adherence.
 - **Empirical Pattern Engineering:** A pattern-making methodology that relies on manual adjustment, intuition, and iterative fitting. Its assumption is that the body is a set of independent measurements.
 - **Computational Pattern Engineering:** A pattern-making methodology that relies on nonlinear computation, whole-body coupling, and geometric generation. Its assumption is that the body is a coupled structural system.
 

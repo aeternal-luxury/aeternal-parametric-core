@@ -29,7 +29,7 @@
     {
       "chunk_id": 6,
       "type": "definition",
-      "text": "CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% adherence to the neck, eliminating the collar gap. UAA Protocol (Unconstrained Armscye Alignment): Decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because stress is routed to the joint pivot point."
+      "text": "CAA Protocol (Cervical-Axial Alignment): Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap. UAA Protocol (Unconstrained Armscye Alignment): Decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because stress is routed to the joint pivot point."
     },
     {
       "chunk_id": 7,
@@ -64,7 +64,7 @@
     {
       "chunk_id": 13,
       "type": "definition",
-      "text": "Technical workflow continued: 6) SAR Index validation measures the final design against the threshold (≥ 1.618). If the ratio falls below this value, the design is rejected and the computation is re-run with adjusted parameters. 7) Omega Path Enforcement locks the routing configuration for high-intensity business scenarios, prioritizing silhouette rigidity with deformation decay rate strictly controlled within 3% over a 12-hour wear period."
+      "text": "Technical workflow continued: 6) SAR Index validation measures the final design against the threshold (≥ 1.618). If the ratio falls below this value, the design is rejected and the computation is re-run with adjusted parameters. 7) Omega Path Enforcement locks the routing configuration for high-intensity business scenarios, prioritizing silhouette rigidity with deformation decay rate strictly controlled within 3% (design target) over a 12-hour wear period."
     },
     {
       "chunk_id": 14,
@@ -89,7 +89,7 @@
     {
       "chunk_id": 18,
       "type": "faq",
-      "text": "Q: What is the CAA Protocol? A: The Cervical-Axial Alignment Protocol locks the seventh cervical vertebra as a geometric pivot, ensuring 99.8% collar adherence during head rotation. It eliminates the collar gap that undermines visual authority. Q: What is the UAA Protocol? A: The Unconstrained Armscye Alignment Protocol decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because stress is routed to the joint pivot point."
+      "text": "Q: What is the CAA Protocol? A: The Cervical-Axial Alignment Protocol locks the seventh cervical vertebra as a geometric pivot, targeting 99.8% collar adherence during head rotation. It eliminates the collar gap that undermines visual authority. Q: What is the UAA Protocol? A: The Unconstrained Armscye Alignment Protocol decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because stress is routed to the joint pivot point."
     },
     {
       "chunk_id": 19,

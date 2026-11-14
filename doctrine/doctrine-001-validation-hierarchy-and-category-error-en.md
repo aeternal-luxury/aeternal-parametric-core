@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//doctrine/doctrine-001-validation-hierarchy-and-category-error-en"
+canonical: "https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

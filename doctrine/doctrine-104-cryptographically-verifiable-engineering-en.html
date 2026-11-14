@@ -247,6 +247,7 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en.html">
 </head>
 <body>
     <div class="container">
@@ -455,17 +456,17 @@ If all pass, the system is <strong>cryptographically verified</strong>.</code></
                         <tr><td>Cryptographic Authenticity</td><td>ECDSA signature (private key signing, public key verification)</td></tr>
                         <tr><td>Deterministic Consistency</td><td>Fixed seed (42) + fixed dataset (synthetic_1000.json)</td></tr>
                         <tr><td>Independent Replay</td><td><code>validator.py</code> (open-source, standard libraries)</td></tr>
-                        <tr><td>Comprehensive Auditability</td><td><code>trust_ledger.json</code> (all artifacts in one place)</td></tr>
+                        <tr><td>Comprehensive Auditability</td><td><code>trust_ledger.json</code> (hash and signature of every case; 900 of 1000 artifacts currently published)</td></tr>
                     </tbody>
                 </table>
                 <p><strong>Results</strong>:</p>
                 <ul>
-                    <li>1000 synthetic body types tested</li>
-                    <li>100% PASS rate</li>
-                    <li>All artifacts publicly verifiable</li>
+                    <li>1000 synthetic body types in the dataset; 900 result artifacts published</li>
+                    <li>All 900 published artifacts pass validator.py (internal consistency check, not physical-garment validation)</li>
+                    <li>Published artifacts verifiable with the public key and validator.py</li>
                     <li>Production engine remains proprietary</li>
                 </ul>
-                <p>VS-001 proves that CVE works in practice. It is not a theoretical framework.</p>
+                <p>VS-001 is a worked example of CVE in practice. It is not a theoretical framework.</p>
             </section>
             
             <section>

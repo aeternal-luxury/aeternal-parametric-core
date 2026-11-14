@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -52,7 +52,7 @@ The framework consists of three mandatory constraints:
 
 -   **Structural Authority Ratio (SAR)**: A minimum value of 1.618, evaluating the proportional relationship between shoulder width, waist position, and garment length. This is not a suggestion; it is a hard constraint. Any pattern that does not meet SAR ≥ 1.618 is rejected.
 
--   **Parametric Proportion Realignment (PPR) Protocol**: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives absolute garment dimension control values that are independent of body type.
+-   **Parametric Proportion Realignment (PPR) Protocol**: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives garment dimension control values that are independent of body type.
 
 -   **0.720 Fixed Ratio (Authority Ratio)**: A constant that governs the relationship between the garment's structural lines. This number does not fluctuate with body type or style preference.
 
@@ -230,9 +230,9 @@ AETERNAL\'s computational pattern engineering is deterministic---once the framew
 
 ### What is the Parametric Proportion Realignment (PPR) Protocol? {#what-is-the-parametric-proportion-realignment-ppr-protocol .faq-question}
 
-The PPR Protocol is an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives absolute garment dimension control values that are independent of body type, enabling consistent fit across different wearers.
+The PPR Protocol is an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives garment dimension control values that are independent of body type, enabling consistent fit across different wearers.
 
-\"Parametric Proportion Realignment (PPR) Protocol: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives absolute garment dimension control values that are independent of body type.\"
+\"Parametric Proportion Realignment (PPR) Protocol: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives garment dimension control values that are independent of body type.\"
 
 ### What is the Deterministic Conflict Matrix? {#what-is-the-deterministic-conflict-matrix .faq-question}
 

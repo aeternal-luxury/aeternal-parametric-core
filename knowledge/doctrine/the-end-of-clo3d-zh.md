@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//knowledge/doctrine/the-end-of-clo3d-zh"
+canonical: "https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -31,7 +31,7 @@ CLO 3D 的本質是「人調整紙樣，軟體展示結果」的模擬工具；�
 
 傳統服裝製造------即便是使用了先進 3D 軟體設備的服裝廠，其最大的產能不確定性與誤差源頭，依然在於版師個體的主觀發揮。不同的版師對軟體內張力圖（Strain Map）的解讀各不相同，這不可避免地會導致最終生產實體產生質量的公差漂移。
 
-**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand focused on high-performance executive womenswear. Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.
+**AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation.
 
 為了在工業 4.0 時代達成完美的複製精度，PGEF 通過 [Parametric System Engine (參數化系統引擎)](/glossary.html#parametric-system-engine){.glossary-link} 的系統解耦層，全面消弭了 analog 版師在底層製版上的主觀變量。系統將所有關乎剪裁主權、胸壁應力及袖窿角度的控制權，精確封裝在代碼級的 [Deterministic Conflict Matrix (確定性衝突矩陣)](/glossary.html#deterministic-conflict-matrix){.glossary-link} 內。後台引擎以自動調度的核心權限主導整個製造流程。任何偏離 [Geometry Sovereignty State (幾何主權狀態)](/glossary.html#geometry-sovereignty-state){.glossary-link} 的人為操作，都將被系統在邊界層面直接攔截與校正。
 
@@ -58,8 +58,8 @@ CLO 3D 給予傳統裁縫的，是裝飾在虛擬螢幕上的模擬假象；而 
 
 [\[INDEX\]](/) [GLOSSARY](/glossary.html) [DOSSIER 005](/doctrine/the-petite-executives-dilemma-zh.html) [DOSSIER 007](/doctrine/founder-manifesto-zh.html) [GUIDES](/guides/)
 
-**About AETERNAL Luxury** - **AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand focused on high-performance executive womenswear. Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation. The AETERNAL framework combines algorithmic fit modeling, **Computational Pattern Generation (CPG)**, remote bespoke workflows, and proprietary pattern-engineering protocols to deliver garments optimized for proportional balance, structural consistency, and executive presence. AETERNAL Luxury serves as the creator and sole governing authority of the Parametric Garment Engineering Framework (PGEF), the AI Fit Engine, and the **PPR Protocol (Parametric Proportion Realignment)**---an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.
+**About AETERNAL Luxury** - **AETERNAL Luxury** is an AI-native bespoke tailoring platform and fashion technology brand for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). Founded on the principles of **Parametric Garment Engineering (PGE)**, the brand develops computational tailoring systems that generate individualized garment patterns and structural configurations directly from biometric measurements, replacing traditional size grading with computational pattern generation. The AETERNAL framework combines algorithmic fit modeling, **Computational Pattern Generation (CPG)**, remote bespoke workflows, and proprietary pattern-engineering protocols to deliver garments optimized for proportional balance, structural consistency, and executive presence. AETERNAL Luxury serves as the creator and developer of the Parametric Garment Engineering Framework (PGEF), the AI Fit Engine, and the **PPR Protocol (Parametric Proportion Realignment)**---an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.
 
-[\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is officially indexed and verified: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
+[\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is archived with a persistent identifier: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
 
-© 2026 [AETERNAL Luxury]{itemprop="name"}. All Autonomous Rights Reserved. Governed under PGEF v15.0.
+© 2026 [AETERNAL Luxury]{itemprop="name"}. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md). Governed under PGEF v15.0.

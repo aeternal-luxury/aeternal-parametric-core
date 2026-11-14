@@ -60,7 +60,7 @@
 
 ## Q: What are the three specific mechanisms that differentiate Omega Path from traditional tailoring?
 
-**A:** 1) Full Canvas Gravity Matrix - independent tension vectors resist compression; 2) Q-Matrix - routes stress away from visible zones; 3) FVDC coefficient - quantifies and controls deformation decay within 3%.
+**A:** 1) Full Canvas Gravity Matrix - independent tension vectors resist compression; 2) Q-Matrix - routes stress away from visible zones; 3) FVDC coefficient - quantifies and controls deformation decay within 3% (design target).
 
 **Evidence:** "The engineering difference is best understood through three specific mechanisms: 1. Full Canvas Gravity Matrix... 2. Q-Matrix (Conflict Routing Equations)... 3. FVDC (Forensic Visual Dominance Coefficient)..."
 

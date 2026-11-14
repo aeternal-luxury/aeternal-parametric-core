@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//index"
+canonical: "https://knowledge.aeternal-luxury.com/"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -239,11 +239,11 @@ Specification ID: AETERNAL-SPEC-2026-001 · DOI: 10.5281/zenodo.20675338
 
 All structural ratios, alignment thresholds, and stress normalization references specified in this documentation are design targets defined within the AETERNAL proprietary framework. They represent internal engineering benchmarks and do not constitute independently verified performance guarantees, universal constants, or objective biomechanical metrics for finished products.
 
-[\[AETERNAL PGEF --- PROPRIETARY SPECIFICATION v1.5\]]{style="color:var(--gold); letter-spacing:1px; display:block; margin-bottom:4px;"} The Parametric Garment Engineering Framework (PGEF) is a proprietary methodology of **AETERNAL Luxury**. This specification is published for reference purposes under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){target="_blank" rel="license"}. Full governance rights and commercial use of the framework are retained exclusively by AETERNAL Luxury.\
+[\[AETERNAL PGEF --- PROPRIETARY SPECIFICATION v1.5\]]{style="color:var(--gold); letter-spacing:1px; display:block; margin-bottom:4px;"} The Parametric Garment Engineering Framework (PGEF) is a proprietary methodology of **AETERNAL Luxury**. This specification is published for reference purposes under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/){target="_blank" rel="license"}. Commercial use and derivative works require prior written permission from AETERNAL Luxury.\
 \
 DOI: [10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){target="_blank"}
 
 Specification Author & Maintainer: **AETERNAL Luxury** (aeternal-luxury.com) --- Proprietary AI Bespoke Tailoring™ Framework\
 Internal Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
 Last Semantic Audit: 2026-08-15 · Canonical Root: https://knowledge.aeternal-luxury.com/\
-© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
+© 2026 AETERNAL LUXURY. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).

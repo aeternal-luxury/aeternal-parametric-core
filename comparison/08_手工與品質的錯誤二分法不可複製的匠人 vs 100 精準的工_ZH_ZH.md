@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/08_手工與品質的錯誤二分法不可複製的匠人 vs 100 精準的工_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

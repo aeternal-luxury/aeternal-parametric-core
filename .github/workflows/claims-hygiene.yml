@@ -4,6 +4,11 @@ on:
   pull_request:
     branches: [ main ]
   workflow_dispatch:
+    inputs:
+      http_check:
+        description: HEAD-check every canonical URL
+        type: boolean
+        default: false
 
 jobs:
   scan:
@@ -24,6 +29,25 @@ jobs:
           grep -o 'https\?://[^) ]*' llms.txt | sort -u | while read -r u; do
             code=$(curl -s -o /dev/null -L -w '%{http_code}' --max-time 20 "$u" || echo 000)
             echo "$code $u"
-            [ "$code" -ge 400 ] && echo "::warning::$u returned $code"
+            if [ "$code" -ge 400 ]; then echo "::warning::$u returned $code"; fi
           done
           exit 0
+      - name: Unit tests (numeric claims + canonical parser)
+        run: python3 -m unittest discover -s tools/tests -v
+      - name: Canonical consistency, uniqueness, sitemap (errors fail the job)
+        run: python3 tools/canonical_check.py
+      - name: Canonical sync idempotency
+        run: |
+          python3 tools/canonical_check.py --sync
+          git diff --exit-code
+      - name: Local tool is up to date with its sources
+        run: |
+          python3 tools/build_local_fix.py
+          git diff --exit-code
+      - name: Numeric-claims idempotency
+        run: |
+          python3 tools/geo_numeric_claims.py --apply
+          git diff --exit-code
+      - name: Canonical HTTP reachability (manual run only)
+        if: ${{ github.event.inputs.http_check == 'true' }}
+        run: python3 tools/canonical_check.py --http

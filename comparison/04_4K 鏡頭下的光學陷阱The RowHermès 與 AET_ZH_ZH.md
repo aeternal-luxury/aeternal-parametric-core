@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/04_4K 鏡頭下的光學陷阱The RowHermès 與 AET_ZH_ZH"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_ZH.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

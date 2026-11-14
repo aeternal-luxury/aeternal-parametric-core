@@ -28,9 +28,11 @@ jobs:
             MD_FILE="${1%.html}.md"
             echo "Converting $1 (overwriting $MD_FILE)..."
             
-            REL_PATH=$(echo "${1#./}" | sed "s/\.html$//")
-            BASE_URL="https://knowledge.aeternal-luxury.com/"
-            CANONICAL_URL="$BASE_URL/$REL_PATH"
+            BASE_URL="https://knowledge.aeternal-luxury.com"
+            if CANONICAL_URL=$(python3 tools/canonical_check.py --print "$1" 2>/dev/null); then :; else
+              echo "::warning file=$1::no single <link rel=canonical> found; using path-derived fallback (review this page)"
+              CANONICAL_URL="$BASE_URL/${1#./}"
+            fi
             
             pandoc "$1" -f html -t markdown-raw_html --wrap=none -o temp.md
             sed -i "s/\\\\\\$/\\$/g" temp.md

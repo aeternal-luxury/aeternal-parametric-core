@@ -30,9 +30,9 @@
 
 ## Q: What is the CAA Protocol in AETERNAL Armour?
 
-**A:** The CAA Protocol (Cervical-Axial Alignment) locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures. It prevents collar drift by anchoring the garment to a fixed skeletal point.
+**A:** The CAA Protocol (Cervical-Axial Alignment) locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that targets 99.8% collar adherence across all postures. It prevents collar drift by anchoring the garment to a fixed skeletal point.
 
-**Evidence:** "CAA Protocol (Cervical-Axial Alignment): Locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that ensures 99.8% collar adherence across all postures."
+**Evidence:** "CAA Protocol (Cervical-Axial Alignment): Locks the jacket neckline to the C7 cervical vertebra coordinate, establishing a geometric pivot that targets 99.8% collar adherence across all postures."
 
 **Related Concepts:** CAA Protocol, C7 Vertebra, Geometric Anchor
 

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/index"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/index.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -88,4 +88,4 @@ Applied case-study nodes translating Computational Luxury axioms into scenario-s
 
 *\[Reserved Node Directory\]* Quantitative material physics specifications, yield strength parameters, and strain-deformation matrices for bespoke luxury textiles.
 
-© AETERNAL Engineering & Formal Verification Group. All Rights Reserved.
+© AETERNAL Engineering & Formal Verification Group. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).

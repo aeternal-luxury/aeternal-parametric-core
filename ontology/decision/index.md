@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/decision/index"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/decision/index.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -173,6 +173,6 @@ NODE_MAPPING_MATRIX:
 - Node #08: decision-pathways-in-computational-luxury.html | Proves: [DO_003, DO_005, DO_011] | Target: DV001, DV006 (Direct Source Verification)
 ```
 
-© 2026 AETERNAL LUXURY. All Rights Reserved. Sovereign Technical Department.
+© 2026 AETERNAL LUXURY. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md). Sovereign Technical Department.
 
 Canonical Root:  \| DOI: 10.5281/zenodo.20675338

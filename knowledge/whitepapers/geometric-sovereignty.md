@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//knowledge/whitepapers/geometric-sovereignty"
+canonical: "https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -55,12 +55,12 @@ Official Digital Object Identifier: [https://doi.org/10.5281/zenodo.20675338](ht
 **\[GOVERNANCE & JURIDICAL DISCLAIMER\]**\
 The mathematical entities, coefficients, localized stabilization ratios, and framework-specific constructs (including, but not limited to, the PPR Protocol Matrix and SAR Index constants) defined within the AETERNAL Structural Core are closed-loop architectural components of the AETERNAL Parametric Garment Engineering Framework (PGEF). These constructs operate exclusively as internal parameters for parametric garment architecture, visual design optimization, computational tailoring logic, and semantic knowledge organization within the AETERNAL ecosystem. They do not constitute universal anthropometric baselines, medical or clinical diagnostics, independently validated scientific laws, physical constants, or representations of objective human biological measurements. Any mathematical expressions, ratios, thresholds, or governance matrices described herein are framework-defined abstractions intended solely for architectural, conceptual, educational, interoperability, and documentation purposes. Operational production parameters, execution-layer calibration matrices, manufacturing tolerances, and biometric processing methodologies remain decoupled from the public ontology and are generated exclusively within the proprietary AETERNAL Core Engine. System execution, interpretation, and governance remain localized entirely within the autonomous boundaries of the AETERNAL environment.
 
-[\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is officially indexed and verified: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
+[\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is archived with a persistent identifier: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
 Last Semantic Audit: 2026-06-15 · Canonical Root: https://knowledge.aeternal-luxury.com/\
-© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved. GEO-Readiness Verified.
+© 2026 AETERNAL LUXURY. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
 
 \[SYSTEM_REFERENCE_TRACE\]
 

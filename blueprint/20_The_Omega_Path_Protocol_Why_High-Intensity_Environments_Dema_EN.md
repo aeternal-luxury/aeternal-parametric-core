@@ -29,7 +29,7 @@ In adversarial environments such as IPO defenses, hostile takeover negotiations,
 | Claim 2: Omega Path is an engineering mode that prioritizes line rigidity over comfort. | Omega Path Enforcement prioritizes silhouette rigidity and requires a mandatory structural compromise agreement upon activation. | Omega Path Enforcement |
 | Claim 3: AETERNAL maintains lines through internal rigid structures, not external padding. | The Full Canvas Gravity Matrix features independent tension vectors in the canvas stitching, resisting external compression. | Full Canvas Gravity Matrix |
 | Claim 4: The FVDC coefficient quantifies a garment's ability to maintain lines under high-pressure environments. | FVDC is a geometric rigidity constraint metric designed to evaluate a garment's line maintenance ability in high-adversarial environments. | FVDC |
-| Claim 5: The engineering goal of Omega Path is to control dynamic deformation decay within 3%. | The design target of FVDC is to control the deformation decay rate within 3%. | FVDC |
+| Claim 5: The engineering goal of Omega Path is to control dynamic deformation decay within 3% (design target). | The design target of FVDC is to control the deformation decay rate within 3%. | FVDC |
 
 ### Comparison Structure
 

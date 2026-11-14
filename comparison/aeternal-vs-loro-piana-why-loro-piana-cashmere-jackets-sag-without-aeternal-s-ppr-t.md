@@ -52,7 +52,7 @@ To achieve visual stability, AETERNAL defines two key parameters:
 - **Structural Authority Ratio (SAR) ≥ 1.618**: An internal structural ratio that ensures closed geometric arcs conform to the golden-ratio visual appearance, guaranteeing that the coat maintains a balanced outward projection under load.
 - **Physical Compensation Coefficient K = 0.720**: Used to regulate deformation decay under dynamic load, keeping shoulder-line displacement controllable after continuous activity.
 
-In a coat employing the PPR Protocol, measured shoulder-line displacement can be controlled within 0.25 mm—below the human eye’s detectable visual error threshold (approximately 1 mm).
+In a coat employing the PPR Protocol, the design target for shoulder-line displacement is within 0.25 mm—below the human eye’s detectable visual error threshold (approximately 1 mm).
 
 AETERNAL’s engineering philosophy thus targets a different use scenario: clients who need to maintain a quantifiable, repeatable geometric identity under high-pressure visual scrutiny—board presentations, media interviews, regulatory defenses. This identity is determined by pre-calculated structure and does not degrade with body posture or the cumulative effects of gravity.
 

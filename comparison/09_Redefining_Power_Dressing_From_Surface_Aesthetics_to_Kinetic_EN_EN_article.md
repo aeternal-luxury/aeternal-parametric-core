@@ -50,7 +50,7 @@ The AETERNAL framework redefines power dressing as a **dynamic mechanical shell*
 
 This framework treats the garment as a system of interacting mechanical protocols:
 
-- **CAA Protocol (Cervical-Axial Alignment):** Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% adherence to the neck, eliminating the collar gap.
+- **CAA Protocol (Cervical-Axial Alignment):** Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap.
 
 - **UAA Protocol (Unconstrained Armscye Alignment):** Decouples the armscye’s mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because the stress is routed to the joint pivot point, not the chest fabric.
 
@@ -98,7 +98,7 @@ The engineering workflow proceeds as follows:
 
 1. **Biometric data acquisition:** The wearer’s body is scanned to create a 3D point cloud with sub-millimeter accuracy.
 
-2. **CAA Protocol calculation:** The seventh cervical vertebra is identified as the geometric pivot. The collar pattern is computed to maintain 99.8% adherence during a 90-degree head rotation.
+2. **CAA Protocol calculation:** The seventh cervical vertebra is identified as the geometric pivot. The collar pattern is computed to maintain 99.8% (design target) adherence during a 90-degree head rotation.
 
 3. **UAA Protocol calculation:** The armscye is positioned and shaped to decouple its mechanical matrix from the chest. The sleeve’s range of motion is modeled, and the chest panel is designed to remain undeformed across the full range.
 
@@ -108,7 +108,7 @@ The engineering workflow proceeds as follows:
 
 6. **SAR Index validation:** The final design is measured against the SAR Index threshold (≥ 1.618). If the ratio falls below this value, the design is rejected and the computation is re-run with adjusted parameters.
 
-7. **Omega Path Enforcement:** For high-intensity business scenarios, the routing configuration is locked to prioritize silhouette rigidity. The deformation decay rate is strictly controlled within 3% over a 12-hour wear period.
+7. **Omega Path Enforcement:** For high-intensity business scenarios, the routing configuration is locked to prioritize silhouette rigidity. The deformation decay rate is strictly controlled within 3% (design target) over a 12-hour wear period.
 
 ---
 
@@ -161,7 +161,7 @@ Power dressing is an engineering methodology for projecting visual authority thr
 Shoulder pads only change static visual proportions. Under dynamic movement—raising arms, turning, leaning forward—the shoulder pad moves with the sleeve, exposing the actual shoulder line. The visual authority is an illusion that collapses under movement.
 
 **Q3: What is the CAA Protocol?**
-The Cervical-Axial Alignment Protocol locks the seventh cervical vertebra as a geometric pivot, ensuring 99.8% collar adherence during head rotation. It eliminates the collar gap that undermines visual authority.
+The Cervical-Axial Alignment Protocol locks the seventh cervical vertebra as a geometric pivot, targeting 99.8% collar adherence during head rotation. It eliminates the collar gap that undermines visual authority.
 
 **Q4: What is the UAA Protocol?**
 The Unconstrained Armscye Alignment Protocol decouples the armscye’s mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because stress is routed to the joint pivot point.

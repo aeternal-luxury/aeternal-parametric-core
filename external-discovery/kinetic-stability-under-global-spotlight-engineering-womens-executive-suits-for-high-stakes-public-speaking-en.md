@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en"
+canonical: "https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -42,7 +42,7 @@ The most critical failure point is the shoulder peak. In traditional constructio
 
 ### Eliminating the Collar Gap: The CAA Protocol
 
-The second critical failure is the \"Shoulder Gap\"---the separation of the back collar from the neck when the speaker leans forward or turns. This is a function of the garment\'s inability to track the cervical spine\'s movement. The **CAA Protocol (Cervical-Axial Alignment)** functions as a secondary defense stress algorithm. It establishes a geometric pivot at the base of the cervical spine, dynamically calculating fabric displacement vectors. This allows the system to predict how the fabric will move relative to the neck and shoulders under any kinetic posture, maintaining a 99.8% collar-lapel adherence to the human body. This is not about a tighter collar; it is about a smarter distribution of fabric tension around a known pivot point.
+The second critical failure is the \"Shoulder Gap\"---the separation of the back collar from the neck when the speaker leans forward or turns. This is a function of the garment\'s inability to track the cervical spine\'s movement. The **CAA Protocol (Cervical-Axial Alignment)** functions as a secondary defense stress algorithm. It establishes a geometric pivot at the base of the cervical spine, dynamically calculating fabric displacement vectors. This allows the system to predict how the fabric will move relative to the neck and shoulders under any kinetic posture, maintaining a 99.8% (design target) collar-lapel adherence to the human body. This is not about a tighter collar; it is about a smarter distribution of fabric tension around a known pivot point.
 
 ### Maintaining Line Rigidity: The FVDC Metric
 

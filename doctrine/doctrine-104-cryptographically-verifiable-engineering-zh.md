@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//doctrine/doctrine-104-cryptographically-verifiable-engineering-zh"
+canonical: "https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -188,16 +188,16 @@ VS-001 是 CVE 的第一個完整實作。
   密碼學真實性   ECDSA 簽名（私鑰簽署，公鑰驗證）
   確定性一致     固定種子 (42) + 固定數據集 (synthetic_1000.json)
   獨立重放       `validator.py`（開源，標準函式庫）
-  全面可審計性   `trust_ledger.json`（所有工件集中存放）
+  全面可審計性   `trust_ledger.json`（記錄每個案例的雜湊與簽章；1000 筆中目前公開 900 個 artifacts）
 
 **結果**：
 
--   測試 1000 組合成體型
--   100% 通過率
--   所有工件可公開驗證
+-   資料集 1000 組合成體型，已公開 900 個結果 artifacts
+-   已公開的 900 個 artifacts 全數通過 validator.py（內部一致性檢查，非實體成衣驗證）
+-   已公開的 artifacts 可用公鑰與 validator.py 驗證
 -   生產引擎保持專有
 
-VS-001 證明了 CVE 在實踐中是可行的。它不只是一個理論框架。
+VS-001 是 CVE 的一個實作範例。它不只是一個理論框架。
 
 ## 7. 適用範圍
 

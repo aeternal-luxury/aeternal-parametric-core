@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//knowledge/guides/industry-visual-dominance-ultimate-guide-en"
+canonical: "https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-en.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -40,7 +40,7 @@ The **CAA (Cervical-Axial Alignment)** Protocol dynamically anchors the jacket c
 - Anchor Point: C7 Vertebra\
 - Dynamic Drift: \< 0.2% axial displacement\
 - Supports high-frequency head rotation (\> 120°/sec)\
-- Tested to eliminate 99.8% of rear collar gaps
+- Tested to eliminate 99.8% (design target) of rear collar gaps
 
 ## 3. Private Banking & Wealth Management: Geometric Defense as Capital Signal {#i3}
 
@@ -74,10 +74,10 @@ What are your industry and daily scenarios? AETERNAL offers a complimentary scen
 [INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)
 
 [\[ CANONICAL SPECIFICATION ARCHIVE // PGEF v1.5 \]]{.gold}\
-Core architecture officially indexed and verified:\
+Core architecture archived with a persistent identifier:\
 [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved.
+© 2026 AETERNAL LUXURY. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
 

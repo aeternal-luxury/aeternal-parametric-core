@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -50,7 +50,7 @@ AETERNAL's framework treats the shoulder line as a geometric constraint, not an 
 
 -   **Cantilever Anti-Sag Protocol:** A structural solution that prevents extended shoulder lines from sagging under gravity. It uses 8-16-9 pad weight anchoring, T-type resin rigid interlining, and pre-stressed sleeve cap ease. Maximum allowable deflection is 0.5mm.
 
--   **CAA Protocol (Cervical-Axial Alignment):** A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence.
+-   **CAA Protocol (Cervical-Axial Alignment):** A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence.
 
 -   **SAR Index (Structural Authority Ratio):** A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. Valid configurations require a minimum value of 1.618.
 
@@ -218,9 +218,9 @@ AETERNAL uses nonlinear computation based on biometric input, specifically acrom
 
 ### What is the CAA Protocol and how does it maintain collar-lapel alignment? {#what-is-the-caa-protocol-and-how-does-it-maintain-collar-lapel-alignment .faq-question}
 
-The CAA Protocol (Cervical-Axial Alignment) is a secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors during movement to ensure 99.8% collar-lapel adherence. If the collar or lapel begins to drift, the algorithm adjusts the shoulder line in real-time within the computational model.
+The CAA Protocol (Cervical-Axial Alignment) is a secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors during movement to target 99.8% collar-lapel adherence. If the collar or lapel begins to drift, the algorithm adjusts the shoulder line in real-time within the computational model.
 
-\"A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to ensure 99.8% collar-lapel adherence.\" \"By establishing a geometric pivot at the seventh cervical vertebra, the system calculates how fabric displacement vectors change during movement.\"
+\"A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence.\" \"By establishing a geometric pivot at the seventh cervical vertebra, the system calculates how fabric displacement vectors change during movement.\"
 
 ### What are the main differences between industry empirical pattern engineering and AETERNAL computational pattern engineering? {#what-are-the-main-differences-between-industry-empirical-pattern-engineering-and-aeternal-computational-pattern-engineering .faq-question}
 

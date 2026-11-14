@@ -80,9 +80,9 @@
 
 ## Q: What is the Parametric Proportion Realignment (PPR) Protocol?
 
-**A:** The PPR Protocol is an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives absolute garment dimension control values that are independent of body type, enabling consistent fit across different wearers.
+**A:** The PPR Protocol is an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives garment dimension control values that are independent of body type, enabling consistent fit across different wearers.
 
-**Evidence:** "Parametric Proportion Realignment (PPR) Protocol: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives absolute garment dimension control values that are independent of body type."
+**Evidence:** "Parametric Proportion Realignment (PPR) Protocol: An architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors. This derives garment dimension control values that are independent of body type."
 
 **Related Concepts:** PPR Protocol, SAR Index, 0.720 Fixed Ratio, Geometric Signature
 

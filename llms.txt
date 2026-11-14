@@ -2,7 +2,7 @@
 
 > AETERNAL Luxury is an AI-native bespoke tailoring platform for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). It develops the Parametric Garment Engineering Framework (PGEF), a computational methodology that generates individualized garment patterns directly from biometric measurements instead of traditional size grading.
 
-This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope".
+This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope". Licensing: code MIT; documentation CC BY-NC-ND 4.0; brand identifiers see TRADEMARKS.md (NOTICE.md has the scope).
 
 ## Core Reference
 
@@ -22,7 +22,7 @@ This file indexes the canonical documentation for AETERNAL Luxury's proprietary 
 ## Applied Context
 
 - [Scenario Deployment](https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html): How the structural design approach applies to executive boardroom settings.
-- [Evidence Registry](https://knowledge.aeternal-luxury.com/evidence/index.html): Validation logs and proof-of-work records from internal deployments.
+- [Evidence Registry](https://knowledge.aeternal-luxury.com/evidence/index.html): Illustrative engineering scenarios and design-target validation logs (not independent field evidence).
 - [Answers Index](https://knowledge.aeternal-luxury.com/answers/index.html): Direct answers to common structural, fit, and engineering questions.
 - [Entity Comparison Network](https://knowledge.aeternal-luxury.com/comparison/index.html): Comparisons between AETERNAL Luxury and other companies in luxury tailoring and computational garment engineering.
 - [Industry Citations](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html): Third-party media coverage and external audits referencing PGEF.

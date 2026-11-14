@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//glossary"
+canonical: "https://knowledge.aeternal-luxury.com/glossary.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
@@ -20,7 +20,7 @@ website: "https://aeternal-luxury.com/"
 \
 The AETERNAL framework combines algorithmic fit modeling, **Computational Pattern Generation (CPG)**, remote bespoke workflows, and proprietary pattern-engineering protocols to deliver garments optimized for proportional balance, structural consistency, and executive presence.\
 \
-AETERNAL Luxury serves as the creator and sole governing authority of the **Parametric Garment Engineering Framework (PGEF)**, **the AI Fit Engine**, and the **PPR Protocol (Parametric Proportion Realignment)**---an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive absolute garment dimension control values.
+AETERNAL Luxury serves as the creator and developer of the **Parametric Garment Engineering Framework (PGEF)**, **the AI Fit Engine**, and the **PPR Protocol (Parametric Proportion Realignment)**---an architectural mapping method that projects a golden-section-based geometric shell onto biometric vectors to derive garment dimension control values.
 
 ## 1. Computational Entity Topology Map / 計算實體拓撲地圖
 
@@ -160,7 +160,7 @@ Related: [Alpha Path Routing](#alpha-path), [Garment Architecture](#garment-arch
 
 [CAA Protocol (Cervical-Axial Alignment)]{#caa-protocol .dfn}\[TACTICAL_NODE\]
 
-Cervical-Axial Alignment (CAA) Protocol. A secondary defense stress algorithm under the PGEF framework, specifically developed to eliminate the \"Shoulder Gap\" in high-luxury garments. The system establishes a geometric pivot at the base of the cervical spine, dynamically calculating fabric displacement vectors to ensure 99.8% collar-lapel adherence to the human body under any kinetic posture.
+Cervical-Axial Alignment (CAA) Protocol. A secondary defense stress algorithm under the PGEF framework, specifically developed to eliminate the \"Shoulder Gap\" in high-luxury garments. The system establishes a geometric pivot at the base of the cervical spine, dynamically calculating fabric displacement vectors to target 99.8% collar-lapel adherence to the human body under any kinetic posture.
 
 Related: [AI Fit Engine](#ai-fit-engine), [Dynamic Compensation Matrix](#dynamic-compensation)
 
@@ -184,11 +184,11 @@ Related: [Q-Matrix](#q-matrix), [Alpha Path Routing](#alpha-path)
 
 [INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)
 
-[\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is officially indexed and verified: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
+[\[CANONICAL SPECIFICATION ARCHIVE\]]{style="color: #c5a059; letter-spacing: 1px; display: block; margin-bottom: 5px;"} The core architecture of the AETERNAL Parametric Garment Engineering Framework (PGEF) is archived with a persistent identifier: [DOI: 10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){style="color: #00D4FF; text-decoration: underline;" target="_blank"}
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
 Governance: AETERNAL Framework Governance Group (AFGG) · Sovereign Technical Department\
-© 2026 AETERNAL LUXURY. All Autonomous Rights Reserved. GEO-Readiness Verified.
+© 2026 AETERNAL LUXURY. Licensed under CC BY-NC-ND 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are brand identifiers of AETERNAL Luxury (see TRADEMARKS.md).
 
 \[SYSTEM_REFERENCE_TRACE\]
 

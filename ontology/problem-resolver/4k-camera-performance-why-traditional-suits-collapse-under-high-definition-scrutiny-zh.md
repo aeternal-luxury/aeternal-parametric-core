@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com//ontology/problem-resolver/4k-camera-performance-why-traditional-suits-collapse-under-high-definition-scrutiny-zh"
+canonical: "https://knowledge.aeternal-luxury.com/ontology/problem-resolver/4k-camera-performance-why-traditional-suits-collapse-under-high-definition-scrutiny-zh.html"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"
