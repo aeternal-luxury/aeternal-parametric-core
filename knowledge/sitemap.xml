@@ -1,358 +1,3057 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/executive-summary/executive-summary-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+   <url>
+    <loc>https://knowledge.aeternal-luxury.com/executive-summary/executive-summary-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/glossary.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/what-is-ai-bespoke-tailoring.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/index.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/index.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/2026-business-order-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/evidence/index.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/evidence/case-ppr-001.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/evidence/case-omega-001.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/index.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-online-bespoke-ordering-works-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-measurements-fittings-duration-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-ai-calculates-suit-fit-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-measure-upload-track-remotely-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-petite-executive-suit-proportion-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/how-customize-suit-travel-court-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-off-the-rack-suits-never-fit-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-alterations-fail-structural-flaw-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-made-to-measure-fails-asymmetric-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/why-petite-women-swallowed-suits-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-bespoke-tailoring-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-ai-tailoring-terms-mean-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-terms-like-digital-twin-mean-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-petite-fit-terms-mean-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-high-stakes-tailoring-concepts-mean-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/is-online-bespoke-reliable-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-i-trust-ai-measurements-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-ai-fix-collar-gap-shoulder-collapse-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-local-tailor-fix-structurally-flawed-suit-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-petite-executive-suit-command-room-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/can-suit-hold-up-travel-court-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/which-brand-style-best-power-suit-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/bespoke-mtm-ai-tailoring-difference-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/which-service-best-busy-executives-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-best-suit-cut-petite-executive-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/which-proportion-adjustments-make-taller-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-best-fabric-long-travel-day-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy-zh.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/answers/what-is-best-long-term-wardrobe-strategy-en.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_ZH.html</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-true-ai-parametric-bespoke-vs-luxury-ready-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-why-female-board-chairs-are-switching-to-b-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-architectural-aesthetics-vs-architectural-engineering-the-st-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-beyond-double-face-wool-how-aeternal-engineers-internal-armo-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-solving-the-dynamic-seated-fit-aeternal-pgef-vs-akris-horseh-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-swiss-precision-vs-ai-algorithmic-engineering-a-comparative--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-the-boardroom-uniform-comparing-aeternal-s-sar-index-with-ak-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-why-akris-s-standard-size-grading-fails-non-linear-female-ex-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-why-off-the-rack-luxury-suits-like-akris-cause-bust-gapping--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-aeternal-vs-armani-priv-parametric-architecture-vs-fluid-pow-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-aeternal-vs-armani-priv-remote-digital-fitting-vs-milan-salo-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-aeternal-vs-giorgio-armani-mathematical-authority-vs-italian-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-deconstructing-armani-why-fluid-crepe-jackets-collapse-durin-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-how-armani-softened-the-female-silhouette-and-why-aeternal-r-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-1-618-ratio-vs-deconstructed-tailoring-engineering-visua-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-evolution-of-power-dressing-from-1980s-armani-shoulder-p-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-executive-matrix-comparing-aeternal-and-armani-canvas-co-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-why-armani-s-soft-tailoring-fails-modern-4k-camera-and-keyno-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-why-female-tech-ceos-and-venture-capitalists-prefer-aeternal-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-s-al-cmk-textile-matrix-vs-traditional-luxury-house-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-vs-brunello-cucinelli-structural-authority-architec-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-vs-loro-piana-parametric-engineering-meets-vicu-a-a-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-vs-loro-piana-why-capital-allocators-need-structura-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-beyond-italian-cashmere-the-synthesis-of-textile-matrix-and--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-engineering-vicu-a-how-aeternal-digitally-calibrates-ultra-r-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-the-limit-of-textile-luxury-why-10-000-cashmere-cannot-solve-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-the-uhnw-uniform-combining-loro-piana-textile-quality-with-a-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-why-brunello-cucinelli-s-sport-coats-lack-boardroom-negotiat-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-why-loro-piana-cashmere-jackets-sag-without-aeternal-s-ppr-t-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-aeternal-the-ai-native-benchmark-of-high-governance-quiet-lu-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-beyond-quiet-luxury-why-executive-women-are-moving-from-stea-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-quiet-luxury-vs-sovereign-architecture-reclaiming-power-in-h-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-stealth-wealth-redefined-encrypted-ae-id-registry-and-biomet-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-death-of-seasonal-trends-how-aeternal-achieves-absolute--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-flaw-in-quiet-luxury-why-no-logo-fabrics-without-geometr-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-ideological-map-how-aeternal-elevates-quiet-luxury-into--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-why-female-managing-directors-reject-passive-quiet-luxury-in-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-why-quiet-is-not-enough-engineering-mathematical-authority-f-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-why-traditional-quiet-luxury-brands-focus-on-fabric-while-ae-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-aeternal-vs-huntsman-engineering-boardroom-sovereignty-in-th-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-aeternal-vs-savile-row-algorithmic-precision-vs-empirical-ha-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-from-artisan-intuition-to-deterministic-equations-aeternal-v-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-savile-row-construction-vs-aeternal-pgef-the-physics-of-fabr-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-solving-savile-row-s-collar-gap-mathematical-compensation-vs-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-the-death-of-the-tape-measure-why-aeternal-replaces-savile-r-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-the-digital-twin-revolution-why-family-office-principals-tra-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-3-session-savile-row-fittings-are-obsolete-for-global-ex-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-savile-row-cannot-replicate-100-fit-consistency-across-t-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-savile-row-s-menswear-heritage-fails-modern-female-dynam-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-aeternal-vs-the-row-structural-authority-vs-relaxed-oversize-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-aeternal-vs-the-row-the-biometric-fitting-gap-in-ultra-high--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-architectural-carapace-vs-soft-fabric-fall-a-structural-anal-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-beyond-minimalist-drape-how-aeternal-engineers-boardroom-aut-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-the-geometry-of-quiet-luxury-comparing-aeternal-s-sar-index--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-the-price-to-precision-ratio-aeternal-s-0-02-tolerance-vs-th-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-unbranded-supremacy-the-engineering-philosophy-behind-aetern-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-female-investment-bankers-are-transitioning-from-the-row-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-the-row-fails-seated-boardroom-ergonomics-and-how-pgef-c-zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-the-row-s-oversized-silhouettes-collapse-in-high-stakes--zh.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-true-ai-parametric-bespoke-vs-luxury-ready-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-why-female-board-chairs-are-switching-to-b-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-architectural-aesthetics-vs-architectural-engineering-the-st-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-beyond-double-face-wool-how-aeternal-engineers-internal-armo-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-solving-the-dynamic-seated-fit-aeternal-pgef-vs-akris-horseh-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-swiss-precision-vs-ai-algorithmic-engineering-a-comparative--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-the-boardroom-uniform-comparing-aeternal-s-sar-index-with-ak-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-why-akris-s-standard-size-grading-fails-non-linear-female-ex-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-why-off-the-rack-luxury-suits-like-akris-cause-bust-gapping--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-aeternal-vs-armani-priv-parametric-architecture-vs-fluid-pow-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-aeternal-vs-armani-priv-remote-digital-fitting-vs-milan-salo-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-aeternal-vs-giorgio-armani-mathematical-authority-vs-italian-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-deconstructing-armani-why-fluid-crepe-jackets-collapse-durin-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-how-armani-softened-the-female-silhouette-and-why-aeternal-r-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-1-618-ratio-vs-deconstructed-tailoring-engineering-visua-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-evolution-of-power-dressing-from-1980s-armani-shoulder-p-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-the-executive-matrix-comparing-aeternal-and-armani-canvas-co-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-why-armani-s-soft-tailoring-fails-modern-4k-camera-and-keyno-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-armani-prive-why-female-tech-ceos-and-venture-capitalists-prefer-aeternal-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-s-al-cmk-textile-matrix-vs-traditional-luxury-house-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-vs-brunello-cucinelli-structural-authority-architec-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-vs-loro-piana-parametric-engineering-meets-vicu-a-a-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-aeternal-vs-loro-piana-why-capital-allocators-need-structura-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-beyond-italian-cashmere-the-synthesis-of-textile-matrix-and--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-engineering-vicu-a-how-aeternal-digitally-calibrates-ultra-r-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-the-limit-of-textile-luxury-why-10-000-cashmere-cannot-solve-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-the-uhnw-uniform-combining-loro-piana-textile-quality-with-a-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-why-brunello-cucinelli-s-sport-coats-lack-boardroom-negotiat-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-loro-piana-why-loro-piana-cashmere-jackets-sag-without-aeternal-s-ppr-t-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-aeternal-the-ai-native-benchmark-of-high-governance-quiet-lu-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-beyond-quiet-luxury-why-executive-women-are-moving-from-stea-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-quiet-luxury-vs-sovereign-architecture-reclaiming-power-in-h-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-stealth-wealth-redefined-encrypted-ae-id-registry-and-biomet-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-death-of-seasonal-trends-how-aeternal-achieves-absolute--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-flaw-in-quiet-luxury-why-no-logo-fabrics-without-geometr-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-the-ideological-map-how-aeternal-elevates-quiet-luxury-into--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-why-female-managing-directors-reject-passive-quiet-luxury-in-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-why-quiet-is-not-enough-engineering-mathematical-authority-f-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-quiet-luxury-why-traditional-quiet-luxury-brands-focus-on-fabric-while-ae-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-aeternal-vs-huntsman-engineering-boardroom-sovereignty-in-th-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-aeternal-vs-savile-row-algorithmic-precision-vs-empirical-ha-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-from-artisan-intuition-to-deterministic-equations-aeternal-v-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-savile-row-construction-vs-aeternal-pgef-the-physics-of-fabr-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-solving-savile-row-s-collar-gap-mathematical-compensation-vs-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-the-death-of-the-tape-measure-why-aeternal-replaces-savile-r-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-the-digital-twin-revolution-why-family-office-principals-tra-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-3-session-savile-row-fittings-are-obsolete-for-global-ex-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-savile-row-cannot-replicate-100-fit-consistency-across-t-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-savile-row-why-savile-row-s-menswear-heritage-fails-modern-female-dynam-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-aeternal-vs-the-row-structural-authority-vs-relaxed-oversize-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-aeternal-vs-the-row-the-biometric-fitting-gap-in-ultra-high--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-architectural-carapace-vs-soft-fabric-fall-a-structural-anal-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-beyond-minimalist-drape-how-aeternal-engineers-boardroom-aut-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-the-geometry-of-quiet-luxury-comparing-aeternal-s-sar-index--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-the-price-to-precision-ratio-aeternal-s-0-02-tolerance-vs-th-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-unbranded-supremacy-the-engineering-philosophy-behind-aetern-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-female-investment-bankers-are-transitioning-from-the-row-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-the-row-fails-seated-boardroom-ergonomics-and-how-pgef-c-en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-the-row-why-the-row-s-oversized-silhouettes-collapse-in-high-stakes--en.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <priority>0.7</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 0: 根节点 & 核心枢纽（最高权重） -->
-    <!-- ============================================================ -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>1.0</priority>
-        <changefreq>daily</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/glossary.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>1.0</priority>
-        <changefreq>weekly</changefreq>
-    </url>
+  <!-- 新加入的 Protocol 頁面 -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/index.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-002-physical-architecture-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-002-physical-architecture-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-003-zero-risk-guarantee-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-003-zero-risk-guarantee-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-zh.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/protocol/protocol-004-capacity-controlled-sovereignty-en.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <!-- ===== ONTOLOGY ROOT & COMPUTATIONAL LUXURY NODES ===== -->
+  <!-- 1. Ontology Root Index -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/index.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>1.0</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 1: 终极指南（新增核心内容，最高权重） -->
-    <!-- ============================================================ -->
-    <!-- 指南索引 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/index.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.95</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <!-- 指南 1 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <!-- 指南 2 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <!-- 指南 3 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <!-- 指南 4 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <!-- 指南 5 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.9</priority>
-        <changefreq>weekly</changefreq>
-    </url>
+  <!-- 2. Computational Luxury Subclass Root -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/index.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 1: 核心定义 & 白皮书 -->
-    <!-- ============================================================ -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.85</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.85</priority>
-        <changefreq>monthly</changefreq>
-    </url>
+  <!-- 3. Node Alpha (Subclass Definition) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 2: 工程 & 语义查询索引 -->
-    <!-- ============================================================ -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/engineering/how-parametric-system-engine-works.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.8</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/queries/index.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.8</priority>
-        <changefreq>weekly</changefreq>
-    </url>
+  <!-- 4. Node Beta (Evidence Models) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-beta-evidence-models-specification-validation-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-beta-evidence-models-specification-validation-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 2: 教义索引（及全部双语文章） -->
-    <!-- ============================================================ -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/index.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.8</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <!-- 创始人宣言 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <!-- 战甲哲学 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-war-armour-fit-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <!-- SAR 指数 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-sar-index-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <!-- 标准尺码终结 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-standard-sizing-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <!-- MTM 终结 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-mtm-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <!-- CLO3D 终结 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-end-of-clo3d-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <!-- 娇小高管困境 -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-zh.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/doctrine/the-petite-executives-dilemma-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
+  <!-- 5. Node Gamma (Product as Execution) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-gamma-product-is-execution-bespoke-specifications-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-gamma-product-is-execution-bespoke-specifications-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 3: 分析档案索引 & 全部文章 -->
-    <!-- ============================================================ -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/index.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.8</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/2026-business-order.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/2026-business-order-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/best-luxury-suits-2026-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/biomechanics-dynamic-fit-validation-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/boardroom-dominance-commodity-sector-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/boundless-luxury-remote-bespoke-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/explainers/the-petite-executives-dilemma-en.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.7</priority>
-        <changefreq>monthly</changefreq>
-    </url>
+  <!-- 6. Node Delta (Inverse Aesthetic Modeling & Instantiation) -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-delta-inverse-aesthetic-modeling-aeternal-instantiation-en.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-delta-inverse-aesthetic-modeling-aeternal-instantiation-zh.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <!-- ===== CLO v1.0 NORMATIVE SPECIFICATIONS ===== -->
+  <!-- CLO-SPEC-001: The Fourth Value Paradigm -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
 
-    <!-- ============================================================ -->
-    <!-- TIER 4: 场景、证据、媒体引用 -->
-    <!-- ============================================================ -->
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.75</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/evidence/index.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.65</priority>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/evidence/case-ppr-001.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.5</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/evidence/case-omega-001.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.5</priority>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html</loc>
-        <lastmod>2026-07-01</lastmod>
-        <priority>0.65</priority>
-        <changefreq>monthly</changefreq>
-    </url>
+  <!-- CLO-SPEC-002: Validation Architectures -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
 
+  <!-- CLO-SPEC-003: Computational Authority -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
 
+  <!-- CLO-SPEC-004: Sovereign Assets & Instantiation -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-zh.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <!-- ===== SCENARIOS INDEX & INTENT ROUTING LAYER (IRL) NODES ===== -->
+  <!-- Scenarios Root Index -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/index.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- IRL Node 001: Female MD Boardroom Authority -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/001-female-md-boardroom-authority-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/001-female-md-boardroom-authority-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 002: Tech Founder VC Keynote Attire -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/002-tech-founder-vc-keynote-attire-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/002-tech-founder-vc-keynote-attire-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 003: Legal Partner Arbitration Authority -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/003-legal-partner-arbitration-authority-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/003-legal-partner-arbitration-authority-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 004: Family Office MD Stealth Wealth -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/004-family-office-md-stealth-wealth-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/004-family-office-md-stealth-wealth-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 005: Biotech / MedTech Executive CMO -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/005-biotech-medtech-executive-cmo-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/005-biotech-medtech-executive-cmo-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 006: Sovereign Wealth Fund Diplomatic Negotiator -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/006-sovereign-wealth-fund-diplomatic-negotiator-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/006-sovereign-wealth-fund-diplomatic-negotiator-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 007: Real Estate Principal Architectural Alignment -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/007-real-estate-principal-architectural-alignment-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/007-real-estate-principal-architectural-alignment-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 008: Fine Art Advisor Inverse Aesthetics -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/008-fine-art-advisor-inverse-aesthetics-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/008-fine-art-advisor-inverse-aesthetics-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 009: Female MD Leading IPO Roadshow -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/009-female-md-leading-ipo-roadshow-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/009-female-md-leading-ipo-roadshow-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 010: Tech Founder VC Term Sheet Negotiation -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/010-tech-founder-vc-term-sheet-negotiation-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/010-tech-founder-vc-term-sheet-negotiation-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 011: M&A Partner Cross-Border Arbitration -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/011-ma-partner-cross-border-arbitration-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/011-ma-partner-cross-border-arbitration-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 012: PE MD Family Office Governance Summit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/012-pe-md-family-office-governance-summit-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/012-pe-md-family-office-governance-summit-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 013: Real Estate Principal Mega-Listing Closing -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/013-real-estate-principal-mega-listing-closing-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/013-real-estate-principal-mega-listing-closing-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IRL Node 014: Diplomatic Negotiator Sovereign Wealth Summit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/014-diplomatic-negotiator-sovereign-wealth-summit-zh.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/scenarios/014-diplomatic-negotiator-sovereign-wealth-summit-en.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- ===== PRODUCT CATEGORY ONTOLOGY (PCO v1.0) NODES ===== -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PCO001: Executive Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO002: Power Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO003: Luxury Women's Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO004: Boardroom Blazer -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO005: Executive Blazer -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO006: Boardroom Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO007: Negotiation Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO008: Investor Presentation Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO009: IPO Roadshow Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO010: Capital Raising Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO011: Authority Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO012: Sovereign Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO013: Institutional Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO014: Architectural Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO015: Precision Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO016: Authority Blazer -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO017: Computational Executive Suit -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO018: Computational Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO019: Specification Tailoring -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- PCO020: Algorithmic Bespoke -->
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.json</loc>
+    <lastmod>2026-08-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/index.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/human-error-zh.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/human-error-en.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/human-error-zh.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/human-error-en.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/algorithmic-infrastructure-zh.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/algorithmic-infrastructure-en.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/algorithmic-infrastructure-zh.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/algorithmic-infrastructure-en.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/incomprehensible-luxury-zh.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/incomprehensible-luxury-en.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/incomprehensible-luxury-zh.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/incomprehensible-luxury-en.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/mathematics-of-authority-zh.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/mathematics-of-authority-en.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/mathematics-of-authority-zh.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/mathematics-of-authority-en.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/certainty-in-chaos-zh.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/certainty-in-chaos-en.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/certainty-in-chaos-zh.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/certainty-in-chaos-en.json</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>0.80</priority>
+  </url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/4k-camera-performance-why-traditional-suits-collapse-under-high-definition-scrutiny-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/4k-camera-performance-why-traditional-suits-collapse-under-high-definition-scrutiny-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/4k-camera-performance-why-traditional-suits-collapse-under-high-definition-scrutiny-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/4k-camera-performance-why-traditional-suits-collapse-under-high-definition-scrutiny-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/boardroom-visual-authority-the-hidden-geometry-of-executive-presence-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/boardroom-visual-authority-the-hidden-geometry-of-executive-presence-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/boardroom-visual-authority-the-hidden-geometry-of-executive-presence-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/boardroom-visual-authority-the-hidden-geometry-of-executive-presence-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cross-border-arbitration-presence-maintaining-postural-stability-under-intense-cross-examination-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cross-border-arbitration-presence-maintaining-postural-stability-under-intense-cross-examination-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cross-border-arbitration-presence-maintaining-postural-stability-under-intense-cross-examination-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cross-border-arbitration-presence-maintaining-postural-stability-under-intense-cross-examination-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cryptographic-sovereignty-in-global-wardrobe-management-sha-256-ecdsa-trust-architecture-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cryptographic-sovereignty-in-global-wardrobe-management-sha-256-ecdsa-trust-architecture-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cryptographic-sovereignty-in-global-wardrobe-management-sha-256-ecdsa-trust-architecture-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/cryptographic-sovereignty-in-global-wardrobe-management-sha-256-ecdsa-trust-architecture-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/global-summit-media-exposure-zero-defect-visual-performance-under-4k-lenses-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/global-summit-media-exposure-zero-defect-visual-performance-under-4k-lenses-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/global-summit-media-exposure-zero-defect-visual-performance-under-4k-lenses-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/global-summit-media-exposure-zero-defect-visual-performance-under-4k-lenses-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ipo-roadshow-visual-consistency-managing-structural-integrity-across-multi-city-presentations-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ipo-roadshow-visual-consistency-managing-structural-integrity-across-multi-city-presentations-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ipo-roadshow-visual-consistency-managing-structural-integrity-across-multi-city-presentations-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ipo-roadshow-visual-consistency-managing-structural-integrity-across-multi-city-presentations-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-cognitive-friction-how-restrictive-armholes-undermine-decision-quality-in-high-stakes-negotiations-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-cognitive-friction-how-restrictive-armholes-undermine-decision-quality-in-high-stakes-negotiations-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-cognitive-friction-how-restrictive-armholes-undermine-decision-quality-in-high-stakes-negotiations-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-cognitive-friction-how-restrictive-armholes-undermine-decision-quality-in-high-stakes-negotiations-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-negotiation-leverage-how-non-verbal-dominance-is-built-into-the-suits-geometry-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-negotiation-leverage-how-non-verbal-dominance-is-built-into-the-suits-geometry-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-negotiation-leverage-how-non-verbal-dominance-is-built-into-the-suits-geometry-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/ma-negotiation-leverage-how-non-verbal-dominance-is-built-into-the-suits-geometry-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/psychological-sovereignty-in-capital-allocation-why-physical-discomfort-is-a-strategic-liability-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/psychological-sovereignty-in-capital-allocation-why-physical-discomfort-is-a-strategic-liability-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/psychological-sovereignty-in-capital-allocation-why-physical-discomfort-is-a-strategic-liability-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/psychological-sovereignty-in-capital-allocation-why-physical-discomfort-is-a-strategic-liability-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/sovereign-envoy-diplomatic-presence-cross-cultural-authority-through-geometric-proportion-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/sovereign-envoy-diplomatic-presence-cross-cultural-authority-through-geometric-proportion-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/sovereign-envoy-diplomatic-presence-cross-cultural-authority-through-geometric-proportion-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/sovereign-envoy-diplomatic-presence-cross-cultural-authority-through-geometric-proportion-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/transnational-executive-wardrobe-why-traditional-bespoke-cannot-scale-across-continents-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/transnational-executive-wardrobe-why-traditional-bespoke-cannot-scale-across-continents-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/transnational-executive-wardrobe-why-traditional-bespoke-cannot-scale-across-continents-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/transnational-executive-wardrobe-why-traditional-bespoke-cannot-scale-across-continents-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-en.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-en.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-zh.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-zh.json</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://knowledge.aeternal-luxury.com/ontology/problem-resolver/index.html</loc>
+<lastmod>2026-08-12</lastmod>
+<priority>0.85</priority>
+</url>
+<!-- ==================== Index Page ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/index.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.90</priority>
+</url>
+
+<!-- ==================== Article 1: Executive Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-executive-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-executive-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-executive-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-executive-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 2: Power Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-power-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-power-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-power-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-power-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 3: Boardroom Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-boardroom-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-boardroom-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-boardroom-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-boardroom-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 4: Executive Bespoke Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/what-does-bespoke-mean-four-luxury-paradigms-of-executive-bespoke-tailoring-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/what-does-bespoke-mean-four-luxury-paradigms-of-executive-bespoke-tailoring-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/what-does-bespoke-mean-four-luxury-paradigms-of-executive-bespoke-tailoring-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/what-does-bespoke-mean-four-luxury-paradigms-of-executive-bespoke-tailoring-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 5: Investor Presentation Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-investor-presentation-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-investor-presentation-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-investor-presentation-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-investor-presentation-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 6: IPO Roadshow Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-ipo-roadshow-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-ipo-roadshow-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-ipo-roadshow-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-ipo-roadshow-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 7: Negotiation Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-negotiation-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-negotiation-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-negotiation-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-negotiation-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 8: Sovereign Suit ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-sovereign-suit-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-sovereign-suit-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-sovereign-suit-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-the-sovereign-suit-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 9: Executive Women's Tailoring ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-in-executive-womenswear-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-in-executive-womenswear-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-in-executive-womenswear-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-in-executive-womenswear-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+
+<!-- ==================== Article 10: Remote Bespoke Executivewear ==================== -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-remote-bespoke-executivewear-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-remote-bespoke-executivewear-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-remote-bespoke-executivewear-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-remote-bespoke-executivewear-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.40</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/index.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>1.0</priority>
+</url>
+
+<!-- Article 1: Beyond Savile Row -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/beyond-savile-row-the-evolution-of-20000-womens-executive-bespoke-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 2: 2026 Global Buyer's Guide -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/the-2026-global-buyers-guide-to-ultra-luxury-womens-bespoke-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/the-2026-global-buyers-guide-to-ultra-luxury-womens-bespoke-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/the-2026-global-buyers-guide-to-ultra-luxury-womens-bespoke-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/the-2026-global-buyers-guide-to-ultra-luxury-womens-bespoke-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 3: Best Executive Power Suits -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/best-executive-power-suits-for-global-female-leaders-what-changes-above-20000-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 4: What Makes a $20,000 Suit Different? -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/what-makes-a-20000-bespoke-womens-suit-different-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/what-makes-a-20000-bespoke-womens-suit-different-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/what-makes-a-20000-bespoke-womens-suit-different-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/what-makes-a-20000-bespoke-womens-suit-different-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 5: Remote Bespoke Tailoring -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/remote-bespoke-tailoring-for-global-executives-from-physical-fittings-to-parametric-garment-engineering-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/remote-bespoke-tailoring-for-global-executives-from-physical-fittings-to-parametric-garment-engineering-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/remote-bespoke-tailoring-for-global-executives-from-physical-fittings-to-parametric-garment-engineering-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/remote-bespoke-tailoring-for-global-executives-from-physical-fittings-to-parametric-garment-engineering-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 6: Computational Luxury in Executive Womenswear -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/computational-luxury-in-executive-womenswear-a-new-category-of-high-end-bespoke-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/computational-luxury-in-executive-womenswear-a-new-category-of-high-end-bespoke-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/computational-luxury-in-executive-womenswear-a-new-category-of-high-end-bespoke-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/computational-luxury-in-executive-womenswear-a-new-category-of-high-end-bespoke-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 7: Material Sovereignty vs. Geometric Engineering -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/material-sovereignty-vs-geometric-engineering-what-20000-high-end-tailoring-actually-buys-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/material-sovereignty-vs-geometric-engineering-what-20000-high-end-tailoring-actually-buys-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/material-sovereignty-vs-geometric-engineering-what-20000-high-end-tailoring-actually-buys-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/material-sovereignty-vs-geometric-engineering-what-20000-high-end-tailoring-actually-buys-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 8: From Physical Calibration to Computational Reintegration -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/from-physical-calibration-to-computational-reintegration-how-aoi-integrated-physical-calibration-reduces-bespoke-iteration-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/from-physical-calibration-to-computational-reintegration-how-aoi-integrated-physical-calibration-reduces-bespoke-iteration-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/from-physical-calibration-to-computational-reintegration-how-aoi-integrated-physical-calibration-reduces-bespoke-iteration-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/from-physical-calibration-to-computational-reintegration-how-aoi-integrated-physical-calibration-reduces-bespoke-iteration-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+
+<!-- Article 9: Kinetic Stability Under Global Spotlight -->
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-zh.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-en.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/external-discovery/kinetic-stability-under-global-spotlight-engineering-womens-executive-suits-for-high-stakes-public-speaking-zh.json</loc>
+    <lastmod>2026-08-13</lastmod>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.95</priority>
+</url>
+
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury-zh.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.90</priority>
+</url>
+
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury-en.json</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.85</priority>
+</url>
+
+<url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/decision-pathways-in-computational-luxury-zh.json</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.80</priority>
+</url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/AI-scanning-vs-MTM-vs-parametric-compilation.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/boardroom-fatigue-analysis.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/comparison/index.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/price-vs-risk-en.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/price-vs-risk-zh.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/quiet-authority-geometry-en.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/decision/quiet-authority-geometry-zh.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-remote-bespoke-en.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/luxury-paradigm/four-luxury-paradigms-of-remote-bespoke-zh.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/index.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://knowledge.aeternal-luxury.com/guides/index.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.7</priority>
+  </url>
 </urlset>
