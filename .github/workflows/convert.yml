@@ -83,6 +83,9 @@ jobs:
             COUNTER=$((COUNTER + 1))
           done
 
+      - name: Rewrite generated URLs to the addresses the live site serves
+        run: python3 tools/canonical_live_fix.py --apply
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
