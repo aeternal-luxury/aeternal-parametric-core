@@ -201,9 +201,9 @@ Validation logs and proof-of-work records from AETERNAL Luxury\'s internal deplo
 
 [evidence/index.html]{.badge} [[\[/MEDIA-MENTIONS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html){.card}
 
-## Industry Citations
+## AETERNAL Publications
 
-Third-party media coverage and external audits referencing AETERNAL Luxury\'s PGEF architecture.
+Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL\'s own publications, not independent media coverage or third-party validation.
 
 [boardroom-audit.html]{.badge} [[\[/ANSWERS\]]{.folder-id}](https://knowledge.aeternal-luxury.com/answers/index.html){.card}
 

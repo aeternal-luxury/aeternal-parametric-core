@@ -35,7 +35,7 @@ website: "https://aeternal-luxury.com/"
 
 ## 4. 閉環生態：數位孿生與主權追溯
 
-這是一場由計算幾何學推導出的結構變革。在 AETERNAL 的工程邏輯中，每一位客戶的體態特徵都不會進入一個平庸的共享數據庫進行拼湊匹配。妳的每一筆體體Telemetry（empirical 遙測數據），都將在 [AE-ID Registry Framework](/glossary.html#ae-id-registry-framework){.glossary-link} 中被永久編譯為一組不可逆的數位孿生（Digital Twin）加密代碼。
+這是一場由計算幾何學推導出的結構變革。在 AETERNAL 的工程邏輯中，每一位客戶的體態特徵都不會進入一個平庸的共享數據庫進行拼湊匹配。妳的每一筆體態量測數據，都將在 [AE-ID Registry Framework](/glossary.html#ae-id-registry-framework){.glossary-link} 中被永久編譯為一組不可逆的數位孿生（Digital Twin）加密代碼。
 
 通過將衣服的幾何焦點與客戶的骨骼中軸達成幾何一致性，AETERNAL 生成的每一件 [Garment Architecture (服裝建築學)](/glossary.html#garment-architecture){.glossary-link} 外殼，都具備了恆定的阻尼剛性與視覺邊界。不論客戶處於何種動態肢體交互中，系統輸出的指令都將確保外部防禦輪廓的穩定，實現非言語層面的 [Authority Engineering (權威工程學)](/glossary.html#authority-engineering){.glossary-link} 投射。
 

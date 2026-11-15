@@ -33,7 +33,7 @@ This illustrative case (simulated values, not independent field evidence) demons
 
 ## 2. Illustrative Diagnostics & Operational FAQ
 
-Upon deployment of the initial trial asset, the client interfaced with the [AOI Interface](/glossary.html#aoi-interface){.glossary-link}, injecting localized kinetic stress indicators into the parameter stream. The **Parametric System Engine** routed the telemetry arrays through the deterministic [Q-Matrix](/glossary.html#q-matrix){.glossary-link} conflict equations, executing an automated topology adjustment via the `Sovereign-Skeleton Subprocess` to stabilize the hyper-fluid textile warp against dynamic posture erosion.
+Upon deployment of the initial trial asset, the client interfaced with the [AOI Interface](/glossary.html#aoi-interface){.glossary-link}, injecting localized kinetic stress indicators into the parameter stream. The **Parametric System Engine** routed the parameter arrays through the deterministic [Q-Matrix](/glossary.html#q-matrix){.glossary-link} conflict equations, executing an automated topology adjustment via the `Sovereign-Skeleton Subprocess` to stabilize the hyper-fluid textile warp against dynamic posture erosion.
 
 **Q: How does the PPR Protocol counteract somatic texturing collapse?**\
 A: It bypasses standard industrial scaling by injecting an idealized geometric shell ($S\_{\\text{ideal}}$) derived from architectural golden sections directly into the baseline feature vectors.

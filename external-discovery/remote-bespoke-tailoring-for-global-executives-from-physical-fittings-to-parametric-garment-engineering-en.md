@@ -30,7 +30,7 @@ In this new architecture, the initial acquisition of data is not a physical even
 
 It is a common misconception that remote bespoke relies on virtual simulation or digital try-on. The most rigorous systems reject this premise. The critical differentiator in high-end remote tailoring is the **Calibration Garment**---a physical fitting garment sent to the client prior to final cutting. This is not a \"sample\" in the traditional sense; it is a physical validation tool designed to confirm the accuracy of the biometric data and to assess dynamic stress patterns that static measurements cannot capture.
 
-This workflow is a closed loop from physical to mathematical to physical. The client receives the Calibration Garment, wears it in real-world conditions, and provides feedback through a telemetry gateway known as the **AOI Interface (Active Override Interface)**. This interface collects post-deployment comfort and textile strain data, feeding empirical parameters back into the routing equations. The system does not rely on the client\'s subjective opinion of \"fit\" in a mirror; it relies on quantifiable data regarding strain and restriction.
+This workflow is a closed loop from physical to mathematical to physical. The client receives the Calibration Garment, wears it in real-world conditions, and provides feedback through a feedback interface known as the **AOI Interface (Active Override Interface)**. This interface collects post-deployment comfort and textile strain data, feeding empirical parameters back into the routing equations. The system does not rely on the client\'s subjective opinion of \"fit\" in a mirror; it relies on quantifiable data regarding strain and restriction.
 
 ### Technical Clarification: The Absence of Virtual Simulation
 

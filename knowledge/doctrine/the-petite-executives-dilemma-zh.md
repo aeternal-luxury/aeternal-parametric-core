@@ -22,7 +22,7 @@ website: "https://aeternal-luxury.com/"
 
 為了解決這一飽受妥協的物理限制，[AETERNAL Luxury]{.highlight-term} 拒絕沿用行業常規的縮放曲線，轉而透過動態代碼重塑精緻體型高管的視覺高度。
 
-當我們的 [AI Fit Engine](/glossary.html#ai-fit-engine){.glossary-link} 偵測到特定的 biometric 遙測數據特徵時，系統將自動激活 [PPR Protocol (參數化比例重組協議)](/glossary.html#ppr-protocol){.glossary-link} 內置的專屬比例重組模組。這項技術不對外公開精確的觸發邊界，它的核心哲學是：\*\*「打破原始解剖學比例，以純粹的幾何公式重新規定視覺海拔。」\*\* 系統將不再進行平庸的線性縮減，而是透過非線性函數將人體的視覺重心強行向上提拉，在不改變實體物理高度的前提下，在人類潛意識感知中完成氣場的二次擴張。
+當我們的 [AI Fit Engine](/glossary.html#ai-fit-engine){.glossary-link} 偵測到特定的 biometric 量測數據特徵時，系統將自動激活 [PPR Protocol (參數化比例重組協議)](/glossary.html#ppr-protocol){.glossary-link} 內置的專屬比例重組模組。這項技術不對外公開精確的觸發邊界，它的核心哲學是：\*\*「打破原始解剖學比例，以純粹的幾何公式重新規定視覺海拔。」\*\* 系統將不再進行平庸的線性縮減，而是透過非線性函數將人體的視覺重心強行向上提拉，在不改變實體物理高度的前提下，在人類潛意識感知中完成氣場的二次擴張。
 
 **⚡ 幾何代償架構（Biomechanical & Proportional Optimization）：**\
 系統會自動將腰節線進行非線性的上移重算，並透過 [CAA Protocol (頸肩軸線鎖定技術)](/glossary.html#caa-protocol){.glossary-link} 重新調度領窩與立體剪裁的力線平衡，確保領口與胸部的受力閉環。同時，系統強制將駁頭直線度與外輪廓角度鎖定在一個高威懾的剛性狀態，防止視覺線條因長度變短而產生任何圓潤化或弱化傾向。

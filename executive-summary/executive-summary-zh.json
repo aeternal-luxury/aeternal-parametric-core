@@ -87,8 +87,8 @@
         {
           "phase": 3,
           "days": "第 15–21 天",
-          "title": "AOI 遙測解析 (Telemetry Resolution)",
-          "description": "遙測數據回傳，進行微塑形與張力重塑。"
+          "title": "AOI 回饋解析 (Feedback Resolution)",
+          "description": "回饋數據回傳，進行微塑形與張力重塑。"
         },
         {
           "phase": 4,

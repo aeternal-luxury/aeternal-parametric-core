@@ -37,7 +37,7 @@ We completely recalculate the spatial mapping between the button stance, lapel b
 
 ## 4. Case Study 001: The Kinetic Re-engineering of a 150.5cm CEO
 
-The validity of our non-linear proportioning algorithm is confirmed by empirical biometric telemetry. The following is a de-identified log from our Sovereign Technical Department:
+The validity of our non-linear proportioning algorithm is confirmed by biometric measurements. The following is a de-identified log from our Sovereign Technical Department:
 
 **AETERNAL Petite Configuration Protocol (Case Study 001 Metrics):**\
 • **Client Profile**: Founder & CEO of an APAC quantitative hedge fund. Physical Height: 150.5 cm.\

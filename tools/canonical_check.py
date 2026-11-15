@@ -75,9 +75,12 @@ def main():
     sm = ROOT / "sitemap.xml"
     if sm.exists():
         locs = set(re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", sm.read_text(encoding="utf-8")))
-        miss = [u for u in by_url if u not in locs]
+        same = lambda u: u[:-len("index.html")] if u.endswith("/index.html") else u   # 'X/' and 'X/index.html' are one page
+        locs_n = {same(u) for u in locs}
+        miss = [u for u in by_url if u not in locs and same(u) not in locs_n]
         if miss: warnings.append(f"{len(miss)} canonical URLs not in sitemap.xml (e.g. {miss[:2]})")
-        extra = [u for u in locs if u not in by_url]
+        by_n = {same(u) for u in by_url}
+        extra = [u for u in locs if u not in by_url and same(u) not in by_n]
         if extra: warnings.append(f"{len(extra)} sitemap URLs without a matching html canonical (e.g. {extra[:2]})")
     if http:
         import urllib.request

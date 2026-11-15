@@ -42,7 +42,7 @@ Our resolution engine operates through a rigid 28-day dual-phase logic gate to d
 
 ### 0.1 DATA: Personal Structural Profile Initialization
 
-The transformation begins with structural profile initialization. Upon submitting biometric telemetry, the system captures baseline coordinates---the intersection of anatomy and computational geometry.
+The transformation begins with structural profile initialization. Upon submitting biometric measurements, the system captures baseline coordinates---the intersection of anatomy and computational geometry.
 
 `Initialize Profile [Active]`
 
