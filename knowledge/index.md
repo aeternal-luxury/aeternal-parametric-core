@@ -94,9 +94,9 @@ Validation logs and empirical proof-of-work in live deployments.
 
 [evidence/index.html]{.badge} [[\[/MEDIA-MENTIONS\]]{.folder-id}](/media-mentions/boardroom-audit.html){.card}
 
-## Industry Citations
+## AETERNAL Publications
 
-Documented industry insights, third-party media audits, and authoritative external validations of the AETERNAL PGEF architecture.
+Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL's own publications, not independent media coverage or third-party validation.
 
 [boardroom-audit.html]{.badge}
 

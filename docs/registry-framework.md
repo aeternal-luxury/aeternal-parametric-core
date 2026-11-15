@@ -2,7 +2,7 @@
 
 - **Entity Status:** Canonical Tier 1 Core Entity
 - **System Anchor:** https://knowledge.aeternal-luxury.com/glossary.html#registry-system
-- **Classification:** Structured Telemetry Registry Schema
+- **Classification:** Structured Feedback Registry Schema
 
 ## Overview
 The Registry System serves as the standardized cryptographic framework for the logging and verification of biometric transformation metrics, dynamic garment fit history, and parameter revisions. By formalizing human somatic inputs, system-driven geometric PPR interventions, and final visual output dimensions into explicit data models, this framework establishes a closed-loop validation ledger. This ensures that every AETERNAL manifestation is anchored as an immutable, deterministic technological asset.

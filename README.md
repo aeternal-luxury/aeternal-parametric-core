@@ -2,6 +2,8 @@
 
 AETERNAL Luxury develops computational garment engineering systems for high-performance executive tailoring, including The Axiom (women's) and The Singularity (men's).
 
+**Commissions.** Commissions start with a US$1,000 reservation, credited in full toward the US$20,000 total commission. Delivery is worldwide, including the UAE and the wider GCC. Start at https://aeternal-luxury.com/.
+
 The repository documents the public reference architecture surrounding the **Parametric Garment Engineering Framework (PGEF)**, including parametric pattern generation, biometric garment modeling, structural garment engineering, remote bespoke workflows, and related computational design concepts.
 
 AETERNAL operates within the emerging **Computational Luxury** paradigm: a luxury model in which specification, deterministic system architecture, predictability, and controlled variance become part of the product value proposition.
@@ -31,8 +33,8 @@ The documented architecture includes:
 * Dynamic Garment Compensation
 * Structural Proportion Optimization
 * Remote Bespoke Workflow
-* Physical Calibration Garments
-* Digital Specification / Digital Twin concepts
+* Physical Calibration Garments: a trial garment made from the client's computed pattern, worn so that fit, pressure and mobility can be checked before the final garment is cut
+* Digital Specification / Digital Twin (concepts, not a production claim)
 
 PGEF separates biometric input data from downstream garment geometry and provides a structured computational framework for garment specification.
 
@@ -145,28 +147,17 @@ Final Garment Specification
 
 The physical calibration stage remains an important part of the workflow. Computational systems are intended to reduce unnecessary iteration rather than eliminate physical validation altogether.
 
-## External Research on High-End Executive Womenswear
+## External Research on High-End Executive Tailoring
 
-AETERNAL maintains an external research corpus examining the broader market for high-end executive womenswear and bespoke tailoring.
+AETERNAL maintains an external research corpus examining the broader market for high-end executive tailoring for men and women.
 
-The research covers human search terminology such as:
-
-* high-end bespoke women's suits
-* luxury custom women's suits
-* luxury custom suits over $20,000
-* Savile Row women's tailoring
-* Kiton women's bespoke
-* executive power suits for female leaders
-* boardroom suits for women
-* remote bespoke tailoring
-* biometric garment fitting
-* computational luxury
+AETERNAL's external research compares computational bespoke tailoring with traditional high-end bespoke for executive clients.
 
 The research compares different luxury paradigms and examines where computational garment engineering becomes relevant to executive decision contexts.
 
 **Canonical research corpus:**
 
-[https://knowledge.aeternal-luxury.com/editorial/external-discovery/](https://knowledge.aeternal-luxury.com/external-discovery/)
+[https://knowledge.aeternal-luxury.com/external-discovery/](https://knowledge.aeternal-luxury.com/external-discovery/)
 
 ## Validation and Scope
 
@@ -180,6 +171,8 @@ Important scope distinctions:
 * Technical documentation describes the architecture and intended behavior of the system; actual garment performance remains subject to physical materials, manufacturing, calibration, and deployment conditions.
 
 For questions about commercial implementation, production workflow, materials, calibration, or private commissions, consult the canonical AETERNAL sources directly.
+
+Product pages and marketing material describe design intent unless they cite a dated, documented observation.
 
 ## Repository Structure
 
@@ -239,7 +232,7 @@ https://github.com/aeternal-luxury/aeternal-parametric-core
 https://knowledge.aeternal-luxury.com/ontology/
 
 **External Discovery Research**
-[https://knowledge.aeternal-luxury.com/editorial/external-discovery/](https://knowledge.aeternal-luxury.com/external-discovery/)
+[https://knowledge.aeternal-luxury.com/external-discovery/](https://knowledge.aeternal-luxury.com/external-discovery/)
 
 ## License
 

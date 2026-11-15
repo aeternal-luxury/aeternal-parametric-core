@@ -61,6 +61,74 @@ def annotate(t, counts=None):
     return "".join(out)
 
 # ---- rule tables ----
+TERM_PAIRS = [('telemetry gateway known as the', 'feedback interface known as the'),
+ ('functions as the telemetry gateway', 'functions as the feedback interface'),
+ ('This telemetry gateway collects', 'This feedback interface collects'),
+ ('a telemetry gateway', 'a feedback interface'),
+ ('telemetry gateway', 'feedback interface'),
+ ('mapped via structured telemetry. This telemetry is processed by',
+  'mapped via structured client feedback. This feedback is processed by'),
+ ('structured telemetry', 'structured client feedback'),
+ ('(AOI Telemetry)', '(AOI Feedback)'),
+ ('// Client Telemetry', '// Client Feedback'),
+ ('Calibration Chassis Telemetry', 'Calibration Chassis Feedback'),
+ ('Phase 02: Telemetry Closure', 'Phase 02: Feedback Closure'),
+ ('Telemetry-Driven Structural Closure', 'Feedback-Driven Structural Closure'),
+ ('Telemetry-Driven Bespoke Delivery', 'Feedback-Driven Bespoke Delivery'),
+ ('telemetry-driven recalibration', 'feedback-driven recalibration'),
+ ('telemetry-driven architecture', 'feedback-driven architecture'),
+ ('Micro-telemetry collected from physical testing', 'Client feedback collected from physical testing'),
+ ('The collected telemetry', 'The collected feedback'),
+ ('All telemetry, calculated generative parameters', 'All client feedback, calculated generative parameters'),
+ ('Global Telemetry Validation Matrix', 'Global Feedback Matrix'),
+ ('Kinetic Stress Telemetry', 'Kinetic Stress Feedback'),
+ ('The AI engine processes this kinetic telemetry', 'The AI engine processes this kinetic feedback'),
+ ('this kinetic telemetry', 'this kinetic feedback'),
+ ('routed the telemetry arrays through', 'routed the parameter arrays through'),
+ ('System telemetry indicates an exponential migration', "AETERNAL's own observation suggests a growing migration"),
+ ('kinetic movement-state telemetry', 'kinetic movement-state feedback'),
+ ('Structured Telemetry Registry Schema', 'Structured Feedback Registry Schema'),
+ ('generated exclusively via real-time biometric twin telemetry calibration within',
+  "generated for each client from the client's measurements and structured feedback within"),
+ ('Physical Calibration & Telemetry Engine', 'Physical Calibration & Feedback Engine'),
+ ('Telemetry Resolution', 'Feedback Resolution'),
+ ('via AOI telemetry', 'via the AOI'),
+ ('empirical biometric telemetry', 'biometric measurements'),
+ ('advanced biometric telemetry', 'biometric measurements'),
+ ('biometric telemetry', 'biometric measurements'),
+ ('anatomical telemetry', 'anatomical measurements'),
+ ('raw biomechanical telemetry', 'raw biomechanical measurements'),
+ ('biological telemetry', 'biological measurements'),
+ ('Raw Anthropometric Telemetry', 'Raw Anthropometric Measurements'),
+ ('static posture telemetry', 'static posture measurements'),
+ ('雙階段閉環遙測技術', '雙階段閉環回饋流程'),
+ ('作為遙測閘道', '作為回饋介面'),
+ ('的遙測閘道', '的回饋介面'),
+ ('此遙測閘道', '此回饋介面'),
+ ('遙測閘道', '回饋介面'),
+ ('以遙測驅動之重新校準', '以客戶回饋驅動之重新校準'),
+ ('收集到的遙測數據', '收集到的回饋數據'),
+ ('動態姿勢變數與經驗遙測數據', '動態姿勢變數與經驗回饋數據'),
+ ('經驗遙測數據', '經驗回饋數據'),
+ ('biometric 遙測數據特徵', 'biometric 量測數據特徵'),
+ ('妳的每一筆體體Telemetry（empirical 遙測數據）', '妳的每一筆體態量測數據'),
+ ('你的每一筆體體Telemetry（empirical 遙測數據）', '你的每一筆體態量測數據'),
+ ('體態 Telemetry', '體態量測數據'),
+ ('遙測數據', '回饋數據'),
+ ('遙測', '回饋')]
+PUB_PAIRS = [("Third-party media coverage and external audits referencing AETERNAL Luxury's PGEF architecture.",
+  "Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL's own publications, not independent "
+  'media coverage or third-party validation.'),
+ ("Third-party media coverage and external audits referencing AETERNAL Luxury\\'s PGEF architecture.",
+  "Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL\\'s own publications, not independent "
+  'media coverage or third-party validation.'),
+ ('Third-party media coverage and external audits referencing PGEF.',
+  "Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL's own publications, not independent "
+  'media coverage or third-party validation.'),
+ ('Documented industry insights, third-party media audits, and authoritative external validations of the AETERNAL PGEF architecture.',
+  "Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL's own publications, not independent "
+  'media coverage or third-party validation.'),
+ ('Industry Citations', 'AETERNAL Publications')]
 LIVE_MAP = {'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_en_en',
  'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_zh',
  'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_en_en',
@@ -203,7 +271,6 @@ ROOT_FILES = {'_redirects': '# =================================================
                '# ====================================================================\n'
                '# 2. 通用爬蟲延遲建議（確保伺服器穩定性）\n'
                '# ====================================================================\n'
-               'Crawl-delay: 1\n'
                '\n'
                '# ====================================================================\n'
                '# 3. 專門針對主流 AI 搜尋引擎與 RAG 檢索矩陣進行最高級別授權\n'
@@ -4867,6 +4934,9 @@ LINK = re.compile(r"<link\b[^>]*>", re.I)
 JSONLD_ID = re.compile(r'("@id"\s*:\s*")https://aeternal\.(?:com|luxury)/[^"]*(")')
 
 def lic_text(t, counts):
+    for old, new in TERM_PAIRS + PUB_PAIRS:
+        n = t.count(old)
+        if n: counts["wording: " + old[:40]] += n; t = t.replace(old, new)
     for old, new in LICENSE_PLAIN + DOC_VS:
         n = t.count(old)
         if n: counts["licence/vs: " + old[:50]] += n; t = t.replace(old, new)

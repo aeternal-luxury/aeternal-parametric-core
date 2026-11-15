@@ -18,16 +18,16 @@ The **[Parametric System Engine](/glossary.html#parametric-system-engine){.gloss
 
 ## 1. The Generative Execution Pipeline
 
-The workflow system processes biological telemetry into formalized fabric mechanics through a multi-tiered computational environment:
+The workflow system processes biological measurements into formalized fabric mechanics through a multi-tiered computational environment:
 
 **\[STAGE 01: BIOMETRIC INGRESS LAYER\]**\
-Raw Anthropometric Telemetry ($B\_{\\text{base}}$) ──\> [AI Fit Engine Matrix Translation](/glossary.html#ai-fit-engine){.glossary-link}\
+Raw Anthropometric Measurements ($B\_{\\text{base}}$) ──\> [AI Fit Engine Matrix Translation](/glossary.html#ai-fit-engine){.glossary-link}\
                                         │\
                                         ▼\
 **\[STAGE 02: GENERATIVE COMPILATION CORE\]**\
 [Parametric System Engine Execution](/glossary.html#parametric-system-engine){.glossary-link}\
   ├── Enforce [PPR Protocol Alignment](/glossary.html#ppr){.glossary-link} ($S\_{\\text{ideal}}$ Golden Section Projection)\
-  ├── Ingest [Active Override Interface (AOI Input Stream)](/glossary.html#aoi-interface){.glossary-link} // Client Telemetry\
+  ├── Ingest [Active Override Interface (AOI Input Stream)](/glossary.html#aoi-interface){.glossary-link} // Client Feedback\
   └── Resolve Dynamic Load Vectors via [Q-Matrix Conflict Routing Equations](/glossary.html#q-matrix){.glossary-link}\
                                         │\
                                         ▼\

@@ -37,7 +37,7 @@ Ready-to-Wear (RTW) luxury is engineered for mass population averages. To maximi
 
 The secondary failure zone for dynamic creasing is the armhole (armscye). Traditional luxury houses drop armscyes excessively low to accommodate arbitrary arm circumferences, which systematically causes the entire torso of the jacket to ride upward whenever the arm is elevated, generating severe visual deformation.
 
-**AETERNAL Kinetic Stress Telemetry (Stress Testing Protocol):**\
+**AETERNAL Kinetic Stress Feedback (Stress Testing Protocol):**\
 • **Armhole Tension Constant (Dynamic Limit)**: $$\\sigma\_{\\text{arm}} \\le 0.05 \\text{ N/mm}$$ (Ensures that during a 90-degree arm sweep, shoulder plane textile tension remains completely flat, preserving outer silhouette integrity.)\
 \
 • **CAA Axis Drift Precision Vector**: $$\\text{Axis Drift} \< 0.2\\%$$ (Simulated across thousands of virtual movement cycles to target a 99.8% geometric alignment rate across all postural configurations.)

@@ -25,7 +25,7 @@
           "subsections": [
             {
               "title": "0.1 DATA: Personal Structural Profile Initialization",
-              "text": "The transformation begins with structural profile initialization. Upon submitting biometric telemetry, the system captures baseline coordinates—the intersection of anatomy and computational geometry.\n\nInitialize Profile [Active]"
+              "text": "The transformation begins with structural profile initialization. Upon submitting biometric measurements, the system captures baseline coordinates—the intersection of anatomy and computational geometry.\n\nInitialize Profile [Active]"
             },
             {
               "title": "0.2 INSTRUMENT: Calibration Garment & Global Concierge",

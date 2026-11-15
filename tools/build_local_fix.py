@@ -15,6 +15,7 @@ def load(n):
 
 nu, ev, b1, sw = load("geo_numeric_claims"), load("geo_evidence_review"), load("geo_claims_patch"), load("geo_claims_sweep")
 lic, cc = load("geo_license_rules"), load("canonical_check")
+tel, wd = load("geo_terms_telemetry"), load("geo_checklist_wording")
 SKIP_CORE = ("## Core Reference", "Official Website", "are proprietary nomenclature", "The public framework connects",
              "## Executive Womenswear", "* Executive and institutional", "* Women's Bespoke", "Feedback / Telemetry", "echo ",
              "womenswear and garment-engineering system", "systems for high-performance executive womenswear.")
@@ -44,7 +45,11 @@ LIVE_MAP = json.loads((T / "live_url_map.json").read_text(encoding="utf-8"))["ma
 MERGED = json.loads((T / "merged_pages.json").read_text(encoding="utf-8"))
 ROOT_FILES = {n: (_root / n).read_text(encoding="utf-8") for n in ("robots.txt", "sitemap.xml")}
 ROOT_FILES["_redirects"] = (_root / "knowledge" / "_redirects").read_text(encoding="utf-8")
-data = dict(LIVE_MAP=LIVE_MAP, ROOT_FILES=ROOT_FILES, CANON=CANON, SITEMAP_URLS=SITEMAP_URLS, MERGED=MERGED, LICENSE_PLAIN=LICENSE_PLAIN, LICENSE_RX=LICENSE_RX, NUM_PLAIN=nu.PLAIN, EV_GLOBAL=ev.GLOBAL, EV_EVIDENCE=ev.TARGETED["evidence/"], CORE=core, LEX_NARROW=lex_narrow, LEX_PR2=[x for x in lex_all if x not in lex_narrow])
+PUB_PAIRS = [(wd.PUB_OLD, wd.PUB_NEW), (wd.PUB_OLD.replace("'", "\\'"), wd.PUB_NEW.replace("'", "\\'")),
+             ("Third-party media coverage and external audits referencing PGEF.", wd.PUB_NEW),
+             ("Documented industry insights, third-party media audits, and authoritative external validations of the AETERNAL PGEF architecture.", wd.PUB_NEW),
+             ("Industry Citations", "AETERNAL Publications")]
+data = dict(TERM_PAIRS=tel.PAIRS, PUB_PAIRS=PUB_PAIRS, LIVE_MAP=LIVE_MAP, ROOT_FILES=ROOT_FILES, CANON=CANON, SITEMAP_URLS=SITEMAP_URLS, MERGED=MERGED, LICENSE_PLAIN=LICENSE_PLAIN, LICENSE_RX=LICENSE_RX, NUM_PLAIN=nu.PLAIN, EV_GLOBAL=ev.GLOBAL, EV_EVIDENCE=ev.TARGETED["evidence/"], CORE=core, LEX_NARROW=lex_narrow, LEX_PR2=[x for x in lex_all if x not in lex_narrow])
 
 ENGINE = r'''
 # ---------------------------------------------------------------------------
@@ -103,6 +108,9 @@ LINK = re.compile(r"<link\b[^>]*>", re.I)
 JSONLD_ID = re.compile(r'("@id"\s*:\s*")https://aeternal\.(?:com|luxury)/[^"]*(")')
 
 def lic_text(t, counts):
+    for old, new in TERM_PAIRS + PUB_PAIRS:
+        n = t.count(old)
+        if n: counts["wording: " + old[:40]] += n; t = t.replace(old, new)
     for old, new in LICENSE_PLAIN + DOC_VS:
         n = t.count(old)
         if n: counts["licence/vs: " + old[:50]] += n; t = t.replace(old, new)

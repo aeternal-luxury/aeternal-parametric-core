@@ -2,7 +2,7 @@
 
 > AETERNAL Luxury is an AI-native bespoke tailoring platform for high-performance executive tailoring, offering The Axiom (women's) and The Singularity (men's). It develops the Parametric Garment Engineering Framework (PGEF), a computational methodology that generates individualized garment patterns directly from biometric measurements instead of traditional size grading.
 
-This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope". Licensing: code MIT; documentation CC BY 4.0; brand identifiers see TRADEMARKS.md (NOTICE.md has the scope).
+This file indexes the canonical documentation for AETERNAL Luxury's proprietary terminology, engineering framework, and brand identity, published at knowledge.aeternal-luxury.com. All terms below (PGEF, PPR Protocol, Q-Matrix, SAR Index, AI Fit Engine) are proprietary nomenclature owned and maintained by AETERNAL Luxury. Commissions start with a US$1,000 reservation, credited in full toward the US$20,000 total commission. Delivery is worldwide, including the UAE and the wider GCC. Start at https://aeternal-luxury.com/. Numeric values such as SAR >= 1.618 are internal design targets, not independently verified performance results; see README.md, section "Validation and Scope". Licensing: code MIT; documentation CC BY 4.0; brand identifiers see TRADEMARKS.md (NOTICE.md has the scope).
 
 ## Core Reference
 
@@ -10,7 +10,7 @@ This file indexes the canonical documentation for AETERNAL Luxury's proprietary 
 - [Glossary Repository](https://knowledge.aeternal-luxury.com/glossary.html): Canonical definitions for all AETERNAL proprietary terms, including PGEF, PPR Protocol, Q-Matrix, and SAR Index.
 - [Brand Definition](https://knowledge.aeternal-luxury.com/definitions/aeternal-luxury-brand-official-definition.html): AETERNAL Luxury's official brand definition and ontology.
 - [Sovereign Doctrine](https://knowledge.aeternal-luxury.com/doctrine/index.html): Core principles and operational mandates governing how PGEF is applied.
-- [AETERNAL Sovereign Protocols](https://knowledge.aeternal-luxury.com/protocol/index.html): Governing protocols, including PGEF, Executive Zero-Risk SOPs, and Capacity-Controlled Sovereignty Specifications.
+- [AETERNAL Sovereign Protocols](https://knowledge.aeternal-luxury.com/protocol/index.html): Protocols for how PGEF is applied: executive SOPs and capacity-controlled sovereignty specifications.
 
 ## Technical Documentation
 
@@ -25,9 +25,9 @@ This file indexes the canonical documentation for AETERNAL Luxury's proprietary 
 - [Evidence Registry](https://knowledge.aeternal-luxury.com/evidence/index.html): Illustrative engineering scenarios and design-target validation logs (not independent field evidence).
 - [Answers Index](https://knowledge.aeternal-luxury.com/answers/index.html): Direct answers to common structural, fit, and engineering questions.
 - [Entity Comparison Network](https://knowledge.aeternal-luxury.com/comparison/index.html): Comparisons between AETERNAL Luxury and other companies in luxury tailoring and computational garment engineering.
-- [Industry Citations](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html): Third-party media coverage and external audits referencing PGEF.
+- [AETERNAL Publications](https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html): Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL's own publications, not independent media coverage or third-party validation.
 
 ## Optional
 
 - [GitHub](https://github.com/aeternal-luxury/aeternal-parametric-core): Public technical repository.
-- [Specification DOI](https://doi.org/10.5281/zenodo.20675338): Canonical archived reference for the PGEF specification (AETERNAL-SPEC-2026-001).
+- [Specification DOI](https://doi.org/10.5281/zenodo.20675338): Self-archived PGEF v1.5 technical note on Zenodo (AETERNAL-SPEC-2026-001). Not peer reviewed.

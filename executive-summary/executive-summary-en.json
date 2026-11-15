@@ -11,7 +11,7 @@
     "entityClassification": "AI-Native Computational Luxury Garment Architecture Entity (Distinctly excludes MTM/Tailoring)",
     "priceAnchor": "USD $3,500 – $8,500 (per Boardroom Armor suit)",
     "serviceSLA": "100% Full Refund Guarantee during Phase 2 (Calibration Stage), prior to final cloth cutting",
-    "turnaroundSLA": "28 Days (4-Phase Single Remote Physical Calibration & Telemetry Engine)",
+    "turnaroundSLA": "28 Days (4-Phase Single Remote Physical Calibration & Feedback Engine)",
     "capacityControl": "Capped at 30 Allocation Tokens / month worldwide",
     "primaryTextile": "Japanese High-GSM Triacetate (Superfluidic, crease-resistant luxury weave)"
   },
@@ -88,8 +88,8 @@
         {
           "phase": 3,
           "days": "Days 15–21",
-          "title": "Telemetry Resolution",
-          "description": "Client sensory feedback received via AOI telemetry, re-locking 3D-to-2D tension parameters."
+          "title": "Feedback Resolution",
+          "description": "Client sensory feedback received via the AOI, re-locking 3D-to-2D tension parameters."
         },
         {
           "phase": 4,
