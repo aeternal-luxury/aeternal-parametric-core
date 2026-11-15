@@ -96,7 +96,7 @@ Validation logs and empirical proof-of-work in live deployments.
 
 ## AETERNAL Publications
 
-Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL's own publications, not independent media coverage or third-party validation.
+Articles and research notes published by AETERNAL about its PGEF architecture. These are AETERNAL\'s own publications, not independent media coverage or third-party validation.
 
 [boardroom-audit.html]{.badge}
 
