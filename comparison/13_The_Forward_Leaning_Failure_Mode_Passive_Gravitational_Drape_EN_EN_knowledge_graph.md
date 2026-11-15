@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_en_en"
   }
 }
 ```

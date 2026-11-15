@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_ZH.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

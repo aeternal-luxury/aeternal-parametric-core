@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_en_en"
   }
 }
 ```

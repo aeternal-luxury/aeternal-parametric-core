@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/11_the_collar_gap_anomaly_why_precise_3d_scanning_fails_without_en_en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

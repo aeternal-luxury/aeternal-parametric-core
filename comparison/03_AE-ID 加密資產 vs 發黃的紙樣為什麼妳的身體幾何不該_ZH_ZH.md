@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

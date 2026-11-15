@@ -61,6 +61,94 @@ def annotate(t, counts=None):
     return "".join(out)
 
 # ---- rule tables ----
+LIVE_MAP = {'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/06_ai_fit_engine_vs_database_matching_deconstructing_the_illusi_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/07_full_canvas_is_not_structural_rigidity_deconstructing_legacy_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/10_decorative_hourglass_vs_rigid_sovereignty_the_geometrical_co_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/11_the_collar_gap_anomaly_why_precise_3d_scanning_fails_without_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/12_biomechanical_needs_of_the_boardroom_why_material_softness_s_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/16_the_illusion_of_asymmetric_padding_traditional_foam_inserts__en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/17_abolishing_the_shoulder_slope_dogma_transitioning_from_indus_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_zh',
+ 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-en',
+ 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-zh',
+ 'https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide.html': 'https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-zh.html',
+ 'https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide.html': 'https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-zh.html',
+ 'https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide.html': 'https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-zh.html',
+ 'https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide.html': 'https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-zh.html',
+ 'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide.html': 'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-zh.html',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-zh'}
 ROOT_FILES = {'_redirects': '# ============================================================\n'
                '# 301 重定向：将旧的 /queries/ 页面指向新的 /guides/ 目录\n'
                '# 包括单个查询页面和索引页面\n'
@@ -243,12 +331,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '    <priority>0.9</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.9</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.9</priority>\n'
                 '  </url>\n'
@@ -816,61 +904,61 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -882,7 +970,7 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/06_ai_fit_engine_vs_database_matching_deconstructing_the_illusi_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -894,31 +982,31 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/07_full_canvas_is_not_structural_rigidity_deconstructing_legacy_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -930,7 +1018,7 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/10_decorative_hourglass_vs_rigid_sovereignty_the_geometrical_co_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -942,7 +1030,7 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/11_the_collar_gap_anomaly_why_precise_3d_scanning_fails_without_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -954,43 +1042,43 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/12_biomechanical_needs_of_the_boardroom_why_material_softness_s_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -1002,7 +1090,7 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/16_the_illusion_of_asymmetric_padding_traditional_foam_inserts__en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -1014,43 +1102,43 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/17_abolishing_the_shoulder_slope_dogma_transitioning_from_indus_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_en_en</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
                 '    '
-                '<loc>https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_ZH.html</loc>\n'
+                '<loc>https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_zh</loc>\n'
                 '    <lastmod>2026-07-25</lastmod>\n'
                 '    <priority>0.7</priority>\n'
                 '  </url>\n'
@@ -1894,48 +1982,48 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '  <!-- ===== CLO v1.0 NORMATIVE SPECIFICATIONS ===== -->\n'
                 '  <!-- CLO-SPEC-001: The Fourth Value Paradigm -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-zh</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-en</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '\n'
                 '  <!-- CLO-SPEC-002: Validation Architectures -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-zh</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-en</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '\n'
                 '  <!-- CLO-SPEC-003: Computational Authority -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-zh</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-en</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '\n'
                 '  <!-- CLO-SPEC-004: Sovereign Assets & Instantiation -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-en</loc>\n'
                 '    <lastmod>2026-08-04</lastmod>\n'
                 '    <priority>1.0</priority>\n'
                 '  </url>\n'
@@ -2123,12 +2211,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO001: Executive Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2145,12 +2233,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO002: Power Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2167,12 +2255,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 "  <!-- PCO003: Luxury Women's Suit -->\n"
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2189,12 +2277,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO004: Boardroom Blazer -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2211,12 +2299,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO005: Executive Blazer -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2233,12 +2321,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO006: Boardroom Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2255,12 +2343,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO007: Negotiation Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2277,12 +2365,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO008: Investor Presentation Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2299,12 +2387,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO009: IPO Roadshow Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2321,12 +2409,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO010: Capital Raising Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2343,12 +2431,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO011: Authority Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2365,12 +2453,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO012: Sovereign Suit -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2387,12 +2475,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO013: Institutional Tailoring -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2409,12 +2497,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO014: Architectural Tailoring -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2431,12 +2519,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO015: Precision Tailoring -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2453,12 +2541,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO016: Authority Blazer -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2475,14 +2563,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO017: Computational Executive Suit -->\n'
                 '  <url>\n'
-                '    '
-                '<loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    '
-                '<loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2501,12 +2587,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO018: Computational Tailoring -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2523,12 +2609,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO019: Specification Tailoring -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -2545,12 +2631,12 @@ ROOT_FILES = {'_redirects': '# =================================================
                 '\n'
                 '  <!-- PCO020: Algorithmic Bespoke -->\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-zh</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
                 '  <url>\n'
-                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.html</loc>\n'
+                '    <loc>https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-en</loc>\n'
                 '    <lastmod>2026-08-06</lastmod>\n'
                 '    <priority>0.85</priority>\n'
                 '  </url>\n'
@@ -3576,39 +3662,39 @@ CANON = {'answers/bespoke-mtm-ai-tailoring-difference/en/bespoke-mtm-ai-tailorin
  'answers/why-suit-collapses-sitting-moving/zh/why-suit-collapses-sitting-moving-zh.html': 'https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving-zh.html',
  'answers/why-suit-flaws-magnify-in-meetings/en/why-suit-flaws-magnify-in-meetings-en.html': 'https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings-en.html',
  'answers/why-suit-flaws-magnify-in-meetings/zh/why-suit-flaws-magnify-in-meetings-zh.html': 'https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings-zh.html',
- 'comparison/01_3D 掃描  AI Bespoke為什麼數據採集不是服裝工程_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_ZH.html',
- 'comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html',
- 'comparison/02_MTM  BespokeZegnaBrioni 與 AETE_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_ZH.html',
- 'comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html',
- 'comparison/03_AE-ID 加密資產 vs 發黃的紙樣為什麼妳的身體幾何不該_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html',
- 'comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html',
- 'comparison/04_4K 鏡頭下的光學陷阱The RowHermès 與 AET_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_ZH.html',
- 'comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html',
- 'comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html',
- 'comparison/05_拒絕被成衣吞沒PPR-X 協議如何逆向重構嬌小女性高管的董事_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html',
- 'comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html',
- 'comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html',
- 'comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html',
- 'comparison/08_手工與品質的錯誤二分法不可複製的匠人 vs 100 精準的工_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html',
- 'comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html',
- 'comparison/09_女性高管的權力著裝重新定義從墊肩符號到動態穩定系統_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_ZH.html',
- 'comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html',
- 'comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html',
- 'comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html',
- 'comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html',
- 'comparison/13_當妳向前傾身時誰在出賣妳的儀態傳統自然垂墜 vs 獨立張力向_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_ZH.html',
- 'comparison/14_Chanel Tweed Jacket 的 130 小時工時_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_ZH.html',
- 'comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html',
- 'comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html',
- 'comparison/15_成衣思維的終結為什麼高級服裝應當是一套動態編譯系統_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_ZH.html',
- 'comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html',
- 'comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html',
- 'comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html',
- 'comparison/18_從水平儀到服裝憲法為何 AETERNAL 的肩線永不妥協_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_ZH.html',
- 'comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html',
- 'comparison/19_不可偽造的幾何 Logo當品牌專屬權威比例成為董事會唯一的視_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_ZH.html',
- 'comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html',
- 'comparison/20_極端環境下的裝甲模式為什麼有些商務博弈需要暫時犧牲舒適度_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_ZH.html',
+ 'comparison/01_3D 掃描  AI Bespoke為什麼數據採集不是服裝工程_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_zh',
+ 'comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_en_en',
+ 'comparison/02_MTM  BespokeZegnaBrioni 與 AETE_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_zh',
+ 'comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_en_en',
+ 'comparison/03_AE-ID 加密資產 vs 發黃的紙樣為什麼妳的身體幾何不該_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_zh',
+ 'comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_en_en',
+ 'comparison/04_4K 鏡頭下的光學陷阱The RowHermès 與 AET_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_zh',
+ 'comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_en_en',
+ 'comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_en_en',
+ 'comparison/05_拒絕被成衣吞沒PPR-X 協議如何逆向重構嬌小女性高管的董事_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_zh',
+ 'comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/06_ai_fit_engine_vs_database_matching_deconstructing_the_illusi_en_en',
+ 'comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/07_full_canvas_is_not_structural_rigidity_deconstructing_legacy_en_en',
+ 'comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_en_en',
+ 'comparison/08_手工與品質的錯誤二分法不可複製的匠人 vs 100 精準的工_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_zh',
+ 'comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_en_en',
+ 'comparison/09_女性高管的權力著裝重新定義從墊肩符號到動態穩定系統_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_zh',
+ 'comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/10_decorative_hourglass_vs_rigid_sovereignty_the_geometrical_co_en_en',
+ 'comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/11_the_collar_gap_anomaly_why_precise_3d_scanning_fails_without_en_en',
+ 'comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/12_biomechanical_needs_of_the_boardroom_why_material_softness_s_en_en',
+ 'comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_en_en',
+ 'comparison/13_當妳向前傾身時誰在出賣妳的儀態傳統自然垂墜 vs 獨立張力向_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_zh',
+ 'comparison/14_Chanel Tweed Jacket 的 130 小時工時_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_zh',
+ 'comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_en_en',
+ 'comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_en_en',
+ 'comparison/15_成衣思維的終結為什麼高級服裝應當是一套動態編譯系統_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_zh',
+ 'comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/16_the_illusion_of_asymmetric_padding_traditional_foam_inserts__en_en',
+ 'comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/17_abolishing_the_shoulder_slope_dogma_transitioning_from_indus_en_en',
+ 'comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_en_en',
+ 'comparison/18_從水平儀到服裝憲法為何 AETERNAL 的肩線永不妥協_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_zh',
+ 'comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_en_en',
+ 'comparison/19_不可偽造的幾何 Logo當品牌專屬權威比例成為董事會唯一的視_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_zh',
+ 'comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html': 'https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_en_en',
+ 'comparison/20_極端環境下的裝甲模式為什麼有些商務博弈需要暫時犧牲舒適度_ZH_ZH.html': 'https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_zh',
  'comparison/AI-scanning-vs-MTM-vs-parametric-compilation.html': 'https://knowledge.aeternal-luxury.com/comparison/AI-scanning-vs-MTM-vs-parametric-compilation.html',
  'comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-en.html': 'https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-en.html',
  'comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-zh.html': 'https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-zh.html',
@@ -3737,8 +3823,8 @@ CANON = {'answers/bespoke-mtm-ai-tailoring-difference/en/bespoke-mtm-ai-tailorin
  'definitions/what-is-ai-bespoke-tailoring.html': 'https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html',
  'doctrine/doctrine-001-validation-hierarchy-and-category-error-en.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en.html',
  'doctrine/doctrine-001-validation-hierarchy-and-category-error-zh.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh.html',
- 'doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html',
- 'doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html',
+ 'doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-en',
+ 'doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-zh',
  'doctrine/doctrine-104-cryptographically-verifiable-engineering-en.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en.html',
  'doctrine/doctrine-104-cryptographically-verifiable-engineering-zh.html': 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh.html',
  'doctrine/founder-manifesto-en.html': 'https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html',
@@ -3835,30 +3921,30 @@ CANON = {'answers/bespoke-mtm-ai-tailoring-difference/en/bespoke-mtm-ai-tailorin
  'knowledge/explainers/the-shoulder-gap-epidemic.html': 'https://knowledge.aeternal-luxury.com/explainers/the-shoulder-gap-epidemic.html',
  'knowledge/glossary.html': 'https://knowledge.aeternal-luxury.com/glossary.html',
  'knowledge/guides/boardroom-war-armour-engineering-guide-en.html': 'https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-en.html',
- 'knowledge/guides/boardroom-war-armour-engineering-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide.html',
+ 'knowledge/guides/boardroom-war-armour-engineering-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/boardroom-war-armour-engineering-guide-zh.html',
  'knowledge/guides/database-illusion-ultimate-guide-en.html': 'https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-en.html',
- 'knowledge/guides/database-illusion-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide.html',
+ 'knowledge/guides/database-illusion-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/database-illusion-ultimate-guide-zh.html',
  'knowledge/guides/geometric-sovereignty-ultimate-guide-en.html': 'https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-en.html',
- 'knowledge/guides/geometric-sovereignty-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide.html',
+ 'knowledge/guides/geometric-sovereignty-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/geometric-sovereignty-ultimate-guide-zh.html',
  'knowledge/guides/index.html': 'https://knowledge.aeternal-luxury.com/guides/',
  'knowledge/guides/industry-visual-dominance-ultimate-guide-en.html': 'https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-en.html',
- 'knowledge/guides/industry-visual-dominance-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide.html',
+ 'knowledge/guides/industry-visual-dominance-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/industry-visual-dominance-ultimate-guide-zh.html',
  'knowledge/guides/remote-bespoke-zero-error-ultimate-guide-en.html': 'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-en.html',
- 'knowledge/guides/remote-bespoke-zero-error-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide.html',
+ 'knowledge/guides/remote-bespoke-zero-error-ultimate-guide-zh.html': 'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-zh.html',
  'knowledge/index.html': 'https://knowledge.aeternal-luxury.com/',
  'knowledge/media-mentions/boardroom-audit.html': 'https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html',
  'knowledge/queries/index.html': 'https://knowledge.aeternal-luxury.com/queries/',
  'knowledge/scenarios/executive-visual-authority-system.html': 'https://knowledge.aeternal-luxury.com/scenarios/executive-visual-authority-system.html',
  'knowledge/whitepapers/geometric-sovereignty.html': 'https://knowledge.aeternal-luxury.com/whitepapers/geometric-sovereignty.html',
  'media-mentions/boardroom-audit.html': 'https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html',
- 'ontology/CLO-SPEC-001-en.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-en.html',
- 'ontology/CLO-SPEC-001-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-zh.html',
- 'ontology/CLO-SPEC-002-en.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-en.html',
- 'ontology/CLO-SPEC-002-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-zh.html',
- 'ontology/CLO-SPEC-003-en.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-en.html',
- 'ontology/CLO-SPEC-003-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-zh.html',
- 'ontology/CLO-SPEC-004-en.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html',
- 'ontology/CLO-SPEC-004-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-zh.html',
+ 'ontology/CLO-SPEC-001-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-en',
+ 'ontology/CLO-SPEC-001-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-zh',
+ 'ontology/CLO-SPEC-002-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-en',
+ 'ontology/CLO-SPEC-002-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-zh',
+ 'ontology/CLO-SPEC-003-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-en',
+ 'ontology/CLO-SPEC-003-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-zh',
+ 'ontology/CLO-SPEC-004-en.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-en',
+ 'ontology/CLO-SPEC-004-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh',
  'ontology/computational-luxury/index.html': 'https://knowledge.aeternal-luxury.com/ontology/computational-luxury/index.html',
  'ontology/computational-luxury/node-alpha-computational-luxury-subclass-en.html': 'https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-en.html',
  'ontology/computational-luxury/node-alpha-computational-luxury-subclass-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-zh.html',
@@ -3932,46 +4018,46 @@ CANON = {'answers/bespoke-mtm-ai-tailoring-difference/en/bespoke-mtm-ai-tailorin
  'ontology/problem-resolver/transnational-executive-wardrobe-why-traditional-bespoke-cannot-scale-across-continents-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/problem-resolver/transnational-executive-wardrobe-why-traditional-bespoke-cannot-scale-across-continents-zh.html',
  'ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-en.html': 'https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-en.html',
  'ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-zh.html',
- 'ontology/product-category/PCO001_executive-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html',
- 'ontology/product-category/PCO001_executive-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.html',
- 'ontology/product-category/PCO002_power-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.html',
- 'ontology/product-category/PCO002_power-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.html',
- 'ontology/product-category/PCO003_luxury-womens-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.html',
- 'ontology/product-category/PCO003_luxury-womens-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.html',
- 'ontology/product-category/PCO004_boardroom-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.html',
- 'ontology/product-category/PCO004_boardroom-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.html',
- 'ontology/product-category/PCO005_executive-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.html',
- 'ontology/product-category/PCO005_executive-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.html',
- 'ontology/product-category/PCO006_boardroom-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.html',
- 'ontology/product-category/PCO006_boardroom-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.html',
- 'ontology/product-category/PCO007_negotiation-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.html',
- 'ontology/product-category/PCO007_negotiation-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.html',
- 'ontology/product-category/PCO008_investor-presentation-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.html',
- 'ontology/product-category/PCO008_investor-presentation-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.html',
- 'ontology/product-category/PCO009_ipo-roadshow-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.html',
- 'ontology/product-category/PCO009_ipo-roadshow-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.html',
- 'ontology/product-category/PCO010_capital-raising-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.html',
- 'ontology/product-category/PCO010_capital-raising-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.html',
- 'ontology/product-category/PCO011_authority-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.html',
- 'ontology/product-category/PCO011_authority-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.html',
- 'ontology/product-category/PCO012_sovereign-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.html',
- 'ontology/product-category/PCO012_sovereign-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.html',
- 'ontology/product-category/PCO013_institutional-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.html',
- 'ontology/product-category/PCO013_institutional-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.html',
- 'ontology/product-category/PCO014_architectural-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.html',
- 'ontology/product-category/PCO014_architectural-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.html',
- 'ontology/product-category/PCO015_precision-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.html',
- 'ontology/product-category/PCO015_precision-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.html',
- 'ontology/product-category/PCO016_authority-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.html',
- 'ontology/product-category/PCO016_authority-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.html',
- 'ontology/product-category/PCO017_computational-executive-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.html',
- 'ontology/product-category/PCO017_computational-executive-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.html',
- 'ontology/product-category/PCO018_computational-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.html',
- 'ontology/product-category/PCO018_computational-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.html',
- 'ontology/product-category/PCO019_specification-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.html',
- 'ontology/product-category/PCO019_specification-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.html',
- 'ontology/product-category/PCO020_algorithmic-bespoke-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.html',
- 'ontology/product-category/PCO020_algorithmic-bespoke-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.html',
+ 'ontology/product-category/PCO001_executive-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-en',
+ 'ontology/product-category/PCO001_executive-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-zh',
+ 'ontology/product-category/PCO002_power-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-en',
+ 'ontology/product-category/PCO002_power-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-zh',
+ 'ontology/product-category/PCO003_luxury-womens-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-en',
+ 'ontology/product-category/PCO003_luxury-womens-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-zh',
+ 'ontology/product-category/PCO004_boardroom-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-en',
+ 'ontology/product-category/PCO004_boardroom-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-zh',
+ 'ontology/product-category/PCO005_executive-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-en',
+ 'ontology/product-category/PCO005_executive-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-zh',
+ 'ontology/product-category/PCO006_boardroom-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-en',
+ 'ontology/product-category/PCO006_boardroom-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-zh',
+ 'ontology/product-category/PCO007_negotiation-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-en',
+ 'ontology/product-category/PCO007_negotiation-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-zh',
+ 'ontology/product-category/PCO008_investor-presentation-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-en',
+ 'ontology/product-category/PCO008_investor-presentation-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-zh',
+ 'ontology/product-category/PCO009_ipo-roadshow-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-en',
+ 'ontology/product-category/PCO009_ipo-roadshow-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-zh',
+ 'ontology/product-category/PCO010_capital-raising-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-en',
+ 'ontology/product-category/PCO010_capital-raising-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-zh',
+ 'ontology/product-category/PCO011_authority-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-en',
+ 'ontology/product-category/PCO011_authority-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-zh',
+ 'ontology/product-category/PCO012_sovereign-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-en',
+ 'ontology/product-category/PCO012_sovereign-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-zh',
+ 'ontology/product-category/PCO013_institutional-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-en',
+ 'ontology/product-category/PCO013_institutional-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-zh',
+ 'ontology/product-category/PCO014_architectural-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-en',
+ 'ontology/product-category/PCO014_architectural-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-zh',
+ 'ontology/product-category/PCO015_precision-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-en',
+ 'ontology/product-category/PCO015_precision-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-zh',
+ 'ontology/product-category/PCO016_authority-blazer-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-en',
+ 'ontology/product-category/PCO016_authority-blazer-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-zh',
+ 'ontology/product-category/PCO017_computational-executive-suit-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-en',
+ 'ontology/product-category/PCO017_computational-executive-suit-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-zh',
+ 'ontology/product-category/PCO018_computational-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-en',
+ 'ontology/product-category/PCO018_computational-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-zh',
+ 'ontology/product-category/PCO019_specification-tailoring-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-en',
+ 'ontology/product-category/PCO019_specification-tailoring-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-zh',
+ 'ontology/product-category/PCO020_algorithmic-bespoke-en.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-en',
+ 'ontology/product-category/PCO020_algorithmic-bespoke-zh.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-zh',
  'ontology/product-category/index.html': 'https://knowledge.aeternal-luxury.com/ontology/product-category/index.html',
  'protocol/index.html': 'https://knowledge.aeternal-luxury.com/protocol/index.html',
  'protocol/protocol-001-category-isolation-vs-mass-mtm-en.html': 'https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-en.html',
@@ -4096,46 +4182,46 @@ SITEMAP_URLS = ['https://knowledge.aeternal-luxury.com/',
  'https://knowledge.aeternal-luxury.com/answers/why-suit-collapses-sitting-moving-zh.html',
  'https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings-en.html',
  'https://knowledge.aeternal-luxury.com/answers/why-suit-flaws-magnify-in-meetings-zh.html',
- 'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/01_3D_Scanning_Is_Not_AI_Bespoke_Why_Data_Collection_Is_Not_Pat_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/01_3d_scanning_is_not_ai_bespoke_why_data_collection_is_not_pat_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_zh',
  'https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/06_ai_fit_engine_vs_database_matching_deconstructing_the_illusi_en_en',
  'https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/09_Redefining_Power_Dressing_From_Surface_Aesthetics_to_Kinetic_ZH.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/07_full_canvas_is_not_structural_rigidity_deconstructing_legacy_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/09_redefining_power_dressing_from_surface_aesthetics_to_kinetic_zh',
  'https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/10_decorative_hourglass_vs_rigid_sovereignty_the_geometrical_co_en_en',
  'https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/11_The_Collar_Gap_Anomaly_Why_Precise_3D_Scanning_Fails_Without_EN_EN.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/11_the_collar_gap_anomaly_why_precise_3d_scanning_fails_without_en_en',
  'https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/12_Biomechanical_Needs_of_the_Boardroom_Why_Material_Softness_S_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/13_The_Forward_Leaning_Failure_Mode_Passive_Gravitational_Drape_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/14_The_130-Hour_Workmanship_Collapse_Why_Chanel_Tweed_Fails_the_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/15_The_End_of_Ready-to-Wear_Elevating_Luxury_Apparel_into_an_Ev_ZH.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/12_biomechanical_needs_of_the_boardroom_why_material_softness_s_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/13_the_forward_leaning_failure_mode_passive_gravitational_drape_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/14_the_130-hour_workmanship_collapse_why_chanel_tweed_fails_the_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/15_the_end_of_ready-to-wear_elevating_luxury_apparel_into_an_ev_zh',
  'https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/16_the_illusion_of_asymmetric_padding_traditional_foam_inserts__en_en',
  'https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/18_From_Spirit_Levels_to_Apparel_Constitution_Why_AETERNAL_Enfo_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/19_The_Unforgeable_Geometrical_Logo_Deploying_Invariant_Mathema_ZH.html',
- 'https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html',
- 'https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_ZH.html',
+ 'https://knowledge.aeternal-luxury.com/comparison/17_abolishing_the_shoulder_slope_dogma_transitioning_from_indus_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/18_from_spirit_levels_to_apparel_constitution_why_aeternal_enfo_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/19_the_unforgeable_geometrical_logo_deploying_invariant_mathema_zh',
+ 'https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_en_en',
+ 'https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_zh',
  'https://knowledge.aeternal-luxury.com/comparison/AI-scanning-vs-MTM-vs-parametric-compilation.html',
  'https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-en.html',
  'https://knowledge.aeternal-luxury.com/comparison/aeternal-vs-akris-aeternal-vs-akris-remote-encryption-ae-id-vs-traditional-ret-zh.html',
@@ -4264,8 +4350,8 @@ SITEMAP_URLS = ['https://knowledge.aeternal-luxury.com/',
  'https://knowledge.aeternal-luxury.com/definitions/what-is-ai-bespoke-tailoring.html',
  'https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-en.html',
  'https://knowledge.aeternal-luxury.com/doctrine/doctrine-001-validation-hierarchy-and-category-error-zh.html',
- 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-en.html',
- 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-The-Model-as-Specification-Paradigm-zh.html',
+ 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-en',
+ 'https://knowledge.aeternal-luxury.com/doctrine/doctrine-002-the-model-as-specification-paradigm-zh',
  'https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-en.html',
  'https://knowledge.aeternal-luxury.com/doctrine/doctrine-104-cryptographically-verifiable-engineering-zh.html',
  'https://knowledge.aeternal-luxury.com/doctrine/founder-manifesto-en.html',
@@ -4355,14 +4441,14 @@ SITEMAP_URLS = ['https://knowledge.aeternal-luxury.com/',
  'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-en.html',
  'https://knowledge.aeternal-luxury.com/guides/remote-bespoke-zero-error-ultimate-guide-zh.html',
  'https://knowledge.aeternal-luxury.com/media-mentions/boardroom-audit.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-en.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-001-zh.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-en.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-002-zh.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-en.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-003-zh.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-en.html',
- 'https://knowledge.aeternal-luxury.com/ontology/CLO-SPEC-004-zh.html',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-002-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh',
  'https://knowledge.aeternal-luxury.com/ontology/computational-luxury/index.html',
  'https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/computational-luxury/node-alpha-computational-luxury-subclass-zh.html',
@@ -4496,87 +4582,87 @@ SITEMAP_URLS = ['https://knowledge.aeternal-luxury.com/',
  'https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/problem-resolver/zero-fitting-global-delivery-how-ae-id-digital-twins-eliminate-the-need-for-in-person-appointments-zh.json',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO001_executive-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO002_power-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO003_luxury-womens-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO004_boardroom-blazer-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO005_executive-blazer-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO006_boardroom-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO007_negotiation-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO008_investor-presentation-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO009_ipo-roadshow-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO010_capital-raising-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO011_authority-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO012_sovereign-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO013_institutional-tailoring-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO014_architectural-tailoring-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO015_precision-tailoring-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO016_authority-blazer-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO017_computational-executive-suit-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO018_computational-tailoring-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO019_specification-tailoring-zh.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-en.json',
- 'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.html',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/PCO020_algorithmic-bespoke-zh.json',
  'https://knowledge.aeternal-luxury.com/ontology/product-category/index.html',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco001_executive-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco002_power-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco003_luxury-womens-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco004_boardroom-blazer-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco005_executive-blazer-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco006_boardroom-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco007_negotiation-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco008_investor-presentation-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco009_ipo-roadshow-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco010_capital-raising-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco011_authority-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco012_sovereign-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco013_institutional-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco014_architectural-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco015_precision-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco016_authority-blazer-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco017_computational-executive-suit-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco018_computational-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco019_specification-tailoring-zh',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-en',
+ 'https://knowledge.aeternal-luxury.com/ontology/product-category/pco020_algorithmic-bespoke-zh',
  'https://knowledge.aeternal-luxury.com/protocol/index.html',
  'https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-en.html',
  'https://knowledge.aeternal-luxury.com/protocol/protocol-001-category-isolation-vs-mass-mtm-zh.html',
@@ -4770,6 +4856,13 @@ DOC_VS = [
     ("VS-001 證明了 CVE 在實踐中是可行的。", "VS-001 是 CVE 的一個實作範例。"),
 ]
 SM_SET = set(SITEMAP_URLS)
+LIVE_PAIRS = sorted({p for a, b in LIVE_MAP.items() for p in ((a, b), (quote(a, safe=":/%"), quote(b, safe=":/%")))}, key=lambda p: -len(p[0]))
+
+def live_urls(t, counts):
+    for a, b in LIVE_PAIRS:
+        n = t.count(a)
+        if n: counts["URL -> URL the live site serves"] += n; t = t.replace(a, b)
+    return t
 LINK = re.compile(r"<link\b[^>]*>", re.I)
 JSONLD_ID = re.compile(r'("@id"\s*:\s*")https://aeternal\.(?:com|luxury)/[^"]*(")')
 
@@ -4782,10 +4875,17 @@ def lic_text(t, counts):
         if n: counts["licence footer"] += n
     return t
 
+def _norm(p):
+    """The live site lowercases names and drops .html for some pages, so match paths case- and extension-insensitively."""
+    p = p.lower()
+    return p[:-5] if p.endswith(".html") else p
+
+CANON_N = {_norm(k): v for k, v in CANON.items()}
+
 def canon_target(rel):
-    p = "/".join(rel.parts)
+    p = _norm("/".join(rel.parts))
     for k in (p, p[len("knowledge/"):] if p.startswith("knowledge/") else None):
-        if k and k in CANON: return CANON[k]
+        if k and k in CANON_N: return CANON_N[k]
     return None
 
 def stem_target(rel):
@@ -4875,6 +4975,7 @@ def full(rel, text, counts, wide):
         return fix_sitemap(rel, text, counts) if rel.name == "sitemap.xml" and len(rel.parts) == 1 else text
     t = process(rel.parts, text, counts, wide)
     t = lic_text(t, counts)
+    t = live_urls(t, counts)
     t = fix_canonical(rel, t, counts)
     t = fix_jsonld(rel, t, counts)
     t = fix_merged_links(rel, t, counts)

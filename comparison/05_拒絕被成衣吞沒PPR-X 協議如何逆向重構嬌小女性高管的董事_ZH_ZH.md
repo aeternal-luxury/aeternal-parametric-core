@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/05_Reclaiming_the_Visual_Center_of_Gravity_How_the_PPR-X_Protoc_ZH.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/05_reclaiming_the_visual_center_of_gravity_how_the_ppr-x_protoc_zh"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

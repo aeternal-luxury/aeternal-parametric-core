@@ -40,7 +40,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/08_The_Fallacy_of_Handcrafted_Luxury_Perishable_Variance_vs_Imm_ZH.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/08_the_fallacy_of_handcrafted_luxury_perishable_variance_vs_imm_zh"
   }
 }
 ```
