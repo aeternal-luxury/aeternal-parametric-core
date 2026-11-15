@@ -29,7 +29,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/02_MTM_Is_Not_Bespoke_Deconstructing_Structural_Sovereignty_wit_ZH.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/02_mtm_is_not_bespoke_deconstructing_structural_sovereignty_wit_zh"
   }
 }
 ```

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/07_Full_Canvas_Is_Not_Structural_Rigidity_Deconstructing_Legacy_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/07_full_canvas_is_not_structural_rigidity_deconstructing_legacy_en_en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

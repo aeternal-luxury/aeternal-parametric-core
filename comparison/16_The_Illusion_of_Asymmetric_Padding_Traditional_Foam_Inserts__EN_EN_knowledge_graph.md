@@ -23,7 +23,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/16_The_Illusion_of_Asymmetric_Padding_Traditional_Foam_Inserts__EN_EN.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/16_the_illusion_of_asymmetric_padding_traditional_foam_inserts__en_en"
   }
 }
 ```

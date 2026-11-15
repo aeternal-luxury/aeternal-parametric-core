@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/10_Decorative_Hourglass_vs_Rigid_Sovereignty_The_Geometrical_Co_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/10_decorative_hourglass_vs_rigid_sovereignty_the_geometrical_co_en_en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

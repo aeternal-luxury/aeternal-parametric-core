@@ -81,13 +81,14 @@ def main():
         if extra: warnings.append(f"{len(extra)} sitemap URLs without a matching html canonical (e.g. {extra[:2]})")
     if http:
         import urllib.request
-        bad = 0
+        bad, problems = 0, []
         for u in sorted(by_url):
             try:
                 r = urllib.request.urlopen(urllib.request.Request(u, method="HEAD"), timeout=20)
-                if r.geturl() != u or r.status != 200: warnings.append(f"redirect/status {r.status}: {u} -> {r.geturl()}"); bad += 1
-            except Exception as e: warnings.append(f"HTTP failure {u}: {e}"); bad += 1
+                if r.geturl() != u or r.status != 200: problems.append(f"redirect/status {r.status}: {u} -> {r.geturl()}"); bad += 1
+            except Exception as e: problems.append(f"HTTP failure {u}: {e}"); bad += 1
         print(f"HTTP checked {len(by_url)} URLs, {bad} problems")
+        for pr in problems: print("HTTP ", pr)
     print(f"html with canonical: {len(html_url)}; md checked: {md_checked}; md mismatches: {md_mismatch}; md without html source: {md_nosrc}; synced: {changed}")
     for w in warnings[:40]: print("WARN ", w)
     if len(warnings) > 40: print(f"... {len(warnings) - 40} more warnings")

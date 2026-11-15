@@ -40,10 +40,11 @@ LICENSE_PLAIN = lic.PLAIN
 LICENSE_RX = [(r.pattern, rep) for _n, r, rep in lic.RX]
 # old (merged) comparison pages -> surviving EN_EN page, as stem pairs (no extension); recorded in tools/merged_pages.json
 import json
+LIVE_MAP = json.loads((T / "live_url_map.json").read_text(encoding="utf-8"))["map"]
 MERGED = json.loads((T / "merged_pages.json").read_text(encoding="utf-8"))
 ROOT_FILES = {n: (_root / n).read_text(encoding="utf-8") for n in ("robots.txt", "sitemap.xml")}
 ROOT_FILES["_redirects"] = (_root / "knowledge" / "_redirects").read_text(encoding="utf-8")
-data = dict(ROOT_FILES=ROOT_FILES, CANON=CANON, SITEMAP_URLS=SITEMAP_URLS, MERGED=MERGED, LICENSE_PLAIN=LICENSE_PLAIN, LICENSE_RX=LICENSE_RX, NUM_PLAIN=nu.PLAIN, EV_GLOBAL=ev.GLOBAL, EV_EVIDENCE=ev.TARGETED["evidence/"], CORE=core, LEX_NARROW=lex_narrow, LEX_PR2=[x for x in lex_all if x not in lex_narrow])
+data = dict(LIVE_MAP=LIVE_MAP, ROOT_FILES=ROOT_FILES, CANON=CANON, SITEMAP_URLS=SITEMAP_URLS, MERGED=MERGED, LICENSE_PLAIN=LICENSE_PLAIN, LICENSE_RX=LICENSE_RX, NUM_PLAIN=nu.PLAIN, EV_GLOBAL=ev.GLOBAL, EV_EVIDENCE=ev.TARGETED["evidence/"], CORE=core, LEX_NARROW=lex_narrow, LEX_PR2=[x for x in lex_all if x not in lex_narrow])
 
 ENGINE = r'''
 # ---------------------------------------------------------------------------
@@ -91,6 +92,13 @@ DOC_VS = [
     ("VS-001 證明了 CVE 在實踐中是可行的。", "VS-001 是 CVE 的一個實作範例。"),
 ]
 SM_SET = set(SITEMAP_URLS)
+LIVE_PAIRS = sorted({p for a, b in LIVE_MAP.items() for p in ((a, b), (quote(a, safe=":/%"), quote(b, safe=":/%")))}, key=lambda p: -len(p[0]))
+
+def live_urls(t, counts):
+    for a, b in LIVE_PAIRS:
+        n = t.count(a)
+        if n: counts["URL -> URL the live site serves"] += n; t = t.replace(a, b)
+    return t
 LINK = re.compile(r"<link\b[^>]*>", re.I)
 JSONLD_ID = re.compile(r'("@id"\s*:\s*")https://aeternal\.(?:com|luxury)/[^"]*(")')
 
@@ -103,10 +111,17 @@ def lic_text(t, counts):
         if n: counts["licence footer"] += n
     return t
 
+def _norm(p):
+    """The live site lowercases names and drops .html for some pages, so match paths case- and extension-insensitively."""
+    p = p.lower()
+    return p[:-5] if p.endswith(".html") else p
+
+CANON_N = {_norm(k): v for k, v in CANON.items()}
+
 def canon_target(rel):
-    p = "/".join(rel.parts)
+    p = _norm("/".join(rel.parts))
     for k in (p, p[len("knowledge/"):] if p.startswith("knowledge/") else None):
-        if k and k in CANON: return CANON[k]
+        if k and k in CANON_N: return CANON_N[k]
     return None
 
 def stem_target(rel):
@@ -196,6 +211,7 @@ def full(rel, text, counts, wide):
         return fix_sitemap(rel, text, counts) if rel.name == "sitemap.xml" and len(rel.parts) == 1 else text
     t = process(rel.parts, text, counts, wide)
     t = lic_text(t, counts)
+    t = live_urls(t, counts)
     t = fix_canonical(rel, t, counts)
     t = fix_jsonld(rel, t, counts)
     t = fix_merged_links(rel, t, counts)

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/17_Abolishing_the_Shoulder_Slope_Dogma_Transitioning_from_Indus_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/17_abolishing_the_shoulder_slope_dogma_transitioning_from_indus_en_en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

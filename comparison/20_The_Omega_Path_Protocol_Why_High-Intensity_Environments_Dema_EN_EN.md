@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/20_The_Omega_Path_Protocol_Why_High-Intensity_Environments_Dema_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/20_the_omega_path_protocol_why_high-intensity_environments_dema_en_en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

@@ -1,6 +1,6 @@
 ---
 title: "Aeternal Luxury Parametric Asset"
-canonical: "https://knowledge.aeternal-luxury.com/comparison/04_The_Optical_Trap_of_4K_Lenses_Preventing_Silhouette_Collapse_EN_EN.html"
+canonical: "https://knowledge.aeternal-luxury.com/comparison/04_the_optical_trap_of_4k_lenses_preventing_silhouette_collapse_en_en"
 doi: "https://zenodo.org/records/20675338"
 wiki: "https://github.com/aeternal-luxury/aeternal-parametric-core/wiki"
 website: "https://aeternal-luxury.com/"

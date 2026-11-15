@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/06_AI_Fit_Engine_vs_Database_Matching_Deconstructing_the_Illusi_EN_EN.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/06_ai_fit_engine_vs_database_matching_deconstructing_the_illusi_en_en"
   }
 }
 ```

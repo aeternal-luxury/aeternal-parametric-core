@@ -32,7 +32,7 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://knowledge.aeternal-luxury.com/comparison/03_The_Cryptographic_Registry_vs_Perishable_Paper_Patterns_Digi_EN_EN.html"
+    "@id": "https://knowledge.aeternal-luxury.com/comparison/03_the_cryptographic_registry_vs_perishable_paper_patterns_digi_en_en"
   }
 }
 ```
