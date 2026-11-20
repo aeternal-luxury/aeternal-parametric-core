@@ -112,6 +112,46 @@ Diplomatic Negotiator Sovereign Wealth Summit
 
 [繁體中文](/scenarios/014-diplomatic-negotiator-sovereign-wealth-summit-zh.html) \| [ENGLISH](/scenarios/014-diplomatic-negotiator-sovereign-wealth-summit-en.html)
 
+## 3. Occasions & Body Types
+
+Plain-language pages on weddings, graduations, speeches and on builds that standard sizes do not fit.
+
+OCC_001
+
+Bespoke Wedding Suits for Grooms and Brides
+
+[繁體中文](/scenarios/015-wedding-suit-zh.html) \| [ENGLISH](/scenarios/015-wedding-suit-en.html)
+
+OCC_002
+
+Bespoke Graduation Suits
+
+[繁體中文](/scenarios/016-graduation-suit-zh.html) \| [ENGLISH](/scenarios/016-graduation-suit-en.html)
+
+OCC_003
+
+Bespoke Suits for Speeches, Keynotes and Presentations
+
+[繁體中文](/scenarios/017-speech-and-presentation-suit-zh.html) \| [ENGLISH](/scenarios/017-speech-and-presentation-suit-en.html)
+
+OCC_004
+
+Bespoke Suits for Very Tall and Very Short Builds
+
+[繁體中文](/scenarios/018-very-tall-and-short-builds-zh.html) \| [ENGLISH](/scenarios/018-very-tall-and-short-builds-en.html)
+
+OCC_005
+
+Bespoke Suits for Plus-Size Builds
+
+[繁體中文](/scenarios/019-plus-size-builds-zh.html) \| [ENGLISH](/scenarios/019-plus-size-builds-en.html)
+
+OCC_006
+
+Bespoke Suits for Non-Standard Proportions
+
+[繁體中文](/scenarios/020-non-standard-proportions-zh.html) \| [ENGLISH](/scenarios/020-non-standard-proportions-en.html)
+
 [INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/index.html) [EVIDENCE](/evidence/index.html)
 
 Owner & Creator: **AETERNAL Luxury** (aeternal-luxury.com) · Proprietary AI Bespoke Tailoring™ Framework\
