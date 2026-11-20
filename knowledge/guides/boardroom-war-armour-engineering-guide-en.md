@@ -18,14 +18,14 @@ Maintaining Absolute Structural Permanence During 8-Hour High-Pressure Sessions
 
 **📖 Table of Contents**
 
--   [1. The Boardroom Battlefield: Why Static Suits Fail](#s1)
--   [2. The Cost of Prolonged Sitting: Fabric Fatigue and Collapse](#s2)
--   [3. The Arm-Raising Crisis: The Armscye Mechanical Trap](#s3)
--   [4. The Investment Banker\'s 14-Hour Challenge](#s4)
--   [5. The Solution: Q-Matrix Dynamic Stress Routing](#s5)
--   [6. UAA Protocol: Unconstrained Armscye Alignment](#s6)
--   [7. Dynamic Compensation Matrix: Real-Time Silhouette Lock](#s7)
--   [8. From Armour to Visual Sovereignty: Deploy Your Defense System](#s8)
+- [1. The Boardroom Battlefield: Why Static Suits Fail](#s1)
+- [2. The Cost of Prolonged Sitting: Fabric Fatigue and Collapse](#s2)
+- [3. The Arm-Raising Crisis: The Armscye Mechanical Trap](#s3)
+- [4. The Investment Banker\'s 14-Hour Challenge](#s4)
+- [5. The Solution: Q-Matrix Dynamic Stress Routing](#s5)
+- [6. UAA Protocol: Unconstrained Armscye Alignment](#s6)
+- [7. Dynamic Compensation Matrix: Real-Time Silhouette Lock](#s7)
+- [8. From Armour to Visual Sovereignty: Deploy Your Defense System](#s8)
 
 ## 1. The Boardroom Battlefield: Why Static Suits Fail {#s1}
 
@@ -37,9 +37,9 @@ Boardroom presence is fundamentally a game of **spatial geometry**. Your silhoue
 
 During 6-8 hour sessions, your body shifts continuously. Traditional suit fabrics and canvases suffer irreversible deformation under sustained pressure:
 
--   **Abdominal Creases:** Prolonged sitting causes fabric pooling, creating unsightly horizontal wrinkles that signal lack of discipline.
--   **Back Bulges:** Pressure on the neck and scapula creates bumps that destroy overall flatness.
--   **Collar Gaps:** After extended periods of looking down at documents, the collar shifts backward, exposing vulnerability.
+- **Abdominal Creases:** Prolonged sitting causes fabric pooling, creating unsightly horizontal wrinkles that signal lack of discipline.
+- **Back Bulges:** Pressure on the neck and scapula creates bumps that destroy overall flatness.
+- **Collar Gaps:** After extended periods of looking down at documents, the collar shifts backward, exposing vulnerability.
 
 **⚡ Traditional Suit Fatigue Curve**\
 After 2 hours of continuous sitting, chest and shoulder tension drops by 30%, and permanent wrinkling begins. After 4 hours, silhouette deformation exceeds 50%.

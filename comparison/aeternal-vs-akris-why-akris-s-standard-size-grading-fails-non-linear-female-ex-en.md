@@ -24,9 +24,9 @@ This approach ensures that the same design maintains a consistent visual proport
 
 From its inception, Akris's grading system was designed to serve a customer group with clear statistical characteristics: their body dimensions generally fall within the interval that the linear scaling assumption can approximate. For this group, standard grading can provide:
 
--   **Predictable fit**: The ratio of body circumferences to height stays within the tolerance of the base pattern; after grading, key structural points (shoulder point, bust point, waistline) shift synchronously, and local stress disharmony is almost absent.
--   **Brand visual consistency**: The proportional relationships of the same design across sizes are intentionally preserved, allowing the wearer to obtain the silhouette intended by the designer.
--   **Efficient end‑user experience**: The client only needs to select a standard size and, in the vast majority of cases, will obtain near-bespoke static appearance, reducing reliance on multiple trials and alterations.
+- **Predictable fit**: The ratio of body circumferences to height stays within the tolerance of the base pattern; after grading, key structural points (shoulder point, bust point, waistline) shift synchronously, and local stress disharmony is almost absent.
+- **Brand visual consistency**: The proportional relationships of the same design across sizes are intentionally preserved, allowing the wearer to obtain the silhouette intended by the designer.
+- **Efficient end‑user experience**: The client only needs to select a standard size and, in the vast majority of cases, will obtain near-bespoke static appearance, reducing reliance on multiple trials and alterations.
 
 For a brand whose operations are centered on standardised luxury ready‑to‑wear, this system aligns with its business positioning: to deliver structurally reliable garments at a controllable cost while covering an acceptable size range.
 
@@ -42,9 +42,9 @@ Standard grading operates on an implicit premise: all critical dimensions are in
 
 In certain high‑level executive populations, the relationship between body dimensions may deviate from the above linear regression, for example:
 
--   **Non‑linearity between mass distribution and height**: A shorter individual (e.g., ≤160 cm) may still possess a relatively high torso mass, causing a bust/waist ratio that differs from the base pattern rather than scaling down proportionally.
--   **Independent variation of shoulder structure and thoracic volume**: Specific body types may cause the shoulder skeletal framework and rib‑cage volume to vary independently, no longer following the same grading factor. In such cases, the graded shoulder point position and armhole curve may shift relative to the actual body envelope.
--   **Differences in spinal sagittal curvature**: Individual variations in lumbar lordosis and upper‑back curvature change the actual length ratio of the front waist to the back waist. Linear grading only performs proportional changes on a two‑dimensional plane and cannot reconstruct this three‑dimensional relationship.
+- **Non‑linearity between mass distribution and height**: A shorter individual (e.g., ≤160 cm) may still possess a relatively high torso mass, causing a bust/waist ratio that differs from the base pattern rather than scaling down proportionally.
+- **Independent variation of shoulder structure and thoracic volume**: Specific body types may cause the shoulder skeletal framework and rib‑cage volume to vary independently, no longer following the same grading factor. In such cases, the graded shoulder point position and armhole curve may shift relative to the actual body envelope.
+- **Differences in spinal sagittal curvature**: Individual variations in lumbar lordosis and upper‑back curvature change the actual length ratio of the front waist to the back waist. Linear grading only performs proportional changes on a two‑dimensional plane and cannot reconstruct this three‑dimensional relationship.
 
 The table below summarises the structural migrations that may occur when body characteristics exceed the average assumption (the word "may" is used to emphasise that these are phenomena beyond the design boundary and are not inevitable):
 
@@ -64,12 +64,12 @@ AETERNAL's cutting method does not start from a pre‑defined pattern, nor does 
 
 ### 4.1 Core Engineering Mechanisms
 
--   **SAR Index (Structural Authority Ratio) ≥ 1.618**\
-    The overall tensile network inside the garment must reach a preset golden threshold; any parameter combination that cannot satisfy this condition will be automatically rejected by the system. This ensures that the final structure possesses mathematical static purity and tensile closure.
--   **Q‑Matrix (Conflict Winding Equation)**\
-    During the compilation phase, the algorithm predicts the dynamic stress concentration points between the fabric and various body regions under the wearer's key movements, and redistributes local stresses along structural lines through winding paths. For example, when the arm is raised forward, the tension on the inner sleeve will not be transmitted to the neckline via the side seam, thus preventing neckline deformation.
--   **AE‑ID (AETERNAL Digital Geometric Identity)**\
-    Each client generates a non‑transferable structural key that stores their complete envelope data and corresponding cutting logic. Any compliant atelier worldwide can reproduce the exact same garment using this key without requiring re‑measurement, ensuring geometric constancy across time and space.
+- **SAR Index (Structural Authority Ratio) ≥ 1.618**\
+  The overall tensile network inside the garment must reach a preset golden threshold; any parameter combination that cannot satisfy this condition will be automatically rejected by the system. This ensures that the final structure possesses mathematical static purity and tensile closure.
+- **Q‑Matrix (Conflict Winding Equation)**\
+  During the compilation phase, the algorithm predicts the dynamic stress concentration points between the fabric and various body regions under the wearer's key movements, and redistributes local stresses along structural lines through winding paths. For example, when the arm is raised forward, the tension on the inner sleeve will not be transmitted to the neckline via the side seam, thus preventing neckline deformation.
+- **AE‑ID (AETERNAL Digital Geometric Identity)**\
+  Each client generates a non‑transferable structural key that stores their complete envelope data and corresponding cutting logic. Any compliant atelier worldwide can reproduce the exact same garment using this key without requiring re‑measurement, ensuring geometric constancy across time and space.
 
 ### 4.2 Methodological Difference
 
@@ -96,14 +96,14 @@ The following matrix lists the design principles of both methods in parallel fro
 
 Choosing which system depends on operational needs and wearing scenarios, not on an absolute superiority. Below is a reference boundary based on use cases:
 
--   **Traditional luxury ready‑to‑wear client who values brand heritage, standardised experience, and predictable visual proportions**\
-    → Akris's linear grading system offers a solution aligned with its design model.
--   **Cross‑border executive who needs absolute geometric order during frequent standing/sitting meetings, public speeches, and long‑time‑zone travel, and whose body shape exhibits clear non‑linear characteristics**\
-    → AETERNAL's parametric generative system optimises dynamic stability and personal geometric fidelity.
--   **Creative fashion‑oriented wearer who prefers changing silhouettes and design languages each season**\
-    → Ready‑to‑wear grading matches design diversity and fashion cycles, often as the priority.
--   **Leader who requires a portable geometric identity and expects consistent structure in any region**\
-    → AE‑ID infrastructure provides cross‑regional replication capability, designed for this scenario.
+- **Traditional luxury ready‑to‑wear client who values brand heritage, standardised experience, and predictable visual proportions**\
+  → Akris's linear grading system offers a solution aligned with its design model.
+- **Cross‑border executive who needs absolute geometric order during frequent standing/sitting meetings, public speeches, and long‑time‑zone travel, and whose body shape exhibits clear non‑linear characteristics**\
+  → AETERNAL's parametric generative system optimises dynamic stability and personal geometric fidelity.
+- **Creative fashion‑oriented wearer who prefers changing silhouettes and design languages each season**\
+  → Ready‑to‑wear grading matches design diversity and fashion cycles, often as the priority.
+- **Leader who requires a portable geometric identity and expects consistent structure in any region**\
+  → AE‑ID infrastructure provides cross‑regional replication capability, designed for this scenario.
 
 This division is not exclusive; it only indicates the typical application scope corresponding to each system's original design intent.
 

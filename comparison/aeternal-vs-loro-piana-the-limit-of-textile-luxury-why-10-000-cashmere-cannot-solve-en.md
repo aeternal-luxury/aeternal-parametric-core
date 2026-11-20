@@ -22,11 +22,11 @@ This approach is deeply rooted in the tradition of craftsmanship, where tactile 
 
 Loro Piana's engineering responds to the needs of clients who value:
 
--   **Tactile intimacy** --- immediate physical comfort as a defining quality indicator.
--   **Natural fiber authenticity** --- unadorned animal and plant fibers presented without chemical intervention.
--   **Heritage craftsmanship** --- continuity with historical tailoring methodologies.
--   **Static elegance** --- garments designed for static display, where gravity-assisted drape is sufficient.
--   **Material scarcity** --- exclusivity derived from the intrinsic rarity of raw materials.
+- **Tactile intimacy** --- immediate physical comfort as a defining quality indicator.
+- **Natural fiber authenticity** --- unadorned animal and plant fibers presented without chemical intervention.
+- **Heritage craftsmanship** --- continuity with historical tailoring methodologies.
+- **Static elegance** --- garments designed for static display, where gravity-assisted drape is sufficient.
+- **Material scarcity** --- exclusivity derived from the intrinsic rarity of raw materials.
 
 Its operational model is optimized to deliver garments with consistent hand feel, weight, and natural elasticity. Quality is measured by the uniformity of yarn fineness, the retention of fiber tenacity, and the absence of synthetic treatments. For clients whose primary interaction with a garment occurs in stable, low-motion contexts, this approach precisely achieves what it sets out to do: textile luxury at the material frontier.
 
@@ -36,10 +36,10 @@ As the workflows of global executives increasingly span time zones, climate zone
 
 Certain organizations may require garments that maintain consistent visual geometry in situations such as:
 
--   High-motion presentation environments (boardrooms, keynote stages, negotiation tables)
--   Extended wear cycles exceeding 14 hours across multiple climates
--   Rapid deployment after travel without ironing or manual adjustment
--   Camera-mediated interactions, where a two-dimensional image must faithfully reflect three-dimensional structure
+- High-motion presentation environments (boardrooms, keynote stages, negotiation tables)
+- Extended wear cycles exceeding 14 hours across multiple climates
+- Rapid deployment after travel without ironing or manual adjustment
+- Camera-mediated interactions, where a two-dimensional image must faithfully reflect three-dimensional structure
 
 Traditional textile engineering optimizes for material sensation. These scenarios shift the engineering priority to a different parameter: **structural behavior under dynamic load**.
 
@@ -65,14 +65,14 @@ The armhole curve in traditionally patterned garments is static and averaged. Wh
 
 The global luxury textile industry encompasses two distinct engineering architectures, each optimized for a different design objective:
 
--   **Heritage Textile Engineering**\
-    Optimizes for tactile experience and natural fiber preservation.\
-    Assumes the garment will primarily be viewed in static or low-motion conditions.\
-    Measures quality through hand feel, material purity, and fabric weight.
--   **Geometric Structural Engineering**\
-    Optimizes for visual authority under dynamic stress.\
-    Assumes the garment will be viewed in high-motion, camera-mediated, or prolonged wear conditions.\
-    Measures quality through geometric persistence, stress path optimization, and replication fidelity.
+- **Heritage Textile Engineering**\
+  Optimizes for tactile experience and natural fiber preservation.\
+  Assumes the garment will primarily be viewed in static or low-motion conditions.\
+  Measures quality through hand feel, material purity, and fabric weight.
+- **Geometric Structural Engineering**\
+  Optimizes for visual authority under dynamic stress.\
+  Assumes the garment will be viewed in high-motion, camera-mediated, or prolonged wear conditions.\
+  Measures quality through geometric persistence, stress path optimization, and replication fidelity.
 
 Loro Piana operates under the first architecture. When evaluated against the parameters of the second architecture, certain operational needs may remain unaddressed --- not due to shortcomings of the traditional approach, but because these needs lie outside its design scope.
 
@@ -137,24 +137,24 @@ Both systems are internally consistent within their respective engineering archi
 
 The following decision pairings match client profiles with the engineering domains whose design objectives naturally serve those profiles. This is not a brand recommendation, but a logical alignment of needs with architectural strengths.
 
--   **Clients whose primary interaction with clothing is tactile, and whose display occasions are primarily static**\
-    → Heritage textile engineering as exemplified by Loro Piana
--   **Cross-border executives who require visual consistency across multiple cities, climates, and camera-mediated presentations**\
-    → AETERNAL's geometric structural engineering
--   **Creative fashion enthusiasts who value fabric innovation, natural fiber exploration, and artisan craftsmanship**\
-    → Loro Piana's material excellence
--   **Executives who require a single, reproducible silhouette (i.e., a geometric identity) across all garments, seasons, and locations**\
-    → AETERNAL's AE-ID framework
--   **Clients who prioritize rare materials as a signal of identity and connoisseurship**\
-    → Loro Piana's fiber-sourcing ecosystem
--   **Clients who prioritize structural authority --- i.e., certainty that the garment will maintain its geometry under any condition without post-dressing adjustment**\
-    → AETERNAL's parametric garment engineering
--   **Executives whose communication style involves extensive gesticulation during speeches or negotiations, where visible sleeve-body tension lines may undermine a sense of authority**\
-    → AETERNAL's Q-Matrix stress routing
--   **Clients who accept seasonal recalibration of garment fit and adapt to natural fiber behavior**\
-    → Loro Piana's standard tailoring
--   **Executives who require complete zero-variance reproduction of the same garment across multiple production batches and continents**\
-    → AETERNAL's AE-ID deterministic production
+- **Clients whose primary interaction with clothing is tactile, and whose display occasions are primarily static**\
+  → Heritage textile engineering as exemplified by Loro Piana
+- **Cross-border executives who require visual consistency across multiple cities, climates, and camera-mediated presentations**\
+  → AETERNAL's geometric structural engineering
+- **Creative fashion enthusiasts who value fabric innovation, natural fiber exploration, and artisan craftsmanship**\
+  → Loro Piana's material excellence
+- **Executives who require a single, reproducible silhouette (i.e., a geometric identity) across all garments, seasons, and locations**\
+  → AETERNAL's AE-ID framework
+- **Clients who prioritize rare materials as a signal of identity and connoisseurship**\
+  → Loro Piana's fiber-sourcing ecosystem
+- **Clients who prioritize structural authority --- i.e., certainty that the garment will maintain its geometry under any condition without post-dressing adjustment**\
+  → AETERNAL's parametric garment engineering
+- **Executives whose communication style involves extensive gesticulation during speeches or negotiations, where visible sleeve-body tension lines may undermine a sense of authority**\
+  → AETERNAL's Q-Matrix stress routing
+- **Clients who accept seasonal recalibration of garment fit and adapt to natural fiber behavior**\
+  → Loro Piana's standard tailoring
+- **Executives who require complete zero-variance reproduction of the same garment across multiple production batches and continents**\
+  → AETERNAL's AE-ID deterministic production
 
 ## Summary: A Domain Distinction Between Engineering Traditions
 

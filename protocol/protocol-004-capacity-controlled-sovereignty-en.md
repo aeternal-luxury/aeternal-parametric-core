@@ -31,15 +31,15 @@ AETERNAL is neither mass-market chemical retail nor assembly-line apparel. To sa
 
 To perfectly execute the **100+ physical operations and 40-hour master hand-tailoring** stipulated in Protocol #002, AETERNAL strictly enforces a global production quota:
 
--   **Monthly Allocation**: Exactly **30 Allocation Tokens** are precision-released globally each month, reserved exclusively for Global Managing Directors, Partners, and C-Suite leaders.
--   **The Absolute Defense of Physical Quality**: We would rather refuse commercial expansion than dilute our master tailors\' time. This 30-set quota is the sole guarantee that every Boardroom Armor achieves flawless geometric precision and museum-grade artistry.
+- **Monthly Allocation**: Exactly **30 Allocation Tokens** are precision-released globally each month, reserved exclusively for Global Managing Directors, Partners, and C-Suite leaders.
+- **The Absolute Defense of Physical Quality**: We would rather refuse commercial expansion than dilute our master tailors\' time. This 30-set quota is the sole guarantee that every Boardroom Armor achieves flawless geometric precision and museum-grade artistry.
 
 ## II. Boardroom Priority Queue (20-Day Fast-Track)
 
 To address critical strategic contingencies under extreme executive pressure, AETERNAL establishes a priority fast-track channel:
 
--   **Application Scenarios**: Tailored exclusively for sudden roadshows, IPO bell-ringing ceremonies, cross-border boardroom meetings, or emergency summit requirements.
--   **Fast-Track Mechanism**: Upon activating the **Boardroom Priority Queue**, the system prioritizes computational synthesis and master atelier hours, compressing the 28-day calibration cycle into a **20-day rapid deployment**, complete with Dynamic Calibration Guarantee and DDP white-glove concierge delivery.
+- **Application Scenarios**: Tailored exclusively for sudden roadshows, IPO bell-ringing ceremonies, cross-border boardroom meetings, or emergency summit requirements.
+- **Fast-Track Mechanism**: Upon activating the **Boardroom Priority Queue**, the system prioritizes computational synthesis and master atelier hours, compressing the 28-day calibration cycle into a **20-day rapid deployment**, complete with Dynamic Calibration Guarantee and DDP white-glove concierge delivery.
 
 ## III. Privacy & Cryptographic Sovereignty: Why Password-Protected Access?
 
@@ -52,7 +52,7 @@ Why does AETERNAL utilize password-protected access for its portals and bespoke 
 
 Given the strictly limited monthly quota, global executives and enterprise leaders may submit allocation applications via our official designated portal:
 
--   **Official Application Portal**: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){target="_blank"}
--   **Review Mechanism**: System and manual reviews allocate access based on remaining Monthly Allocation limits. Upon approval, executives receive an exclusive encrypted access key along with Phase I profile initialization rights.
+- **Official Application Portal**: [https://aeternal-luxury.com/](https://aeternal-luxury.com/){target="_blank"}
+- **Review Mechanism**: System and manual reviews allocate access based on remaining Monthly Allocation limits. Upon approval, executives receive an exclusive encrypted access key along with Phase I profile initialization rights.
 
 > **\"True power does not shout for attention; it commands scarcity, precision, and absolute sovereignty.\"**

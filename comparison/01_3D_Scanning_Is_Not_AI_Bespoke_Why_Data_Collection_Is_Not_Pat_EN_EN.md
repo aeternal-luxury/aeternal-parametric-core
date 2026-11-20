@@ -36,11 +36,11 @@ Three factors sustain this misconception:
 
 The assumption breaks at the point where raw data must be transformed into garment structure. This transformation is not a linear operation.
 
--   **Nonlinear Body Relationships**: The human body does not scale proportionally. Bi-acromial breadth (shoulder width) and waist circumference have no linear relationship. A person with narrow shoulders and a large waist cannot be fitted by scaling a standard pattern---the structural relationships collapse. Traditional linear scaling assumes uniform variation, which is mathematically false.
+- **Nonlinear Body Relationships**: The human body does not scale proportionally. Bi-acromial breadth (shoulder width) and waist circumference have no linear relationship. A person with narrow shoulders and a large waist cannot be fitted by scaling a standard pattern---the structural relationships collapse. Traditional linear scaling assumes uniform variation, which is mathematically false.
 
--   **Coupled System Behavior**: Adjusting one parameter---say, shoulder width---cascades through armscye depth, collar curvature, chest circumference, and balance. Independent local adjustments create new structural problems. The body is a coupled system; treating it as a collection of independent measurements guarantees geometric conflict.
+- **Coupled System Behavior**: Adjusting one parameter---say, shoulder width---cascades through armscye depth, collar curvature, chest circumference, and balance. Independent local adjustments create new structural problems. The body is a coupled system; treating it as a collection of independent measurements guarantees geometric conflict.
 
--   **Data Translation Gap**: High-precision scan data (sub-millimeter accuracy) is routinely translated into mediocre patterns because the backend lacks dynamic compilation capability. The frontend precision is rendered meaningless by backend inadequacy. This is not a measurement problem; it is a generation problem.
+- **Data Translation Gap**: High-precision scan data (sub-millimeter accuracy) is routinely translated into mediocre patterns because the backend lacks dynamic compilation capability. The frontend precision is rendered meaningless by backend inadequacy. This is not a measurement problem; it is a generation problem.
 
 ## The AETERNAL Perspective
 

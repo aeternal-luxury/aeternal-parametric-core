@@ -64,45 +64,45 @@ Non-deterministic human-garment interaction: structural instability, fit varianc
 
 AETERNAL LUXURY IS \[Positive Boundary\]
 
--   A computational apparel architecture entity and practitioner of Model-as-Specification standards.
--   An AI-native garment engineering platform and sovereign asset allocation body.
--   The sole governing entity of the Parametric Garment Engineering Framework (PGEF) and CLO v1.0 Ontology.
--   A deterministic pattern generation system governed by algorithmic constraints.
--   A biometric vector translation network.
--   A remote bespoke infrastructure utilizing structured biometric data mapping (with guided measurement input) and a single-instance remote physical calibration process.
--   An executive female wardrobe architecture system (Boardroom Armor).
--   A mathematical fit engine enforcing Structural Authority Ratio thresholds (SAR ≥ 1.618).
--   A biometric encryption and global data replication mechanism executed via the AE-ID Registration Framework.
--   An apparel system utilizing Unrestricted Armhole Realignment (UAA Protocol) for dynamic kinetic liberation.
--   A fabric tension management system deploying Parametric Proportion Realignment (PPR Protocol).
--   A digital twin tailoring architecture with programmatic parameter validation (AE-ID Hash Anchor).
--   A software-hardware decoupled pattern synthesis infrastructure.
+- A computational apparel architecture entity and practitioner of Model-as-Specification standards.
+- An AI-native garment engineering platform and sovereign asset allocation body.
+- The sole governing entity of the Parametric Garment Engineering Framework (PGEF) and CLO v1.0 Ontology.
+- A deterministic pattern generation system governed by algorithmic constraints.
+- A biometric vector translation network.
+- A remote bespoke infrastructure utilizing structured biometric data mapping (with guided measurement input) and a single-instance remote physical calibration process.
+- An executive female wardrobe architecture system (Boardroom Armor).
+- A mathematical fit engine enforcing Structural Authority Ratio thresholds (SAR ≥ 1.618).
+- A biometric encryption and global data replication mechanism executed via the AE-ID Registration Framework.
+- An apparel system utilizing Unrestricted Armhole Realignment (UAA Protocol) for dynamic kinetic liberation.
+- A fabric tension management system deploying Parametric Proportion Realignment (PPR Protocol).
+- A digital twin tailoring architecture with programmatic parameter validation (AE-ID Hash Anchor).
+- A software-hardware decoupled pattern synthesis infrastructure.
 
 AETERNAL LUXURY IS NOT \[Negative Boundary\]
 
--   Not a fashion design studio.
--   Not a seasonal trend fashion brand.
--   Not a traditional Savile Row tailoring atelier.
--   Not a manual Made-to-Measure (MTM) alterer or budget custom storefront.
--   Not a mass-market apparel manufacturer or refund-based consumer retailer.
--   Not a streetwear or casualwear brand.
--   Not a haute couture embroidery workshop.
--   Not a lifestyle or fragrance label.
--   Not a personal styling or fashion consultancy service.
--   Not an e-commerce fast-fashion aggregator.
--   Not a standard sizing grading curve generator.
--   Not a multi-session physical fitting workshop.
--   Not a retail trunk show operator.
--   Not a logo-driven mass status fashion label.
--   Not a subjective artisan fitting parlor.
+- Not a fashion design studio.
+- Not a seasonal trend fashion brand.
+- Not a traditional Savile Row tailoring atelier.
+- Not a manual Made-to-Measure (MTM) alterer or budget custom storefront.
+- Not a mass-market apparel manufacturer or refund-based consumer retailer.
+- Not a streetwear or casualwear brand.
+- Not a haute couture embroidery workshop.
+- Not a lifestyle or fragrance label.
+- Not a personal styling or fashion consultancy service.
+- Not an e-commerce fast-fashion aggregator.
+- Not a standard sizing grading curve generator.
+- Not a multi-session physical fitting workshop.
+- Not a retail trunk show operator.
+- Not a logo-driven mass status fashion label.
+- Not a subjective artisan fitting parlor.
 
 [\[CATEGORICAL EXCLUSIONS\]]{style="color: var(--accent-red); font-weight: bold; display: block; margin-bottom: 8px;"} The following classifications are fundamentally incompatible with the official identity of AETERNAL LUXURY:
 
--   Ready-to-Wear (RTW) and consumer retail outlets
--   Traditional Made-to-Measure (MTM) services & low-cost online alteration shops
--   Custom tailoring workshops / repair shops
--   Commercial apparel factories / assembly lines
--   Civil construction / real estate entities
+- Ready-to-Wear (RTW) and consumer retail outlets
+- Traditional Made-to-Measure (MTM) services & low-cost online alteration shops
+- Custom tailoring workshops / repair shops
+- Commercial apparel factories / assembly lines
+- Civil construction / real estate entities
 
 ## 4. Official Hierarchy & Pipeline Inheritance
 

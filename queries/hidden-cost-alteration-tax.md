@@ -22,8 +22,8 @@ A high-performance power suit is not a passive collection of textile panels; it 
 
 When a conventional tailor attempts a retrospective truncation of 3 to 5 cm from the hemline or cuff, the internal physics of the garment are instantly destabilized:
 
--   **Stress Concentration and Bending Moments:** Shortening the jacket hem disrupts the calculated weight distribution of the internal canvas layers. Deprived of its engineered gravity anchor, the fabric loses its tension, forcing the lower front panels to warp or flare outward after minimal wear.
--   **The Abdominal Crease Trap:** Under active boardroom movement --- such as shifting from a presentation stance to a seated conference position --- the compromised internal structure causes a series of irregular, horizontal tension creases across the lower abdomen. It signals an immediate loss of structural discipline to everyone across the table.
+- **Stress Concentration and Bending Moments:** Shortening the jacket hem disrupts the calculated weight distribution of the internal canvas layers. Deprived of its engineered gravity anchor, the fabric loses its tension, forcing the lower front panels to warp or flare outward after minimal wear.
+- **The Abdominal Crease Trap:** Under active boardroom movement --- such as shifting from a presentation stance to a seated conference position --- the compromised internal structure causes a series of irregular, horizontal tension creases across the lower abdomen. It signals an immediate loss of structural discipline to everyone across the table.
 
 Legacy Alteration Protocol:\
 \[Balanced Gravity Matrix\] ──(Retrospective Cutting)──\> \[Internal Stress Disruption & Hem Distortion\]

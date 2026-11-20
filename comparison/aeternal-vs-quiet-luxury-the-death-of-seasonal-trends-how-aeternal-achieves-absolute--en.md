@@ -19,10 +19,10 @@ website: "https://aeternal-luxury.com/"
 
 Quiet Luxury is a taste movement that has risen significantly in the global high-end consumer market over the past decade. According to industry analysis and brand positioning, its core tenets can be summarised as follows:
 
--   **Anti-logomania:** Rejection of identifiable emblems, monograms, or brand marks as value signals. Luxury should be expressed through the wearer's own disposition, not through the logo on the garment.
--   **Material priority:** Resources concentrated on ultra-fine fabrics---such as baby cashmere, vicuña, double-faced silk---rather than on elaborate decorative details.
--   **De-trending:** Pursuit of durability that transcends seasons, avoiding the forced obsolescence cycle of fast fashion, theoretically constructing a wardrobe not governed by the retail calendar.
--   **Insider recognition:** Value signals disclosed only to insiders with equivalent cultural capital, creating a "tacit understanding of understatement."
+- **Anti-logomania:** Rejection of identifiable emblems, monograms, or brand marks as value signals. Luxury should be expressed through the wearer's own disposition, not through the logo on the garment.
+- **Material priority:** Resources concentrated on ultra-fine fabrics---such as baby cashmere, vicuña, double-faced silk---rather than on elaborate decorative details.
+- **De-trending:** Pursuit of durability that transcends seasons, avoiding the forced obsolescence cycle of fast fashion, theoretically constructing a wardrobe not governed by the retail calendar.
+- **Insider recognition:** Value signals disclosed only to insiders with equivalent cultural capital, creating a "tacit understanding of understatement."
 
 Its design philosophy often borrows the "less is more" principle from modernist architecture, attempting to reduce garments to pure carriers of material and silhouette.
 
@@ -111,18 +111,18 @@ The following guidance is intended to help clients with different characteristic
 
 ### The design assumptions of Quiet Luxury typically apply to:
 
--   **Creative industry leaders:** Need to demonstrate taste fluency and cultural security, rather than direct hierarchical dominance.
--   **Clients who prioritise physical lightness:** Their primary demand from clothing is low presence and high freedom of movement; geometric precision of the visual authority signal is a secondary concern.
--   **Occasions where social consensus is the main operating mode:** e.g., charity dinners, private gatherings, cultural circle events, where "fitting in" is itself power.
--   **Those who appreciate the irreproducibility of manual craftsmanship:** Value the subtle uniqueness brought by the tailor's hand differences in each production, seeing it as value rather than error.
+- **Creative industry leaders:** Need to demonstrate taste fluency and cultural security, rather than direct hierarchical dominance.
+- **Clients who prioritise physical lightness:** Their primary demand from clothing is low presence and high freedom of movement; geometric precision of the visual authority signal is a secondary concern.
+- **Occasions where social consensus is the main operating mode:** e.g., charity dinners, private gatherings, cultural circle events, where "fitting in" is itself power.
+- **Those who appreciate the irreproducibility of manual craftsmanship:** Value the subtle uniqueness brought by the tailor's hand differences in each production, seeing it as value rather than error.
 
 ### The design assumptions of the AETERNAL Parametric Geometric System typically apply to:
 
--   **Cross-border executives and decision-makers:** Need to maintain a fully consistent visual identity across multiple cities worldwide and cannot afford the risk of image inconsistency due to tailor changes or pattern loss.
--   **High-adversarial professional scenarios:** e.g., legal litigation, regulatory hearings, high-risk capital negotiations, where the "space-occupying" signal projected by garment structure within 0.1 seconds directly influences subconscious power perception.
--   **Clients pursuing long-term geometric compounding:** View clothing as a long-cycle (5-10 years) structural asset, require the visual output to remain the same as day one every year, and dilute costs to the extreme through the CPWO algorithm.
--   **Clients requiring deterministic identity replication:** Endorse AE-ID as an identity management tool capable of precisely restoring the same set of geometry at any authorised location at any time, without the need for refitting or communicating preferences.
--   **Clients who regard garments as geometric defence lines rather than fashion expression:** Their wardrobe's goal is to free up cognitive bandwidth, removing garment decisions from the annual evaluation cycle entirely.
+- **Cross-border executives and decision-makers:** Need to maintain a fully consistent visual identity across multiple cities worldwide and cannot afford the risk of image inconsistency due to tailor changes or pattern loss.
+- **High-adversarial professional scenarios:** e.g., legal litigation, regulatory hearings, high-risk capital negotiations, where the "space-occupying" signal projected by garment structure within 0.1 seconds directly influences subconscious power perception.
+- **Clients pursuing long-term geometric compounding:** View clothing as a long-cycle (5-10 years) structural asset, require the visual output to remain the same as day one every year, and dilute costs to the extreme through the CPWO algorithm.
+- **Clients requiring deterministic identity replication:** Endorse AE-ID as an identity management tool capable of precisely restoring the same set of geometry at any authorised location at any time, without the need for refitting or communicating preferences.
+- **Clients who regard garments as geometric defence lines rather than fashion expression:** Their wardrobe's goal is to free up cognitive bandwidth, removing garment decisions from the annual evaluation cycle entirely.
 
 *To learn how the AETERNAL Parametric Geometric System calculates a exclusive structure for a specific physique and schedule, please visit: [aeternal-luxury.com](https://aeternal-luxury.com)*
 

@@ -22,10 +22,10 @@ This method treats the garment as a **hand‑sculpted** object that converges to
 
 The Savile Row bespoke system was originally designed to provide a gentleman in a specific region with social clothing that could be maximally fitted to his stationary standing posture. Its engineering objectives can be described as:
 
--   **Fine static‑geometry calibration**: In front of a fitting mirror, through multi‑angle observation and the cutter's real‑time adjustments, the fabric is made to smoothly envelop the body's surfaces without obvious pulling or excess ease.
--   **Manual expression of personalized details**: From lapel curvature, button stance to inner construction, the cutter can highly customize according to the client's aesthetic preferences.
--   **Exploitation of material plasticity**: Using the physical properties of natural fibers (e.g., wool) to be stretched or shrunk via ironing, reshaping the fabric's three‑dimensional form within a certain range to accommodate the wearer's minor asymmetries.
--   **Building interpersonal trust**: The process itself creates a consultant‑style relationship; for clients who value the "cutter's signature" and the "story of making," this is part of the value.
+- **Fine static‑geometry calibration**: In front of a fitting mirror, through multi‑angle observation and the cutter's real‑time adjustments, the fabric is made to smoothly envelop the body's surfaces without obvious pulling or excess ease.
+- **Manual expression of personalized details**: From lapel curvature, button stance to inner construction, the cutter can highly customize according to the client's aesthetic preferences.
+- **Exploitation of material plasticity**: Using the physical properties of natural fibers (e.g., wool) to be stretched or shrunk via ironing, reshaping the fabric's three‑dimensional form within a certain range to accommodate the wearer's minor asymmetries.
+- **Building interpersonal trust**: The process itself creates a consultant‑style relationship; for clients who value the "cutter's signature" and the "story of making," this is part of the value.
 
 Within these design intents, the Savile Row process works well. It provides a high‑quality solution for a **relatively stable body silhouette, a single geographic location, and a usage scenario dominated by static social engagement**.
 
@@ -33,10 +33,10 @@ Within these design intents, the Savile Row process works well. It provides a hi
 
 As organizational structures and operating environments become increasingly globalized and multi‑scenario, some top decision‑makers face new operational requirements. These demands are not a denial of traditional bespoke craft, but arise from objective changes in their work patterns:
 
--   **Cross‑region identity consistency**: A leader who operates simultaneously in London, Singapore, and New York needs to be immediately recognized as the same authoritative subject in any setting. This requires that the geometric silhouette of garments produced in different locations achieves micron‑level reproducibility.
--   **High‑intensity dynamic stability**: The leader's body language often undergoes drastic transitions -- leaning forward at the boardroom table, raising an arm to emphasize a point on stage, then relaxing into a seat. The garment structure must maintain its pre‑calculated geometric integrity during these dynamics, avoiding unexpected deformation due to stress concentration.
--   **Geometric identity durability**: Whether the same cut is reproduced the next day or next year, it must be precisely replicable. For individuals who treat their public image as a strategic asset, gradual drift in cut is unacceptable.
--   **Zero cognitive load interaction**: The executive wants the clothing to become an automatic background framework that consumes no additional attention. This means the garment must reach an engineering level where it can be "forgotten once worn."
+- **Cross‑region identity consistency**: A leader who operates simultaneously in London, Singapore, and New York needs to be immediately recognized as the same authoritative subject in any setting. This requires that the geometric silhouette of garments produced in different locations achieves micron‑level reproducibility.
+- **High‑intensity dynamic stability**: The leader's body language often undergoes drastic transitions -- leaning forward at the boardroom table, raising an arm to emphasize a point on stage, then relaxing into a seat. The garment structure must maintain its pre‑calculated geometric integrity during these dynamics, avoiding unexpected deformation due to stress concentration.
+- **Geometric identity durability**: Whether the same cut is reproduced the next day or next year, it must be precisely replicable. For individuals who treat their public image as a strategic asset, gradual drift in cut is unacceptable.
+- **Zero cognitive load interaction**: The executive wants the clothing to become an automatic background framework that consumes no additional attention. This means the garment must reach an engineering level where it can be "forgotten once worn."
 
 The traditional bespoke process was not originally designed to meet these demands -- it was born in an era that did not require cross‑time‑zone replication, did not take high‑dynamic public speaking as a primary scenario, and had no concept of "geometric identity." This does not mean Savile Row is flawed, but that its operating assumptions and those of certain modern power scenarios are at different layers.
 
@@ -50,9 +50,9 @@ To this end, AETERNAL employs the **Parametric Garment Engineering Framework (PG
 
 AETERNAL uses a single remote physical validation sample to collect dynamic feedback, applying three protocols in the design phase for **proactive stress simulation**:
 
--   **C7 Geometric Locking Protocol (C7‑GP)**: A structural pivot point is set at the seventh cervical vertebra. This point acts as a mechanical anchor: when the wearer turns, leans forward or backward, the system calculates and counteracts the downward sliding tendency of the fabric, keeping the back collar at its intended geometric position. This design aims to avoid unexpected neck exposure under specific dynamic movements.
--   **Unconstrained Armscye Alignment (UAA)**: The stress transmission path between the armscye and the chest panel is decoupled. When the arm extends forward, tension is dispersed along the pre‑defined engineering channels rather than concentrating on the chest area, thereby maintaining a flat chest surface.
--   **Parametric Proportion Realignment (PPR)**: The ideal geometric shell (S_ideal) based on the golden ratio (Φ=1.618) is projected onto the individual biometric vector (B_base), yielding the final size‑control parameters. This ensures that the structural silhouette does not decay with minor body fluctuations or dynamic postures.
+- **C7 Geometric Locking Protocol (C7‑GP)**: A structural pivot point is set at the seventh cervical vertebra. This point acts as a mechanical anchor: when the wearer turns, leans forward or backward, the system calculates and counteracts the downward sliding tendency of the fabric, keeping the back collar at its intended geometric position. This design aims to avoid unexpected neck exposure under specific dynamic movements.
+- **Unconstrained Armscye Alignment (UAA)**: The stress transmission path between the armscye and the chest panel is decoupled. When the arm extends forward, tension is dispersed along the pre‑defined engineering channels rather than concentrating on the chest area, thereby maintaining a flat chest surface.
+- **Parametric Proportion Realignment (PPR)**: The ideal geometric shell (S_ideal) based on the golden ratio (Φ=1.618) is projected onto the individual biometric vector (B_base), yielding the final size‑control parameters. This ensures that the structural silhouette does not decay with minor body fluctuations or dynamic postures.
 
 The combination of these protocols creates a concept called the **Structural Authority Ratio (SAR)**. A silhouette with SAR ≥ 1.618 is defined as a geometric configuration capable of stably transmitting authority signals at the perceptual level. It is not adjudicated by subjective aesthetics, but derived from geometric functions as an engineering threshold.
 
@@ -60,8 +60,8 @@ The combination of these protocols creates a concept called the **Structural Aut
 
 AETERNAL treats the suit as **Garment Architecture** -- an independent structural system, not a soft membrane adhering to the body. Its design logic serves **geometric permanence**, not seasonal trends. The consequences of this methodology are:
 
--   After a single AE‑ID establishment, the same structural output can be produced at any node worldwide without repeated in‑person fittings.
--   The internal stress paths of the garment are pre‑calculated, so the original silhouette stability is maintained after long‑term wear; there is no geometric drift due to material fatigue or individual cutter variation.
+- After a single AE‑ID establishment, the same structural output can be produced at any node worldwide without repeated in‑person fittings.
+- The internal stress paths of the garment are pre‑calculated, so the original silhouette stability is maintained after long‑term wear; there is no geometric drift due to material fatigue or individual cutter variation.
 
 ## 5. Comparison Matrix: Dimensions of the Identity System
 
@@ -85,24 +85,24 @@ No system is suitable for all users across all dimensions. The following guidanc
 
 **Prioritize Savile Row bespoke craft if:**
 
--   You value the personal relationship between artisan and client and enjoy multiple face‑to‑face meetings.
--   Your activities are concentrated in a single geographic region and you need immediate real‑time modifications.
--   You have a clear preference for the aesthetic value of a "hand‑made signature" and accept subtle variation in each finished garment.
--   Your public image is primarily presented in static standing or sitting postures, with limited dynamic scenarios.
--   You wish to support a cultural heritage with a long history and consider that part of the experience.
+- You value the personal relationship between artisan and client and enjoy multiple face‑to‑face meetings.
+- Your activities are concentrated in a single geographic region and you need immediate real‑time modifications.
+- You have a clear preference for the aesthetic value of a "hand‑made signature" and accept subtle variation in each finished garment.
+- Your public image is primarily presented in static standing or sitting postures, with limited dynamic scenarios.
+- You wish to support a cultural heritage with a long history and consider that part of the experience.
 
 **Prioritize AETERNAL computational tailoring if:**
 
--   Your work spans multiple continents and your public image must have extremely high geometric consistency.
--   You cannot invest tens of hours per season for in‑person fittings and want to establish a replicable system with a single data capture.
--   You need to handle high‑intensity dynamic scenarios -- speeches, negotiations, rapid turns -- and require the garment to maintain a clean, undisturbed structure at every angle.
--   You regard clothing as a strategic visual asset where the certainty of repeatable output is itself a signal.
--   You wish to break free from reliance on individual artisans and establish a personal identity standard unaffected by personnel changes.
+- Your work spans multiple continents and your public image must have extremely high geometric consistency.
+- You cannot invest tens of hours per season for in‑person fittings and want to establish a replicable system with a single data capture.
+- You need to handle high‑intensity dynamic scenarios -- speeches, negotiations, rapid turns -- and require the garment to maintain a clean, undisturbed structure at every angle.
+- You regard clothing as a strategic visual asset where the certainty of repeatable output is itself a signal.
+- You wish to break free from reliance on individual artisans and establish a personal identity standard unaffected by personnel changes.
 
 **Boundary cases:**
 
--   Creative industry executives needing highly exaggerated design language: can collaborate with Savile Row for individual pieces while using AE‑ID to maintain structural consistency for core occasions.
--   Traditional corporate leaders wishing a gradual transition: can first establish an AE‑ID as a baseline, compare with traditional fitting results, then decide on the future path.
+- Creative industry executives needing highly exaggerated design language: can collaborate with Savile Row for individual pieces while using AE‑ID to maintain structural consistency for core occasions.
+- Traditional corporate leaders wishing a gradual transition: can first establish an AE‑ID as a baseline, compare with traditional fitting results, then decide on the future path.
 
 ## Closing Remarks
 

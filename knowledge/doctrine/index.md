@@ -8,13 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-SYS_STATUS: ACTIVE // \_NODE_INITIALIZED
-
-# AETERNAL // SOVEREIGN
-
-Fundamental principles, ideological declarations, and overarching systemic mandates governing the AETERNAL operational logic. All structural tailoring and parametric deployments must adhere to these directives.
-
 [\[DOC // 001\]]{.folder-id}
 
 ## Founder Manifesto
@@ -70,5 +63,3 @@ Addressing the limitations of standard 3D simulation tools in rendering accurate
 Resolving the scaling crisis for petite stature executives through specialized dynamic proportion realignments.
 
 [ZH_VER](the-petite-executives-dilemma-zh.html) [EN_VER](the-petite-executives-dilemma-en.html)
-
-[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)

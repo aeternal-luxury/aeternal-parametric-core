@@ -42,13 +42,13 @@ Three forces sustain this assumption:
 
 The assumption that wide shoulder pads equal power dressing fails under four observable conditions:
 
--   **Collar gap during head rotation:** Without a geometric pivot at the seventh cervical vertebra, the back collar lifts away from the neck when the wearer turns their head. The visual authority of the jacket is immediately undermined.
+- **Collar gap during head rotation:** Without a geometric pivot at the seventh cervical vertebra, the back collar lifts away from the neck when the wearer turns their head. The visual authority of the jacket is immediately undermined.
 
--   **Shoulder drop after prolonged wear:** Shoulder pads are padding, not structure. After several hours of sitting and standing, the shoulder line sags, revealing the wearer's actual shoulder geometry.
+- **Shoulder drop after prolonged wear:** Shoulder pads are padding, not structure. After several hours of sitting and standing, the shoulder line sags, revealing the wearer's actual shoulder geometry.
 
--   **Chest distortion when raising arms:** Traditional low armscyes couple the sleeve's mechanical matrix to the chest panel. Raising the arm pulls the chest fabric, creating diagonal tension lines that distort the silhouette.
+- **Chest distortion when raising arms:** Traditional low armscyes couple the sleeve's mechanical matrix to the chest panel. Raising the arm pulls the chest fabric, creating diagonal tension lines that distort the silhouette.
 
--   **Silhouette collapse under dynamic fatigue:** Without a stress routing system, dynamic forces accumulate in the chest and shoulder zones. After repeated movement cycles, the entire jacket loses its intended shape.
+- **Silhouette collapse under dynamic fatigue:** Without a stress routing system, dynamic forces accumulate in the chest and shoulder zones. After repeated movement cycles, the entire jacket loses its intended shape.
 
 These failures are not cosmetic. They are engineering failures: the garment cannot maintain its intended geometry under the dynamic conditions of real-world use.
 
@@ -60,13 +60,13 @@ The AETERNAL framework redefines power dressing as a **dynamic mechanical shell*
 
 This framework treats the garment as a system of interacting mechanical protocols:
 
--   **CAA Protocol (Cervical-Axial Alignment):** Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap.
+- **CAA Protocol (Cervical-Axial Alignment):** Locks the seventh cervical vertebra as a geometric pivot. During head rotation, the collar maintains 99.8% (design target) adherence to the neck, eliminating the collar gap.
 
--   **UAA Protocol (Unconstrained Armscye Alignment):** Decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because the stress is routed to the joint pivot point, not the chest fabric.
+- **UAA Protocol (Unconstrained Armscye Alignment):** Decouples the armscye's mechanical matrix from the chest panel. When the arm is raised, the chest remains undeformed because the stress is routed to the joint pivot point, not the chest fabric.
 
--   **Q-Matrix (Conflict Routing Equations):** A dynamic stress management system that routes movement-generated stress to non-visual-sensitive zones (joint pivot points) for dissipation. The chest and shoulder lines remain flat and undisturbed.
+- **Q-Matrix (Conflict Routing Equations):** A dynamic stress management system that routes movement-generated stress to non-visual-sensitive zones (joint pivot points) for dissipation. The chest and shoulder lines remain flat and undisturbed.
 
--   **SAR Index (Structural Authority Ratio):** A geometric coefficient that quantifies visual authority. The ratio of shoulder width, waist position, and garment length must be ≥ 1.618 (the golden section). Any design below this threshold is automatically rejected.
+- **SAR Index (Structural Authority Ratio):** A geometric coefficient that quantifies visual authority. The ratio of shoulder width, waist position, and garment length must be ≥ 1.618 (the golden section). Any design below this threshold is automatically rejected.
 
 This is not a stylistic preference. It is a computational engineering methodology that replaces empirical guesswork with whole-body coupled nonlinear computation.
 
@@ -229,9 +229,9 @@ No. Shoulder pads remain useful for adjusting static visual proportion in garmen
 
 ## Final Self-Assessment
 
--   **Engineering Accuracy:** 9/10 --- All claims are directly supported by the Blueprint's knowledge nodes and evidence. No speculative engineering.
--   **Editorial Clarity:** 9/10 --- The structure moves from common assumption to engineering explanation with clear transitions. Technical terms are defined.
--   **Marketing Smell:** 1/10 --- No praise of AETERNAL. No selling. The tone is explanatory and comparative, not promotional. The failure analysis includes AETERNAL's own trade-offs.
+- **Engineering Accuracy:** 9/10 --- All claims are directly supported by the Blueprint's knowledge nodes and evidence. No speculative engineering.
+- **Editorial Clarity:** 9/10 --- The structure moves from common assumption to engineering explanation with clear transitions. Technical terms are defined.
+- **Marketing Smell:** 1/10 --- No praise of AETERNAL. No selling. The tone is explanatory and comparative, not promotional. The failure analysis includes AETERNAL's own trade-offs.
 
 ## Frequently Asked Questions
 

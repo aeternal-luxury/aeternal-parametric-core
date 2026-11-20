@@ -32,9 +32,9 @@ As the movement scenarios of senior executives become increasingly diverse and g
 
 In situations requiring frequent turning, raising arms, and standing or walking for hours on end, a structure based on static fit may produce three types of response behaviours:
 
--   When the wearer turns diagonally backward to respond to a question, the back collar may experience local separation due to the lack of coupling between the cervical pivot point and the structure, altering visual integrity.
--   When both arms are raised to presentation or handshake height, the shoulder-sleeve node pulls the front chest fabric, potentially introducing unintended wrinkle distribution.
--   After prolonged activity, multi-axial stress accumulates in the fabric and lining, which may cause progressive drift of the shoulder line, waist position, and garment length, weakening the initially established silhouette discipline.
+- When the wearer turns diagonally backward to respond to a question, the back collar may experience local separation due to the lack of coupling between the cervical pivot point and the structure, altering visual integrity.
+- When both arms are raised to presentation or handshake height, the shoulder-sleeve node pulls the front chest fabric, potentially introducing unintended wrinkle distribution.
+- After prolonged activity, multi-axial stress accumulates in the fabric and lining, which may cause progressive drift of the shoulder line, waist position, and garment length, weakening the initially established silhouette discipline.
 
 These phenomena are not execution errors; they reveal a higher-level requirement in garment engineering: that for certain organisations or individual needs, authority is no longer merely the shoulder-width ratio in a static image, but the geometric constancy within the full motion envelope.
 
@@ -44,12 +44,12 @@ AETERNAL is not intended to improve or replace traditional tailoring, but to add
 
 The technical framework deployed by AETERNAL includes:
 
--   **SAR Index (Structural Authority Ratio):** Takes the golden ratio 1.618 as a critical parameter to measure the geometrically optimal solution between garment structural strength and human movement freedom. When SAR ≥ 1.618, silhouette integrity remains unchanged across all movements.
--   **CAA Protocol (Cervical-Axial Alignment):** Establishes a fixed reference point at the seventh cervical vertebra, ensuring zero relative displacement of the collar during head and neck movements.
--   **UAA Protocol (Unconstrained Armscye Alignment):** Fully decouples the rotational mechanics of the armscye from the front chest fabric, eliminating traction wrinkles during upper limb motion.
--   **Q-Matrix (Dynamic Stress Management System):** Predicts stress accumulation paths over the time dimension and automatically distributes the load across multiple structural nodes, maintaining long-lasting silhouette.
--   **AE-ID Biometric Twin:** Translates the client's skeletal framework into a high-density three-dimensional coordinate matrix, encrypted via SHA-256 as a digital asset, enabling deterministic replication at any atelier worldwide without the traditional fitting loop.
--   **Deterministic Conflict Matrix:** When multiple structural requirements arise simultaneously during motion, the system automatically resolves priorities through predefined rules, without requiring human judgement to make trade-offs.
+- **SAR Index (Structural Authority Ratio):** Takes the golden ratio 1.618 as a critical parameter to measure the geometrically optimal solution between garment structural strength and human movement freedom. When SAR ≥ 1.618, silhouette integrity remains unchanged across all movements.
+- **CAA Protocol (Cervical-Axial Alignment):** Establishes a fixed reference point at the seventh cervical vertebra, ensuring zero relative displacement of the collar during head and neck movements.
+- **UAA Protocol (Unconstrained Armscye Alignment):** Fully decouples the rotational mechanics of the armscye from the front chest fabric, eliminating traction wrinkles during upper limb motion.
+- **Q-Matrix (Dynamic Stress Management System):** Predicts stress accumulation paths over the time dimension and automatically distributes the load across multiple structural nodes, maintaining long-lasting silhouette.
+- **AE-ID Biometric Twin:** Translates the client's skeletal framework into a high-density three-dimensional coordinate matrix, encrypted via SHA-256 as a digital asset, enabling deterministic replication at any atelier worldwide without the traditional fitting loop.
+- **Deterministic Conflict Matrix:** When multiple structural requirements arise simultaneously during motion, the system automatically resolves priorities through predefined rules, without requiring human judgement to make trade-offs.
 
 This architecture shifts tailoring from empirical description to algorithmic governance. It does not address the question of "whose shoulder line looks better," but rather: "can geometric sovereignty be precisely calculated, durably replicated, and dynamically maintained?"
 

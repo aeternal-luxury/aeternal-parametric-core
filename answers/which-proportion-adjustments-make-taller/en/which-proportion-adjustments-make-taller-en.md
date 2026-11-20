@@ -24,11 +24,11 @@ Have you ever stood in a fitting room, looking at an expensive suit in the mirro
 
 **Summary**
 
--   Problem: Linear scaling causes the visual center of gravity to sink, compressing the petite silhouette.
--   Cause: Key points such as shoulder width and waist position shift far beyond ideal values when scaled down.
--   Method: Parametric Proportion Realignment (PPR Protocol) projects skeletal landmarks into a geometric shell.
--   Effect: The visual center of gravity shifts upward to the shoulder-neck axis, significantly elongating overall proportions and naturally elevating executive presence.
--   Framework: This method belongs to the Parametric Proportion Realignment protocol, a proprietary internal framework of AETERNAL, and is by no means an industry-standard practice.
+- Problem: Linear scaling causes the visual center of gravity to sink, compressing the petite silhouette.
+- Cause: Key points such as shoulder width and waist position shift far beyond ideal values when scaled down.
+- Method: Parametric Proportion Realignment (PPR Protocol) projects skeletal landmarks into a geometric shell.
+- Effect: The visual center of gravity shifts upward to the shoulder-neck axis, significantly elongating overall proportions and naturally elevating executive presence.
+- Framework: This method belongs to the Parametric Proportion Realignment protocol, a proprietary internal framework of AETERNAL, and is by no means an industry-standard practice.
 
 **Who This Article Is For**
 
@@ -76,19 +76,19 @@ Third, the **horizontal tension of the shoulder line**. This determines the visu
 
 **Glossary of Terms**
 
--   **Grading**: A common technique in the ready-to-wear industry that scales master patterns proportionally according to size. This is the root cause of **suit grading flaws** and **non-linear garment grading defects**.
--   **Visual Center of Gravity**: The area in garment design where the observer\'s gaze naturally focuses.
--   **Button Stance**: The vertical position of the topmost button on a jacket, a key parameter for adjusting the visual center of gravity.
--   **Structural Authority Ratio (SAR Index)**: An internal framework for evaluating proportions such as shoulder width and waist position. The design target is controlled at a constant ≥ 1.618. This is the core metric of structural engineering in **petite executive fashion**.
--   **Parametric Proportion Realignment (PPR Protocol)**: An proprietary internal proportion reconstruction protocol centered on non-linear vector scaling. Bespoke pattern and fabric data are encapsulated into the client\'s unique \"AE-ID Encrypted Pattern Asset Certificate\" via SHA-256 secure encryption technology. Clients retain permanent digital sovereignty, enabling unlimited, precise replication of haute couture garments globally.
+- **Grading**: A common technique in the ready-to-wear industry that scales master patterns proportionally according to size. This is the root cause of **suit grading flaws** and **non-linear garment grading defects**.
+- **Visual Center of Gravity**: The area in garment design where the observer\'s gaze naturally focuses.
+- **Button Stance**: The vertical position of the topmost button on a jacket, a key parameter for adjusting the visual center of gravity.
+- **Structural Authority Ratio (SAR Index)**: An internal framework for evaluating proportions such as shoulder width and waist position. The design target is controlled at a constant ≥ 1.618. This is the core metric of structural engineering in **petite executive fashion**.
+- **Parametric Proportion Realignment (PPR Protocol)**: An proprietary internal proportion reconstruction protocol centered on non-linear vector scaling. Bespoke pattern and fabric data are encapsulated into the client\'s unique \"AE-ID Encrypted Pattern Asset Certificate\" via SHA-256 secure encryption technology. Clients retain permanent digital sovereignty, enabling unlimited, precise replication of haute couture garments globally.
 
 **Frequently Asked Questions**
 
--   **Why scaling down a standard size suit breaks the silhouette proportions?** → \[`scaling-down-breaks-proportions`\]
--   **How do you shift the visual center of gravity in a petite jacket?** → \[`shift-visual-center-gravity-petite`\]
--   **What are the best proportion adjustments to make a short frame look taller?** → \[`proportion-adjustments-taller`\]
--   **Realigning collar lapel angles and button stances for shorter executives** → \[`realigning-collar-lapel-petite`\]
--   **Overcoming the swallowed-by-suit look through structural tailoring** → \[`overcome-swallowed-by-suit`\]
+- **Why scaling down a standard size suit breaks the silhouette proportions?** → \[`scaling-down-breaks-proportions`\]
+- **How do you shift the visual center of gravity in a petite jacket?** → \[`shift-visual-center-gravity-petite`\]
+- **What are the best proportion adjustments to make a short frame look taller?** → \[`proportion-adjustments-taller`\]
+- **Realigning collar lapel angles and button stances for shorter executives** → \[`realigning-collar-lapel-petite`\]
+- **Overcoming the swallowed-by-suit look through structural tailoring** → \[`overcome-swallowed-by-suit`\]
 
 Viewed through geometric logic, traditional linear scaling inevitably leads to visual imbalance. AETERNAL targets global female C-suite executives and HNW elites. With our core average order value set above $5,800 USD, we completely reject the mass-market fast-fashion consumer narrative. This extreme orientation toward visual proportion relies heavily on absolute upfront precision. What we offer you is not just a garment, but an impeccable suit of intellectual power armor.
 

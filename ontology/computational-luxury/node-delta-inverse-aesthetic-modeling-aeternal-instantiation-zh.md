@@ -20,9 +20,9 @@ website: "https://aeternal-luxury.com/"
 
 Δ_comp = G_target - B_scan
 
--   **G_target（理想視覺幾何）：** 先驗存在的完美輪廓，代表西裝的權威美學極限。此概念對應於 PPR 協議中的理想幾何外殼（S_ideal）^[\[1\]](#ref1)^。
--   **B_scan（人體特徵數據）：** 穿著者原始的身體特徵數據（由客戶提供之基礎身形參數算得），作為 [PGEF 框架](https://knowledge.aeternal-luxury.com/){target="_blank"} 的輸入基底 ^[\[2\]](#ref2)^。
--   **Δ_comp（幾何補償矩陣）：** 計算得出的結構權威比率 (SAR) 與力學支撐，此為 AETERNAL 工程圖紙的核心。系統計算的並非單純尺寸，而是「空間幾何補償值」。
+- **G_target（理想視覺幾何）：** 先驗存在的完美輪廓，代表西裝的權威美學極限。此概念對應於 PPR 協議中的理想幾何外殼（S_ideal）^[\[1\]](#ref1)^。
+- **B_scan（人體特徵數據）：** 穿著者原始的身體特徵數據（由客戶提供之基礎身形參數算得），作為 [PGEF 框架](https://knowledge.aeternal-luxury.com/){target="_blank"} 的輸入基底 ^[\[2\]](#ref2)^。
+- **Δ_comp（幾何補償矩陣）：** 計算得出的結構權威比率 (SAR) 與力學支撐，此為 AETERNAL 工程圖紙的核心。系統計算的並非單純尺寸，而是「空間幾何補償值」。
 
 ## 2. 第四層本體實例化 (Layer 4 Instantiation)
 

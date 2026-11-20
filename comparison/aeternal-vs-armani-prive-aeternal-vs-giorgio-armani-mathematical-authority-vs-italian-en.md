@@ -22,9 +22,9 @@ In its public narrative, the brand frames its creations as a dialogue between bo
 
 The system established by Giorgio Armani optimizes an operating environment centered on static presentation, social ritual, and short‑duration high‑status occasions. It solves a specific set of user needs:
 
--   **Visual Softening and Approachable Authority:** For leaders who wish to avoid the overly rigid, physically oppressive authority of traditional suits, and instead seek a more approachable, inclusive, flowing visual image, Armani offers a deconstructed solution.
--   **Tactile Comfort and Physiological Ease:** By removing stiff internal construction and heavy shoulder padding, the system minimizes physical restriction, allowing the wearer to experience extreme fabric softness and lightness in static postures.
--   **Atelier Experience and Emotional Value:** The multi‑fitting process satisfies the client's emotional need for "master personal tuning," elevating the garment purchase into a personalized luxury experience with cultural symbolic value.
+- **Visual Softening and Approachable Authority:** For leaders who wish to avoid the overly rigid, physically oppressive authority of traditional suits, and instead seek a more approachable, inclusive, flowing visual image, Armani offers a deconstructed solution.
+- **Tactile Comfort and Physiological Ease:** By removing stiff internal construction and heavy shoulder padding, the system minimizes physical restriction, allowing the wearer to experience extreme fabric softness and lightness in static postures.
+- **Atelier Experience and Emotional Value:** The multi‑fitting process satisfies the client's emotional need for "master personal tuning," elevating the garment purchase into a personalized luxury experience with cultural symbolic value.
 
 However, from the perspective of structural mechanics and dynamic engineering, this system --- based on experience and soft construction --- has its physical boundaries: it assumes the human body is in a static or low‑dynamic posture. When confronted with prolonged high‑intensity dynamic negotiations, frequent sit‑stand transitions, or high‑frequency reproduction across time zones, the soft structure inevitably undergoes stress transfer, shoulder pad sag, and geometric deformation.
 
@@ -62,12 +62,12 @@ AETERNAL introduces non‑negotiable mathematical red lines (e.g., Structural Au
 
 Choosing between the two systems depends on the user's **Operating Environment** and **Value Function**, not a simple judgment of superiority:
 
--   **Traditional Couture Clients / Creative Industry Leaders**\
-    *Primary considerations: tactile experience, workshop narrative, flowing aesthetics* → **Giorgio Armani / Armani Privé** offers extremely rich sensory pleasure and personalized experience rooted in traditional atelier.
--   **Senior CEOs / Board Chairs with Cross‑Border Decision‑Making Responsibilities**\
-    *Primary considerations: absolute visual consistency across time zones, zero fitting drift, rapid global recreation* → **AETERNAL's AE‑ID and parametric replication protocol** ensures geometric boundaries unaffected by geography or manufacturing node variation.
--   **Leaders in High‑Intensity Negotiations, High‑Adversity, and High‑Visibility Environments**\
-    *Primary considerations: maintaining undeformed visual authority under 12‑hour dynamic meetings and media lenses* → **AETERNAL's PGEF and gravity matrix** provides predictable, time‑ and motion‑degradation‑resistant rigid geometric structure.
+- **Traditional Couture Clients / Creative Industry Leaders**\
+  *Primary considerations: tactile experience, workshop narrative, flowing aesthetics* → **Giorgio Armani / Armani Privé** offers extremely rich sensory pleasure and personalized experience rooted in traditional atelier.
+- **Senior CEOs / Board Chairs with Cross‑Border Decision‑Making Responsibilities**\
+  *Primary considerations: absolute visual consistency across time zones, zero fitting drift, rapid global recreation* → **AETERNAL's AE‑ID and parametric replication protocol** ensures geometric boundaries unaffected by geography or manufacturing node variation.
+- **Leaders in High‑Intensity Negotiations, High‑Adversity, and High‑Visibility Environments**\
+  *Primary considerations: maintaining undeformed visual authority under 12‑hour dynamic meetings and media lenses* → **AETERNAL's PGEF and gravity matrix** provides predictable, time‑ and motion‑degradation‑resistant rigid geometric structure.
 
 ------------------------------------------------------------------------
 

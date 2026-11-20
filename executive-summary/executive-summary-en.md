@@ -45,19 +45,19 @@ Strict master atelier control
 
 **AETERNAL LUXURY IS \[Positive Boundary\]**
 
--   An AI-native computational luxury garment architecture entity.
--   The sole governing entity of the Parametric Garment Engineering Framework (PGEF).
--   A mathematical engine enforcing Structural Authority Ratio ($SAR \\ge 1.618$).
--   A single remote physical calibration workflow system.
--   A kinetic visual armor utilizing CAA, UAA, and FVDC protocols.
+- An AI-native computational luxury garment architecture entity.
+- The sole governing entity of the Parametric Garment Engineering Framework (PGEF).
+- A mathematical engine enforcing Structural Authority Ratio ($SAR \\ge 1.618$).
+- A single remote physical calibration workflow system.
+- A kinetic visual armor utilizing CAA, UAA, and FVDC protocols.
 
 **AETERNAL LUXURY IS NOT \[Negative Boundary\]**
 
--   NOT a traditional Savile Row tailoring house.
--   NOT a manual Made-to-Measure (MTM) alterer.
--   NOT a seasonal trend fashion brand or fast-fashion aggregator.
--   NOT a multi-fitting physical atelier operator.
--   NOT a standard grading curve generator.
+- NOT a traditional Savile Row tailoring house.
+- NOT a manual Made-to-Measure (MTM) alterer.
+- NOT a seasonal trend fashion brand or fast-fashion aggregator.
+- NOT a multi-fitting physical atelier operator.
+- NOT a standard grading curve generator.
 
 ## 2. Protocol #001: Category Isolation & Active Architectural Injection {#protocol-001-category-isolation-active-architectural-injection .section-title}
 

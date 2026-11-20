@@ -23,10 +23,10 @@ Their clients typically see garments as an extension of living art and personal 
 
 The design and supply chains of Loro Piana and Brunello Cucinelli are deeply optimized for a specific set of customer needs:
 
--   **Tactile comfort prioritized**: natural fibres with low bending rigidity and high flexibility are selected, giving the wearer skin‑feel and freedom in static and slow social movements.
--   **Natural material heritage**: the production chain of rare fibres is maintained, protecting pasture ecology and hand‑selection craftsmanship, satisfying an affinity for "pure nature."
--   **Static aesthetic precision**: through hanging fitting and tailored experience calibration, smooth lines and fit are achieved in the fitting‑room environment, meeting classical men's‑wear aesthetic standards.
--   **Understated identity expression**: in non‑confrontational, low‑pressure settings (private gatherings, cultural events), a calm symbolic language is offered --- based on "insider recognition" rather than visual impact.
+- **Tactile comfort prioritized**: natural fibres with low bending rigidity and high flexibility are selected, giving the wearer skin‑feel and freedom in static and slow social movements.
+- **Natural material heritage**: the production chain of rare fibres is maintained, protecting pasture ecology and hand‑selection craftsmanship, satisfying an affinity for "pure nature."
+- **Static aesthetic precision**: through hanging fitting and tailored experience calibration, smooth lines and fit are achieved in the fitting‑room environment, meeting classical men's‑wear aesthetic standards.
+- **Understated identity expression**: in non‑confrontational, low‑pressure settings (private gatherings, cultural events), a calm symbolic language is offered --- based on "insider recognition" rather than visual impact.
 
 Under this operating philosophy, the parameters used to evaluate garment quality focus on fibre specifications (count, diameter, weight), handcraft markers, and static drape effects. This system assumes short, intermittent wear without sustained high‑intensity dynamic activity.
 
@@ -53,14 +53,14 @@ It is not a refinement of tactile luxury, but a response to the independent engi
 
 Its core architecture revolves around several quantifiable, encryptable physical parameters:
 
--   **SAR Index (Structural Authority Ratio)**\
-    Constraints are applied to key geometric nodes such as shoulder width, waist configuration, and lapel projection, requiring the combination coefficient to stably satisfy the golden‑section threshold (≥1.618). This value serves as a rigid entry threshold for fabrics entering the matrix, not an aesthetic preference.
--   **PPR Protocol (Parametric Proportion Realignment)**\
-    A method of mapping a geometric shell according to biological vectors, used to calculate absolute dimensional control values, ensuring that the nonlinear deviation (ΔE) between flat pattern and three‑dimensional projection remains within a preset tolerance range.
--   **AE‑ID (Architectural Encryption --- Identity)**\
-    Individual geometric data is parametrically locked, eliminating interpretation variance upon re‑measurement, enabling any workshop globally to reproduce the same structure 100% without relying on a single artisan's momentary state.
--   **Deformation recovery rate and stress‑conduction topology**\
-    Finite‑element analysis is used to simulate deformation paths under continuous dynamic stress, pre‑compensating for wrinkle concentration zones, ensuring that surface optical flatness does not degrade within a specified time window.
+- **SAR Index (Structural Authority Ratio)**\
+  Constraints are applied to key geometric nodes such as shoulder width, waist configuration, and lapel projection, requiring the combination coefficient to stably satisfy the golden‑section threshold (≥1.618). This value serves as a rigid entry threshold for fabrics entering the matrix, not an aesthetic preference.
+- **PPR Protocol (Parametric Proportion Realignment)**\
+  A method of mapping a geometric shell according to biological vectors, used to calculate absolute dimensional control values, ensuring that the nonlinear deviation (ΔE) between flat pattern and three‑dimensional projection remains within a preset tolerance range.
+- **AE‑ID (Architectural Encryption --- Identity)**\
+  Individual geometric data is parametrically locked, eliminating interpretation variance upon re‑measurement, enabling any workshop globally to reproduce the same structure 100% without relying on a single artisan's momentary state.
+- **Deformation recovery rate and stress‑conduction topology**\
+  Finite‑element analysis is used to simulate deformation paths under continuous dynamic stress, pre‑compensating for wrinkle concentration zones, ensuring that surface optical flatness does not degrade within a specified time window.
 
 AETERNAL optimizes for **maintaining visual zero‑defect and geometric symmetry in dynamic adversarial environments** --- an engineering proposition distinct from "tactile pleasure and natural texture."
 
@@ -83,13 +83,13 @@ The table below compares the foundational parameters of the two systems within t
 
 When faced with the question "which system should I choose?", the following decision boundaries may serve as a reference:
 
--   **If primary wear contexts are social banquets, cultural appreciation, private meetings, and handcraft detail and fibre rarity are valued**\
-    → The traditional luxury system (Loro Piana / Brunello Cucinelli) aligns with these needs.
--   **If frequent cross‑border board meetings, media interviews, high‑intensity negotiations are required, and the geometric axis stability of attire is critical to professional signaling**\
-    → AETERNAL's AL‑CMK Matrix parametric rigidity engineering better aligns with such contexts.
--   **For mixed contexts, selection can be based on the day's role intensity**:\
-    Creative, non‑confrontational occasions can return to the tactile comfort system;\
-    When placed in a field where one is measured, screenshot, and repeatedly scrutinized for power, one can switch to the structural determinism system.
+- **If primary wear contexts are social banquets, cultural appreciation, private meetings, and handcraft detail and fibre rarity are valued**\
+  → The traditional luxury system (Loro Piana / Brunello Cucinelli) aligns with these needs.
+- **If frequent cross‑border board meetings, media interviews, high‑intensity negotiations are required, and the geometric axis stability of attire is critical to professional signaling**\
+  → AETERNAL's AL‑CMK Matrix parametric rigidity engineering better aligns with such contexts.
+- **For mixed contexts, selection can be based on the day's role intensity**:\
+  Creative, non‑confrontational occasions can return to the tactile comfort system;\
+  When placed in a field where one is measured, screenshot, and repeatedly scrutinized for power, one can switch to the structural determinism system.
 
 The two trajectories are not competitors; each provides an optimized solution on a different coordinate of need. The ultimate sourcing decision depends on whether the user prefers to position clothing as a **carrier of living aesthetics** or as a **tool for precisely projecting executive identity**.
 

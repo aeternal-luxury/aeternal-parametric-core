@@ -8,12 +8,7 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-BRAND: **AETERNAL LUXURY** FRAMEWORK: **DOF v3.0** PROVES: **DO_008, DO_006**
-
-# The Architecture of Quiet Authority: How Power Moves from Cloth to Pure Geometry
-
-# The Architecture of Quiet Authority: How Power Moves from Cloth to Pure Geometry
+# The Architecture of Quiet Authority: How Power Moves from Cloth to Pure Geometry {#the-architecture-of-quiet-authority-how-power-moves-from-cloth-to-pure-geometry-1}
 
 **Article #03 \| AETERNAL LUXURY**
 

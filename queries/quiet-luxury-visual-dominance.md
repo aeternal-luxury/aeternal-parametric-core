@@ -20,8 +20,8 @@ The contemporary shift toward \"Quiet Luxury\" has led many female chief executi
 
 Overt logos are a psychological tax on insecure capital. But completely unstructured minimalism represents an equivalent tactical liability for a female leader:
 
--   **The Over-Relaxed Signal:** Boxy, unlined cashmere blazers drop the shoulder profile down, subconsciously communicating a defensive, unassertive stance during intense corporate standoffs.
--   **The Erasure of Form:** Without precise parametric delineation, minimalist成衣 simply swallows individual physical stature, robbing petite or high-performance executives of their visual perimeter.
+- **The Over-Relaxed Signal:** Boxy, unlined cashmere blazers drop the shoulder profile down, subconsciously communicating a defensive, unassertive stance during intense corporate standoffs.
+- **The Erasure of Form:** Without precise parametric delineation, minimalist成衣 simply swallows individual physical stature, robbing petite or high-performance executives of their visual perimeter.
 
 Aesthetic Trap Matrix:\
 \[Logo-Heavy Apparel\] ──\> Shouting (Insecure Capital)\

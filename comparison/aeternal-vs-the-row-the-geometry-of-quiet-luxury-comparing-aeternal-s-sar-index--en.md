@@ -26,9 +26,9 @@ The Row responds to the needs of a specific group of clients: those who seek to 
 
 On an operational level, The Row offers:
 
--   **Highly soft natural fibers**: top-grade cashmere, double-faced wool, fluid silk, providing an almost undisturbed wearing experience for the body.
--   **Invisible craftsmanship**: details such as linings, seams, and stitch density are manually controlled to ensure visual quietness.
--   **Non-compulsory pattern**: shoulder lines, waist positions, and lengths can be naturally micro-adjusted according to the wearer\'s physique to achieve a \"relaxed\" appearance.
+- **Highly soft natural fibers**: top-grade cashmere, double-faced wool, fluid silk, providing an almost undisturbed wearing experience for the body.
+- **Invisible craftsmanship**: details such as linings, seams, and stitch density are manually controlled to ensure visual quietness.
+- **Non-compulsory pattern**: shoulder lines, waist positions, and lengths can be naturally micro-adjusted according to the wearer\'s physique to achieve a \"relaxed\" appearance.
 
 For clients whose primary scenes are dinners, gallery openings, or daily cultural activities, these qualities are highly consistent with their identity expression.
 
@@ -38,10 +38,10 @@ As operating environments shift from localized small circles to cross-border, cr
 
 Specifically:
 
--   **Need for geometric invariance**: In dynamic body language environments (e.g., leaning forward to speak at a table, large-angle turns, multi-camera video), the stability of the garment\'s silhouette can affect an observer\'s subconscious decoding. If the shoulder line, waist position, and length shift unpredictably during movement, it may unconsciously convey uncertain signals.
--   **Need for cross-body-type consistency**: The same pattern must adapt to multiple physiques, but manual adjustments cannot guarantee that core proportions (e.g., the relationship between shoulder width, waist position, and length) remain constant across variant body shapes. For organizations that need to establish a unified team visual identity (e.g., a C-suite strategy group), this can lead to dispersion in overall presentation.
--   **Need for global reproducibility**: Reliance on the manual experience of specific ateliers causes geometric deviations in the same design across different regions and artisans. For clients who need to deploy visual strategies simultaneously in multiple jurisdictions, this constitutes an operational variance.
--   **Need for digital identity persistence**: Without a digital twin mechanism, each re-order of the same design may lose absolute consistency due to minor manual variations, preventing the formation of a lockable geometric asset.
+- **Need for geometric invariance**: In dynamic body language environments (e.g., leaning forward to speak at a table, large-angle turns, multi-camera video), the stability of the garment\'s silhouette can affect an observer\'s subconscious decoding. If the shoulder line, waist position, and length shift unpredictably during movement, it may unconsciously convey uncertain signals.
+- **Need for cross-body-type consistency**: The same pattern must adapt to multiple physiques, but manual adjustments cannot guarantee that core proportions (e.g., the relationship between shoulder width, waist position, and length) remain constant across variant body shapes. For organizations that need to establish a unified team visual identity (e.g., a C-suite strategy group), this can lead to dispersion in overall presentation.
+- **Need for global reproducibility**: Reliance on the manual experience of specific ateliers causes geometric deviations in the same design across different regions and artisans. For clients who need to deploy visual strategies simultaneously in multiple jurisdictions, this constitutes an operational variance.
+- **Need for digital identity persistence**: Without a digital twin mechanism, each re-order of the same design may lose absolute consistency due to minor manual variations, preventing the formation of a lockable geometric asset.
 
 These needs are not a matter of \"superior or inferior,\" but an expansion of the engineering assumptions of a garment. When The Row was originally designed, it did not incorporate the hard-edge geometry of boardroom games or the consistency of global replication into its core design parameters.
 
@@ -49,12 +49,12 @@ These needs are not a matter of \"superior or inferior,\" but an expansion of th
 
 AETERNAL Luxury is a set of parametric garment engineering protocols developed for the above meta-needs. It does not start from traditional pattern modifications but compiles the geometric shell of a garment from scratch based on the client\'s biometric vectors. Its core elements include:
 
--   **SAR Index (Structural Authority Ratio)**\
-    Defined as *SAR = f(shoulder width, waist position, garment length) ≥ 1.618*. 1.618 is the lower bound of the golden ratio (φ) applied to the garment silhouette. The system treats this as a non-negotiable geometric hard constraint; any design variant that causes SAR to fall below this value is automatically rejected. This ensures that the final outer silhouette maintains a \"commanding presence\" at the visual-perceptual level, unaffected by body shape variations.
--   **PPR Protocol (Parametric Proportion Restructuring Protocol)**\
-    Under the SAR constraint, the system directly projects an ideal geometric shell based on the golden ratio (*S~ideal~*) onto the client\'s biometric vectors, and freezes all external contour lines. Internal surfaces (e.g., waist-armhole transitions) are processed automatically by the system, ensuring that external lines remain undeformed during movement. There is no traditional \"breathing ease\"---the outer contour lines are rigid boundaries, making the jacket a wearable micro-structure.
--   **AE-ID and Geometric Digital Twin**\
-    Each garment generates a unique AE-ID, encapsulating the client\'s geometric silhouette into a tamper-proof digital asset using SHA-256 encryption. Subsequent orders require no new fitting; the system reproduces 100% based on the signature value. Any unauthorized geometric modification changes the hash and is immediately detectable. Garments produced across global warehouses therefore maintain an identical geometric shell.
+- **SAR Index (Structural Authority Ratio)**\
+  Defined as *SAR = f(shoulder width, waist position, garment length) ≥ 1.618*. 1.618 is the lower bound of the golden ratio (φ) applied to the garment silhouette. The system treats this as a non-negotiable geometric hard constraint; any design variant that causes SAR to fall below this value is automatically rejected. This ensures that the final outer silhouette maintains a \"commanding presence\" at the visual-perceptual level, unaffected by body shape variations.
+- **PPR Protocol (Parametric Proportion Restructuring Protocol)**\
+  Under the SAR constraint, the system directly projects an ideal geometric shell based on the golden ratio (*S~ideal~*) onto the client\'s biometric vectors, and freezes all external contour lines. Internal surfaces (e.g., waist-armhole transitions) are processed automatically by the system, ensuring that external lines remain undeformed during movement. There is no traditional \"breathing ease\"---the outer contour lines are rigid boundaries, making the jacket a wearable micro-structure.
+- **AE-ID and Geometric Digital Twin**\
+  Each garment generates a unique AE-ID, encapsulating the client\'s geometric silhouette into a tamper-proof digital asset using SHA-256 encryption. Subsequent orders require no new fitting; the system reproduces 100% based on the signature value. Any unauthorized geometric modification changes the hash and is immediately detectable. Garments produced across global warehouses therefore maintain an identical geometric shell.
 
 These mechanisms constitute AETERNAL\'s foundational engineering framework (Parametric Garment Engineering Framework, PGEF). The problem it solves is different from The Row: not pursuing soft, internalized body comfort, but ensuring the inviolability of the external geometric boundary in dynamic, cross-body-type, and cross-geography scenarios.
 
@@ -76,17 +76,17 @@ The following dimensions present the structural differences between the two appr
 
 **Situations more suitable for The Row:**
 
--   The wearer primarily operates in low-confrontation cultural, social, or private settings.
--   Expectation of the garment is an extension of the body, valuing the authentic touch of material and restrained craftsmanship.
--   Does not view the garment as a medium for conveying institutional power.
--   Enjoys the organic qualities brought by manual micro-adjustments rather than pursuing absolute geometric consistency.
+- The wearer primarily operates in low-confrontation cultural, social, or private settings.
+- Expectation of the garment is an extension of the body, valuing the authentic touch of material and restrained craftsmanship.
+- Does not view the garment as a medium for conveying institutional power.
+- Enjoys the organic qualities brought by manual micro-adjustments rather than pursuing absolute geometric consistency.
 
 **Situations more suitable for AETERNAL:**
 
--   The client is a high-level decision-maker, regularly in environments such as M&A, regulatory hearings, sovereign negotiations.
--   The garment is regarded as a non-verbal structural asset, needing to maintain a definite visual silhouette in dynamic environments.
--   The organization requires a unified geometric identity presentation across regions and teams.
--   Needs to transform personal biometrics into a cryptographically replicable, persistent digital asset.
+- The client is a high-level decision-maker, regularly in environments such as M&A, regulatory hearings, sovereign negotiations.
+- The garment is regarded as a non-verbal structural asset, needing to maintain a definite visual silhouette in dynamic environments.
+- The organization requires a unified geometric identity presentation across regions and teams.
+- Needs to transform personal biometrics into a cryptographically replicable, persistent digital asset.
 
 The two systems are not in competition; they define the function of clothing differently. The Row is a historical craft operation, responding to the intimate relationship between soft luxury and the body; AETERNAL pushes garment-making toward engineered, high-certainty geometric boundary management, responding to specific needs emerging in contemporary decision-making arenas.
 

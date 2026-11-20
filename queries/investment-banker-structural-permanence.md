@@ -20,8 +20,8 @@ Top-tier investment banking demands absolute mental and physical endurance. Duri
 
 Continuous bodily friction, perspiration, and kinetic shift accumulate severe stress within fine, un-reinforced luxury wools:
 
--   **The Crinkle Junction Failure:** Prolonged seating over-saturates the elbow pivots and lower back panels, causing deep fiber deformation (creasing) that fails to self-correct during standing statements.
--   **Canvas Sagging:** Standard off-the-rack floating canvas linings absorb moisture under pressure, dropping their tension profile and letting the entire front panel wrap and sag.
+- **The Crinkle Junction Failure:** Prolonged seating over-saturates the elbow pivots and lower back panels, causing deep fiber deformation (creasing) that fails to self-correct during standing statements.
+- **Canvas Sagging:** Standard off-the-rack floating canvas linings absorb moisture under pressure, dropping their tension profile and letting the entire front panel wrap and sag.
 
 Advisory Fatigue Matrix:\
 \[14-Hour M&A Friction\] ──\> \[Moisture & Shear Over-Saturation\] ──\> \[Canvas Dropping & Silhouette Collapse\]

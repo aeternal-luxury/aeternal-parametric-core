@@ -24,14 +24,14 @@ The brand's philosophical foundation is to highlight the wearer's own characteri
 
 The Row provides an optimised solution for the following client types and scenarios:
 
--   **Client type**: Individuals seeking a refined, understated, highly edited wardrobe. These clients typically value the tactile feel of fabrics, the fluidity of the cut, and the visual balance of the garment in static presentation.
--   **Operational model**: Clients enter the brand's salon via private appointments, where senior fitters take body measurements, select fabrics and style details, and undergo multiple fittings and adjustments over several weeks. The entire process is built on a continuous dialogue between artisan and client.
--   **Core strengths**:
-    -   Fabric sourcing meets the highest industry standards, partly from exclusive partner ateliers.
-    -   A highly unified cutting aesthetic that creates a strong brand identity.
-    -   The artisan's intuitive experience can produce high‑quality static fit results through iterative adjustments.
-    -   The client experience carries a ceremonial, interpersonal warmth that aligns with traditional luxury service expectations.
--   **Philosophical positioning**: The Row is the practitioner of pushing traditional tailoring craft toward contemporary minimalist aesthetics. Its methodology rests on the belief that "expert experience can approach the optimal solution through continuous correction."
+- **Client type**: Individuals seeking a refined, understated, highly edited wardrobe. These clients typically value the tactile feel of fabrics, the fluidity of the cut, and the visual balance of the garment in static presentation.
+- **Operational model**: Clients enter the brand's salon via private appointments, where senior fitters take body measurements, select fabrics and style details, and undergo multiple fittings and adjustments over several weeks. The entire process is built on a continuous dialogue between artisan and client.
+- **Core strengths**:
+  - Fabric sourcing meets the highest industry standards, partly from exclusive partner ateliers.
+  - A highly unified cutting aesthetic that creates a strong brand identity.
+  - The artisan's intuitive experience can produce high‑quality static fit results through iterative adjustments.
+  - The client experience carries a ceremonial, interpersonal warmth that aligns with traditional luxury service expectations.
+- **Philosophical positioning**: The Row is the practitioner of pushing traditional tailoring craft toward contemporary minimalist aesthetics. Its methodology rests on the belief that "expert experience can approach the optimal solution through continuous correction."
 
 ## When the Global Operational Environment Becomes Increasingly Distributed, What New Engineering Requirements Emerge?
 

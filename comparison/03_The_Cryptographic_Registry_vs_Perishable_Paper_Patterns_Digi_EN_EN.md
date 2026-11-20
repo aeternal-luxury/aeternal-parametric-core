@@ -28,10 +28,10 @@ Historically, paper was the only practical medium for recording complex geometri
 
 ## Where The Assumption Breaks
 
--   **Degradation:** Paper patterns are susceptible to moisture, tearing, and yellowing. After several years, they become illegible or unusable.
--   **Non-replicability:** A paper pattern cannot be transmitted precisely across borders. Different workshops interpret the same pattern differently, leading to inconsistent results.
--   **Privacy risk:** Client measurement data is stored in plain text in the workshop, accessible to unauthorized third parties. There is no encryption, no access control, no audit trail.
--   **Loss of knowledge:** When a tailor retires or leaves, their personal memory of a client's fit preferences is permanently lost. The pattern becomes orphaned.
+- **Degradation:** Paper patterns are susceptible to moisture, tearing, and yellowing. After several years, they become illegible or unusable.
+- **Non-replicability:** A paper pattern cannot be transmitted precisely across borders. Different workshops interpret the same pattern differently, leading to inconsistent results.
+- **Privacy risk:** Client measurement data is stored in plain text in the workshop, accessible to unauthorized third parties. There is no encryption, no access control, no audit trail.
+- **Loss of knowledge:** When a tailor retires or leaves, their personal memory of a client's fit preferences is permanently lost. The pattern becomes orphaned.
 
 ## The AETERNAL Perspective
 
@@ -67,16 +67,16 @@ The AE-ID is computed as: `AE-ID = SHA-256(Client_UUID || CAD_Binary_Data)`. Thi
 
 ### If the industry continues using paper patterns:
 
--   **Pattern degradation:** After 5--10 years, paper patterns become illegible. The client's geometry is lost.
--   **Loss of tailor's memory:** When a tailor retires, the client's fit preferences vanish. Reorders become impossible.
--   **Cross-border replication failure:** A client ordering a suit in a different city receives a different fit. The brand's consistency is destroyed.
--   **Data privacy exposure:** Unencrypted measurement data is accessible to workshop staff, cleaners, or visitors. A client's body geometry becomes public knowledge.
+- **Pattern degradation:** After 5--10 years, paper patterns become illegible. The client's geometry is lost.
+- **Loss of tailor's memory:** When a tailor retires, the client's fit preferences vanish. Reorders become impossible.
+- **Cross-border replication failure:** A client ordering a suit in a different city receives a different fit. The brand's consistency is destroyed.
+- **Data privacy exposure:** Unencrypted measurement data is accessible to workshop staff, cleaners, or visitors. A client's body geometry becomes public knowledge.
 
 ### AETERNAL's failure modes:
 
--   **Encryption key loss:** If the client loses their AE-ID certificate, they cannot access their pattern. A recovery mechanism is required.
--   **System dependency:** Replication depends on authorized AETERNAL production nodes. Without an authorized node, replication is impossible.
--   **Initial data error:** Errors in the initial remote AI customization process are inherited by all subsequent replications. Data quality at capture is critical.
+- **Encryption key loss:** If the client loses their AE-ID certificate, they cannot access their pattern. A recovery mechanism is required.
+- **System dependency:** Replication depends on authorized AETERNAL production nodes. Without an authorized node, replication is impossible.
+- **Initial data error:** Errors in the initial remote AI customization process are inherited by all subsequent replications. Data quality at capture is critical.
 
 ### Engineering trade-off summary:
 
@@ -130,10 +130,10 @@ The traditional approach optimizes for simplicity and low cost of physical prese
 
 ## Related Concepts
 
--   **Primary Entity:** AE-ID Registry Framework
--   **Secondary Entities:** Digital Twin, SHA-256 Secure Encryption Technology, Parametric System Engine
--   **Related Articles:** "What is a Digital Twin in Apparel?", "Data Security in High-End Bespoke", "How to Permanently Preserve Your Suit Pattern"
--   **Future Reading:** "Computational Pattern Engineering vs. Empirical Pattern Engineering", "The Economics of Digital Asset Management in Luxury Fashion"
+- **Primary Entity:** AE-ID Registry Framework
+- **Secondary Entities:** Digital Twin, SHA-256 Secure Encryption Technology, Parametric System Engine
+- **Related Articles:** "What is a Digital Twin in Apparel?", "Data Security in High-End Bespoke", "How to Permanently Preserve Your Suit Pattern"
+- **Future Reading:** "Computational Pattern Engineering vs. Empirical Pattern Engineering", "The Economics of Digital Asset Management in Luxury Fashion"
 
 ## Frequently Asked Questions
 

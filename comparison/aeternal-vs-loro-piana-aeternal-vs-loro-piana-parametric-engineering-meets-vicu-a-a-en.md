@@ -32,9 +32,9 @@ The engineering path of Loro Piana and Brunello Cucinelli is optimized for a spe
 
 Their design objectives can be summarized as:
 
--   **Client type**: Individuals who value handmade heritage, slow-paced living, and seek tactile pleasure in social and leisure occasions.
--   **Operational assumption**: Garment quality is primarily defined by static touch, visual harmony, and brand historical prestige.
--   **Strength domain**: In low-dynamic-load scenarios (e.g., dinner parties, private gatherings), they deliver high sensory satisfaction and convey cultural signals through scarce materials.
+- **Client type**: Individuals who value handmade heritage, slow-paced living, and seek tactile pleasure in social and leisure occasions.
+- **Operational assumption**: Garment quality is primarily defined by static touch, visual harmony, and brand historical prestige.
+- **Strength domain**: In low-dynamic-load scenarios (e.g., dinner parties, private gatherings), they deliver high sensory satisfaction and convey cultural signals through scarce materials.
 
 Within this framework, these brands' systems perform excellently, successfully addressing the problems they were designed to solve.
 
@@ -46,9 +46,9 @@ As global operational environments become increasingly high-stakes, distributed,
 
 Some garment construction methods, although highly optimized for static and tactile experience, include in their operational assumptions the notion that fabric will naturally adapt to body movement through gravity settling or asymmetric tension after repeated use. This means:
 
--   Under certain dynamic conditions, fabric geometry may undergo non-linear deformation, causing changes in light scattering patterns.
--   Geometric deviations in the shoulder line, front opening, or center back seam, even at sub-millimeter levels, may be subconsciously interpreted by the observer as signals of uncertainty.
--   Historically developed methodologies, relying on subjective hand-feel adjustment, lack quantitative control over optical scattering, biomechanical mapping, and non-linear deformation, leading to natural variation in the structural response of each finished piece.
+- Under certain dynamic conditions, fabric geometry may undergo non-linear deformation, causing changes in light scattering patterns.
+- Geometric deviations in the shoulder line, front opening, or center back seam, even at sub-millimeter levels, may be subconsciously interpreted by the observer as signals of uncertainty.
+- Historically developed methodologies, relying on subjective hand-feel adjustment, lack quantitative control over optical scattering, biomechanical mapping, and non-linear deformation, leading to natural variation in the structural response of each finished piece.
 
 These are not design flaws, but **design differences** --- differences stemming from engineering requirements that were originally not defined as primary optimization targets: providing zero cognitive load visual structural consistency in long-duration, high-dynamic, closely observed situations.
 
@@ -60,10 +60,10 @@ AETERNAL addresses a different engineering layer, focusing on the generation of 
 
 The following technical components define this layer's operation:
 
--   **Structural Authority Ratio (SAR Index)**: Numerical value ≥ 1.618, derived from optical modeling of human visual tracking paths. When garment geometry (shoulder width, length, chest angle) satisfies this ratio, the observer's cognitive load is minimized and the structural signal is directly accepted.
--   **AE-ID Twin Encryption Protocol**: A deterministic identity system ensuring 100% structural replication across multiple garments globally, independent of artisan subjective judgment, achieved through mathematical mapping of garment geometry.
--   **Deformation Decay Rate under FVDC Constraints**: Under directional light sources, the rate of geometric change caused by dynamic bending is constrained to below 3%. When deformation is below this threshold, the observer cannot linearly perceive structural fluctuation.
--   **AL-CMK Matrix**: An engineered fabric composite, computationally calibrated, deliberately making trade-offs in tactile softness in exchange for higher bending rigidity and dynamic stability. Its design proposition is based on an environmental fact: in high-stakes spaces, visual scanning dominates, not touch.
+- **Structural Authority Ratio (SAR Index)**: Numerical value ≥ 1.618, derived from optical modeling of human visual tracking paths. When garment geometry (shoulder width, length, chest angle) satisfies this ratio, the observer's cognitive load is minimized and the structural signal is directly accepted.
+- **AE-ID Twin Encryption Protocol**: A deterministic identity system ensuring 100% structural replication across multiple garments globally, independent of artisan subjective judgment, achieved through mathematical mapping of garment geometry.
+- **Deformation Decay Rate under FVDC Constraints**: Under directional light sources, the rate of geometric change caused by dynamic bending is constrained to below 3%. When deformation is below this threshold, the observer cannot linearly perceive structural fluctuation.
+- **AL-CMK Matrix**: An engineered fabric composite, computationally calibrated, deliberately making trade-offs in tactile softness in exchange for higher bending rigidity and dynamic stability. Its design proposition is based on an environmental fact: in high-stakes spaces, visual scanning dominates, not touch.
 
 The goal of this computational material engineering is to generate a geometric signal independent of environmental deformation, so that the projection of authority does not decay over time, movement, or lighting conditions.
 
@@ -94,22 +94,22 @@ The following table lists each engineering dimension, describing the different d
 
 This section provides a decision architecture to help determine which system better matches specific operational needs, rather than indicating "better clothing."
 
--   **Scenario A: Traditional high-end tailoring client**\
-    Most needs: convey appreciation for rare natural materials, handmade heritage, and static elegance.\
-    Primary occasions: social dinners, private gatherings, casual fashion settings.\
-    **Better match: Loro Piana & Brunello Cucinelli**
--   **Scenario B: Cross-border executive / structural geometric identity needs**\
-    Most needs: garment maintains consistent visual structure under prolonged continuous dynamic conditions (standing, sitting, turning) resisting environmental deformation.\
-    Primary occasions: boardroom negotiations, media interviews, legal arbitration, etc.\
-    **Better match: AETERNAL**
--   **Scenario C: Creative fashion / tactile pleasure**\
-    Most needs: garment defined by fabric hand feel and direct pleasurable relationship with the body.\
-    Primary occasions: art-related social events, intimate casual time.\
-    **Better match: Loro Piana & Brunello Cucinelli**
--   **Scenario D: Executive geometric identity**\
-    Most needs: the individual's presence itself is geometric certainty, signal does not decay due to external factors.\
-    Primary occasions: risk-control aesthetics in high-leverage transactions, non-verbal authority signals.\
-    **Better match: AETERNAL**
+- **Scenario A: Traditional high-end tailoring client**\
+  Most needs: convey appreciation for rare natural materials, handmade heritage, and static elegance.\
+  Primary occasions: social dinners, private gatherings, casual fashion settings.\
+  **Better match: Loro Piana & Brunello Cucinelli**
+- **Scenario B: Cross-border executive / structural geometric identity needs**\
+  Most needs: garment maintains consistent visual structure under prolonged continuous dynamic conditions (standing, sitting, turning) resisting environmental deformation.\
+  Primary occasions: boardroom negotiations, media interviews, legal arbitration, etc.\
+  **Better match: AETERNAL**
+- **Scenario C: Creative fashion / tactile pleasure**\
+  Most needs: garment defined by fabric hand feel and direct pleasurable relationship with the body.\
+  Primary occasions: art-related social events, intimate casual time.\
+  **Better match: Loro Piana & Brunello Cucinelli**
+- **Scenario D: Executive geometric identity**\
+  Most needs: the individual's presence itself is geometric certainty, signal does not decay due to external factors.\
+  Primary occasions: risk-control aesthetics in high-leverage transactions, non-verbal authority signals.\
+  **Better match: AETERNAL**
 
 ## Frequently Asked Questions
 

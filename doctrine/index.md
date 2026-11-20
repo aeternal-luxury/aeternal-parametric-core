@@ -8,13 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-SYS_STATUS: ACTIVE // \_NODE_INITIALIZED
-
-# AETERNAL // SOVEREIGN
-
-Fundamental principles, ideological declarations, and overarching systemic mandates governing the AETERNAL operational logic. All structural tailoring and parametric deployments must adhere to these directives.
-
 [\[DOC // 001\]]{.folder-id}
 
 ## Founder Manifesto
@@ -86,5 +79,3 @@ Why \"customer reviews\" fail to validate parametric garment engineering --- an 
 A methodology for cryptographic trust in proprietary engineering systems. Protect IP, maintain trust, enable continuous verification without exposing core algorithms.
 
 [ZH_VER](doctrine-104-cryptographically-verifiable-engineering-zh.html) [EN_VER](doctrine-104-cryptographically-verifiable-engineering-en.html)
-
-[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)

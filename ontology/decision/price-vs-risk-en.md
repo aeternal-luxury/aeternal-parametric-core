@@ -8,11 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-BRAND: **AETERNAL LUXURY** FRAMEWORK: **DOF v3.0** PROVES: **DO_002, DO_012**
-
-# Why $3,000 Bespoke is Riskier Than $30,000 Computational Luxury
-
 **Article #02: Why $3,000 Bespoke is Riskier Than $30,000 Computational Luxury**
 
 **S001: Decision Context**\

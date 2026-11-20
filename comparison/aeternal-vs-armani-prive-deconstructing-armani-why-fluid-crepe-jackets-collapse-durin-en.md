@@ -28,10 +28,10 @@ Armani's design philosophy is deeply rooted in Italian artisanal tradition, valu
 
 The design intent of Armani Privé does not target all possible wearing environments, but focuses on solving a specific set of engineering needs:
 
--   **Breaking structural constraints**: Offering a lightweight, pressure-free wearing experience for clients who wish to escape traditional heavy shoulder pads and stiff linings.
--   **Visual authority in static and low-dynamic scenarios**: Communicating a calm, self-possessed leadership through smooth silhouettes and even draping in conference rooms, social dinners, or everyday business environments.
--   **Personalized fit**: Achieving close adherence to the individual body through local adjustments by experienced tailors, maintaining good fit when standing still or walking slowly.
--   **Fabric artistry**: Using the fabric's own texture and luster as core expressive elements, allowing the fabric to take shape naturally under gravity, creating a dynamic, soft aesthetic.
+- **Breaking structural constraints**: Offering a lightweight, pressure-free wearing experience for clients who wish to escape traditional heavy shoulder pads and stiff linings.
+- **Visual authority in static and low-dynamic scenarios**: Communicating a calm, self-possessed leadership through smooth silhouettes and even draping in conference rooms, social dinners, or everyday business environments.
+- **Personalized fit**: Achieving close adherence to the individual body through local adjustments by experienced tailors, maintaining good fit when standing still or walking slowly.
+- **Fabric artistry**: Using the fabric's own texture and luster as core expressive elements, allowing the fabric to take shape naturally under gravity, creating a dynamic, soft aesthetic.
 
 Under these design premises, Giorgio Armani has successfully provided a solution for a type of client who seeks refined, comfortable, and classic power imagery within a relatively predictable range of motion. This is a well-proven heritage method, its effectiveness built on a deep understanding of specific use environments.
 
@@ -43,10 +43,10 @@ As the global business environment evolves, some executives and decision-makers 
 
 In these scenarios, the following engineering requirements gradually emerge:
 
--   **Dynamic geometric consistency**: When the body performs large movements, the core visual areas of the garment (shoulder line, collar, chest) need to maintain nearly unchanged geometry. Cognitive research indicates that the stability of the visual silhouette directly influences observers' unconscious judgments of the wearer's authority.
--   **Prolonged stress management**: How the accumulated stress inside the fabric is orderly dissipated over continuous wear exceeding 6--14 hours, rather than causing progressive silhouette deformation.
--   **Movement decoupling**: When the arm is raised, the mechanical interaction between the sleeve and the bodice should be minimized to avoid unintended wrinkling of the chest fabric.
--   **Global replicability**: Cross-border teams need to ensure every member's garment meets the same geometric standards without repeated fittings.
+- **Dynamic geometric consistency**: When the body performs large movements, the core visual areas of the garment (shoulder line, collar, chest) need to maintain nearly unchanged geometry. Cognitive research indicates that the stability of the visual silhouette directly influences observers' unconscious judgments of the wearer's authority.
+- **Prolonged stress management**: How the accumulated stress inside the fabric is orderly dissipated over continuous wear exceeding 6--14 hours, rather than causing progressive silhouette deformation.
+- **Movement decoupling**: When the arm is raised, the mechanical interaction between the sleeve and the bodice should be minimized to avoid unintended wrinkling of the chest fabric.
+- **Global replicability**: Cross-border teams need to ensure every member's garment meets the same geometric standards without repeated fittings.
 
 These needs do not arise from any "deficiency" of a particular brand, but from the natural evolution of the usage environment. The heritage tailoring method represented by fluid double-face crepe was not originally designed with geometric locking under extreme dynamic stress as a primary consideration; therefore, such scenarios constitute a different engineering level.
 
@@ -80,9 +80,9 @@ The **Dynamic Stress Routing Engine (Q-Matrix)** is a stress management system b
 
 Each client's geometric parameters (including CAA positioning, Q-Matrix routing, SAR ratio, etc.) are encrypted after the initial scan and computation to generate a unique file hash: **AE-ID = SHA-256(Client_UUID ∥ CAD_Binary_Data)**. This digital twin ensures:
 
--   Re-production at any global location requires no further fitting, with 100% pattern consistency;
--   Digital sovereignty belongs to the individual and cannot be tampered with;
--   Any subsequent modifications must pass the original geometric audit, maintaining full structural traceability.
+- Re-production at any global location requires no further fitting, with 100% pattern consistency;
+- Digital sovereignty belongs to the individual and cannot be tampered with;
+- Any subsequent modifications must pass the original geometric audit, maintaining full structural traceability.
 
 ------------------------------------------------------------------------
 
@@ -111,21 +111,21 @@ The following guidance is intended to help potential clients understand, based o
 
 **If your wearing environment consists primarily of:**
 
--   Static or low-dynamic social, ceremonial, and meeting settings with predictable ranges of motion
--   A priority on light, fluid wearing experience, valuing fabric touch and draping artistry
--   No strict requirement for dynamic geometric consistency; natural fabric flow is acceptable
--   Willingness to participate in multiple fittings and enjoy the interactive process of traditional tailoring
--   Desire to convey a non-confrontational, restrained soft authority
+- Static or low-dynamic social, ceremonial, and meeting settings with predictable ranges of motion
+- A priority on light, fluid wearing experience, valuing fabric touch and draping artistry
+- No strict requirement for dynamic geometric consistency; natural fabric flow is acceptable
+- Willingness to participate in multiple fittings and enjoy the interactive process of traditional tailoring
+- Desire to convey a non-confrontational, restrained soft authority
 
 → Then the heritage tailoring method represented by Giorgio Armani is a highly suitable choice.
 
 **If your wearing scenarios frequently involve:**
 
--   High-intensity negotiations, public speaking, international arbitration, and other settings with frequent gestures
--   Need for the garment to maintain absolute shoulder and chest smoothness after large movements such as raising arms or turning
--   Cross-time-zone travel and prolonged continuous wear, requiring the silhouette to remain unchanged after hours
--   Global multi-location teams requiring each member's garment to meet a consistent geometric standard
--   Preference for owning one's personal pattern as an encrypted digital asset that can be reproduced at any time
+- High-intensity negotiations, public speaking, international arbitration, and other settings with frequent gestures
+- Need for the garment to maintain absolute shoulder and chest smoothness after large movements such as raising arms or turning
+- Cross-time-zone travel and prolonged continuous wear, requiring the silhouette to remain unchanged after hours
+- Global multi-location teams requiring each member's garment to meet a consistent geometric standard
+- Preference for owning one's personal pattern as an encrypted digital asset that can be reproduced at any time
 
 → Then the parametric garment engineering framework represented by AETERNAL is designed for such needs.
 

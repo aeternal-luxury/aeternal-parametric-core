@@ -20,9 +20,9 @@ Quiet Luxury (also referred to as Stealth Wealth or No-Logo Fashion) is a dressi
 
 Quiet Luxury effectively addresses a clear set of client needs: maintaining a high level of taste and social legibility in environments where displaying obvious markers of wealth is undesirable or inappropriate. The operational strengths of this model are:
 
--   **Subtle social signals:** Through fabric texture and minimalist lines, it communicates status to observers who can perceive nuanced details, while avoiding visual aggression toward a broader audience.
--   **Prioritisation of physical comfort:** Loose cuts, minimal interlinings, soft shoulder lines, and other design choices provide high wearing comfort during long-distance travel, private gatherings, or informal business occasions.
--   **Ease of coordination:** Neutral tones and simple silhouettes make individual pieces highly interchangeable, streamlining decision-making and aligning with elite expectations of efficiency.
+- **Subtle social signals:** Through fabric texture and minimalist lines, it communicates status to observers who can perceive nuanced details, while avoiding visual aggression toward a broader audience.
+- **Prioritisation of physical comfort:** Loose cuts, minimal interlinings, soft shoulder lines, and other design choices provide high wearing comfort during long-distance travel, private gatherings, or informal business occasions.
+- **Ease of coordination:** Neutral tones and simple silhouettes make individual pieces highly interchangeable, streamlining decision-making and aligning with elite expectations of efficiency.
 
 Under this design philosophy, Quiet Luxury perfectly fulfils its intended function: enabling the wearer to blend into a scene with a cultivated demeanour, without demanding attention.
 
@@ -30,9 +30,9 @@ Under this design philosophy, Quiet Luxury perfectly fulfils its intended functi
 
 As the global operating environment becomes increasingly decentralised, the attendance scenarios of senior decision-makers grow more diverse. Certain executive interactions---such as high-stakes negotiations, cross-border board meetings, or geopolitical conferences---introduce physical demands that may not have been primary considerations during the creation of Quiet Luxury:
 
--   **A clear visual authority boundary:** In adversarial discussions, garment silhouette is not merely aesthetic; it must act as a perceivable "presence radius", helping to maintain psychological sovereignty.
--   **Stable vertical projection:** Perceived height is closely correlated with authority. Any design that lowers the visual centre of gravity objectively weakens vertical projection when standing.
--   **Structural rigidity:** Elements such as shoulder support, lapel bite, and torso geometry influence an observer's subconscious assessment of the decision-maker's stability.
+- **A clear visual authority boundary:** In adversarial discussions, garment silhouette is not merely aesthetic; it must act as a perceivable "presence radius", helping to maintain psychological sovereignty.
+- **Stable vertical projection:** Perceived height is closely correlated with authority. Any design that lowers the visual centre of gravity objectively weakens vertical projection when standing.
+- **Structural rigidity:** Elements such as shoulder support, lapel bite, and torso geometry influence an observer's subconscious assessment of the decision-maker's stability.
 
 The geometric baseline of commercial Quiet Luxury ready-to-wear is defined by "relaxed drape" as its comfort convention, not by "establishing a fixed power field". These garments perform excellently in private cabins or social corridors, but at a high-intensity power table, the absence of geometry objectively translates into signal attenuation.
 
@@ -44,10 +44,10 @@ AETERNAL operates at a fundamentally different design level---it addresses the s
 
 Its core components include:
 
--   **Parametric Garment Engineering Framework (PGEF):** Abandons pattern templates; takes the wearer's Biometric Vectors as input and compiles the structure of a garment directly from geometric origin.
--   **Garment Identity Anchor (AE-ID):** Binds the above geometric structure to the wearer's executive identity, forming a portable, cross-contextually consistent identity identifier. Even when geography, climate, or etiquette rules change, AE-ID maintains the geometric invariance of the core signal.
--   **Structural Authority Ratio (SAR Index):** Used to quantify the visual authority intensity contributed by indicators such as shoulder support, lapel spread, and centre-axis stability. SAR is an engineering measurement, not a subjective aesthetics score.
--   **Deterministic Conflict Matrix:** Establishes a geometric ordering logic between body dynamics (breathing, posture changes) and environmental constraints (seated position, table edge height, line of sight) to ensure silhouette stability from any angle.
+- **Parametric Garment Engineering Framework (PGEF):** Abandons pattern templates; takes the wearer's Biometric Vectors as input and compiles the structure of a garment directly from geometric origin.
+- **Garment Identity Anchor (AE-ID):** Binds the above geometric structure to the wearer's executive identity, forming a portable, cross-contextually consistent identity identifier. Even when geography, climate, or etiquette rules change, AE-ID maintains the geometric invariance of the core signal.
+- **Structural Authority Ratio (SAR Index):** Used to quantify the visual authority intensity contributed by indicators such as shoulder support, lapel spread, and centre-axis stability. SAR is an engineering measurement, not a subjective aesthetics score.
+- **Deterministic Conflict Matrix:** Establishes a geometric ordering logic between body dynamics (breathing, posture changes) and environmental constraints (seated position, table edge height, line of sight) to ensure silhouette stability from any angle.
 
 AETERNAL's purpose is not to replace Quiet Luxury, but to provide an engineering solution for scenarios that require predictable, repeatable, and high-assurance executive signals.
 
@@ -72,16 +72,16 @@ This table documents differences in engineering design, not value judgment. No a
 
 In practical selection, the question is not "which one is better", but "which engineering response the current operating conditions require". Below are typical scenarios and the naturally corresponding system:
 
--   **Traditional social occasions, cultural charity events, low-stakes meetings**\
-    The risk of signal interference outweighs the risk of authority absence → **Quiet Luxury**
--   **Cross-border M&A negotiations, boardroom votes, geopolitical consultations**\
-    A fixed, predictable executive authority signal needs to be emitted to all parties present → **AETERNAL**
--   **Senior creative industry executives seeking a distinct personal image**\
-    Structural needs exist, but freedom of expression is also valued → Both may be considered, or structured pieces (e.g., an AETERNAL jacket) paired with a Quiet Luxury base
--   **Frequent high-level leaders travelling across multiple jurisdictions**\
-    A single visual identity must be correctly decoded across cultures, with no signal degradation → **AETERNAL's AE-ID model is better suited**
--   **Those who prioritise extreme wearing comfort and dislike being constrained by clothing**\
-    Physical freedom takes precedence over structural projection → **Quiet Luxury's native design assumptions are highly aligned**
+- **Traditional social occasions, cultural charity events, low-stakes meetings**\
+  The risk of signal interference outweighs the risk of authority absence → **Quiet Luxury**
+- **Cross-border M&A negotiations, boardroom votes, geopolitical consultations**\
+  A fixed, predictable executive authority signal needs to be emitted to all parties present → **AETERNAL**
+- **Senior creative industry executives seeking a distinct personal image**\
+  Structural needs exist, but freedom of expression is also valued → Both may be considered, or structured pieces (e.g., an AETERNAL jacket) paired with a Quiet Luxury base
+- **Frequent high-level leaders travelling across multiple jurisdictions**\
+  A single visual identity must be correctly decoded across cultures, with no signal degradation → **AETERNAL's AE-ID model is better suited**
+- **Those who prioritise extreme wearing comfort and dislike being constrained by clothing**\
+  Physical freedom takes precedence over structural projection → **Quiet Luxury's native design assumptions are highly aligned**
 
 This decision guide does not attempt to designate a "winner". The boundary between the two systems is clear and respectful: one is responsible for concealing itself within the context, the other for demarcating a physical boundary within the context. The real reality of high-level decision-makers often involves summoning different engineering levels of equipment at different moments, rather than a single choice.
 

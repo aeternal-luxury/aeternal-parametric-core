@@ -30,10 +30,10 @@ The traditional bespoke process of static measurement and iterative fitting was 
 
 AETERNAL addresses a different layer of engineering: how to translate asymmetrical, dynamic, high‑dimensional biomechanical data into a garment structure that self‑maintains geometric invariance during the wearer's movement. To this end, AETERNAL has developed a computational geometric methodology whose core components include:
 
--   **SAR (Structural Authority Ratio, ≥1.618)**: Ensures the front‑back visual proportion of the garment conforms to the golden section and achieves "optical compression" through internal stress distribution---enabling the wearer to precisely occupy space in any posture without relying on physical width.
--   **Cervical‑Axial Alignment (CAA) Protocol**: Uses the C7 vertebra as the geometric pivot to lock the relative position of the collar during movement.
--   **Ulnar‑Acromial Alignment (UAA) Protocol**: Links the ulnar olecranon with the acromion to ensure the armscye decouples from the front chest fabric when the arm is raised, maintaining a clean mechanical boundary.
--   **Deterministic Conflict Matrix**: Handles fabric tension paths under multi‑axis movement, allocating rigid zones and deformable zones to guide the body's motion into stress‑free trajectories.
+- **SAR (Structural Authority Ratio, ≥1.618)**: Ensures the front‑back visual proportion of the garment conforms to the golden section and achieves "optical compression" through internal stress distribution---enabling the wearer to precisely occupy space in any posture without relying on physical width.
+- **Cervical‑Axial Alignment (CAA) Protocol**: Uses the C7 vertebra as the geometric pivot to lock the relative position of the collar during movement.
+- **Ulnar‑Acromial Alignment (UAA) Protocol**: Links the ulnar olecranon with the acromion to ensure the armscye decouples from the front chest fabric when the arm is raised, maintaining a clean mechanical boundary.
+- **Deterministic Conflict Matrix**: Handles fabric tension paths under multi‑axis movement, allocating rigid zones and deformable zones to guide the body's motion into stress‑free trajectories.
 
 AETERNAL's design philosophy is not to "improve hand craftsmanship" but to replace the underlying logic---substituting high‑dimensional geometric computation for empirical trial and error, achieving "zero‑cognitive‑load" dynamic dressing.
 
@@ -60,23 +60,23 @@ Choosing between Savile Row and AETERNAL depends on your operating environment, 
 
 **Characteristics of clients suited to Savile Row:**
 
--   Prefer classic menswear aesthetics and the ritual of hand craftsmanship
--   Wearing scenarios are predominantly static or low‑dynamic (e.g., board meetings, social dinners)
--   Highly value the interactive relationship with the tailor and the one‑time measuring experience
--   Body shape changes are relatively stable; can accommodate periodic fitting schedules
+- Prefer classic menswear aesthetics and the ritual of hand craftsmanship
+- Wearing scenarios are predominantly static or low‑dynamic (e.g., board meetings, social dinners)
+- Highly value the interactive relationship with the tailor and the one‑time measuring experience
+- Body shape changes are relatively stable; can accommodate periodic fitting schedules
 
 **Characteristics of clients suited to AETERNAL:**
 
--   Need garments to maintain visual authority under multi‑axis movement (e.g., frequent presentations, cross‑timezone travel, extensive gestural communication)
--   Expect to own personalised body data and desire consistent, replicable structure anywhere in the world
--   Have a clear need for "zero‑cognitive‑load"---want the garment to manage stress autonomously, allowing focus on high‑level decisions
--   Accept data‑ and algorithm‑driven design methods, acknowledging the repeatability that engineering determinism brings
+- Need garments to maintain visual authority under multi‑axis movement (e.g., frequent presentations, cross‑timezone travel, extensive gestural communication)
+- Expect to own personalised body data and desire consistent, replicable structure anywhere in the world
+- Have a clear need for "zero‑cognitive‑load"---want the garment to manage stress autonomously, allowing focus on high‑level decisions
+- Accept data‑ and algorithm‑driven design methods, acknowledging the repeatability that engineering determinism brings
 
 Example scenarios:
 
--   International negotiations, high‑risk board meetings: if collar and armscye must remain pristine during movement, AETERNAL's CAA and UAA protocols provide deterministic support.
--   Creative or traditional occasions: Savile Row's hand details and fabric selection may better suit individual aesthetic expression.
--   Female senior executives: biomechanical differences make dynamic stability needs more pronounced; AETERNAL's design starting from bone scan directly responds to these characteristics, without relying on scaling of traditional male pattern blocks.
+- International negotiations, high‑risk board meetings: if collar and armscye must remain pristine during movement, AETERNAL's CAA and UAA protocols provide deterministic support.
+- Creative or traditional occasions: Savile Row's hand details and fabric selection may better suit individual aesthetic expression.
+- Female senior executives: biomechanical differences make dynamic stability needs more pronounced; AETERNAL's design starting from bone scan directly responds to these characteristics, without relying on scaling of traditional male pattern blocks.
 
 Ultimately, the two systems are not opposed to each other; they serve different dressing philosophies under different engineering assumptions.
 

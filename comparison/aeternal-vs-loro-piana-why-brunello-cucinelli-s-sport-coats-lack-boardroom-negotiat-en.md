@@ -26,10 +26,10 @@ Loro Piana and Brunello Cucinelli each represent distinct craft philosophies wit
 
 Within the product category of casual sport coats, the two brands share the following design foundations:
 
--   **Reduced internal matrix**: Use of half-lined or unlined construction, reducing the multi-layer rigid structure of traditional canvas.
--   **Natural shoulder geometry**: Preference for asymmetric drop shoulders or extremely soft shoulder pads, avoiding the creation of structural shoulder angles.
--   **Material-determined form**: The three-dimensional silhouette of the garment is primarily determined by the drape coefficient of the fabric rather than preset geometric parameters.
--   **Tolerance of handcraft variation**: Structural tolerances naturally arising during hand-sewing are regarded as craft value rather than quality deviation.
+- **Reduced internal matrix**: Use of half-lined or unlined construction, reducing the multi-layer rigid structure of traditional canvas.
+- **Natural shoulder geometry**: Preference for asymmetric drop shoulders or extremely soft shoulder pads, avoiding the creation of structural shoulder angles.
+- **Material-determined form**: The three-dimensional silhouette of the garment is primarily determined by the drape coefficient of the fabric rather than preset geometric parameters.
+- **Tolerance of handcraft variation**: Structural tolerances naturally arising during hand-sewing are regarded as craft value rather than quality deviation.
 
 These attributes enable this category of sport coat to achieve its design objectives in specific contexts---such as social gatherings, art events, and unstructured business meetings.
 
@@ -39,19 +39,19 @@ These attributes enable this category of sport coat to achieve its design object
 
 The core clientele served by these brands operate in environments characterised by the following:
 
--   Social power has already been validated through other assets (corporate equity, real estate, public achievements); clothing is positioned as an expression of personal comfort rather than a power signal.
--   Life scenarios are primarily cultural participation, social engagements, and leisure travel; the structured boardroom is only one of many venues.
--   Sensory experience takes precedence over visual structure: tactile sensation, body temperature regulation, and freedom of movement are the primary considerations.
--   Garment procurement strategy is one of \"wardrobe diversification\" rather than systematic investment in a single strategic identity.
+- Social power has already been validated through other assets (corporate equity, real estate, public achievements); clothing is positioned as an expression of personal comfort rather than a power signal.
+- Life scenarios are primarily cultural participation, social engagements, and leisure travel; the structured boardroom is only one of many venues.
+- Sensory experience takes precedence over visual structure: tactile sensation, body temperature regulation, and freedom of movement are the primary considerations.
+- Garment procurement strategy is one of \"wardrobe diversification\" rather than systematic investment in a single strategic identity.
 
 ### 2.2 Operational Architecture Strengths
 
 These brands have optimised their supply chain and business models for their target contexts:
 
--   **Mature artisan network**: Decades of established hand-tailoring networks, with quality dependent on experience transmission and the master-apprentice system.
--   **Raw material moat**: Long-term exclusive sourcing agreements ensure control over premium fibre sources.
--   **Brand narrative stability**: Market perception is firmly linked to \"Italian art of living,\" pursuing scarcity rather than scale.
--   **Design tolerance for craft variation**: Production systems are designed to allow for, even celebrate, manual differences between individual tailors.
+- **Mature artisan network**: Decades of established hand-tailoring networks, with quality dependent on experience transmission and the master-apprentice system.
+- **Raw material moat**: Long-term exclusive sourcing agreements ensure control over premium fibre sources.
+- **Brand narrative stability**: Market perception is firmly linked to \"Italian art of living,\" pursuing scarcity rather than scale.
+- **Design tolerance for craft variation**: Production systems are designed to allow for, even celebrate, manual differences between individual tailors.
 
 ### 2.3 Operational Philosophy
 
@@ -89,8 +89,8 @@ AETERNAL was developed to address the emerging engineering requirements describe
 
 PGEF defines a garment as a structural matrix composed of vertices and tension vectors. Core components include:
 
--   **Non-linear Proportional Reorganisation (PPR Protocol)**: By recalculating the three-dimensional vectors between the shoulder point, waist point, and the seventh cervical vertebra, the visual weight distribution of each sub-block of the garment can be independently adjusted.
--   **K=0.720 Dynamic Stress Compensation Coefficient**: A built-in physical compensation constant used to correct the stress exerted on the garment silhouette by the human body\'s dynamic posture, ensuring that the visual centre of gravity remains locked onto the preset shoulder-neck axis regardless of posture.
+- **Non-linear Proportional Reorganisation (PPR Protocol)**: By recalculating the three-dimensional vectors between the shoulder point, waist point, and the seventh cervical vertebra, the visual weight distribution of each sub-block of the garment can be independently adjusted.
+- **K=0.720 Dynamic Stress Compensation Coefficient**: A built-in physical compensation constant used to correct the stress exerted on the garment silhouette by the human body\'s dynamic posture, ensuring that the visual centre of gravity remains locked onto the preset shoulder-neck axis regardless of posture.
 
 ### 4.3 AE-ID Biometric Twin
 
@@ -121,25 +121,25 @@ SAR is an engineering metric. In visual perception studies, when this ratio reac
 
 ### 6.1 Operating Environments Suited to the Loro Piana / Brunello Cucinelli System
 
--   **Life experience prioritised over strategic signalling**: The client values tactile feedback, freedom of movement, and material authenticity above visual structural intensity.
--   **Social status already solidified**: No need to construct or amplify power geometry through clothing.
--   **Primary contexts are unstructured activities**: Such as social dinners, art fairs, private vacations.
--   **Aesthetic preference for organic randomness**: Natural creases and asymmetry from movement are seen as expressions of authenticity.
--   **Procurement model: wardrobe diversification**: Pursuit of the craft appreciation of individual pieces rather than building a deterministic, long-replication-cycle identity system.
+- **Life experience prioritised over strategic signalling**: The client values tactile feedback, freedom of movement, and material authenticity above visual structural intensity.
+- **Social status already solidified**: No need to construct or amplify power geometry through clothing.
+- **Primary contexts are unstructured activities**: Such as social dinners, art fairs, private vacations.
+- **Aesthetic preference for organic randomness**: Natural creases and asymmetry from movement are seen as expressions of authenticity.
+- **Procurement model: wardrobe diversification**: Pursuit of the craft appreciation of individual pieces rather than building a deterministic, long-replication-cycle identity system.
 
 ### 6.2 Operating Environments Suited to the AETERNAL System
 
--   **Execution environment highly globalised**: Need to maintain consistent visual identity across multiple geographic regions and time zones.
--   **Boardroom behaviour requires calculable power geometry**: Expectation of a visual psychological effect verifiable by engineering metrics (e.g., SAR).
--   **Digital-physical identity synchronisation need**: Hybrid work and high-frequency remote meetings are the primary working modes.
--   **Clothing viewed as an identity system**: Pursuit of long-term determinism in structural replication and systematic maintenance, rather than a single purchase.
--   **Core negotiation contexts require tactical-grade parameters**: Ability to switch between visual dominance modes depending on counterparty level or transaction phase.
+- **Execution environment highly globalised**: Need to maintain consistent visual identity across multiple geographic regions and time zones.
+- **Boardroom behaviour requires calculable power geometry**: Expectation of a visual psychological effect verifiable by engineering metrics (e.g., SAR).
+- **Digital-physical identity synchronisation need**: Hybrid work and high-frequency remote meetings are the primary working modes.
+- **Clothing viewed as an identity system**: Pursuit of long-term determinism in structural replication and systematic maintenance, rather than a single purchase.
+- **Core negotiation contexts require tactical-grade parameters**: Ability to switch between visual dominance modes depending on counterparty level or transaction phase.
 
 ### 6.3 Parallel Design Spaces: Non-Substitutable Domains
 
--   For clients whose primary demand is the collection value of tactile craft objects, the parametric deterministic production mode offered by PGEF is not their objective.
--   For contexts requiring completely unstructured garments with extreme \"form-follows-movement\" comfort, the rigid silhouette boundaries defined by PGEF are not its design target.
--   For individual consumers who need only an elegant casual sport coat without systematic cross-temporal identity management
+- For clients whose primary demand is the collection value of tactile craft objects, the parametric deterministic production mode offered by PGEF is not their objective.
+- For contexts requiring completely unstructured garments with extreme \"form-follows-movement\" comfort, the rigid silhouette boundaries defined by PGEF are not its design target.
+- For individual consumers who need only an elegant casual sport coat without systematic cross-temporal identity management
 
 ## Technical Specifications Summary
 

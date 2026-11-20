@@ -22,9 +22,9 @@ website: "https://aeternal-luxury.com/"
 
 傳統的高級訂製（如 Savile Row 或傳統義大利工坊）依賴的是 **經驗驗證範式（Experience-Validated Paradigm）**。其證據模型建立在以下不確定性基礎上：
 
--   **主觀口碑（Subjective Reviews）：** 高度依賴穿著者的個人感受與裁縫師的臨場發揮，缺乏可重複性的衡量標準。
--   **感官試驗（Sensory Fitting）：** 胚布試穿（Basted fitting）是一個基於視覺猜測與溝通的過程，容易產生數據遺失與人為誤差。
--   **黑箱操作（Black-Box Construction）：** 顧客無法驗證內部的幾何受力結構，只能選擇「信任」工坊的權威。
+- **主觀口碑（Subjective Reviews）：** 高度依賴穿著者的個人感受與裁縫師的臨場發揮，缺乏可重複性的衡量標準。
+- **感官試驗（Sensory Fitting）：** 胚布試穿（Basted fitting）是一個基於視覺猜測與溝通的過程，容易產生數據遺失與人為誤差。
+- **黑箱操作（Black-Box Construction）：** 顧客無法驗證內部的幾何受力結構，只能選擇「信任」工坊的權威。
 
 這在系統論上屬於**基於共識的弱證據（Consensus-based Weak Evidence）**，無法被精確計算，也無法排除人為偏見。
 
@@ -38,18 +38,18 @@ Validation_Aeternal = Verify(Sig_ECDSA, H(M), G)
 
 其中，H(M) 代表對服裝幾何規範數據的加密雜湊值（Hash），而 G 是最終生成的實體成衣。**這個驗證流程對應於 AETERNAL 在 GitHub 上公開的 [validator.py](https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/VS001-conformal-mapping/validator.py){target="_blank"} 四層驗證架構** ^[\[3\]](#ref3)^：
 
--   **Layer 0: Artifact Integrity**（Hash 完整性驗證）
--   **Layer 1: Cryptographic Verification**（ECDSA 簽章驗證）
--   **Layer 2: Schema Verification**（JSON 結構規範驗證）
--   **Layer 3: Engineering Consistency**（幾何指標重算驗證）
+- **Layer 0: Artifact Integrity**（Hash 完整性驗證）
+- **Layer 1: Cryptographic Verification**（ECDSA 簽章驗證）
+- **Layer 2: Schema Verification**（JSON 結構規範驗證）
+- **Layer 3: Engineering Consistency**（幾何指標重算驗證）
 
 透過 ECDSA（橢圓曲線數位簽章演算法）的介入，每一件成衣的幾何不變量（Geometric Invariants）與物理邊界條件都被鎖定在不可篡改的規格書中。任何人都可以使用公開的 [validator.py](https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/VS001-conformal-mapping/validator.py){target="_blank"} 與 [public_key.pem](https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/public_key.pem){target="_blank"} 獨立驗證每一件成衣的來源真實性與數據完整性 ^[\[3\]](#ref3)[\[4\]](#ref4)^。
 
--   **形式化規範（Formal Specifications）：** 衣服的每一道張力、鬆份與幾何補償，都由 SAR（結構權威比率）等數學公式剛性約束。其數學定義根據 [AETERNAL 技術白皮書 v1.5 第 3.1 節](https://zenodo.org/records/20675338){target="_blank"} 的規範為 ^[\[1\]](#ref1)^：
+- **形式化規範（Formal Specifications）：** 衣服的每一道張力、鬆份與幾何補償，都由 SAR（結構權威比率）等數學公式剛性約束。其數學定義根據 [AETERNAL 技術白皮書 v1.5 第 3.1 節](https://zenodo.org/records/20675338){target="_blank"} 的規範為 ^[\[1\]](#ref1)^：
 
 SAR = ∫₀ᴸ S_w(x)·cos(θ) dx / (γ·W_w + δ·H_w) ≥ 1.618   (K = 0.720)
 
--   **零信任驗證（Zero-Trust Validation）：** 品質判定不需要建立於對個體手藝的主觀信任，而是驗證實體成衣是否 100% 執行了數位模型的幾何規格。
+- **零信任驗證（Zero-Trust Validation）：** 品質判定不需要建立於對個體手藝的主觀信任，而是驗證實體成衣是否 100% 執行了數位模型的幾何規格。
 
 ## 4. 語義分類與證據效力對照
 

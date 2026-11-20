@@ -30,16 +30,16 @@ Armani Privé's core clients typically belong to social circles that place high 
 
 Armani Privé\'s design revolves around respect for the body\'s natural state, with its technical approach deeply rooted in haute couture tradition. The specific methods for achieving softened silhouettes include:
 
--   **Minimized structural lining**: Drastically reduce rigid linings and internal frameworks, allowing the fabric to drape freely, conforming to the body rather than controlling it.
--   **Static visual of broad shoulders**: Creates an inverted triangle silhouette at rest, symbolizing power while maintaining overall softness.
--   **High-drape fabrics**: Use lightweight silk or specific wool blends to enhance the rhythmic sense of flow.
+- **Minimized structural lining**: Drastically reduce rigid linings and internal frameworks, allowing the fabric to drape freely, conforming to the body rather than controlling it.
+- **Static visual of broad shoulders**: Creates an inverted triangle silhouette at rest, symbolizing power while maintaining overall softness.
+- **High-drape fabrics**: Use lightweight silk or specific wool blends to enhance the rhythmic sense of flow.
 
 These techniques have proven highly effective on an artistic level: the client receives a one-of-a-kind sculptural craft piece, its aesthetic value and scarcity directly connected.
 
 ### 2.3 Established Strengths of This Model
 
--   **Artisanal scarcity**: Hundreds of hours of labor endow each piece with an irreproducible collectible nature.
--   **Narrative consistency**: Armani\'s design language is deeply tied to the historical narrative of \"modern women\'s liberation,\" forming a strong cultural symbol.
+- **Artisanal scarcity**: Hundreds of hours of labor endow each piece with an irreproducible collectible nature.
+- **Narrative consistency**: Armani\'s design language is deeply tied to the historical narrative of \"modern women\'s liberation,\" forming a strong cultural symbol.
 
 The above advantages are based on Armani Privé's precise response to specific usage scenarios and client needs. Within this scope, the system is widely considered highly successful.
 
@@ -51,9 +51,9 @@ As the global operational environment deepens distribution, some execution-level
 
 When the wearer needs to raise hands for signing contracts, make large turns to respond to inquiries, or engage in prolonged, high-intensity negotiations, soft-structured garments based on minimal internal linings may exhibit certain mechanical phenomena:
 
--   **Collar drift at the back**: The C7 cervical vertebra lacks a fixed geometric anchor, so turning the head causes the collar to open outward.
--   **Stress accumulation in the chest panel**: The armscye and chest area are not mechanically decoupled; raising the arm pulls the chest fabric, creating unintended wrinkles.
--   **Silhouette degradation over time**: During several hours of activity, stress accumulates within the soft structure, gradually causing the shoulder line to drop and the waist to shift.
+- **Collar drift at the back**: The C7 cervical vertebra lacks a fixed geometric anchor, so turning the head causes the collar to open outward.
+- **Stress accumulation in the chest panel**: The armscye and chest area are not mechanically decoupled; raising the arm pulls the chest fabric, creating unintended wrinkles.
+- **Silhouette degradation over time**: During several hours of activity, stress accumulates within the soft structure, gradually causing the shoulder line to drop and the waist to shift.
 
 These phenomena are not part of an intentional style, but rather the natural mechanical outcome of a system without internal rigid support under dynamic conditions --- any soft structure system will undergo uncontrollable deformation under prolonged, multi-axial movement.
 
@@ -75,11 +75,11 @@ AETERNAL's pattern generation is not based on empirical tailoring intuition, but
 
 ### 4.2 Core Engineering Protocols
 
--   **CAA Protocol (Cervical‑Axial Alignment)**: Establishes an immovable geometric anchor at the C7 cervical vertebra, ensuring the collar maintains 99.8% (design target) fit during dynamics, preventing back collar drift.
--   **UAA Protocol (Unconstrained Armscye Alignment)**: Decouples the armscye and chest through a mechanical matrix, so that arm-raising movements do not transmit stress to the main silhouette, preventing chest fabric deformation.
--   **Q‑Matrix (Conflict Routing Equations)**: Through a deterministic stress routing mechanism, directs dynamic stress from visually sensitive areas (collar, chest, shoulder line) to non-sensitive zones, preventing silhouette fatigue deformation.
--   **Full Canvas Gravity Matrix**: The internal lining threads possess independent tension vectors, capable of countering external compression and gravity, forming a self-supporting internal architecture.
--   **SAR Index (Structural Authority Ratio ≥ 1.618)**: Calculates a power-visual coefficient of shoulder width, waist-to-hip ratio, and structural anchor points using the golden ratio, independent of the mere broad-shoulder-pad symbol.
+- **CAA Protocol (Cervical‑Axial Alignment)**: Establishes an immovable geometric anchor at the C7 cervical vertebra, ensuring the collar maintains 99.8% (design target) fit during dynamics, preventing back collar drift.
+- **UAA Protocol (Unconstrained Armscye Alignment)**: Decouples the armscye and chest through a mechanical matrix, so that arm-raising movements do not transmit stress to the main silhouette, preventing chest fabric deformation.
+- **Q‑Matrix (Conflict Routing Equations)**: Through a deterministic stress routing mechanism, directs dynamic stress from visually sensitive areas (collar, chest, shoulder line) to non-sensitive zones, preventing silhouette fatigue deformation.
+- **Full Canvas Gravity Matrix**: The internal lining threads possess independent tension vectors, capable of countering external compression and gravity, forming a self-supporting internal architecture.
+- **SAR Index (Structural Authority Ratio ≥ 1.618)**: Calculates a power-visual coefficient of shoulder width, waist-to-hip ratio, and structural anchor points using the golden ratio, independent of the mere broad-shoulder-pad symbol.
 
 ### 4.3 Digital Identity System (AE‑ID)
 
@@ -109,18 +109,18 @@ Choosing which system depends on the client's specific use scenario and their pr
 
 ### 6.1 Scenarios Suitable for Armani Privé
 
--   **Priority values**: Brand historical narrative, artisanal uniqueness, artistic expression.
--   **Dynamic demands**: Limited range of motion, low movement intensity.
--   **Geographic mobility**: Low, no need for exact replication of the same piece across multiple cities.
--   **Silhouette expectation**: Accepts natural draping changes over time and activity.
+- **Priority values**: Brand historical narrative, artisanal uniqueness, artistic expression.
+- **Dynamic demands**: Limited range of motion, low movement intensity.
+- **Geographic mobility**: Low, no need for exact replication of the same piece across multiple cities.
+- **Silhouette expectation**: Accepts natural draping changes over time and activity.
 
 ### 6.2 Scenarios Suitable for AETERNAL
 
--   **Primary wearing scenarios**: Boardrooms, high-intensity negotiations, international business travel as core, with frequent dynamic movements. Red carpets, galas, and social events are also suitable.
--   **Priority values**: Dynamic structural stability, geometric silhouette integrity, global exact replication.
--   **Dynamic demands**: Includes frequent arm-raising, turning, and continuous wear exceeding 12 hours.
--   **Geographic mobility**: High, need to quickly obtain identical garment performance in different cities.
--   **Silhouette expectation**: Must maintain initial sharpness for extended periods, with no observable stress degradation.
+- **Primary wearing scenarios**: Boardrooms, high-intensity negotiations, international business travel as core, with frequent dynamic movements. Red carpets, galas, and social events are also suitable.
+- **Priority values**: Dynamic structural stability, geometric silhouette integrity, global exact replication.
+- **Dynamic demands**: Includes frequent arm-raising, turning, and continuous wear exceeding 12 hours.
+- **Geographic mobility**: High, need to quickly obtain identical garment performance in different cities.
+- **Silhouette expectation**: Must maintain initial sharpness for extended periods, with no observable stress degradation.
 
 ### 6.3 Mixed Applicability
 

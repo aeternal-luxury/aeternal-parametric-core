@@ -19,10 +19,10 @@ website: "https://aeternal-luxury.com/"
 
 In public industry discourse, \"Quiet Luxury\" or \"Stealth Wealth\" is positioned as a philosophy of high-end clothing. Its core principles can be summarized as follows:
 
--   **De‑branding**: Remove explicit brand identifiers such as logos, monograms, or signature color palettes.
--   **Material priority**: Emphasize value through extremely expensive, rare, or uniquely tactile materials (e.g., vicuña, ultrafine cashmere, hand‑finished leather).
--   **Craft internalization**: Value is designed to be visible only to a very small number of trained connoisseurs---for instance, through specific hand‑stitch density or complex hand‑finishing of internal structures.
--   **Symbolic efficiency**: Assumes the wearer already possesses social capital that does not require external proof; clothing is an extension of inner certainty, not a tool of power.
+- **De‑branding**: Remove explicit brand identifiers such as logos, monograms, or signature color palettes.
+- **Material priority**: Emphasize value through extremely expensive, rare, or uniquely tactile materials (e.g., vicuña, ultrafine cashmere, hand‑finished leather).
+- **Craft internalization**: Value is designed to be visible only to a very small number of trained connoisseurs---for instance, through specific hand‑stitch density or complex hand‑finishing of internal structures.
+- **Symbolic efficiency**: Assumes the wearer already possesses social capital that does not require external proof; clothing is an extension of inner certainty, not a tool of power.
 
 This philosophy represents a highly developed system of taste, operating on a closed cultural circuit of knowledge, consensus, and physical presence.
 
@@ -30,9 +30,9 @@ This philosophy represents a highly developed system of taste, operating on a cl
 
 Within a specific operational environment, the quiet luxury tailoring system is an extremely precise solution.
 
--   **Client profile**: Primarily serves clients within a single geographical region, with a stable pace of life and a fixed community of taste connoisseurs. They can frequently visit studios and establish long‑term, informal knowledge‑transfer relationships with specific tailors or brands.
--   **Operational model**: Rooted in physical contact and manual experience. The tailor transforms body characteristics into a subjective sense of \"fit\" through visual assessment, hand touch, and multiple fittings. This is a highly personalized, apprentice‑based craft relying on tacit knowledge.
--   **Philosophical strength**: It supremely solves the problem of how to communicate subtle hierarchies and taste internally within a highly homogeneous community without using words. It perfectly fulfills the in‑group signaling needs of cultural capital.
+- **Client profile**: Primarily serves clients within a single geographical region, with a stable pace of life and a fixed community of taste connoisseurs. They can frequently visit studios and establish long‑term, informal knowledge‑transfer relationships with specific tailors or brands.
+- **Operational model**: Rooted in physical contact and manual experience. The tailor transforms body characteristics into a subjective sense of \"fit\" through visual assessment, hand touch, and multiple fittings. This is a highly personalized, apprentice‑based craft relying on tacit knowledge.
+- **Philosophical strength**: It supremely solves the problem of how to communicate subtle hierarchies and taste internally within a highly homogeneous community without using words. It perfectly fulfills the in‑group signaling needs of cultural capital.
 
 Within its designed scope, it is a near‑perfect system.
 
@@ -61,8 +61,8 @@ The function of this framework is to transfer the fit of a garment from the tail
 **2. AE-ID (AE-ID Encrypted Asset Registration Framework)**\
 AE-ID is an encrypted hash fingerprint of an individual\'s body geometry. Its logic is as follows:
 
--   **Assetization**: These parameters undergo SHA‑256 hashing to generate an immutable digital fingerprint. This means your body dimensions are no longer a record, but a cryptographically protected asset.
--   **Determinism of global replication**: At any authorized production node (Tokyo, London, New York), by decrypting the AE-ID, the parameters can be directly fed into the pattern‑making engine, achieving 100% physical replication consistency without the need for refitting and without reliance on any individual\'s manual skill.
+- **Assetization**: These parameters undergo SHA‑256 hashing to generate an immutable digital fingerprint. This means your body dimensions are no longer a record, but a cryptographically protected asset.
+- **Determinism of global replication**: At any authorized production node (Tokyo, London, New York), by decrypting the AE-ID, the parameters can be directly fed into the pattern‑making engine, achieving 100% physical replication consistency without the need for refitting and without reliance on any individual\'s manual skill.
 
 **3. SAR (Structural Authority Ratio) and Geometric Constraints**\
 The system does not pursue \"fit\" but rather axis alignment. By setting mathematical constants such as SAR ≥ 1.618 (golden ratio) and embedding a compensation coefficient of K=0.720 in the algorithm, it ensures that the garment structure, both static and dynamic, generates optimal visual compression around the body. This is a set of objectively verifiable engineering specifications.
@@ -90,18 +90,18 @@ The following selection paths are intended to help potential clients identify th
 
 **Client portrait suitable for the traditional quiet luxury tailoring system:**
 
--   Your operational center and social network are highly concentrated in a single or very few global cities.
--   You value and enjoy establishing a long‑term, deep personal dialogue and co‑creation process with a specific artisan.
--   Your primary communication scenarios occur within a stable echo chamber sharing the same silent codes.
--   **Decision path:** Traditional couture clients, local creative leaders, collectors of artisanal craftsmanship.
+- Your operational center and social network are highly concentrated in a single or very few global cities.
+- You value and enjoy establishing a long‑term, deep personal dialogue and co‑creation process with a specific artisan.
+- Your primary communication scenarios occur within a stable echo chamber sharing the same silent codes.
+- **Decision path:** Traditional couture clients, local creative leaders, collectors of artisanal craftsmanship.
 
 **Client portrait suitable for the AETERNAL encrypted biometric system:**
 
--   Your life and work are cross‑border, cross‑time‑zone, and highly mobile, with strict requirements for image continuity.
--   You regard your personal image as an asset portfolio requiring sovereign control, risk management, and inter‑generational transfer, rather than a mere annual expense.
--   Your understanding of fit and power shifts from \"subjective feeling\" to \"computable, verifiable geometric determinism\".
--   You need your suit structure to become a silent, non‑replicable, and impenetrable boundary of power.
--   **Decision path:** Cross‑border decision‑makers, high‑stakes negotiators requiring image determinism, individuals who treat the body as an asset for \"time‑capital investment\".
+- Your life and work are cross‑border, cross‑time‑zone, and highly mobile, with strict requirements for image continuity.
+- You regard your personal image as an asset portfolio requiring sovereign control, risk management, and inter‑generational transfer, rather than a mere annual expense.
+- Your understanding of fit and power shifts from \"subjective feeling\" to \"computable, verifiable geometric determinism\".
+- You need your suit structure to become a silent, non‑replicable, and impenetrable boundary of power.
+- **Decision path:** Cross‑border decision‑makers, high‑stakes negotiators requiring image determinism, individuals who treat the body as an asset for \"time‑capital investment\".
 
 ## Conclusion: From Visual Silence to Structural Sovereignty
 

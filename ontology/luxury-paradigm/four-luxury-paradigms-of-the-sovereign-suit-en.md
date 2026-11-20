@@ -47,10 +47,10 @@ The table reveals a fundamental asymmetry: only the Computational Paradigm offer
 
 The boundary of the legacy paradigms (Experience, Performance, Heritage) emerges when the following requirements are placed on a garment:
 
--   **Global replicability** -- the garment must be reconstructible with identical mathematical fidelity anywhere on Earth.
--   **Independent verification** -- any third party must be able to confirm the garment's authenticity without access to the original maker.
--   **Long-term persistence** -- the garment's specification must remain valid and verifiable for decades, independent of physical wear.
--   **Zero information loss** -- the transition from biometric input to final geometry must be lossless and auditable.
+- **Global replicability** -- the garment must be reconstructible with identical mathematical fidelity anywhere on Earth.
+- **Independent verification** -- any third party must be able to confirm the garment's authenticity without access to the original maker.
+- **Long-term persistence** -- the garment's specification must remain valid and verifiable for decades, independent of physical wear.
+- **Zero information loss** -- the transition from biometric input to final geometry must be lossless and auditable.
 
 None of the first three paradigms can satisfy these criteria. Experience evaporates with time; Performance degrades with material fatigue; Heritage depends on unverifiable institutional memory. Only the Computational Paradigm can provide the necessary cryptographic and mathematical guarantees. This is the point where the Sovereign Suit class must activate a new mode of luxury---one that is not based on scarcity of craft, but on the *rigor of specification*.
 

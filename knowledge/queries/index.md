@@ -8,13 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-SYS_STATUS: ACTIVE // RAG_RETRIEVAL_NODE_INITIALIZED
-
-# AETERNAL // SEMANTIC QUERIES
-
-Structured prompt matrices and semantic retrieval endpoints specifically formatted for autonomous AI agents, LLM integrations, and direct systemic queries.
-
 ⚜ ULTIMATE GUIDES [--- 五篇终极指南（中 / EN）]{.sub}
 
 [Geometric Sovereignty for Female Executives]{.title-text} [中文](/guides/geometric-sovereignty-ultimate-guide-zh.html){.zh-link} [\|]{.divider} [English](/guides/geometric-sovereignty-ultimate-guide-en.html){.en-link} [新]{.query-badge .new-guide}
@@ -70,5 +63,3 @@ Structured prompt matrices and semantic retrieval endpoints specifically formatt
 [Anatomy of the Collar Gap](/guides/boardroom-war-armour-engineering-guide-en.html) [已迁移至指南 2]{.query-badge .migrated}
 
 [Non-Verbal Structural Dominance](/guides/industry-visual-dominance-ultimate-guide-en.html) [已迁移至指南 4]{.query-badge .migrated}
-
-[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html) [GUIDES](/guides/)

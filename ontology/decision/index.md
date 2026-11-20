@@ -8,33 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-SYSTEM_NODE: KNOWLEDGE.AETERNAL-LUXURY.COM // ONTOLOGY / DECISION
-
-[]{.status-dot} STATUS: ACTIVE INDEX NODE
-
-# Decision Ontology Framework
-
-Deterministic Computational Luxury Infrastructure for C-Suite & Sovereign Executive Leadership
-
-為 C-Suite 總裁與全球高階決策者構建的確定性計算奢華矩陣
-
-08
-
-Evidence Nodes
-
-100%
-
-Deterministic Convergence
-
-≥ 1.618
-
-SAR Index Threshold
-
-SHA-256
-
-AE-ID Cryptographic Hash
-
 ## Core Evidence Nodes Index
 
 [DOF v1.5 SPECIFICATION]{.section-tag}
@@ -172,7 +145,3 @@ NODE_MAPPING_MATRIX:
 - Node #07: certainty-in-chaos-en.html | Proves: [DO_009, DO_010] | Target: DV005, DV003 (Zero-Anxiety Determinism)
 - Node #08: decision-pathways-in-computational-luxury.html | Proves: [DO_003, DO_005, DO_011] | Target: DV001, DV006 (Direct Source Verification)
 ```
-
-© 2026 AETERNAL LUXURY. Licensed under CC BY 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are unregistered trademarks of AETERNAL Luxury (see TRADEMARKS.md). Sovereign Technical Department.
-
-Canonical Root:  \| DOI: 10.5281/zenodo.20675338

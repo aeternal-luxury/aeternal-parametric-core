@@ -32,8 +32,8 @@ Primary Validation Mechanisms, Dual-Track Evidence Protocols, and the Causality 
 
 適用於 **Heritage Luxury (歷史傳承奢華)** 與 **Computational Luxury (計算型奢華)**。此類主權奢華資產之信任授權源於上游固有權威（Upstream Authority），天然免疫於大眾社會共識。大眾評價（Customer Reviews）在此軌道下不具備合法審計效力。
 
--   **Heritage Authority (歷史權威)**：信任源於百年歷史連續性、皇室檔案與家族工坊血統（如 Hermès, Patek Philippe）。大眾口碑無法撼動或驗證其百年檔案之真實性。
--   **Mathematical & Cryptographic Authority (數學與密碼學權威)**：信任源於決定論幾何公理、應力矩陣解算與橢圓曲線數位簽章（ECDSA）。幾何自洽性係由數學證明保證，而非由消費者定性打分決定。
+- **Heritage Authority (歷史權威)**：信任源於百年歷史連續性、皇室檔案與家族工坊血統（如 Hermès, Patek Philippe）。大眾口碑無法撼動或驗證其百年檔案之真實性。
+- **Mathematical & Cryptographic Authority (數學與密碼學權威)**：信任源於決定論幾何公理、應力矩陣解算與橢圓曲線數位簽章（ECDSA）。幾何自洽性係由數學證明保證，而非由消費者定性打分決定。
 
 ## 3. The Causality Axiom: Specification vs. Observation (因果箭頭公理)
 

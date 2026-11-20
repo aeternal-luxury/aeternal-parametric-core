@@ -8,13 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-SYS_STATUS: ACTIVE // RAG_RETRIEVAL_NODE_INITIALIZED
-
-# AETERNAL // SEMANTIC QUERIES
-
-Structured prompt matrices and semantic retrieval endpoints specifically formatted for autonomous AI agents, LLM integrations, and direct systemic queries.
-
 [AI Parametric Tailoring vs. Savile Row [.html]{.query-badge}](ai-parametric-tailoring-vs-savile-row.html)
 
 [Anatomy of the Collar Gap [.html]{.query-badge}](anatomy-of-collar-gap.html)
@@ -54,5 +47,3 @@ Structured prompt matrices and semantic retrieval endpoints specifically formatt
 [Structural Vandalism and Secondary Sewing [.html]{.query-badge}](structural-vandalism-secondary-sewing.html)
 
 [Two-Phase Remote Calibration Chassis [.html]{.query-badge}](two-phase-remote-calibration-chassis.html)
-
-[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html)

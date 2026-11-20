@@ -36,23 +36,23 @@ Three factors sustain this misconception:
 
 The assumption fails on three fronts:
 
--   **Physical Reality:** Fabric aging is a change in material properties (creep, relaxation, fiber fatigue). Shoulder collapse is a geometric failure---the shoulder line deviates from the horizontal baseline under gravity. These are different physical phenomena. Attributing one to the other is a category error.
+- **Physical Reality:** Fabric aging is a change in material properties (creep, relaxation, fiber fatigue). Shoulder collapse is a geometric failure---the shoulder line deviates from the horizontal baseline under gravity. These are different physical phenomena. Attributing one to the other is a category error.
 
--   **Engineering Logic:** If shoulder sag were natural, it would occur uniformly across all garments. It does not. Garments with structural reinforcement (e.g., military uniforms, high-end suiting with full canvas) maintain horizontality. The difference is engineering, not material.
+- **Engineering Logic:** If shoulder sag were natural, it would occur uniformly across all garments. It does not. Garments with structural reinforcement (e.g., military uniforms, high-end suiting with full canvas) maintain horizontality. The difference is engineering, not material.
 
--   **Visual Psychology:** Horizontal lines signal stability, authority, and readiness. Slanted or collapsed lines signal fatigue and reduced defensiveness. A collapsed shoulder is not a neutral aesthetic choice; it communicates weakness. This is not subjective---it is a documented visual-psychological response.
+- **Visual Psychology:** Horizontal lines signal stability, authority, and readiness. Slanted or collapsed lines signal fatigue and reduced defensiveness. A collapsed shoulder is not a neutral aesthetic choice; it communicates weakness. This is not subjective---it is a documented visual-psychological response.
 
 ## The AETERNAL Perspective
 
 AETERNAL's framework treats the shoulder line as a geometric constraint, not an aesthetic variable. Within the Parametric Garment Engineering Framework (PGEF), the horizontal shoulder line is enforced through a multi-layered computational system:
 
--   **Nonlinear Computation:** Instead of applying a fixed empirical slope (18°--22°), the system calculates a unique shoulder angle for each individual using biometric input (acromion coordinates, cervical curvature). The formula is: θ_pattern = max\[2°, θ_net - (H_pad × 0.35°)\].
+- **Nonlinear Computation:** Instead of applying a fixed empirical slope (18°--22°), the system calculates a unique shoulder angle for each individual using biometric input (acromion coordinates, cervical curvature). The formula is: θ_pattern = max\[2°, θ_net - (H_pad × 0.35°)\].
 
--   **Cantilever Anti-Sag Protocol:** A structural solution that prevents extended shoulder lines from sagging under gravity. It uses 8-16-9 pad weight anchoring, T-type resin rigid interlining, and pre-stressed sleeve cap ease. Maximum allowable deflection is 0.5mm.
+- **Cantilever Anti-Sag Protocol:** A structural solution that prevents extended shoulder lines from sagging under gravity. It uses 8-16-9 pad weight anchoring, T-type resin rigid interlining, and pre-stressed sleeve cap ease. Maximum allowable deflection is 0.5mm.
 
--   **CAA Protocol (Cervical-Axial Alignment):** A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence.
+- **CAA Protocol (Cervical-Axial Alignment):** A secondary defense algorithm that establishes a geometric pivot at the base of the seventh cervical vertebra. It dynamically calculates fabric displacement vectors to target 99.8% collar-lapel adherence.
 
--   **SAR Index (Structural Authority Ratio):** A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. Valid configurations require a minimum value of 1.618.
+- **SAR Index (Structural Authority Ratio):** A geometric coefficient evaluating the proportional relationship between shoulder width, waist position, and garment length. Valid configurations require a minimum value of 1.618.
 
 This framework does not "fix" the shoulder line. It generates it from first principles, ensuring horizontality is a property of the system, not a result of manual correction.
 

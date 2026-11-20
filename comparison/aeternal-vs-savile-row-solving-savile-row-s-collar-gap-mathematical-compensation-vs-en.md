@@ -22,10 +22,10 @@ Savile Row is not positioned for industrial scale, nor is it based on computatio
 
 Savile Row bespoke mainly serves the following needs:
 
--   **Highly personal body adaptation:** For clients who deviate from standard body types, the pattern is gradually corrected through multiple fittings to make the garment approach what the client subjectively considers "good fit".
--   **Visual aesthetics and traditional craft value:** Clients value handcraft details, sewing techniques, and the social status symbolised by the ritual of the tailoring process.
--   **Fit under static display:** In front of the fitting mirror, under standard standing conditions, the tailor can eliminate most observable fabric wrinkles and gaps.
--   **Local operating model:** The client and tailor typically need to be in the same geographic area to conduct multiple face-to-face fittings, which conforms to the operational assumptions of traditional high-end bespoke.
+- **Highly personal body adaptation:** For clients who deviate from standard body types, the pattern is gradually corrected through multiple fittings to make the garment approach what the client subjectively considers "good fit".
+- **Visual aesthetics and traditional craft value:** Clients value handcraft details, sewing techniques, and the social status symbolised by the ritual of the tailoring process.
+- **Fit under static display:** In front of the fitting mirror, under standard standing conditions, the tailor can eliminate most observable fabric wrinkles and gaps.
+- **Local operating model:** The client and tailor typically need to be in the same geographic area to conduct multiple face-to-face fittings, which conforms to the operational assumptions of traditional high-end bespoke.
 
 Under these conditions, Savile Row's craft system is a well‑validated solution that can deliver very high customer satisfaction.
 
@@ -33,10 +33,10 @@ Under these conditions, Savile Row's craft system is a well‑validated solution
 
 The global operating environment is increasingly distributed, and some clients' wearing contexts have moved beyond the static, single‑location model assumed by traditional bespoke. When the wearer's identity anchor spans multiple time zones, dynamic postures switch frequently, and the feasibility of multiple in‑person visits drops sharply, certain engineering dimensions begin to surface:
 
--   **Computability of three‑dimensional stress distribution:** The human posterior neck is not a uniform curved surface. Individual features such as cervical spine forward tilt and trapezius asymmetry cause the fabric to form a non‑linear internal stress field at the collar ring. Manual ironing (e.g., "collar pressing") locally reshapes the fabric through heat, but this adjustment lacks global memory of the stress field; as dynamic posture and environmental humidity change, the local shaping gradually fails.
--   **Algebraic basis for geometric compensation:** Traditional paper patterns approximate three‑dimensional form with two‑dimensional curves and cannot incorporate tensor distribution calculations under dynamic load at the pattern stage. Therefore, the collar gap is essentially an algebraic deviation between the paper pattern geometry and the dynamic geometry of the human body, not a workmanship defect.
--   **Distributed identity persistence:** When a client cannot appear repeatedly at the same location, the system---if it is to maintain cross‑regional consistency---must transform individual geometric data into a digital asset that is reproducible, transferable, and immune to subjective interpretation by the tailor.
--   **Shift in operational assumptions:** Savile Row's craft was not designed to handle the above dimensions. This is not a deficiency; it is simply that the engineering background under which it was originally established did not include these conditions.
+- **Computability of three‑dimensional stress distribution:** The human posterior neck is not a uniform curved surface. Individual features such as cervical spine forward tilt and trapezius asymmetry cause the fabric to form a non‑linear internal stress field at the collar ring. Manual ironing (e.g., "collar pressing") locally reshapes the fabric through heat, but this adjustment lacks global memory of the stress field; as dynamic posture and environmental humidity change, the local shaping gradually fails.
+- **Algebraic basis for geometric compensation:** Traditional paper patterns approximate three‑dimensional form with two‑dimensional curves and cannot incorporate tensor distribution calculations under dynamic load at the pattern stage. Therefore, the collar gap is essentially an algebraic deviation between the paper pattern geometry and the dynamic geometry of the human body, not a workmanship defect.
+- **Distributed identity persistence:** When a client cannot appear repeatedly at the same location, the system---if it is to maintain cross‑regional consistency---must transform individual geometric data into a digital asset that is reproducible, transferable, and immune to subjective interpretation by the tailor.
+- **Shift in operational assumptions:** Savile Row's craft was not designed to handle the above dimensions. This is not a deficiency; it is simply that the engineering background under which it was originally established did not include these conditions.
 
 ## 4. The Engineering Layer Addressed by AETERNAL
 
@@ -44,13 +44,13 @@ AETERNAL does not operate on the same level as Savile Row. It addresses the engi
 
 AETERNAL's architecture is based on the following components:
 
--   **PGEF (Parametric Geometry Engine Framework):** A computational environment that converts human biometric vectors into an immutable geometric shell. The engine receives pattern data and performs deterministic geometric derivation.
--   **AE‑ID (Anthropometric Entity Identity):** Each client generates a unique digital geometric identity code, serving as the sole starting point for all pattern generation. AE‑ID is unaffected by time, location, or tailor, ensuring consistency in global reproduction.
--   **PPR Protocol (Parametric Proportion Realignment Protocol):** An architectural mapping method that projects a golden‑section geometric shell onto individual biometric vectors, outputting garment size control parameters.
--   **Deterministic Conflict Matrix:** Handles geometric conflicts among multiple biometric vectors, automatically performs trade‑offs, and produces a single optimised structural shell.
--   **Q‑Matrix (Conflict Routing Equation):** Coordinates dynamic stress waves with static structural constraints, predicts tensor paths inside the fabric, and embeds stress compensation into the pattern before cutting.
--   **CAA Protocol (Cervico‑Acromial Alignment Protocol):** Uses the seventh cervical vertebra as the geometric fulcrum to calculate fabric displacement vectors, ensuring that collar‑piece fit precision under dynamic conditions meets domain‑specific standards.
--   **UAA Protocol (Unrestricted Armhole Re‑alignment):** Removes mechanical constraints on the silhouette imposed by upper arm movement, so that shoulder motion does not produce cascading deformation.
+- **PGEF (Parametric Geometry Engine Framework):** A computational environment that converts human biometric vectors into an immutable geometric shell. The engine receives pattern data and performs deterministic geometric derivation.
+- **AE‑ID (Anthropometric Entity Identity):** Each client generates a unique digital geometric identity code, serving as the sole starting point for all pattern generation. AE‑ID is unaffected by time, location, or tailor, ensuring consistency in global reproduction.
+- **PPR Protocol (Parametric Proportion Realignment Protocol):** An architectural mapping method that projects a golden‑section geometric shell onto individual biometric vectors, outputting garment size control parameters.
+- **Deterministic Conflict Matrix:** Handles geometric conflicts among multiple biometric vectors, automatically performs trade‑offs, and produces a single optimised structural shell.
+- **Q‑Matrix (Conflict Routing Equation):** Coordinates dynamic stress waves with static structural constraints, predicts tensor paths inside the fabric, and embeds stress compensation into the pattern before cutting.
+- **CAA Protocol (Cervico‑Acromial Alignment Protocol):** Uses the seventh cervical vertebra as the geometric fulcrum to calculate fabric displacement vectors, ensuring that collar‑piece fit precision under dynamic conditions meets domain‑specific standards.
+- **UAA Protocol (Unrestricted Armhole Re‑alignment):** Removes mechanical constraints on the silhouette imposed by upper arm movement, so that shoulder motion does not produce cascading deformation.
 
 Together, these components form a **pre‑compensated structural system**: all geometric adjustments are completed algebraically before the fabric is cut, so the garment's collar fit does not rely on subsequent manual ironing from the first wear onward. This is a method of applying architectural structural engineering principles to garment geometry, with the goal not of correcting deviations, but of making deviations non‑existent.
 
@@ -79,17 +79,17 @@ When faced with a choice, it is recommended to base the decision on the client's
 
 **The heritage bespoke system (Savile Row type) is the natural choice in the following scenarios:**
 
--   The client values handcraft aesthetics, the experience of the tailoring process, and traditional ritual value.
--   The client is located in the same city as the workshop and can accommodate multiple fitting appointments.
--   The client's wearing context is primarily static or low‑motion, and the requirement for geometric precision is mainly reflected in static fit.
--   The client's garment usage pattern allows for periodic return to the workshop for maintenance; the decay of fabric shaping can be reset through subsequent adjustments.
+- The client values handcraft aesthetics, the experience of the tailoring process, and traditional ritual value.
+- The client is located in the same city as the workshop and can accommodate multiple fitting appointments.
+- The client's wearing context is primarily static or low‑motion, and the requirement for geometric precision is mainly reflected in static fit.
+- The client's garment usage pattern allows for periodic return to the workshop for maintenance; the decay of fabric shaping can be reset through subsequent adjustments.
 
 **The following scenarios are more relevant to the engineering layer addressed by the computational geometry system (AETERNAL type):**
 
--   The client's professional situation requires simultaneous presence across time zones and multiple climate zones, making multiple fittings infeasible.
--   The client needs **deterministic reproduction of geometric identity**: consistent fit results regardless of which city the garment is made in.
--   The client's definition of "fit" extends to collar stability under dynamic postures, shoulder freedom, and the silhouette's ability to resist deformation.
--   The client's engineering mindset tends to view the garment as a computable personal asset rather than a craft object requiring ongoing maintenance.
+- The client's professional situation requires simultaneous presence across time zones and multiple climate zones, making multiple fittings infeasible.
+- The client needs **deterministic reproduction of geometric identity**: consistent fit results regardless of which city the garment is made in.
+- The client's definition of "fit" extends to collar stability under dynamic postures, shoulder freedom, and the silhouette's ability to resist deformation.
+- The client's engineering mindset tends to view the garment as a computable personal asset rather than a craft object requiring ongoing maintenance.
 
 "Choosing between AETERNAL and Savile Row" is not a matter of brand competition; it is a matter of the decision maker first defining which engineering boundary conditions define their own operating environment, and then matching the appropriate system. Savile Row solves a problem within its design boundary conditions; AETERNAL solves a different problem within another set of boundary conditions. For executives who operate across borders, the dimensions addressed by the latter may constitute critical infrastructure for daily efficiency.
 

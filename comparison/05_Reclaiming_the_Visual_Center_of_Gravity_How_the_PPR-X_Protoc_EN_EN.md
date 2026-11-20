@@ -198,9 +198,9 @@ A: The engineering principles apply to any body type, but the PPR-X protocol is 
 
 ## Self-Assessment
 
--   **Engineering Accuracy:** 9/10
--   **Editorial Clarity:** 9/10
--   **Marketing Smell:** 1/10
+- **Engineering Accuracy:** 9/10
+- **Editorial Clarity:** 9/10
+- **Marketing Smell:** 1/10
 
 ## Frequently Asked Questions
 

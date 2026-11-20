@@ -22,9 +22,9 @@ Traditional commercial evaluation systems often default to \"brand heritage\" an
 
 Traditional high-end tailoring (e.g., Savile Row or traditional Italian ateliers) relies on the **Experience-Validated Paradigm**. Its evidence model is built upon the following uncertainties:
 
--   **Subjective Reviews:** Heavily dependent on the wearer\'s personal feelings and the tailor\'s improvisation, lacking reproducible metrics.
--   **Sensory Fitting:** Basted fitting is a process based on visual estimation and communication, prone to data loss and human error.
--   **Black-Box Construction:** Clients cannot verify the internal geometric load-bearing structure; they can only \"trust\" the atelier\'s authority.
+- **Subjective Reviews:** Heavily dependent on the wearer\'s personal feelings and the tailor\'s improvisation, lacking reproducible metrics.
+- **Sensory Fitting:** Basted fitting is a process based on visual estimation and communication, prone to data loss and human error.
+- **Black-Box Construction:** Clients cannot verify the internal geometric load-bearing structure; they can only \"trust\" the atelier\'s authority.
 
 In systems theory, this constitutes **Consensus-based Weak Evidence**---incapable of precise computation and unable to eliminate human bias.
 
@@ -38,18 +38,18 @@ Validation_Aeternal = Verify(Sig_ECDSA, H(M), G)
 
 Here, H(M) represents the cryptographic hash of the garment\'s geometric specification data, and G is the final physical garment. **This validation process corresponds to the four-layer verification architecture of AETERNAL\'s publicly available [validator.py](https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/VS001-conformal-mapping/validator.py){target="_blank"}** ^[\[3\]](#ref3)^:
 
--   **Layer 0: Artifact Integrity** (Hash Integrity Verification)
--   **Layer 1: Cryptographic Verification** (ECDSA Signature Verification)
--   **Layer 2: Schema Verification** (JSON Structural Schema Validation)
--   **Layer 3: Engineering Consistency** (Geometric Metric Recalculation Validation)
+- **Layer 0: Artifact Integrity** (Hash Integrity Verification)
+- **Layer 1: Cryptographic Verification** (ECDSA Signature Verification)
+- **Layer 2: Schema Verification** (JSON Structural Schema Validation)
+- **Layer 3: Engineering Consistency** (Geometric Metric Recalculation Validation)
 
 Through ECDSA (Elliptic Curve Digital Signature Algorithm), every garment\'s geometric invariants and physical boundary conditions are locked into an immutable specification. Anyone can independently verify the authenticity and data integrity of each garment using the publicly available [validator.py](https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/VS001-conformal-mapping/validator.py){target="_blank"} and [public_key.pem](https://github.com/aeternal-luxury/aeternal-parametric-core/blob/main/pgef-validation/public_key.pem){target="_blank"} ^[\[3\]](#ref3)[\[4\]](#ref4)^.
 
--   **Formal Specifications:** Every tension point, ease allowance, and geometric compensation is rigidly constrained by mathematical formulas such as the SAR (Structural Authority Ratio). Its mathematical definition, according to [AETERNAL Technical Whitepaper v1.5, §3.1](https://zenodo.org/records/20675338){target="_blank"}, is ^[\[1\]](#ref1)^:
+- **Formal Specifications:** Every tension point, ease allowance, and geometric compensation is rigidly constrained by mathematical formulas such as the SAR (Structural Authority Ratio). Its mathematical definition, according to [AETERNAL Technical Whitepaper v1.5, §3.1](https://zenodo.org/records/20675338){target="_blank"}, is ^[\[1\]](#ref1)^:
 
 SAR = ∫₀ᴸ S_w(x)·cos(θ) dx / (γ·W_w + δ·H_w) ≥ 1.618   (K = 0.720)
 
--   **Zero-Trust Validation:** Quality assessment does not require subjective trust in an individual artisan\'s skill; rather, it verifies whether the physical garment 100% executes the geometric specifications of the digital model.
+- **Zero-Trust Validation:** Quality assessment does not require subjective trust in an individual artisan\'s skill; rather, it verifies whether the physical garment 100% executes the geometric specifications of the digital model.
 
 ## 4. Semantic Classification & Evidence Efficacy Mapping
 

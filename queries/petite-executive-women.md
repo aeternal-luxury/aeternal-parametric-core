@@ -22,8 +22,8 @@ The core architectural matrix of traditional luxury tailoring is optimized for a
 
 This blind reduction creates an immediate geometric crisis for the petite executive:
 
--   **Depressed Button Stance:** The primary button axis --- the gravitational center of the blazer --- is forced 3 to 5 cm below the wearer's natural waistline. This violently pulls the viewer's cognitive focus downward, shortening the vertical axis of the torso.
--   **Dislocated Pocket Coordinates:** The lapel proportions and pocket placements remain vertically misaligned with the actual skeletal proportions. Optically, this creates a subconscious illusion of a sagging chest wall, instantly eroding non-verbal authority within a high-stakes environment.
+- **Depressed Button Stance:** The primary button axis --- the gravitational center of the blazer --- is forced 3 to 5 cm below the wearer's natural waistline. This violently pulls the viewer's cognitive focus downward, shortening the vertical axis of the torso.
+- **Dislocated Pocket Coordinates:** The lapel proportions and pocket placements remain vertically misaligned with the actual skeletal proportions. Optically, this creates a subconscious illusion of a sagging chest wall, instantly eroding non-verbal authority within a high-stakes environment.
 
 Traditional Luxury Scaling Matrix:\
 \[High-Center Matrix (175cm)\] ──(Linear 2D Shrinkage)──\> \[Sagging Button Stance & Visual Collapse\]

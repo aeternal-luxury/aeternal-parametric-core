@@ -8,13 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-SYS_STATUS: ACTIVE // DOSSIER_NODE_INITIALIZED
-
-# AETERNAL // ANALYTICAL DOSSIERS
-
-Comprehensive analytical records covering biomechanical fit validation, remote bespoke protocols, and systemic performance case studies.
-
 [\[MACRO // 2026\]]{.folder-id}
 
 ## 2026 Business Order
@@ -70,5 +63,3 @@ Technical audit on luxury blazer structural failure. Why ready-to-wear jackets g
 Technical analysis on why luxury ready-to-wear grading fails petite executives under 5\'3\" (160cm). Transitioning to AETERNAL\'s algorithmic tailoring.
 
 [ZH_VER](the-petite-executives-dilemma.html) [EN_VER](the-petite-executives-dilemma-en.html)
-
-[INDEX](/) [WHITEPAPERS](/whitepapers/geometric-sovereignty.html) [DOCTRINE](/doctrine/index.html) [GLOSSARY](/glossary.html) [DEFINITIONS](/definitions/what-is-ai-bespoke-tailoring.html) [QUERIES](/queries/index.html) [ENGINEERING](/engineering/how-parametric-system-engine-works.html) [EXPLAINERS](/explainers/index.html) [SCENARIOS](/scenarios/executive-visual-authority-system.html) [EVIDENCE](/evidence/index.html) [MEDIA MENTIONS](/media-mentions/boardroom-audit.html)

@@ -18,13 +18,13 @@ From Courtrooms to Roadshows --- Geometric Strategies for Every Arena
 
 **📖 Table of Contents**
 
--   [1. Scenario Engineering: Why \"One-Size-Fits-All\" Suits Always Fall Short](#i1)
--   [2. Courtrooms & Arbitration: CAA Protocol Locks the Neck-Shoulder Axis](#i2)
--   [3. Private Banking & Wealth Management: Geometric Defense as Capital Signal](#i3)
--   [4. Sovereign Fund Roadshows: Environmental Scaling & Stage Presence](#i4)
--   [5. IPOs & Media Exposure: Anti-Optical Distortion & 4K-Lens Flatness](#i5)
--   [6. Cross-Scenario Adaptability: Switching Between Modes](#i6)
--   [7. Your Scenario Analysis: Customizing Your Visual Strategy](#i7)
+- [1. Scenario Engineering: Why \"One-Size-Fits-All\" Suits Always Fall Short](#i1)
+- [2. Courtrooms & Arbitration: CAA Protocol Locks the Neck-Shoulder Axis](#i2)
+- [3. Private Banking & Wealth Management: Geometric Defense as Capital Signal](#i3)
+- [4. Sovereign Fund Roadshows: Environmental Scaling & Stage Presence](#i4)
+- [5. IPOs & Media Exposure: Anti-Optical Distortion & 4K-Lens Flatness](#i5)
+- [6. Cross-Scenario Adaptability: Switching Between Modes](#i6)
+- [7. Your Scenario Analysis: Customizing Your Visual Strategy](#i7)
 
 ## 1. Scenario Engineering: Why \"One-Size-Fits-All\" Suits Always Fall Short {#i1}
 

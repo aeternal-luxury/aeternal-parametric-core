@@ -20,8 +20,8 @@ The spatial layout of top-tier corporate negotiation rooms and multi-lateral sum
 
 In adversarial environments, slouching or adopting compressed physical posture signals non-verbal concession. Traditional luxury RTW garments exacerbate this issue:
 
--   **Sartorial Confinement:** Conventional blazers shrink and distort when you adopt a broad, commanding physical posture, creating immediate fabric stress lines that undermine your calculated expression of confidence.
--   **Volumetric Deficit:** Standard grading matrices restrict shoulder width for smaller sizes, failing to provide the necessary spatial leverage needed to ground your authority in an asymmetric room.
+- **Sartorial Confinement:** Conventional blazers shrink and distort when you adopt a broad, commanding physical posture, creating immediate fabric stress lines that undermine your calculated expression of confidence.
+- **Volumetric Deficit:** Standard grading matrices restrict shoulder width for smaller sizes, failing to provide the necessary spatial leverage needed to ground your authority in an asymmetric room.
 
 Biopolitical Space Alignment:\
 \[Masculine Space Layout\] ──\> \[Traditional RTW Shrinkage\] ──\> \[Spatial Disadvantage\]\

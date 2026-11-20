@@ -22,8 +22,8 @@ A collar gap is not an anomaly; it is an engineered mathematical certainty withi
 
 When legacy design houses draft the curvature of a collar and neck opening, they must rely on a statistical phantom --- an idealized, static anthropometric average. This linear methodology assumes uniform posture and static cervical alignment, ignoring the dynamic biomechanics of a real body under high-stress scenarios:
 
--   **The Fallacy of Static Neck-to-Shoulder Drafting:** High-performance executives spend hours analyzing data or navigating intense negotiations, which shifts individual cervical spine angles and trapezius muscle tension profiles into a completely non-linear vector.
--   **The Pendulum Effect:** Because conventional luxury jackets lack a dedicated, individual anchoring node at the skeletal center, any kinetic movement --- such as extending the arms forward to type or turning the head 45 degrees --- forces the entire front chest canvas to pull the collar backward and outward. The result is a broken silhouette that captures harsh stage lighting as an erratic shadow, visibly compromising your visual authority.
+- **The Fallacy of Static Neck-to-Shoulder Drafting:** High-performance executives spend hours analyzing data or navigating intense negotiations, which shifts individual cervical spine angles and trapezius muscle tension profiles into a completely non-linear vector.
+- **The Pendulum Effect:** Because conventional luxury jackets lack a dedicated, individual anchoring node at the skeletal center, any kinetic movement --- such as extending the arms forward to type or turning the head 45 degrees --- forces the entire front chest canvas to pull the collar backward and outward. The result is a broken silhouette that captures harsh stage lighting as an erratic shadow, visibly compromising your visual authority.
 
 Traditional Sizing Deficit:\
 \[Dynamic Kinetic Movement\] ──\> \[No Skeletal Anchor\] ──\> \[Collar Shifts Outward (Collar Gap Trap)\]

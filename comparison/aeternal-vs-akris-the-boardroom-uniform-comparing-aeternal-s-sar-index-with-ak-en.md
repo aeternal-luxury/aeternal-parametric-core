@@ -26,10 +26,10 @@ Akris\'s clientele includes multinational female executives, diplomats, and prof
 
 Akris\'s core engineering objective is to address the following needs:
 
--   **1. A Professional Image with High Comfort** -- Akris provides solutions for women who need to maintain a professional image in a variety of static and low-intensity dynamic scenarios. Its designs ensure the wearer has freedom of movement in office environments, lunch meetings, or social events, while maintaining a visually clean appearance.
--   **2. Heritage Craftsmanship and Fabric Quality** -- Akris\'s supply chain and production techniques are built around the high-end fabrics of the Lake Como region in Italy and the refined handcraftsmanship of Switzerland. Its target clients value tactile sensation, the natural fluidity of fabric drape, and intimate micro-details.
--   **3. Non-Antagonistic Expression of Authority** -- The authority projected by Akris is collaborative, not oppressive. Its minimalist silhouettes---typically column or slight A-line---aim to blend into the environment rather than forcefully dominate space. This makes it a suitable choice for cultural or industry contexts that value consensus-building and open communication.
--   **4. Active but Non-Confrontational Daily Scenarios** -- Akris\'s designs are optimized for everyday office work, presentations, award ceremonies, and non-confrontational business social occasions. In these scenarios, minimizing visual noise in the garment is the primary objective.
+- **1. A Professional Image with High Comfort** -- Akris provides solutions for women who need to maintain a professional image in a variety of static and low-intensity dynamic scenarios. Its designs ensure the wearer has freedom of movement in office environments, lunch meetings, or social events, while maintaining a visually clean appearance.
+- **2. Heritage Craftsmanship and Fabric Quality** -- Akris\'s supply chain and production techniques are built around the high-end fabrics of the Lake Como region in Italy and the refined handcraftsmanship of Switzerland. Its target clients value tactile sensation, the natural fluidity of fabric drape, and intimate micro-details.
+- **3. Non-Antagonistic Expression of Authority** -- The authority projected by Akris is collaborative, not oppressive. Its minimalist silhouettes---typically column or slight A-line---aim to blend into the environment rather than forcefully dominate space. This makes it a suitable choice for cultural or industry contexts that value consensus-building and open communication.
+- **4. Active but Non-Confrontational Daily Scenarios** -- Akris\'s designs are optimized for everyday office work, presentations, award ceremonies, and non-confrontational business social occasions. In these scenarios, minimizing visual noise in the garment is the primary objective.
 
 ## Chapter 3: Which Engineering Needs Emerge in Specific Contexts?
 
@@ -67,8 +67,8 @@ SAR is a rigid geometric coefficient defined as a non-linear function of shoulde
 
 AETERNAL provides two scenario paths based on SAR:
 
--   **Alpha Path**: SAR 1.618--1.75. Optimized for internal meetings, strategy briefings, and lunch presentations.
--   **Omega Path**: SAR ≥ 1.80. Optimized for adversarial negotiations, IPO roadshows, and courtroom cross-examinations.
+- **Alpha Path**: SAR 1.618--1.75. Optimized for internal meetings, strategy briefings, and lunch presentations.
+- **Omega Path**: SAR ≥ 1.80. Optimized for adversarial negotiations, IPO roadshows, and courtroom cross-examinations.
 
 ### 4.4 Q-Matrix Dynamic Stress Routing
 
@@ -82,9 +82,9 @@ The PPR Protocol replaces traditional linear grading. When one body parameter ch
 
 AE-ID encapsulates the wearer\'s biometric geometric contour parameters (shoulder width, waist position, garment length, etc.) into a unique digital identity via the SHA-256 hash algorithm. This achieves:
 
--   Any authorized studio worldwide can replicate the exact same structure with zero variation.
--   The identity cannot be forged (forgery would require replicating the entire computational system).
--   The original biometric data, once encrypted, cannot be reverse-engineered, complying with privacy protection requirements.
+- Any authorized studio worldwide can replicate the exact same structure with zero variation.
+- The identity cannot be forged (forgery would require replicating the entire computational system).
+- The original biometric data, once encrypted, cannot be reverse-engineered, complying with privacy protection requirements.
 
 ## Chapter 5: System Comparison Matrix
 

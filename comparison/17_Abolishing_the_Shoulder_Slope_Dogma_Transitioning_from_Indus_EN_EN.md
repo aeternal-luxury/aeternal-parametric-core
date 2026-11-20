@@ -42,9 +42,9 @@ This assumption persists for three interconnected reasons:
 
 The assumption breaks at the intersection of anatomy and geometry. The human shoulder is not a uniform structure. It varies significantly based on:
 
--   **Skeletal structure:** The acromion angle, clavicle length, and scapula position differ between individuals.
--   **Posture:** Forward shoulders, rounded backs, and asymmetrical postures are common, not rare.
--   **Musculature:** Athletic builds, especially those with developed deltoids and trapezius muscles, create shoulder slopes that fall outside the 18°-22° range.
+- **Skeletal structure:** The acromion angle, clavicle length, and scapula position differ between individuals.
+- **Posture:** Forward shoulders, rounded backs, and asymmetrical postures are common, not rare.
+- **Musculature:** Athletic builds, especially those with developed deltoids and trapezius muscles, create shoulder slopes that fall outside the 18°-22° range.
 
 When a garment is built on a fixed shoulder slope that does not match the wearer's anatomy, the result is a cascade of structural failures: shoulder collapse, fabric pooling, collar gap, and restricted arm movement. These failures cannot be fully corrected by altering the garment after it is cut, because the foundational geometry is wrong.
 
@@ -221,9 +221,9 @@ A: It is the imposition of a fixed geometric rule (the 18°-22° shoulder slope)
 
 ## Final Self-Assessment
 
--   **Engineering Accuracy:** 9.5/10
--   **Editorial Clarity:** 9/10
--   **Marketing Smell:** 1/10
+- **Engineering Accuracy:** 9.5/10
+- **Editorial Clarity:** 9/10
+- **Marketing Smell:** 1/10
 
 ## Frequently Asked Questions
 

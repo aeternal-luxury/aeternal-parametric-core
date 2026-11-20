@@ -34,14 +34,14 @@ AETERNAL\'s starting point is not an improvement on existing soft constructions;
 
 This goal is achieved through the **Parametric Garment Engineering Framework (PGEF)**. PGEF does not originate from any existing block; it directly generates a proprietary geometric mesh from the wearer\'s biometric data:
 
--   **Geometry Generation**: Client data is fed into the PGEF engine, which automatically produces a unique structural mesh according to stress distribution targets and optical stability requirements.
--   **Deterministic Conflict Matrix**: When encountering asymmetric body characteristics (e.g., uneven shoulders, scoliosis), the system does not rely on a tailor\'s intuition to correct; instead it executes a Deterministic Conflict Matrix to compute an engineering-optimal compromise.
+- **Geometry Generation**: Client data is fed into the PGEF engine, which automatically produces a unique structural mesh according to stress distribution targets and optical stability requirements.
+- **Deterministic Conflict Matrix**: When encountering asymmetric body characteristics (e.g., uneven shoulders, scoliosis), the system does not rely on a tailor\'s intuition to correct; instead it executes a Deterministic Conflict Matrix to compute an engineering-optimal compromise.
 
 From this process AETERNAL derives three key engineering concepts:
 
--   **AE-ID**: Each client\'s final perfect pattern forms a proprietary geometric identity. The garment is an extension of this identity, not an appendage of brand aesthetics.
--   **CAA Protocol**: Establishes a vertical axial anchor at C7. Through precise geometric alignment, collar and lapel fit is maintained at 99.8% (design target) under dynamic conditions, fundamentally minimising the optical noise introduced by displacement.
--   **SAR Index**: A parameter quantifying the balance between structural rigidity and dynamic freedom. The target value is set at ≥ 1.618 (the golden ratio), indicating a level of rigidity sufficient to maintain geometric integrity during motion without impeding natural movement. The SAR Index is automatically calculated by the PGEF engine, providing a predictable engineering benchmark for structural performance.
+- **AE-ID**: Each client\'s final perfect pattern forms a proprietary geometric identity. The garment is an extension of this identity, not an appendage of brand aesthetics.
+- **CAA Protocol**: Establishes a vertical axial anchor at C7. Through precise geometric alignment, collar and lapel fit is maintained at 99.8% (design target) under dynamic conditions, fundamentally minimising the optical noise introduced by displacement.
+- **SAR Index**: A parameter quantifying the balance between structural rigidity and dynamic freedom. The target value is set at ≥ 1.618 (the golden ratio), indicating a level of rigidity sufficient to maintain geometric integrity during motion without impeding natural movement. The SAR Index is automatically calculated by the PGEF engine, providing a predictable engineering benchmark for structural performance.
 
 AETERNAL does not attempt to demonstrate that it is \"better\" than the drape aesthetic, but rather clearly states that it serves a different set of needs: when visual authority, geometric determinism, and global consistency are regarded as non-negotiable functions, a fundamentally different engineering solution is required.
 
@@ -66,18 +66,18 @@ The following guidance is not a judgment of \"better or worse,\" but helps ident
 
 **Situations where The Row\'s drape method is more suitable:**
 
--   The primary goal is tactile luxuriousness and a restrained visual language; garments are used in relatively static settings.
--   One appreciates the inherent uniqueness and craft story of handmade objects, and does not require precise cross-regional replication.
--   One prefers clothing to follow the natural lines of the body and considers the organic behaviour of fabric part of the aesthetic.
--   One wishes to express a quiet taste through the design vocabulary inherited by the brand.
+- The primary goal is tactile luxuriousness and a restrained visual language; garments are used in relatively static settings.
+- One appreciates the inherent uniqueness and craft story of handmade objects, and does not require precise cross-regional replication.
+- One prefers clothing to follow the natural lines of the body and considers the organic behaviour of fabric part of the aesthetic.
+- One wishes to express a quiet taste through the design vocabulary inherited by the brand.
 
 **Situations where AETERNAL\'s architectural exoskeleton engineering is more suitable:**
 
--   Uncompromising visual authority must be maintained under dynamic environments and high-resolution media lenses.
--   Deterministic geometric shape is required, along with fully consistent output from different workshops worldwide.
--   The garment is regarded as a precisely calculated personal architecture of authority, not an ornament dependent on subjective sensation.
--   The body has asymmetrical characteristics, and the optimal solution demands engineering computation rather than intuitive adjustment.
--   One wishes to digitise the fitting and adjustment process to match a highly demanding, cross-time-zone lifestyle.
+- Uncompromising visual authority must be maintained under dynamic environments and high-resolution media lenses.
+- Deterministic geometric shape is required, along with fully consistent output from different workshops worldwide.
+- The garment is regarded as a precisely calculated personal architecture of authority, not an ornament dependent on subjective sensation.
+- The body has asymmetrical characteristics, and the optimal solution demands engineering computation rather than intuitive adjustment.
+- One wishes to digitise the fitting and adjustment process to match a highly demanding, cross-time-zone lifestyle.
 
 ## Frequently Asked Questions
 

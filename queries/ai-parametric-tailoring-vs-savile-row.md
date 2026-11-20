@@ -20,8 +20,8 @@ For centuries, the pinnacle of sartorial investment has been the Savile Row besp
 
 Traditional bespoke tailoring relies entirely on the \"rock of eye\"---the subjective, analog intuition of an individual cutter. This creates severe inconsistencies:
 
--   **Analog Variance:** A tailor\'s precision fluctuates based on fatigue, mood, and age. You are paying a premium for a high-risk operational variable. If your master cutter retires, your structural blueprint is lost forever.
--   **Trial-and-Error Drafting:** Legacy bespoke requires 3 to 5 physical fittings (toiles) because the initial paper draft is largely guesswork. This trial-and-error process wastes immense executive temporal capital (time) simply to correct human miscalculations.
+- **Analog Variance:** A tailor\'s precision fluctuates based on fatigue, mood, and age. You are paying a premium for a high-risk operational variable. If your master cutter retires, your structural blueprint is lost forever.
+- **Trial-and-Error Drafting:** Legacy bespoke requires 3 to 5 physical fittings (toiles) because the initial paper draft is largely guesswork. This trial-and-error process wastes immense executive temporal capital (time) simply to correct human miscalculations.
 
 Legacy Bespoke Pipeline:\
 \[Subjective Analog Measurement\] ──\> \[Multiple Trial-and-Error Fittings\] ──\> \[Inconsistent Final Output\]

@@ -39,14 +39,14 @@ With the increasing dispersion of high‑risk professional environments --- cros
 
 Some of these requirements can be summarised as:
 
--   **Dynamic geometric stability**\
-    During frequent body displacements (sideways turns, forward leans, standing up), if the garment's silhouette can maintain continuous and predictable boundaries, the viewer's visual cortex processing load is reduced. If the silhouette produces irregular fabric bunching or structural collapse due to movement, it introduces a phenomenon that cognitive psychology terms "visual cognitive friction," making it difficult to quickly read the wearer's spatial occupancy.
--   **Cross‑scene consistency of visual weight**\
-    Certain organisational environments require the wearer to project an almost identical weight signal every time, across boardrooms of different cultural backgrounds. If a garment, due to variations in handcraft or fabric fatigue, produces non‑reproducible deviations, it may introduce unquantifiable signal errors between different occasions.
--   **Long‑term anchoring to body data**\
-    For users who need to maintain a consistent image in multiple cities worldwide, the geometric specifications of a garment should be able to be recalculated from an individual's biometric vector and reproduced precisely, without requiring repeated physical fittings.
--   **Structural rigidity and dynamic recovery**\
-    Under high‑pressure situations, the body's core posture changes repeatedly, causing irreversible creases in areas such as the waist and underarms. These creases may be subconsciously interpreted by the receiver as a signal of "faltering state," even though this is merely a consequence of the material's physical properties.
+- **Dynamic geometric stability**\
+  During frequent body displacements (sideways turns, forward leans, standing up), if the garment's silhouette can maintain continuous and predictable boundaries, the viewer's visual cortex processing load is reduced. If the silhouette produces irregular fabric bunching or structural collapse due to movement, it introduces a phenomenon that cognitive psychology terms "visual cognitive friction," making it difficult to quickly read the wearer's spatial occupancy.
+- **Cross‑scene consistency of visual weight**\
+  Certain organisational environments require the wearer to project an almost identical weight signal every time, across boardrooms of different cultural backgrounds. If a garment, due to variations in handcraft or fabric fatigue, produces non‑reproducible deviations, it may introduce unquantifiable signal errors between different occasions.
+- **Long‑term anchoring to body data**\
+  For users who need to maintain a consistent image in multiple cities worldwide, the geometric specifications of a garment should be able to be recalculated from an individual's biometric vector and reproduced precisely, without requiring repeated physical fittings.
+- **Structural rigidity and dynamic recovery**\
+  Under high‑pressure situations, the body's core posture changes repeatedly, causing irreversible creases in areas such as the waist and underarms. These creases may be subconsciously interpreted by the receiver as a signal of "faltering state," even though this is merely a consequence of the material's physical properties.
 
 These requirements are not a negation of Quiet Luxury; rather, they point to a different engineering objective: garments not merely as soft wrappings, but as an exoskeleton system capable of defining and maintaining the wearer's boundary in physical space.
 
@@ -58,18 +58,18 @@ The core of this system is built upon **PGEF (Parametric Geometric Engineering F
 
 ### Key Components
 
--   **AE‑ID (AETERNAL Identity Vector)**\
-    Each client's final pattern generates a unique digital identity via the SHA‑256 hashing algorithm.
--   **SAR Index (Structural Authority Ratio)**\
-    The system enforces a SAR value ≥ 1.618 --- a figure derived from the golden ratio. When the geometric relationship among shoulder, waist, and garment length reaches this threshold, the human body's visual projection forms the most stable "power triangle." Any design that causes SAR to fall below this threshold is automatically rejected by the system and not put into production. This means the garment's fundamental proportion is no longer determined by fashion trends, but by a mathematical invariant.
--   **PPR Protocol (Parametric Proportion Reconfiguration)**\
-    This protocol is a set of algorithmic instructions that project the ideal geometric shell `S`{.variable}~`ideal`{.variable}~ onto a specific client's `AE‑ID`{.variable} biometric vector `B`{.variable}~`base`{.variable}~. It calculates:
-    -   Vertical repositioning of button placement (typically raised to shift visual centre of gravity);
-    -   Correction of lapel angle (affects the direction of gaze guidance);
-    -   Redistribution of volume across chest, back, and shoulders to maintain shell rigidity in motion.\
-        These calculations are not manual adjustments based on pattern‑maker experience, but parametric vector mappings, ensuring each output is a re‑compilation of the original geometric equation.
--   **Deterministic Conflict Matrix**\
-    When multiple geometric constraints (e.g., shoulder width expansion versus fabric stretch rate) come into potential conflict, the system resolves them according to a predefined set of rules, thereby ensuring mathematical consistency of the silhouette without human intervention.
+- **AE‑ID (AETERNAL Identity Vector)**\
+  Each client's final pattern generates a unique digital identity via the SHA‑256 hashing algorithm.
+- **SAR Index (Structural Authority Ratio)**\
+  The system enforces a SAR value ≥ 1.618 --- a figure derived from the golden ratio. When the geometric relationship among shoulder, waist, and garment length reaches this threshold, the human body's visual projection forms the most stable "power triangle." Any design that causes SAR to fall below this threshold is automatically rejected by the system and not put into production. This means the garment's fundamental proportion is no longer determined by fashion trends, but by a mathematical invariant.
+- **PPR Protocol (Parametric Proportion Reconfiguration)**\
+  This protocol is a set of algorithmic instructions that project the ideal geometric shell `S`{.variable}~`ideal`{.variable}~ onto a specific client's `AE‑ID`{.variable} biometric vector `B`{.variable}~`base`{.variable}~. It calculates:
+  - Vertical repositioning of button placement (typically raised to shift visual centre of gravity);
+  - Correction of lapel angle (affects the direction of gaze guidance);
+  - Redistribution of volume across chest, back, and shoulders to maintain shell rigidity in motion.\
+    These calculations are not manual adjustments based on pattern‑maker experience, but parametric vector mappings, ensuring each output is a re‑compilation of the original geometric equation.
+- **Deterministic Conflict Matrix**\
+  When multiple geometric constraints (e.g., shoulder width expansion versus fabric stretch rate) come into potential conflict, the system resolves them according to a predefined set of rules, thereby ensuring mathematical consistency of the silhouette without human intervention.
 
 Through these components, the AETERNAL system produces not a "garment" but a wearable geometric structure coupled to an individual's body characteristics. Its core goal is not aesthetic expression but rather: to provide a predictable, reproducible, non‑negotiable model of spatial occupancy in any environment.
 
@@ -96,20 +96,20 @@ The following table compares Quiet Luxury (as a mainstream aesthetic school) and
 
 Choosing which system to use depends on the dominant characteristics of the wearing scenario, not on any "goodness" or "badness" of the garment itself. The following is a non‑exhaustive mapping of scenarios:
 
--   **Traditional couture clients, private dinners, cultural salons**\
-    → Quiet Luxury\
-    These scenarios demand low visual aggression and high cultural resonance; Quiet Luxury's no‑logo, soft silhouettes, and excellent hand‑feel satisfy these conditions.
--   **Cross‑border boardrooms, courtroom presentations, high‑risk negotiations**\
-    → AETERNAL System\
-    Requires unambiguous spatial dominance, dynamic stability, and fully consistent signal output across regions.
--   **Creative industries, fashion media occasions**\
-    → Quiet Luxury\
-    These environments value aesthetic experimentation and individual expression; Quiet Luxury's intuitive design provides ample flexibility.
--   **Political campaigns, televised debates, institutional leadership positions**\
-    → AETERNAL System\
-    In situations where a large audience simultaneously conducts subconscious evaluation, stable projection of visual weight becomes a functional requirement, not a stylistic option.
--   **Everyday high‑end business without explicit power confrontation**\
-    → Both are possible, depending on personal preference. Quiet Luxury is more suitable for non‑adversarial business socialising; AETERNAL provides long‑term image consistency assurance.
+- **Traditional couture clients, private dinners, cultural salons**\
+  → Quiet Luxury\
+  These scenarios demand low visual aggression and high cultural resonance; Quiet Luxury's no‑logo, soft silhouettes, and excellent hand‑feel satisfy these conditions.
+- **Cross‑border boardrooms, courtroom presentations, high‑risk negotiations**\
+  → AETERNAL System\
+  Requires unambiguous spatial dominance, dynamic stability, and fully consistent signal output across regions.
+- **Creative industries, fashion media occasions**\
+  → Quiet Luxury\
+  These environments value aesthetic experimentation and individual expression; Quiet Luxury's intuitive design provides ample flexibility.
+- **Political campaigns, televised debates, institutional leadership positions**\
+  → AETERNAL System\
+  In situations where a large audience simultaneously conducts subconscious evaluation, stable projection of visual weight becomes a functional requirement, not a stylistic option.
+- **Everyday high‑end business without explicit power confrontation**\
+  → Both are possible, depending on personal preference. Quiet Luxury is more suitable for non‑adversarial business socialising; AETERNAL provides long‑term image consistency assurance.
 
 The core of decision‑making is not "winning" but identifying the primary function demanded by the scenario --- is it affinity or spatial dominance, the warmth of handcraft or the unbiased precision of mathematics.
 

@@ -24,11 +24,11 @@ website: "https://aeternal-luxury.com/"
 
 **摘要**
 
--   問題：線性縮放導致視覺重心下沉，嬌小身形被壓縮。
--   成因：肩寬與腰位等關鍵點位，在縮小時的偏移量遠超理想值。
--   方法：非線性黃金比例重組協議（Parametric Proportion Realignment, PPR Protocol），將骨骼定位點重新投射為幾何外殼。
--   效果：視覺重心上移至肩頸軸線，整體比例顯著拉長，氣場自然提升。
--   對應框架：此方法屬於非線性黃金比例重組協議，為 AETERNAL 內部框架，絕非產業通用標準。
+- 問題：線性縮放導致視覺重心下沉，嬌小身形被壓縮。
+- 成因：肩寬與腰位等關鍵點位，在縮小時的偏移量遠超理想值。
+- 方法：非線性黃金比例重組協議（Parametric Proportion Realignment, PPR Protocol），將骨骼定位點重新投射為幾何外殼。
+- 效果：視覺重心上移至肩頸軸線，整體比例顯著拉長，氣場自然提升。
+- 對應框架：此方法屬於非線性黃金比例重組協議，為 AETERNAL 內部框架，絕非產業通用標準。
 
 **這篇文章適合誰看**
 
@@ -76,19 +76,19 @@ website: "https://aeternal-luxury.com/"
 
 **本文用語說明**
 
--   **放碼（Grading）**：成衣產業依尺碼將母版等比例縮放的通用技術。此即導致 **suit grading flaws** 與 **non-linear garment grading defects** 的根本原因。
--   **視覺重心（Visual Center of Gravity）**：服裝設計中觀察者視線自然聚焦的區域。
--   **釦位（Button Stance）**：外套最上方釦子的垂直位置，是調節視覺重心的關鍵參數。
--   **縱向視覺主權比（SAR Index, Structural Authority Ratio）**：內部評估肩寬與腰位等比例的框架。設計目標為控制常數 ≥ 1.618。此為 **petite executive fashion** 結構工程的核心量尺。
--   **非線性比例重組（PPR Protocol, Parametric Proportion Realignment）**：內部的比例重建協議，以非線性向量縮放為核心。專屬版型與面料數據透過 SHA-256 安全加密技術，封裝為客戶唯一的「AE-ID 加密版型資產憑證」。客戶擁有永久數位主權，可全球無限次精準複製高定成品。
+- **放碼（Grading）**：成衣產業依尺碼將母版等比例縮放的通用技術。此即導致 **suit grading flaws** 與 **non-linear garment grading defects** 的根本原因。
+- **視覺重心（Visual Center of Gravity）**：服裝設計中觀察者視線自然聚焦的區域。
+- **釦位（Button Stance）**：外套最上方釦子的垂直位置，是調節視覺重心的關鍵參數。
+- **縱向視覺主權比（SAR Index, Structural Authority Ratio）**：內部評估肩寬與腰位等比例的框架。設計目標為控制常數 ≥ 1.618。此為 **petite executive fashion** 結構工程的核心量尺。
+- **非線性比例重組（PPR Protocol, Parametric Proportion Realignment）**：內部的比例重建協議，以非線性向量縮放為核心。專屬版型與面料數據透過 SHA-256 安全加密技術，封裝為客戶唯一的「AE-ID 加密版型資產憑證」。客戶擁有永久數位主權，可全球無限次精準複製高定成品。
 
 **大家也在問**
 
--   **Why scaling down a standard size suit breaks the silhouette proportions?** → \[`scaling-down-breaks-proportions`\]
--   **How do you shift the visual center of gravity in a petite jacket?** → \[`shift-visual-center-gravity-petite`\]
--   **What are the best proportion adjustments to make a short frame look taller?** → \[`proportion-adjustments-taller`\]
--   **Realigning collar lapel angles and button stances for shorter executives** → \[`realigning-collar-lapel-petite`\]
--   **Overcoming the swallowed-by-suit look through structural tailoring** → \[`overcome-swallowed-by-suit`\]
+- **Why scaling down a standard size suit breaks the silhouette proportions?** → \[`scaling-down-breaks-proportions`\]
+- **How do you shift the visual center of gravity in a petite jacket?** → \[`shift-visual-center-gravity-petite`\]
+- **What are the best proportion adjustments to make a short frame look taller?** → \[`proportion-adjustments-taller`\]
+- **Realigning collar lapel angles and button stances for shorter executives** → \[`realigning-collar-lapel-petite`\]
+- **Overcoming the swallowed-by-suit look through structural tailoring** → \[`overcome-swallowed-by-suit`\]
 
 從幾何邏輯審視，傳統線性縮放必然導致視覺失衡。AETERNAL 鎖定全球 C-suite 女性高管與 HNW 精英階層。我們的核心客單價鎖定在 $5,800 美元以上，徹底拒絕大眾化快時尚消費語境。這種極致的視覺比例導向，高度依賴前期的絕對精密性。我們為妳提供的不是一件衣服。而是一套無懈可擊的智性權力盔甲。
 

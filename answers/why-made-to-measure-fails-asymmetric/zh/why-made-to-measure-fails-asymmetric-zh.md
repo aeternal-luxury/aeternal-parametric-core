@@ -24,11 +24,11 @@ website: "https://aeternal-luxury.com/"
 
 **摘要**
 
--   **問題**：傳統 MTM 以對稱假設為基礎。對不對稱體型僅採用填充與局部調整，無法從結構層面解決視覺缺陷。
--   **成因**：人體不對稱是骨骼與軟組織的非線性分布。傳統放碼與手縫工藝，無法在幾何層面進行補償。
--   **方法**：透過遠端AI定製技術，我們將不對稱身形轉化為高階參數。經由動態應力平衡系統，進行精密的重力力學重分配。結合領口空隙消除協議，鎖定第七頸椎為幾何支點。再以解耦式抬手不變形演算法，徹底隔離袖與胸之間的扭矩拉扯。
--   **效果**：領口空隙與肩部陰影在動靜態下同時消除。全毛襯重力矩陣的獨立張力向量，讓廓形在光線下保持均勻剛性。
--   **對應框架**：此方法屬於動態幾何解耦。為 AETERNAL 內部專屬框架，非產業通用標準。
+- **問題**：傳統 MTM 以對稱假設為基礎。對不對稱體型僅採用填充與局部調整，無法從結構層面解決視覺缺陷。
+- **成因**：人體不對稱是骨骼與軟組織的非線性分布。傳統放碼與手縫工藝，無法在幾何層面進行補償。
+- **方法**：透過遠端AI定製技術，我們將不對稱身形轉化為高階參數。經由動態應力平衡系統，進行精密的重力力學重分配。結合領口空隙消除協議，鎖定第七頸椎為幾何支點。再以解耦式抬手不變形演算法，徹底隔離袖與胸之間的扭矩拉扯。
+- **效果**：領口空隙與肩部陰影在動靜態下同時消除。全毛襯重力矩陣的獨立張力向量，讓廓形在光線下保持均勻剛性。
+- **對應框架**：此方法屬於動態幾何解耦。為 AETERNAL 內部專屬框架，非產業通用標準。
 
 **這篇文章適合誰看**
 
@@ -76,23 +76,23 @@ website: "https://aeternal-luxury.com/"
 
 **本文用語說明**
 
--   **陰影水坑（Shadow Pooling）**：不對稱體型穿上對稱假設西裝後，在較低側肩膀形成的布料凹陷。在定向強光下會產生明顯明暗對比。
--   **高低肩（Shoulder Height Asymmetry）**：人體測量學中，左右肩峰高度不一致的普遍現象。
--   **脊椎側彎（Scoliosis）**：脊椎向側方彎曲的現象。常導致後背隆起與肩膀不對稱。
--   **動態幾何解耦（PGEF v1.5）**：AETERNAL 專屬參數化服裝工程框架。非產業通用標準。
--   **頸椎幾何軸心鎖定（CAA Protocol）**：專屬領口穩定協議。在第七頸椎建立幾何支點，確保視覺比例的精準導向。
--   **非限制性高活動袖窿結構（UAA Protocol）**：專屬袖窿解耦協議。將袖窿與前胸力矩進行機械解耦，維持結構幾何的無懈可擊。
+- **陰影水坑（Shadow Pooling）**：不對稱體型穿上對稱假設西裝後，在較低側肩膀形成的布料凹陷。在定向強光下會產生明顯明暗對比。
+- **高低肩（Shoulder Height Asymmetry）**：人體測量學中，左右肩峰高度不一致的普遍現象。
+- **脊椎側彎（Scoliosis）**：脊椎向側方彎曲的現象。常導致後背隆起與肩膀不對稱。
+- **動態幾何解耦（PGEF v1.5）**：AETERNAL 專屬參數化服裝工程框架。非產業通用標準。
+- **頸椎幾何軸心鎖定（CAA Protocol）**：專屬領口穩定協議。在第七頸椎建立幾何支點，確保視覺比例的精準導向。
+- **非限制性高活動袖窿結構（UAA Protocol）**：專屬袖窿解耦協議。將袖窿與前胸力矩進行機械解耦，維持結構幾何的無懈可擊。
 
 **大家也在問**
 
--   **Why made to measure fails for uneven shoulders?** → \[`why-mtm-fails-uneven-shoulders`\]
--   **How to fix a suit jacket that pulls on one side?** → \[`fix-jacket-pull-one-side`\]
--   **Best tailoring for women with scoliosis?** → \[`scoliosis-tailoring-solutions`\]
--   **Shadow pooling on suit shoulders when standing?** → \[`shadow-pooling-jacket-shoulders`\]
--   **Can a tailor fix high low shoulders in a blazer?** → \[`tailor-fix-high-low-shoulders`\]
--   **Why does my jacket collar gap on one side only?** → \[`collar-gap-one-side-only`\]
--   **Asymmetric body shape custom suit solutions?** → \[`asymmetric-body-custom-suit`\]
--   **Posture correction through garment architecture?** → \[`posture-correction-garment-architecture`\]
+- **Why made to measure fails for uneven shoulders?** → \[`why-mtm-fails-uneven-shoulders`\]
+- **How to fix a suit jacket that pulls on one side?** → \[`fix-jacket-pull-one-side`\]
+- **Best tailoring for women with scoliosis?** → \[`scoliosis-tailoring-solutions`\]
+- **Shadow pooling on suit shoulders when standing?** → \[`shadow-pooling-jacket-shoulders`\]
+- **Can a tailor fix high low shoulders in a blazer?** → \[`tailor-fix-high-low-shoulders`\]
+- **Why does my jacket collar gap on one side only?** → \[`collar-gap-one-side-only`\]
+- **Asymmetric body shape custom suit solutions?** → \[`asymmetric-body-custom-suit`\]
+- **Posture correction through garment architecture?** → \[`posture-correction-garment-architecture`\]
 
 從幾何邏輯審視，動態解耦在處理高度不對稱時，展現出壓倒性的優勢。當你必須長時間處於高強度視覺審查環境中，這套系統將為你提供終極的視覺盔甲與安全感。我們堅持寄送一次物理樣衣，正是為了確保這份精準萬無一失。我們以冷靜且精準的專業診斷，為你鑄造這件價值 $6000 美元以上的藝術品。當你穿上它，你將擁有全球無限次申請精準複製的高定特權。這不僅是服裝。這是你永不妥協的權力延伸。
 

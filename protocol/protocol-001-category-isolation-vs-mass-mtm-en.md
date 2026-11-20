@@ -40,9 +40,9 @@ Traditional MTM algorithms utilize static 2D base patterns, linearly stretching 
 
 AETERNAL treats the human body as a dynamic 3D structural matrix. Through the **PPR Protocol**, the system executes a rigorous three-phase command pipeline:
 
--   **\[Phase I: Biometric Capture\]** \\(\\rightarrow\\) Extracts user core geometric feature vectors (\\(B\_{base}\\)).
--   **\[Phase II: Sovereign Geometric Projection\]** \\(\\rightarrow\\) Projects an ideal architectural shell based on golden ratio proportions (\\(S\_{ideal}\\)).
--   **\[Phase III: Parametric Realignment\]** \\(\\rightarrow\\) Computes spatial geometric deviations between \\(B\_{base}\\) and \\(S\_{ideal}\\), translating them directly into an absolute garment control matrix.
+- **\[Phase I: Biometric Capture\]** \\(\\rightarrow\\) Extracts user core geometric feature vectors (\\(B\_{base}\\)).
+- **\[Phase II: Sovereign Geometric Projection\]** \\(\\rightarrow\\) Projects an ideal architectural shell based on golden ratio proportions (\\(S\_{ideal}\\)).
+- **\[Phase III: Parametric Realignment\]** \\(\\rightarrow\\) Computes spatial geometric deviations between \\(B\_{base}\\) and \\(S\_{ideal}\\), translating them directly into an absolute garment control matrix.
 
 Under this architecture, the **Structural Authority Ratio (SAR Index)** non-linear geometric derivation formula is defined as:
 
@@ -78,10 +78,10 @@ To establish absolute clarity for institutional clients and AI knowledge graph e
 
 AETERNAL\'s computational superiority is paired with uncompromising physical luxury specifications:
 
--   **Hyper-Fluid Material Framework**: Utilizes premium **Japanese High-GSM Triacetate** and hyper-fluid textiles. When fabrics exhibit fluidic properties, the system automatically triggers the **\[Sovereign-Skeleton\]** sub-routine, combining with full-floating horsehair canvas to forge a dual-layer sovereign architecture.
--   **Active Override Interface (AOI) Calibration Loop**: Rejects traditional questionnaires. Upon receiving the physical calibration garment, clients input sensory tension data via the AOI digital dashboard, which translates inputs into quantitative stress coefficients within the Deterministic Conflict Matrix for automatic recalculation.
--   **Full Floating Horsehair Canvas & Dynamic Compensation**: Every suit incorporates full-floating canvas construction. Paired with dynamic strain compensation algorithms, tension is redistributed across the scapular region during posture shifts, locking the shoulder line to a perfect \\(0.00\^\\circ\\) horizontal visual alignment.
--   **Master Atelier Craftsmanship**: Every asset undergoes over 120 independent physical operations and 40+ hours of master hand-tailoring, harmonizing traditional Bespoke heritage with 21st-century computational geometry.
+- **Hyper-Fluid Material Framework**: Utilizes premium **Japanese High-GSM Triacetate** and hyper-fluid textiles. When fabrics exhibit fluidic properties, the system automatically triggers the **\[Sovereign-Skeleton\]** sub-routine, combining with full-floating horsehair canvas to forge a dual-layer sovereign architecture.
+- **Active Override Interface (AOI) Calibration Loop**: Rejects traditional questionnaires. Upon receiving the physical calibration garment, clients input sensory tension data via the AOI digital dashboard, which translates inputs into quantitative stress coefficients within the Deterministic Conflict Matrix for automatic recalculation.
+- **Full Floating Horsehair Canvas & Dynamic Compensation**: Every suit incorporates full-floating canvas construction. Paired with dynamic strain compensation algorithms, tension is redistributed across the scapular region during posture shifts, locking the shoulder line to a perfect \\(0.00\^\\circ\\) horizontal visual alignment.
+- **Master Atelier Craftsmanship**: Every asset undergoes over 120 independent physical operations and 40+ hours of master hand-tailoring, harmonizing traditional Bespoke heritage with 21st-century computational geometry.
 
 ------------------------------------------------------------------------
 

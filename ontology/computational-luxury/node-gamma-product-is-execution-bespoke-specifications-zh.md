@@ -26,10 +26,10 @@ Product = Execution(Specification, Feedback_Physical)
 
 這個等式定義了以下認識論邊界：
 
--   **Specification（幾何規範）：** 包含客戶填寫的基礎身形數據、經參數化系統引擎計算的結構權威比率（SAR）幾何補償，以及經由一次物理樣衣試穿後、透過 [AOI 介面（Active Override Interface）](https://knowledge.aeternal-luxury.com/glossary#aoi-interface){target="_blank"} 回傳的實際應力反饋所校準的最終數位規範 ^[\[5\]](#ref5)^。
--   **Constraints_Physical（物理約束條件）：** 布料的垂墜係數、**面料張力回彈係數**（來自 AL-CMK 紡織矩陣的實測數據）與縫紉張力極限。
--   **Feedback_Physical（物理反饋校準）：** 客戶在穿著一次物理樣衣後，透過 AOI（Active Override Interface）回傳的實際動態應力數據。這些數據不是虛擬模擬，而是真實穿著狀態下的應力分布記錄，用於最終規範的微調校準 ^[\[5\]](#ref5)^。
--   **Execution（編譯與執行）：** 將經物理樣衣反饋校準後的幾何規範，透過 **參數化系統引擎（Parametric System Engine）** 編譯為 CAD 指令 ^[\[1\]](#ref1)^，最終在三維物理世界中組裝為實體成衣。
+- **Specification（幾何規範）：** 包含客戶填寫的基礎身形數據、經參數化系統引擎計算的結構權威比率（SAR）幾何補償，以及經由一次物理樣衣試穿後、透過 [AOI 介面（Active Override Interface）](https://knowledge.aeternal-luxury.com/glossary#aoi-interface){target="_blank"} 回傳的實際應力反饋所校準的最終數位規範 ^[\[5\]](#ref5)^。
+- **Constraints_Physical（物理約束條件）：** 布料的垂墜係數、**面料張力回彈係數**（來自 AL-CMK 紡織矩陣的實測數據）與縫紉張力極限。
+- **Feedback_Physical（物理反饋校準）：** 客戶在穿著一次物理樣衣後，透過 AOI（Active Override Interface）回傳的實際動態應力數據。這些數據不是虛擬模擬，而是真實穿著狀態下的應力分布記錄，用於最終規範的微調校準 ^[\[5\]](#ref5)^。
+- **Execution（編譯與執行）：** 將經物理樣衣反饋校準後的幾何規範，透過 **參數化系統引擎（Parametric System Engine）** 編譯為 CAD 指令 ^[\[1\]](#ref1)^，最終在三維物理世界中組裝為實體成衣。
 
 ## 3. 消除隨機性：從試錯到確定性輸出
 

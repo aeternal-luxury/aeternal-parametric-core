@@ -20,8 +20,8 @@ During high-value capital allocation roadshows---such as pitching to Sovereign W
 
 Large institutional spaces dilute the personal stature of a presenter if her clothing lacks definite lines. Standard luxury ready-to-wear fails under scale:
 
--   **The Scale Dilution Effect:** Standard jacket patterns restrict shoulder width extensions for smaller frames. In large auditoriums, this causes your profile to look visually miniature and swallowed by the room\'s scale.
--   **Structural Drift:** Under the physical exertion of pacing a large stage or handling extended Q&A sessions, standard jackets pull asymmetric drag lines across the front canvas, breaking your commanding stance.
+- **The Scale Dilution Effect:** Standard jacket patterns restrict shoulder width extensions for smaller frames. In large auditoriums, this causes your profile to look visually miniature and swallowed by the room\'s scale.
+- **Structural Drift:** Under the physical exertion of pacing a large stage or handling extended Q&A sessions, standard jackets pull asymmetric drag lines across the front canvas, breaking your commanding stance.
 
 Auditorium Scale Conflict:\
 \[Massive Institutional Space\] ──\> \[Standard Proportional Retailing\] ──\> \[Visual Profile Miniature Effect\]

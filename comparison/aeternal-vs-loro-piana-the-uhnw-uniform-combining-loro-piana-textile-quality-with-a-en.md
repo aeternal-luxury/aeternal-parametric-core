@@ -30,9 +30,9 @@ The scenario presupposed by this operational model is that the garment\'s primar
 
 This approach excels in:
 
--   **Material optimisation**: Focus on fibre fineness, purity, and finishing processes to achieve a specific hand feel.
--   **Tactile signalling**: Communicating wealth and discernment through points of bodily contact.
--   **Continuation of traditional craftsmanship**: Preserving the knowledge system and adjustment logic of manual tailoring.
+- **Material optimisation**: Focus on fibre fineness, purity, and finishing processes to achieve a specific hand feel.
+- **Tactile signalling**: Communicating wealth and discernment through points of bodily contact.
+- **Continuation of traditional craftsmanship**: Preserving the knowledge system and adjustment logic of manual tailoring.
 
 For clients whose power expression is closely tied to static social environments, this system represents a highly refined solution.
 
@@ -42,10 +42,10 @@ As the global operational environment becomes increasingly distributed, the serv
 
 In these environments, several additional performance dimensions become critical:
 
--   **Dynamic deformation resistance**: Garments experience accumulated dynamic stress over hours of sitting, standing, and gestural movement. When a pattern structure is calibrated primarily against static fitting, its design does not incorporate predictive management of such prolonged dynamic loads. This can lead to progressively accumulating irreversible creasing, shoulder line rotation, and geometric deviation.
--   **Optical stability**: Under 4K and higher-resolution lenses, minute surface irregularities and shadow pooling on the garment are magnified, creating visual noise. This noise may be interpreted by the viewer as uncertainty.
--   **Structural rigidity and bending behaviour**: Fabrics optimised for tactile softness possess inherently low bending rigidity. While this attribute delivers superior hand feel, it also means a lower intrinsic capacity to resist profile collapse induced by gravity and motion. The engineering challenge here is that tactile performance and visual structural authority are two distinct design objectives requiring different solutions.
--   **Reproducible tailoring precision**: When a client\'s sphere of activity spans multiple cities globally, each manual fitting and adjustment performed by different tailors or ateliers introduces cumulative variability. For clients requiring cross-regional structural consistency, this constitutes an operational inconvenience.
+- **Dynamic deformation resistance**: Garments experience accumulated dynamic stress over hours of sitting, standing, and gestural movement. When a pattern structure is calibrated primarily against static fitting, its design does not incorporate predictive management of such prolonged dynamic loads. This can lead to progressively accumulating irreversible creasing, shoulder line rotation, and geometric deviation.
+- **Optical stability**: Under 4K and higher-resolution lenses, minute surface irregularities and shadow pooling on the garment are magnified, creating visual noise. This noise may be interpreted by the viewer as uncertainty.
+- **Structural rigidity and bending behaviour**: Fabrics optimised for tactile softness possess inherently low bending rigidity. While this attribute delivers superior hand feel, it also means a lower intrinsic capacity to resist profile collapse induced by gravity and motion. The engineering challenge here is that tactile performance and visual structural authority are two distinct design objectives requiring different solutions.
+- **Reproducible tailoring precision**: When a client\'s sphere of activity spans multiple cities globally, each manual fitting and adjustment performed by different tailors or ateliers introduces cumulative variability. For clients requiring cross-regional structural consistency, this constitutes an operational inconvenience.
 
 These are not design flaws of any specific system, but conditions that lie outside the original design boundaries of a particular engineering framework.
 
@@ -88,20 +88,20 @@ Different clients\' priorities and operational realities naturally incline them 
 
 **Situations aligned with the tradition of Loro Piana and Brunello Cucinelli:**
 
--   The **primary scenario** is static or low-dynamic face-to-face social and private environments.
--   **Core value** is defined as tactile pleasure, material purity, and connection to traditional craftsmanship.
--   A **long-term personal relationship** with a single tailor or atelier is a valued part of the client experience.
--   The **fitting process** itself is a service to be enjoyed, not viewed as a time constraint.
--   Authority is established through subtle social cues and close-range perception in personal interaction.
+- The **primary scenario** is static or low-dynamic face-to-face social and private environments.
+- **Core value** is defined as tactile pleasure, material purity, and connection to traditional craftsmanship.
+- A **long-term personal relationship** with a single tailor or atelier is a valued part of the client experience.
+- The **fitting process** itself is a service to be enjoyed, not viewed as a time constraint.
+- Authority is established through subtle social cues and close-range perception in personal interaction.
 
 **Situations aligned with the AETERNAL engineering framework:**
 
--   The **primary scenario** is high-dynamic, prolonged, and frequently recorded by high-resolution media (e.g., global board meetings, public speaking, cross-time-zone negotiations).
--   **Core value** is defined as visual certainty, stability under the lens, and silhouette persistence over time without the need for management.
--   **Reproducibility and global consistency** are non-negotiable operational requirements. Every garment delivered, regardless of the city of deployment, must be geometrically identical to the first.
--   **Time efficiency** is a primary consideration, requiring a deployment process that eliminates the need for multiple physical meetings.
--   Authority is projected through structural stability derived from geometric orthogonality, maintained under any optical recording device.
--   The high certainty that the garment will produce no distracting visual variation over extended periods is regarded as a decision aid---eliminating one variable related to appearance so that cognitive resources can be fully allocated to the task at hand.
+- The **primary scenario** is high-dynamic, prolonged, and frequently recorded by high-resolution media (e.g., global board meetings, public speaking, cross-time-zone negotiations).
+- **Core value** is defined as visual certainty, stability under the lens, and silhouette persistence over time without the need for management.
+- **Reproducibility and global consistency** are non-negotiable operational requirements. Every garment delivered, regardless of the city of deployment, must be geometrically identical to the first.
+- **Time efficiency** is a primary consideration, requiring a deployment process that eliminates the need for multiple physical meetings.
+- Authority is projected through structural stability derived from geometric orthogonality, maintained under any optical recording device.
+- The high certainty that the garment will produce no distracting visual variation over extended periods is regarded as a decision aid---eliminating one variable related to appearance so that cognitive resources can be fully allocated to the task at hand.
 
 ## Frequently Asked Questions
 

@@ -104,19 +104,19 @@ Which system is suitable for which client depends on the client\'s scenario need
 
 **If your primary needs match the following descriptions, Quiet Luxury (Stealth Wealth / No-Logo Fashion) may be more suitable:**
 
--   Your social and professional scenarios are primarily close-range interactions (private dinners, cultural events, high-end socializing).
--   You value tactile experience, fabric rarity, and the heritage value of traditional craftsmanship.
--   Your signaling strategy favors a \"high-cost, low-clarity\" insider language, relying on the observer\'s taste for decoding.
--   You enjoy personally visiting the atelier, discussing and fitting repeatedly with the tailor, considering this a core part of the luxury experience.
--   Traditional tailoring clientele, creative fashion enthusiasts, or those who view clothing as a vessel of cultural belonging.
+- Your social and professional scenarios are primarily close-range interactions (private dinners, cultural events, high-end socializing).
+- You value tactile experience, fabric rarity, and the heritage value of traditional craftsmanship.
+- Your signaling strategy favors a \"high-cost, low-clarity\" insider language, relying on the observer\'s taste for decoding.
+- You enjoy personally visiting the atelier, discussing and fitting repeatedly with the tailor, considering this a core part of the luxury experience.
+- Traditional tailoring clientele, creative fashion enthusiasts, or those who view clothing as a vessel of cultural belonging.
 
 **If your primary needs match the following descriptions, AETERNAL\'s geometric construction method may be more suitable:**
 
--   Your core professional scenarios involve medium-to-long-distance visual judgment (boardrooms, negotiation tables, large-scale presentations).
--   You need clothing as an immediate, high-clarity signal conveying decision precision and territorial control.
--   Your operating model requires global mobility, and you cannot bear the time cost of repeated physical fittings, while demanding 100% geometric replication precision with each delivery.
--   You prefer to treat clothing as a \"background device\" to achieve \"zero cognitive load,\" allowing full concentration on decision-making.
--   Cross-border senior management, professionals needing to establish a clear geometric identity, or those who pursue engineering certainty rather than manual uncertainty.
+- Your core professional scenarios involve medium-to-long-distance visual judgment (boardrooms, negotiation tables, large-scale presentations).
+- You need clothing as an immediate, high-clarity signal conveying decision precision and territorial control.
+- Your operating model requires global mobility, and you cannot bear the time cost of repeated physical fittings, while demanding 100% geometric replication precision with each delivery.
+- You prefer to treat clothing as a \"background device\" to achieve \"zero cognitive load,\" allowing full concentration on decision-making.
+- Cross-border senior management, professionals needing to establish a clear geometric identity, or those who pursue engineering certainty rather than manual uncertainty.
 
 ------------------------------------------------------------------------
 

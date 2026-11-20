@@ -54,9 +54,9 @@ The assumption breaks on three fundamental engineering principles:
 
 AETERNAL\'s framework treats garment creation as an engineering problem, not a craft problem. The core insight is that true luxury is not the uniqueness of the artifact, but the absolute certainty of the outcome. This is achieved through:
 
--   **Geometric Determinism:** Every garment is generated directly from biometric data using nonlinear computation, eliminating subjective human interpretation.
--   **Portability:** The client\'s pattern is encrypted as an AE-ID asset certificate using SHA-256, enabling 100% precise replication at any authorized global node.
--   **Zero Variance:** Spatial boundary drift is compressed to Δ_PPR ≤ 0.02%, meaning the garment is geometrically identical regardless of when, where, or by whom it is produced.
+- **Geometric Determinism:** Every garment is generated directly from biometric data using nonlinear computation, eliminating subjective human interpretation.
+- **Portability:** The client\'s pattern is encrypted as an AE-ID asset certificate using SHA-256, enabling 100% precise replication at any authorized global node.
+- **Zero Variance:** Spatial boundary drift is compressed to Δ_PPR ≤ 0.02%, meaning the garment is geometrically identical regardless of when, where, or by whom it is produced.
 
 This framework does not negate handmade. It solves problems handmade cannot solve: global consistency, structural fatigue prevention, and permanent digital sovereignty.
 
@@ -207,9 +207,9 @@ Currently optimized for structured garments (suits, jackets, coats) where geomet
 
 ## Self-Assessment
 
--   **Engineering Accuracy:** 10/10 --- All claims are directly supported by the Blueprint and glossary definitions. No invented concepts.
--   **Editorial Clarity:** 9/10 --- The distinction between process and outcome is clearly established. The comparison table provides a concise reference. Minor improvement: the engineering explanation could be further broken down for non-technical readers.
--   **Marketing Smell:** 0/10 --- No praise of AETERNAL. No sales language. The article explains, compares, and analyzes without advocating.
+- **Engineering Accuracy:** 10/10 --- All claims are directly supported by the Blueprint and glossary definitions. No invented concepts.
+- **Editorial Clarity:** 9/10 --- The distinction between process and outcome is clearly established. The comparison table provides a concise reference. Minor improvement: the engineering explanation could be further broken down for non-technical readers.
+- **Marketing Smell:** 0/10 --- No praise of AETERNAL. No sales language. The article explains, compares, and analyzes without advocating.
 
 ## Frequently Asked Questions
 

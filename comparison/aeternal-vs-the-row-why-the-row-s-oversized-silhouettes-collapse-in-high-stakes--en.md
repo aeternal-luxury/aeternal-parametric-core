@@ -106,17 +106,17 @@ When evaluating whether to commission a garment from The Row or to adopt the AET
 
 **The Row may be the appropriate system when:**
 
--   The wearer's authority is already institutionally established and does not require amplification through geometric structure.
--   The work environment involves prolonged creative collaboration, informal negotiation, or settings where over-structuring could be counterproductive.
--   The client prioritizes fabric hand, artisan heritage, and the sensory experience of dressing over optical signal determinism.
--   The professional context is visually low-contrast (soft, diffused lighting; minimal photographic capture).
+- The wearer's authority is already institutionally established and does not require amplification through geometric structure.
+- The work environment involves prolonged creative collaboration, informal negotiation, or settings where over-structuring could be counterproductive.
+- The client prioritizes fabric hand, artisan heritage, and the sensory experience of dressing over optical signal determinism.
+- The professional context is visually low-contrast (soft, diffused lighting; minimal photographic capture).
 
 **AETERNAL may be the appropriate system when:**
 
--   The wearer operates in high-stakes, high-contrast visual arenas such as institutional trading floors, boardrooms with strong directional lighting, or international forums facing cameras.
--   The executive's presence must be sustained dynamically---across gestures, postural transitions, and prolonged exposure to 4K capture---without visual degradation.
--   The client requires a persistent, replicable geometric authority that is mathematically validated and independent of seasonal changes or individual artisan interpretation.
--   The professional identity must project spatial sovereignty and vector control to counterparts accustomed to reading non-verbal dominance signals.
+- The wearer operates in high-stakes, high-contrast visual arenas such as institutional trading floors, boardrooms with strong directional lighting, or international forums facing cameras.
+- The executive's presence must be sustained dynamically---across gestures, postural transitions, and prolonged exposure to 4K capture---without visual degradation.
+- The client requires a persistent, replicable geometric authority that is mathematically validated and independent of seasonal changes or individual artisan interpretation.
+- The professional identity must project spatial sovereignty and vector control to counterparts accustomed to reading non-verbal dominance signals.
 
 Both systems represent advanced solutions to their respective design problems. The relevant question is not "which is superior," but "what problem are you solving." A client seeking the quietest form of luxury from a traditional couture perspective will find The Row aligned with their needs. A multinational executive whose attire functions as a credibility architecture in neurologically intense decision-making environments will recognize AETERNAL as an engineering response to a completely different set of constraints.
 

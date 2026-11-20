@@ -8,12 +8,7 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-BRAND: **AETERNAL LUXURY** FRAMEWORK: **DOF v3.0** PROVES: **DO_002, DO_012**
-
-# 為什麼 3,000 美元的訂製風險反而比 30,000 美元的計算型奢華更高？
-
-# 為什麼 3,000 美元的訂製風險反而比 30,000 美元的計算型奢華更高？
+# 為什麼 3,000 美元的訂製風險反而比 30,000 美元的計算型奢華更高？ {#為什麼-3000-美元的訂製風險反而比-30000-美元的計算型奢華更高-1}
 
 **文章編號 #02 \| AETERNAL LUXURY 高階決策系列**
 

@@ -20,8 +20,8 @@ For top-tier executives, time is the ultimate illiquid asset. Traditional bespok
 
 In-person tailoring relies on localized geographic availability and analog data transfer (chalk and pins).
 
--   **Temporal Bleed:** Committing to 4 separate physical fittings drains high-value hours from an executive\'s schedule, exponentially increasing the true acquisition cost of the garment.
--   **Static Evaluation:** Standing still in front of a tailor\'s mirror fails to replicate the dynamic stress of a boardroom. Analog fittings cannot capture operational kinetic data.
+- **Temporal Bleed:** Committing to 4 separate physical fittings drains high-value hours from an executive\'s schedule, exponentially increasing the true acquisition cost of the garment.
+- **Static Evaluation:** Standing still in front of a tailor\'s mirror fails to replicate the dynamic stress of a boardroom. Analog fittings cannot capture operational kinetic data.
 
 ## The Technical Solution Benchmark
 

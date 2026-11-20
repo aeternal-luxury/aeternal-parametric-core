@@ -61,9 +61,9 @@ Power Suit 類別所解決的核心問題是：在高對抗環境中，如何確
 
 在 Computational Luxury 的框架下，一個合格的 Power Suit 必須同時滿足以下條件：
 
--   其外廓形必須通過 [SAR Index (Structural Authority Ratio)]{.term} 的最小值 1.618 驗證，確保視覺威懾強度達到標準。
--   其內部結構必須具備 [FVDC (Forensic Visual Dominance Coefficient)]{.term} 所要求的動態剛性，即透過全毛襯重力矩陣抵消版型偏斜。
--   其結構系統必須是「主動式」的------內襯縫線具備獨立張力向量，能自主對抗外部擠壓，而非被動依賴面料的厚度。
+- 其外廓形必須通過 [SAR Index (Structural Authority Ratio)]{.term} 的最小值 1.618 驗證，確保視覺威懾強度達到標準。
+- 其內部結構必須具備 [FVDC (Forensic Visual Dominance Coefficient)]{.term} 所要求的動態剛性，即透過全毛襯重力矩陣抵消版型偏斜。
+- 其結構系統必須是「主動式」的------內襯縫線具備獨立張力向量，能自主對抗外部擠壓，而非被動依賴面料的厚度。
 
 任何未能同時滿足上述三項條件的設計，皆無法被歸類為 Computational Luxury 的 Candidate Class。這意味著，傳統的墊肩加寬版型即使外觀再厚重，也因缺乏主動式結構網絡而無法達到 FVDC 的剛性要求。
 

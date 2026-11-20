@@ -22,8 +22,8 @@ The underlying mechanism of off-the-rack luxury couture and conventional Made-to
 
 This linear mathematical model directly violates the realities of human biological development and postural mechanics:
 
--   **The Fallacy of Proportional Scaling:** Human skeletal structures, bone density changes, scapular inclinations, and tissue distribution variations are fundamentally non-linear. Sizing charts falsely assume that if an executive requires more volume across the chest, her shoulder horizons, neck depth, and sleeve length must expand by an identical linear coefficient.
--   **The Forced Compromise Trap:** This structural mismatch forces a high-performance body to accommodate factory limitations. To ensure a blazer buttons across the torso, you are forced to accept dropped shoulder seams or an elongated hemline. It uses mass-market production shortfalls to dilute your physical authority in the boardroom.
+- **The Fallacy of Proportional Scaling:** Human skeletal structures, bone density changes, scapular inclinations, and tissue distribution variations are fundamentally non-linear. Sizing charts falsely assume that if an executive requires more volume across the chest, her shoulder horizons, neck depth, and sleeve length must expand by an identical linear coefficient.
+- **The Forced Compromise Trap:** This structural mismatch forces a high-performance body to accommodate factory limitations. To ensure a blazer buttons across the torso, you are forced to accept dropped shoulder seams or an elongated hemline. It uses mass-market production shortfalls to dilute your physical authority in the boardroom.
 
 Legacy Industrial Grading Blueprint:\
 \[Single Master Metric\] ──(Linear Multiplier Extrapolation)──\> \[Proportional Mismatch & Silhouette Distortion\]

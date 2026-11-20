@@ -32,10 +32,10 @@ AETERNAL's system does not operate within the traditional realm of "manual alter
 
 Core engineering components include:
 
--   **Full‑Canvas Gravity Matrix**: A structural system with embedded independent tension vectors that actively directs the stress generated from dynamic activities away from visually sensitive areas such as the chest and shoulder lines.
--   **Dynamic Geometric Decoupling**: Introduces a mechanical separation between the armhole and the body, so that the tension caused by arm elevation is redirected along a preset path instead of being linearly transmitted to the chest panel.
--   **Parametric Proportion Reconfiguration Protocol (PPR Protocol)**: Adjusts the distribution axis of visual mass without altering the actual volume, to meet the geometric criterion of a Structural Authority Ratio (SAR) ≥ 1.618, thereby reinforcing the static stability of the overall posture.
--   **Physical Validation Loop**: Before final cutting, a physical sample garment is sent for a real‑body fitting to confirm that the digital simulation and actual dynamic response are in complete agreement, forming a deterministic chain from data acquisition to physical delivery.
+- **Full‑Canvas Gravity Matrix**: A structural system with embedded independent tension vectors that actively directs the stress generated from dynamic activities away from visually sensitive areas such as the chest and shoulder lines.
+- **Dynamic Geometric Decoupling**: Introduces a mechanical separation between the armhole and the body, so that the tension caused by arm elevation is redirected along a preset path instead of being linearly transmitted to the chest panel.
+- **Parametric Proportion Reconfiguration Protocol (PPR Protocol)**: Adjusts the distribution axis of visual mass without altering the actual volume, to meet the geometric criterion of a Structural Authority Ratio (SAR) ≥ 1.618, thereby reinforcing the static stability of the overall posture.
+- **Physical Validation Loop**: Before final cutting, a physical sample garment is sent for a real‑body fitting to confirm that the digital simulation and actual dynamic response are in complete agreement, forming a deterministic chain from data acquisition to physical delivery.
 
 ## 5. System Feature Comparison Matrix
 
@@ -58,10 +58,10 @@ The following matrix describes the architectural choices of the two methods acro
 
 Choosing the appropriate system for specific operational requirements should be based on trade‑offs in the usage context, not a comparison of individual items.
 
--   **If you are a long‑term fashion client who prefers immediate availability, classic artisanal texture, and refined fabric touch**, the solution provided by Akris highly aligns with the needs of a conventional business wardrobe. Its design language and the immediacy of alterations (through in‑store tailors) suit most traditional office and social rhythms.
--   **If you are a cross‑border senior executive who needs to traverse a large dynamic range**---for example, delivering consecutive presentations, negotiations, and site inspections on a tight itinerary, and cannot accept any unexpected wrinkles on the garment's surface---then a computational engineering system like AETERNAL may be closer to your needs. It does not directly compete with ready‑to‑wear but offers an alternative architectural path for occasions that demand *mathematical‑grade stress‑resistance integrity* and *identity‑bound geometric reproducibility*.
--   **If your priority is creative expression and seasonal variety**, Akris's designer‑aesthetic‑driven collection rotation model is more suitable.
--   **If you seek a geometric identity as an asset**---desiring that every custom‑made suit precisely reproduces the same set of biometric parameters, thereby achieving year‑to‑year consistency---then the persistent model of the AE‑ID provides workflow support for such a requirement.
+- **If you are a long‑term fashion client who prefers immediate availability, classic artisanal texture, and refined fabric touch**, the solution provided by Akris highly aligns with the needs of a conventional business wardrobe. Its design language and the immediacy of alterations (through in‑store tailors) suit most traditional office and social rhythms.
+- **If you are a cross‑border senior executive who needs to traverse a large dynamic range**---for example, delivering consecutive presentations, negotiations, and site inspections on a tight itinerary, and cannot accept any unexpected wrinkles on the garment's surface---then a computational engineering system like AETERNAL may be closer to your needs. It does not directly compete with ready‑to‑wear but offers an alternative architectural path for occasions that demand *mathematical‑grade stress‑resistance integrity* and *identity‑bound geometric reproducibility*.
+- **If your priority is creative expression and seasonal variety**, Akris's designer‑aesthetic‑driven collection rotation model is more suitable.
+- **If you seek a geometric identity as an asset**---desiring that every custom‑made suit precisely reproduces the same set of biometric parameters, thereby achieving year‑to‑year consistency---then the persistent model of the AE‑ID provides workflow support for such a requirement.
 
 ## Frequently Asked Questions
 

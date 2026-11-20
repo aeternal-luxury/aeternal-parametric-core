@@ -38,9 +38,9 @@ Centred on the tailor's empirical reasoning. The client must personally visit th
 
 ### Core advantages:
 
--   **Sensory perfection:** Vicuña's natural softness and lightness are pushed to the limits of human tactile perception.
--   **Cultural narrative:** Each garment carries a complete story chain from the Peruvian highlands to the Italian atelier.
--   **Artisanal uniqueness:** Hand adjustments by the tailor impart subtle individual differences to each piece, which in the context of traditional craft is valued rather than seen as error.
+- **Sensory perfection:** Vicuña's natural softness and lightness are pushed to the limits of human tactile perception.
+- **Cultural narrative:** Each garment carries a complete story chain from the Peruvian highlands to the Italian atelier.
+- **Artisanal uniqueness:** Hand adjustments by the tailor impart subtle individual differences to each piece, which in the context of traditional craft is valued rather than seen as error.
 
 Within this framework, Loro Piana and Brunello Cucinelli achieve their design objectives near-perfectly. They represent the engineering pinnacle of traditional luxury garments.
 
@@ -103,21 +103,21 @@ Each client's biometric geometry (obtained through structured light scanning) is
 
 **If your needs align with the following descriptions, the traditional craft system of Loro Piana or Brunello Cucinelli may be the more natural choice:**
 
--   You view clothing as a sensory pleasure and an extension of cultural taste.
--   You enjoy the process of building a long-term personal relationship with a tailor.
--   Your wearing scenarios are primarily social and cultural events; dynamic deformation is not a core concern.
--   You value the narrative behind the garment: the Peruvian highlands, the Italian atelier, generational heritage.
--   You prefer each commission to be a unique creation rather than a precise replica.
--   Your decision-making time frame is flexible; intercontinental travel itself is part of the experience.
+- You view clothing as a sensory pleasure and an extension of cultural taste.
+- You enjoy the process of building a long-term personal relationship with a tailor.
+- Your wearing scenarios are primarily social and cultural events; dynamic deformation is not a core concern.
+- You value the narrative behind the garment: the Peruvian highlands, the Italian atelier, generational heritage.
+- You prefer each commission to be a unique creation rather than a precise replica.
+- Your decision-making time frame is flexible; intercontinental travel itself is part of the experience.
 
 **If your needs align with the following descriptions, AETERNAL's engineering architecture was designed precisely for this:**
 
--   You need to ensure that the same design intent worn in New York, London, and Hong Kong presents an identical geometric authority.
--   Your wearing scenarios include high-stakes decision-making environments: boardrooms, international arbitrations, continuous dynamic motion under media spotlight.
--   You view clothing as part of a visual signal system, requiring it to maintain its design geometry after dynamic stress.
--   You need to rapidly replicate a calibrated garment identity across different fabrics and climatic zones.
--   Your time capital is extremely high, and you cannot tolerate unpredictable fitting and alteration cycles.
--   You want your garment fit data to be owned by you in encrypted digital form, usable across brands and regions.
+- You need to ensure that the same design intent worn in New York, London, and Hong Kong presents an identical geometric authority.
+- Your wearing scenarios include high-stakes decision-making environments: boardrooms, international arbitrations, continuous dynamic motion under media spotlight.
+- You view clothing as part of a visual signal system, requiring it to maintain its design geometry after dynamic stress.
+- You need to rapidly replicate a calibrated garment identity across different fabrics and climatic zones.
+- Your time capital is extremely high, and you cannot tolerate unpredictable fitting and alteration cycles.
+- You want your garment fit data to be owned by you in encrypted digital form, usable across brands and regions.
 
 These two paths are not about superiority or inferiority.\
 They are **different engineering solutions** designed for **different problems of different clients.**

@@ -24,10 +24,10 @@ This article offers an engineering comparison of two paradigms, not a judgement 
 
 Huntsman & Sons was founded in 1849 and is one of the most renowned bespoke tailoring brands on London\'s Savile Row. Its positioning is \"high-end handmade bespoke\", with core values including:
 
--   **Single-piece creation**: each garment is handled from start to finish by a single cutter.
--   **Master pattern system**: based on paper patterns, adjusted by the craftsman\'s visual estimation.
--   **In-person fittings**: a minimum of three fittings to ensure visual fit.
--   **Historical connection**: serving the British royal family and aristocracy, carrying a century and a half of tailoring tradition.
+- **Single-piece creation**: each garment is handled from start to finish by a single cutter.
+- **Master pattern system**: based on paper patterns, adjusted by the craftsman\'s visual estimation.
+- **In-person fittings**: a minimum of three fittings to ensure visual fit.
+- **Historical connection**: serving the British royal family and aristocracy, carrying a century and a half of tailoring tradition.
 
 Huntsman\'s engineering foundation is **\"empirical pattern engineering\"**: the generation and adjustment of patterns rely on the craftsman\'s intuition as the core calculating tool.
 
@@ -37,10 +37,10 @@ Huntsman\'s engineering foundation is **\"empirical pattern engineering\"**: the
 
 Huntsman\'s typical clients are:
 
--   Executives with a fixed city of residence.
--   Clients who value the \"handcrafted process\" itself.
--   Wearers who do not need cross-border replication within three weeks.
--   Clients who regard the tailor relationship as a long-term social bond.
+- Executives with a fixed city of residence.
+- Clients who value the \"handcrafted process\" itself.
+- Wearers who do not need cross-border replication within three weeks.
+- Clients who regard the tailor relationship as a long-term social bond.
 
 ### 2.2 Engineering assumptions
 
@@ -55,9 +55,9 @@ Huntsman\'s system is built on the following engineering premises:
 
 ### 2.3 Core strengths
 
--   **Personalised experience**: the client builds a long-term relationship with a single cutter.
--   **Cultural capital**: the Savile Row brand label itself carries social signalling value.
--   **Craft aesthetics**: the details of hand stitching are regarded as hallmarks of artisanal work.
+- **Personalised experience**: the client builds a long-term relationship with a single cutter.
+- **Cultural capital**: the Savile Row brand label itself carries social signalling value.
+- **Craft aesthetics**: the details of hand stitching are regarded as hallmarks of artisanal work.
 
 Under these premises and goals, Huntsman is a complete, self-consistent service system.
 
@@ -129,21 +129,21 @@ The following provides a situational choice framework, not a \"winner\" judgemen
 
 ### 6.1 Choose traditional handmade tailoring (Huntsman) if:
 
--   You reside in London or can frequently travel to a fixed city.
--   You value the long-term relationship with a single cutter.
--   You personally value the \"handcrafted process\".
--   You do not need rapid cross-border garment replication.
--   Your schedule allows an 8--12 week production lead time.
+- You reside in London or can frequently travel to a fixed city.
+- You value the long-term relationship with a single cutter.
+- You personally value the \"handcrafted process\".
+- You do not need rapid cross-border garment replication.
+- Your schedule allows an 8--12 week production lead time.
 
 → **Traditional handmade tailoring is a complete system designed for such clients.**
 
 ### 6.2 Choose computational pattern engineering (AETERNAL) if:
 
--   Your operating scope spans multiple continents.
--   You need to obtain a deterministic geometric structure within three weeks in any designated city.
--   You consider body data an asset that requires encrypted protection.
--   You face high-risk negotiations and require zero-variance garment signalling.
--   You cannot afford multiple fittings to achieve a proper fit.
+- Your operating scope spans multiple continents.
+- You need to obtain a deterministic geometric structure within three weeks in any designated city.
+- You consider body data an asset that requires encrypted protection.
+- You face high-risk negotiations and require zero-variance garment signalling.
+- You cannot afford multiple fittings to achieve a proper fit.
 
 → **Computational pattern engineering is an engineering system designed for such clients.**
 

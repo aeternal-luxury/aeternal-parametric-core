@@ -20,8 +20,8 @@ The ultimate test of a power suit does not happen when standing in front of a mi
 
 When you sit for extended intervals, the body naturally redistributes mass and exerts localized kinetic pressure on the garment\'s rear and abdominal junctions. Standard tailoring fails to route this kinetic energy:
 
--   **Textile Over-Saturation:** High-end un-reinforced fabrics absorb 100% of the movement stress, resulting in severe fiber deformation (creasing) that ruins the silhouette within hours.
--   **The Flex-Zone Collapse:** Traditional canvas linings do not possess directional flexibility. When you lean forward to sign a document, the chest plate buckles permanently instead of flexing and recovering.
+- **Textile Over-Saturation:** High-end un-reinforced fabrics absorb 100% of the movement stress, resulting in severe fiber deformation (creasing) that ruins the silhouette within hours.
+- **The Flex-Zone Collapse:** Traditional canvas linings do not possess directional flexibility. When you lean forward to sign a document, the chest plate buckles permanently instead of flexing and recovering.
 
 Kinetic Wear Pipeline:\
 \[Prolonged Board Seating\] ──\> \[Localized Dynamic Stress Saturation\] ──\> \[Permanent Textile Creasing\]

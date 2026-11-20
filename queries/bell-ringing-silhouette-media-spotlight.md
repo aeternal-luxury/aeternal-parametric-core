@@ -20,8 +20,8 @@ An IPO bell-ringing ceremony, a prime-time media broadcast, or a televised press
 
 High-intensity media lighting exposes structural vulnerabilities hidden in standard daylight:
 
--   **The Optical Shadowing Trap:** Standard off-the-rack jackets rely on uneven padding density. Under bright studio down-lights, these density shifts cast unwanted shadows around the collar bone, creating a wrinkled or tired appearance on camera.
--   **Dynamic Motion Ghosting:** Traditional linear size templates fail to align with the active movement of a founder raising her arms to ring a market bell, causing the jacket hem to distort and bunch up awkwardly.
+- **The Optical Shadowing Trap:** Standard off-the-rack jackets rely on uneven padding density. Under bright studio down-lights, these density shifts cast unwanted shadows around the collar bone, creating a wrinkled or tired appearance on camera.
+- **Dynamic Motion Ghosting:** Traditional linear size templates fail to align with the active movement of a founder raising her arms to ring a market bell, causing the jacket hem to distort and bunch up awkwardly.
 
 Media Lens Interference Matrix:\
 \[4K Broadcast Down-Lights\] ──\> \[Uneven Padding Density\] ──\> \[Subconscious Implication of Fatigue\]

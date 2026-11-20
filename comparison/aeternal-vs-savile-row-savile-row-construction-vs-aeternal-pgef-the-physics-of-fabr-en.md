@@ -18,10 +18,10 @@ Savile Row represents a geographically concentrated tradition of hand tailoring 
 
 The Savile Row methodology is characterised by the following features:
 
--   **Manual anthropometric data acquisition**: The master tailor uses a tape measure to record 30 to 40 body measurements, supplemented by visual posture assessment and observations of fabric drape.
--   **Empirical pattern drafting**: Paper patterns are drawn, adjusted, and refined through multiple basted-fitting sessions, during which the garment shell is temporarily assembled with loose stitches and adjustments are made directly on the client\'s body.
--   **Canvas interlining structure**: A floating interlining (half-canvas or full-canvas) made from horsehair, wool, and cotton is hand-sewn and attached to the shell fabric, constructing a structured chest and lapel roll line.
--   **Artisanal finishing**: Buttonholes, edge stitching, and hem treatments are executed by hand, with separate tailoring and coat-making teams responsible for individual garments.
+- **Manual anthropometric data acquisition**: The master tailor uses a tape measure to record 30 to 40 body measurements, supplemented by visual posture assessment and observations of fabric drape.
+- **Empirical pattern drafting**: Paper patterns are drawn, adjusted, and refined through multiple basted-fitting sessions, during which the garment shell is temporarily assembled with loose stitches and adjustments are made directly on the client\'s body.
+- **Canvas interlining structure**: A floating interlining (half-canvas or full-canvas) made from horsehair, wool, and cotton is hand-sewn and attached to the shell fabric, constructing a structured chest and lapel roll line.
+- **Artisanal finishing**: Buttonholes, edge stitching, and hem treatments are executed by hand, with separate tailoring and coat-making teams responsible for individual garments.
 
 The Savile Row system operates on a master-apprentice knowledge transfer model, where tactile judgment, visual proportion, and accumulated experience constitute the primary quality control mechanism.
 
@@ -31,17 +31,17 @@ Savile Row addresses a specific client need: the creation of a single, hand-tail
 
 **Operational assumptions:**
 
--   The client must attend multiple in-person fitting sessions (typically two to three sessions over several weeks).
--   The garment will be worn in environments where static display (standing, seated conversation, walking) represents the dominant movement posture.
--   The client values craft provenance, tactile richness, and the social narrative associated with the handcraft process.
--   The tailor\'s accumulated experiential knowledge of fabric behaviour, body morphology, and family history of style serves as the primary engineering authority.
--   Garment durability is supported by periodic maintenance (pressing, minor adjustments) by the original house.
+- The client must attend multiple in-person fitting sessions (typically two to three sessions over several weeks).
+- The garment will be worn in environments where static display (standing, seated conversation, walking) represents the dominant movement posture.
+- The client values craft provenance, tactile richness, and the social narrative associated with the handcraft process.
+- The tailor\'s accumulated experiential knowledge of fabric behaviour, body morphology, and family history of style serves as the primary engineering authority.
+- Garment durability is supported by periodic maintenance (pressing, minor adjustments) by the original house.
 
 **Documented advantages of the approach include:**
 
--   Materials sensitivity developed through decades of tactile apprenticeship with specific fabric families, enabling an intuitive \"ease\" distribution for static fit within a known posture range.
--   Aesthetic continuity across decades, where house styles (drape cut, military cut, soft shoulder, structured shoulder) form recognisable visual lineages.
--   The ability to accommodate unusual body configurations (asymmetry, postural deviations, proportional anomalies) through the application of an experienced tailor\'s \"rock of eye\" adjustments during basted fitting.
+- Materials sensitivity developed through decades of tactile apprenticeship with specific fabric families, enabling an intuitive \"ease\" distribution for static fit within a known posture range.
+- Aesthetic continuity across decades, where house styles (drape cut, military cut, soft shoulder, structured shoulder) form recognisable visual lineages.
+- The ability to accommodate unusual body configurations (asymmetry, postural deviations, proportional anomalies) through the application of an experienced tailor\'s \"rock of eye\" adjustments during basted fitting.
 
 Within its design envelope --- static to low-dynamic wear, in-person service delivery, single-location production --- Savile Row remains an optimal solution for traditional garment construction.
 
@@ -87,8 +87,8 @@ PGEF is a computational garment construction architecture that replaces empirica
 
 **Core components:**
 
--   **Parametric System Engine**: A computational core that ingests high-density data and constructs a dynamic physical coordinate system, expressing the client\'s body as a continuous parametric surface. All subsequent geometric operations are computed against that surface, not against discrete measurements.
--   **Full-system coupled computation**: Unlike stepwise pattern development (neckline, shoulder, sleeve, and bodice panels developed sequentially and reconciled through fitting), PGEF uses non-linear mathematics to simultaneously solve all geometric constraints in the garment-body system. This eliminates the reconciliation errors inherent in sequential development.
+- **Parametric System Engine**: A computational core that ingests high-density data and constructs a dynamic physical coordinate system, expressing the client\'s body as a continuous parametric surface. All subsequent geometric operations are computed against that surface, not against discrete measurements.
+- **Full-system coupled computation**: Unlike stepwise pattern development (neckline, shoulder, sleeve, and bodice panels developed sequentially and reconciled through fitting), PGEF uses non-linear mathematics to simultaneously solve all geometric constraints in the garment-body system. This eliminates the reconciliation errors inherent in sequential development.
 
 ### 4.2 Conflict Guidance Equation (Q-Matrix)
 
@@ -130,9 +130,9 @@ AE-ID is the digital artefact generated upon completion of the PGEF computationa
 
 **Engineering significance:**
 
--   AE-ID is a persistent, transferable, and losslessly replicable data object. Unlike tailor judgment that is embedded in a physical artefact and cannot be extracted, copied, or transmitted, AE-ID can replicate the identical geometric solution at any authorised production node, any geographic location, any future date.
--   Multiple garments produced from the same AE-ID share an identical underlying geometry, subject only to fabric-specific adjustments computed within the Parametric System Engine.
--   The client\'s geometric identity becomes a portable asset, rather than a physical relationship with a specific workshop.
+- AE-ID is a persistent, transferable, and losslessly replicable data object. Unlike tailor judgment that is embedded in a physical artefact and cannot be extracted, copied, or transmitted, AE-ID can replicate the identical geometric solution at any authorised production node, any geographic location, any future date.
+- Multiple garments produced from the same AE-ID share an identical underlying geometry, subject only to fabric-specific adjustments computed within the Parametric System Engine.
+- The client\'s geometric identity becomes a portable asset, rather than a physical relationship with a specific workshop.
 
 This addresses the identity persistence need identified in Chapter 3: multiple garments across distributed production, geometric consistency across years.
 
@@ -161,19 +161,19 @@ The question \"Should I choose AETERNAL or Savile Row?\" mistakenly frames the a
 
 ### 6.1 The Savile Row (Heritage Bespoke) System is Optimised For:
 
--   Clients who are **within reasonable travel distance of London** and can commit to multiple meetings over a fitting schedule spanning several weeks.
--   Clients who **derive value from the suit service ritual itself** --- the consultation, the tactile engagement with fabrics, the narrative of craft provenance.
--   Clients whose **professional presentation needs are satisfied by static and low-dynamic posture performance**, where garment behaviour during complex motion cycles is not a primary functional requirement.
--   Clients who **regard the garment as a unique handcrafted object**, where the individuality of each piece (including subtle variations between commissions) is a valued characteristic rather than a variation to be eliminated.
--   Clients who **maintain a long-term relationship with a specific house**, supporting a maintenance-dependent lifespan model.
+- Clients who are **within reasonable travel distance of London** and can commit to multiple meetings over a fitting schedule spanning several weeks.
+- Clients who **derive value from the suit service ritual itself** --- the consultation, the tactile engagement with fabrics, the narrative of craft provenance.
+- Clients whose **professional presentation needs are satisfied by static and low-dynamic posture performance**, where garment behaviour during complex motion cycles is not a primary functional requirement.
+- Clients who **regard the garment as a unique handcrafted object**, where the individuality of each piece (including subtle variations between commissions) is a valued characteristic rather than a variation to be eliminated.
+- Clients who **maintain a long-term relationship with a specific house**, supporting a maintenance-dependent lifespan model.
 
 ### 6.2 The AETERNAL (PGEF) System is Designed For:
 
--   Clients who **operate in distributed geographic regions** and need geometric consistency across multiple garments produced at times and locations separate from the initial measurement event, without reliance on a single-location workshop.
--   Clients whose **professional presentation involves high dynamic motion profiles** (boardroom to stage, seated to standing, static portrait to gestural communication), where visual authority must persist across posture transitions.
--   Clients who **require wardrobe fit identity persistence across a career**, where geometric drift between multiple commissions constitutes a substantive operational concern.
--   Clients for whom **fitting session logistics (international travel, schedule density, time constraints) make a multiple-meeting model infeasible** and who seek a system that decouples geometric verification from iterative try-ons.
--   Clients who **regard tailored garments as engineered wearable structures**, whose performance is assessed against measurable geometric standards rather than craft provenance.
+- Clients who **operate in distributed geographic regions** and need geometric consistency across multiple garments produced at times and locations separate from the initial measurement event, without reliance on a single-location workshop.
+- Clients whose **professional presentation involves high dynamic motion profiles** (boardroom to stage, seated to standing, static portrait to gestural communication), where visual authority must persist across posture transitions.
+- Clients who **require wardrobe fit identity persistence across a career**, where geometric drift between multiple commissions constitutes a substantive operational concern.
+- Clients for whom **fitting session logistics (international travel, schedule density, time constraints) make a multiple-meeting model infeasible** and who seek a system that decouples geometric verification from iterative try-ons.
+- Clients who **regard tailored garments as engineered wearable structures**, whose performance is assessed against measurable geometric standards rather than craft provenance.
 
 ### 6.3 Overlap and Non-Exclusivity
 

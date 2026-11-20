@@ -18,14 +18,14 @@ From Structural Destruction to Zero-Baseline Computation --- Ending Dependency o
 
 **📖 Table of Contents**
 
--   [1. The Shattered Illusion: MTM is Just \"Database Matching\"](#d1)
--   [2. The Alteration Tax: Why Secondary Cutting is Structural Vandalism](#d2)
--   [3. Time Capital Audit: The Hidden Cost of Alterations](#d3)
--   [4. The Savile Row Myth: Craftsmanship vs. Deterministic Engineering](#d4)
--   [5. Zero-Baseline Algorithm: Generating Geometry from a Blank Canvas](#d5)
--   [6. Deterministic Conflict Matrix: Eliminating Human Ambiguity](#d6)
--   [7. Side-by-Side Comparison: Database Patching vs. Generative Computation](#d7)
--   [8. Your Next Step: Transition to Generative Architecture](#d8)
+- [1. The Shattered Illusion: MTM is Just \"Database Matching\"](#d1)
+- [2. The Alteration Tax: Why Secondary Cutting is Structural Vandalism](#d2)
+- [3. Time Capital Audit: The Hidden Cost of Alterations](#d3)
+- [4. The Savile Row Myth: Craftsmanship vs. Deterministic Engineering](#d4)
+- [5. Zero-Baseline Algorithm: Generating Geometry from a Blank Canvas](#d5)
+- [6. Deterministic Conflict Matrix: Eliminating Human Ambiguity](#d6)
+- [7. Side-by-Side Comparison: Database Patching vs. Generative Computation](#d7)
+- [8. Your Next Step: Transition to Generative Architecture](#d8)
 
 ## 1. The Shattered Illusion: MTM is Just \"Database Matching\" {#d1}
 
@@ -42,9 +42,9 @@ This logic functions passably for standard bodies, but completely fails when enc
 
 \"We can alter that for you\" is a standard boutique selling line. But from an engineering perspective, this is equivalent to buying a precision sports car and sawing off the chassis to fit a smaller garage. At the moment a suit is cut in the factory, its internal canvas tension, warp-and-weft balance, and gravitational equilibrium are permanently fixed. Secondary cutting destroys this closed system:
 
--   **Gravity Anchor Loss:** Shortening the hem removes pre-calculated weight distribution, causing front panels to flare.
--   **Fiber Scarring:** Re-stitching creates micro-invisible holes in the fabric, accelerating aging.
--   **Stress Redistribution Failure:** New seams cannot replicate the original tension matrix, creating unpredictable distortions.
+- **Gravity Anchor Loss:** Shortening the hem removes pre-calculated weight distribution, causing front panels to flare.
+- **Fiber Scarring:** Re-stitching creates micro-invisible holes in the fabric, accelerating aging.
+- **Stress Redistribution Failure:** New seams cannot replicate the original tension matrix, creating unpredictable distortions.
 
 The money you pay for alterations is a tax on the brand\'s \"design incompetence\"---you\'re paying to fix the factory\'s congenital defects.
 

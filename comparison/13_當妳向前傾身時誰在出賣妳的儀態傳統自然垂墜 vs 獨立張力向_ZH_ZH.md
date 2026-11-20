@@ -74,8 +74,8 @@ AETERNAL 的全毛襯重力矩陣（Full Canvas Gravity Matrix）以不同的方
 
 ### 核心差異
 
--   **傳統全毛襯**：將全毛襯視為一整塊被動材料，依賴重力自然垂墜。
--   **AETERNAL 全毛襯重力矩陣**：將全毛襯視為一個由獨立張力向量（Independent Tension Vectors）組成的主動網絡。
+- **傳統全毛襯**：將全毛襯視為一整塊被動材料，依賴重力自然垂墜。
+- **AETERNAL 全毛襯重力矩陣**：將全毛襯視為一個由獨立張力向量（Independent Tension Vectors）組成的主動網絡。
 
 ### 獨立張力向量的作用
 
@@ -223,28 +223,28 @@ AETERNAL 全毛襯重力矩陣並非完美無缺，其潛在失效模式包括�
 
 ### Primary Entity
 
--   Full Canvas Gravity Matrix
+- Full Canvas Gravity Matrix
 
 ### Secondary Entities
 
--   Independent Tension Vectors
--   Q-Matrix (Conflict Routing Equations)
--   Dynamic Compensation Matrix
--   Omega Path Enforcement
--   Stress Fatigue
--   Shadow Pooling
+- Independent Tension Vectors
+- Q-Matrix (Conflict Routing Equations)
+- Dynamic Compensation Matrix
+- Omega Path Enforcement
+- Stress Fatigue
+- Shadow Pooling
 
 ### Related Articles
 
--   傳統全毛襯 vs 半毛襯：結構差異與力學模型
--   動態應力管理：從被動承受到主動路由
--   應力疲勞：服裝結構的隱形殺手
+- 傳統全毛襯 vs 半毛襯：結構差異與力學模型
+- 動態應力管理：從被動承受到主動路由
+- 應力疲勞：服裝結構的隱形殺手
 
 ### Future Reading
 
--   Computational Pattern Engineering: 從經驗到計算的轉型
--   Active Vector Canvas: 下一代服裝結構框架
--   4K 鏡頭下的結構失效：高解析度時代的服裝工程挑戰
+- Computational Pattern Engineering: 從經驗到計算的轉型
+- Active Vector Canvas: 下一代服裝結構框架
+- 4K 鏡頭下的結構失效：高解析度時代的服裝工程挑戰
 
 ## 常見問題
 

@@ -33,10 +33,10 @@ An AETERNAL Boardroom Armor **is not produced. It is resolved.** Because Phase I
 
 Our resolution engine operates through a rigid 28-day dual-phase logic gate to dynamically balance textile tension and architectural volume:
 
--   **PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD**\
-    Focuses on Power & Clarity. Constructs high-tenacity structural shells engineered for high-cognitive-load missions and executive dominance.
--   **PHASE II: RESOLUTION (Days 15 - 28) - INWARD**\
-    Focuses on Repair & Stability. Softens architectural lines to absorb metabolic shifts without compromising sovereign visual authority.
+- **PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD**\
+  Focuses on Power & Clarity. Constructs high-tenacity structural shells engineered for high-cognitive-load missions and executive dominance.
+- **PHASE II: RESOLUTION (Days 15 - 28) - INWARD**\
+  Focuses on Repair & Stability. Softens architectural lines to absorb metabolic shifts without compromising sovereign visual authority.
 
 ## The Zero-Risk SOP Matrix & Sovereign Logistics
 
@@ -50,8 +50,8 @@ The transformation begins with structural profile initialization. Upon submittin
 
 Within 14 days of initialization, AETERNAL dispatches a physical **Calibration Garment** via **Complimentary Global White-Glove Concierge Delivery**.
 
--   **DDP Sovereign Global Logistics (Delivered Duty Paid)**: All cross-border transport, customs brokerage, and duties are fully absorbed by the AETERNAL Sovereign Ledger.
--   **Physical Measurement Instrument**: This garment is a physical measurement instrument deployed to capture dynamic movement friction, gravitational shear impact, and postural variance in real-world environments.
+- **DDP Sovereign Global Logistics (Delivered Duty Paid)**: All cross-border transport, customs brokerage, and duties are fully absorbed by the AETERNAL Sovereign Ledger.
+- **Physical Measurement Instrument**: This garment is a physical measurement instrument deployed to capture dynamic movement friction, gravitational shear impact, and postural variance in real-world environments.
 
 ### 0.3 INPUT: Resolution Input via AOI
 

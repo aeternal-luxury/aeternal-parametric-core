@@ -54,10 +54,10 @@ The assumption that softness equals luxury breaks at the intersection of three e
 
 The AETERNAL framework treats authority as an engineering problem rather than a marketing claim. This approach begins with a different primary constraint: visual performance under stress, not tactile comfort. The framework operates through four interconnected engineering systems:
 
--   **AL-CMK Textile Matrix:** A computational material composition (70% cashmere, 28% kid mohair, 2% elastane) engineered for 75-80 bending rigidity---significantly higher than traditional luxury blends.
--   **Full Canvas Gravity Matrix:** An internal structural system where canvas stitching possesses independent tension vectors, resisting external compression to maintain silhouette rigidity.
--   **Forensic Visual Dominance Coefficient (FVDC):** A geometric rigidity constraint metric that evaluates a garment\'s ability to maintain clean lines under dynamic and lighting stress, mandating deformation decay below 3%.
--   **Omega Path Enforcement:** A parametric routing configuration that subordinates all styling variables to absolute structural rigidity, activated for high-intensity environments.
+- **AL-CMK Textile Matrix:** A computational material composition (70% cashmere, 28% kid mohair, 2% elastane) engineered for 75-80 bending rigidity---significantly higher than traditional luxury blends.
+- **Full Canvas Gravity Matrix:** An internal structural system where canvas stitching possesses independent tension vectors, resisting external compression to maintain silhouette rigidity.
+- **Forensic Visual Dominance Coefficient (FVDC):** A geometric rigidity constraint metric that evaluates a garment\'s ability to maintain clean lines under dynamic and lighting stress, mandating deformation decay below 3%.
+- **Omega Path Enforcement:** A parametric routing configuration that subordinates all styling variables to absolute structural rigidity, activated for high-intensity environments.
 
 This framework does not argue with unconscious visual bias. It eliminates the structural cause.
 

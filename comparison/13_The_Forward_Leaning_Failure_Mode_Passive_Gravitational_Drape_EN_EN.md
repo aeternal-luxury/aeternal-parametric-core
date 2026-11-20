@@ -199,9 +199,9 @@ Imprecise data may result in localized tension imbalance under specific movement
 
 ## Self-Assessment
 
--   Engineering Accuracy: 9/10
--   Editorial Clarity: 9/10
--   Marketing Smell: 1/10
+- Engineering Accuracy: 9/10
+- Editorial Clarity: 9/10
+- Marketing Smell: 1/10
 
 ## Frequently Asked Questions
 

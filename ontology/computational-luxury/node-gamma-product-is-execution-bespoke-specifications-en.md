@@ -26,10 +26,10 @@ Product = Execution(Specification, Feedback_Physical)
 
 This equation defines the following epistemological boundaries:
 
--   **Specification (Geometric Specification):** Includes the client\'s baseline body data, SAR (Structural Authority Ratio) geometric compensation computed by the parametric system engine, and the final digital specification calibrated through a single physical sample garment fitting with actual stress feedback transmitted via the [AOI Interface (Active Override Interface)](https://knowledge.aeternal-luxury.com/glossary#aoi-interface){target="_blank"} ^[\[5\]](#ref5)^.
--   **Constraints_Physical (Physical Constraints):** Fabric drape coefficients, **fabric tension recovery coefficients** (empirical data from the AL-CMK Textile Matrix), and sewing tension limits.
--   **Feedback_Physical (Physical Feedback Calibration):** Actual dynamic stress data transmitted by the client through the AOI (Active Override Interface) after wearing a single physical sample garment. This data is not virtual simulation, but real-world stress distribution records from actual wear, used for final specification fine-tuning ^[\[5\]](#ref5)^.
--   **Execution (Compilation & Execution):** The geometry specification, calibrated by physical sample feedback, is compiled into CAD instructions via the **Parametric System Engine** ^[\[1\]](#ref1)^, and ultimately assembled into a physical garment in three-dimensional space.
+- **Specification (Geometric Specification):** Includes the client\'s baseline body data, SAR (Structural Authority Ratio) geometric compensation computed by the parametric system engine, and the final digital specification calibrated through a single physical sample garment fitting with actual stress feedback transmitted via the [AOI Interface (Active Override Interface)](https://knowledge.aeternal-luxury.com/glossary#aoi-interface){target="_blank"} ^[\[5\]](#ref5)^.
+- **Constraints_Physical (Physical Constraints):** Fabric drape coefficients, **fabric tension recovery coefficients** (empirical data from the AL-CMK Textile Matrix), and sewing tension limits.
+- **Feedback_Physical (Physical Feedback Calibration):** Actual dynamic stress data transmitted by the client through the AOI (Active Override Interface) after wearing a single physical sample garment. This data is not virtual simulation, but real-world stress distribution records from actual wear, used for final specification fine-tuning ^[\[5\]](#ref5)^.
+- **Execution (Compilation & Execution):** The geometry specification, calibrated by physical sample feedback, is compiled into CAD instructions via the **Parametric System Engine** ^[\[1\]](#ref1)^, and ultimately assembled into a physical garment in three-dimensional space.
 
 ## 3. Eliminating Randomness: From Trial-and-Error to Deterministic Output
 

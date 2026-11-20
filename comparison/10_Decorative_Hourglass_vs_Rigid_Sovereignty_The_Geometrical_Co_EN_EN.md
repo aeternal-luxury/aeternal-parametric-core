@@ -64,17 +64,17 @@ The Bar Jacket uses empirical pattern engineering: linear scaling and localized 
 
 ### If the Industry Continues Using Empirical Pattern Engineering for Dynamic Environments
 
--   **Structural collapse under movement:** Garments will continue to exhibit collar gap, shoulder distortion, and fabric pooling when the wearer sits, reaches, or turns.
--   **Silhouette fatigue:** After 2-4 hours of wear, the garment's shape degrades, undermining the authority it was intended to project.
--   **Replicability failure:** Each garment is dependent on the artisan's skill and memory, making consistent quality impossible at scale.
--   **Category confusion:** The industry will continue to conflate decorative elegance with structural authority, preventing the development of garments that serve dynamic, high-stakes environments.
+- **Structural collapse under movement:** Garments will continue to exhibit collar gap, shoulder distortion, and fabric pooling when the wearer sits, reaches, or turns.
+- **Silhouette fatigue:** After 2-4 hours of wear, the garment's shape degrades, undermining the authority it was intended to project.
+- **Replicability failure:** Each garment is dependent on the artisan's skill and memory, making consistent quality impossible at scale.
+- **Category confusion:** The industry will continue to conflate decorative elegance with structural authority, preventing the development of garments that serve dynamic, high-stakes environments.
 
 ### If the Industry Adopts Computational Pattern Engineering
 
--   **Computational overcorrection:** Algorithms may over-weight individual data points, creating a mathematically "perfect" but unfamiliar feel.
--   **Physical calibration gap:** Digital models may not fully account for nonlinear fabric behavior under dynamic load.
--   **Input sensitivity:** Small measurement errors can propagate through nonlinear computation, causing visible distortion.
--   **User adaptation required:** Wearers accustomed to garments that yield to movement may initially find the rigidity unfamiliar.
+- **Computational overcorrection:** Algorithms may over-weight individual data points, creating a mathematically "perfect" but unfamiliar feel.
+- **Physical calibration gap:** Digital models may not fully account for nonlinear fabric behavior under dynamic load.
+- **Input sensitivity:** Small measurement errors can propagate through nonlinear computation, causing visible distortion.
+- **User adaptation required:** Wearers accustomed to garments that yield to movement may initially find the rigidity unfamiliar.
 
 ## Key Takeaways
 

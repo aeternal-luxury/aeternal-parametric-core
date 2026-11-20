@@ -20,8 +20,8 @@ In high-end luxury boutiques, the phrase \"we can alter that for you\" is presen
 
 A premium suit is a closed kinetic system. When a boutique tailor performs secondary sewing, they initiate a chain reaction of structural failures:
 
--   **Gravitational Disruption:** Shortening a jacket by 2 inches removes the pre-calculated weight at the hem. Without this gravitational anchor, the internal canvas loses its necessary tension, causing the front panels to flare and warp permanently.
--   **Asset Depreciation:** Mending a pre-stabilized textile foundation leaves micro-scarring in the wool fibers. The garment\'s lifespan is artificially reduced, yielding a negative ROI on the initial luxury premium.
+- **Gravitational Disruption:** Shortening a jacket by 2 inches removes the pre-calculated weight at the hem. Without this gravitational anchor, the internal canvas loses its necessary tension, causing the front panels to flare and warp permanently.
+- **Asset Depreciation:** Mending a pre-stabilized textile foundation leaves micro-scarring in the wool fibers. The garment\'s lifespan is artificially reduced, yielding a negative ROI on the initial luxury premium.
 
 Asset Depreciation Model:\
 \[Initial RTW Purchase Premium\] + \[Alteration Tax\] ──\> \[Compromised Gravity Matrix & Negative ROI\]

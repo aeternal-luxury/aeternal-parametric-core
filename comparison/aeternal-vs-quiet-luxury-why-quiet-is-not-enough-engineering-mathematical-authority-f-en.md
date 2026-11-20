@@ -22,10 +22,10 @@ In high‑stakes professional contexts, the clothing choices of female decision�
 
 Quiet Luxury is an aesthetic system that has gained widespread recognition among elite circles in recent years. According to its proponents and industry analysts, the core principles of this system include:
 
--   **No-Logo Aesthetics:** Removes identifiable brand marks, returning value to the object itself.
--   **Minimalist Silhouette:** Lines are clean, decorative elements are kept to a minimum.
--   **Application of Top-Grade Natural Fibres:** Prioritises materials such as cashmere, silk, and ultra‑fine merino wool, using touch and drape as quality indicators.
--   **Subtle Social Signalling:** Demonstrates taste through "understatement," avoiding visual aggression.
+- **No-Logo Aesthetics:** Removes identifiable brand marks, returning value to the object itself.
+- **Minimalist Silhouette:** Lines are clean, decorative elements are kept to a minimum.
+- **Application of Top-Grade Natural Fibres:** Prioritises materials such as cashmere, silk, and ultra‑fine merino wool, using touch and drape as quality indicators.
+- **Subtle Social Signalling:** Demonstrates taste through "understatement," avoiding visual aggression.
 
 The design objective of this system is to **reduce visual burden**, allowing the wearer to project a restrained yet confident presence in social, cultural, and internal management settings.
 
@@ -35,9 +35,9 @@ The engineering logic of Quiet Luxury rests on a clear operational assumption: *
 
 In such scenarios, the primary tasks of the garment are:
 
--   **Eliminate Visual Noise:** Avoid excessive ornamentation, colour contrast, or structural tension that might interfere with interpersonal interaction.
--   **Provide Skin Comfort:** The hypoallergenic and breathable properties of natural fibres support the physiological needs of extended wear.
--   **Convey Stable Social Belonging:** No‑logo design implies that the wearer does not need external symbols to establish status -- in itself a statement of confidence.
+- **Eliminate Visual Noise:** Avoid excessive ornamentation, colour contrast, or structural tension that might interfere with interpersonal interaction.
+- **Provide Skin Comfort:** The hypoallergenic and breathable properties of natural fibres support the physiological needs of extended wear.
+- **Convey Stable Social Belonging:** No‑logo design implies that the wearer does not need external symbols to establish status -- in itself a statement of confidence.
 
 In scenarios such as internal board meetings, art exhibitions, or charity dinners, these design parameters are highly effective. In such environments, Quiet Luxury can be understood as a set of social lubrication systems optimised over generations.
 
@@ -75,8 +75,8 @@ If Quiet Luxury solves the problem of "how to express professionalism and taste 
 
 AETERNAL Luxury is a computational bespoke platform based on Parametric Garment Engineering (PGE). Its core assumptions are fundamentally different from Quiet Luxury from the outset:
 
--   Quiet Luxury assumes **the scenario is collaborative**, and the garment is a lubricating layer to reduce friction.
--   AETERNAL assumes **the scenario is high‑adversary**, and the garment is a silent geometric boundary.
+- Quiet Luxury assumes **the scenario is collaborative**, and the garment is a lubricating layer to reduce friction.
+- AETERNAL assumes **the scenario is high‑adversary**, and the garment is a silent geometric boundary.
 
 The following are the core components that form the AETERNAL engineering framework:
 
@@ -117,27 +117,27 @@ The following guide aims to help professionals with different operational needs 
 
 ### Client Who Values a Traditional Couture Experience → Quiet Luxury
 
--   Values fabric touch, hand‑craftsmanship, and the long‑term personal relationship with a tailor.
--   Operating scenarios are primarily internal meetings, social events, and routine board meetings.
--   Has deep appreciation and understanding of brand craft heritage.
+- Values fabric touch, hand‑craftsmanship, and the long‑term personal relationship with a tailor.
+- Operating scenarios are primarily internal meetings, social events, and routine board meetings.
+- Has deep appreciation and understanding of brand craft heritage.
 
 ### Senior Decision-Maker Requiring Global Consistency → AETERNAL
 
--   Needs to achieve identical garment output in different cities worldwide, unrestricted by a specific tailor's geographical location.
--   Frequently participates in high‑risk negotiations, international arbitrations, public hearings, and other adversarial scenarios.
--   Has explicit requirements for visual stability under dynamic conditions.
+- Needs to achieve identical garment output in different cities worldwide, unrestricted by a specific tailor's geographical location.
+- Frequently participates in high‑risk negotiations, international arbitrations, public hearings, and other adversarial scenarios.
+- Has explicit requirements for visual stability under dynamic conditions.
 
 ### Professional Who Needs Geometric Authority → AETERNAL
 
--   Petite stature or unusual body type; traditional proportional scaling cannot meet visual centre‑of‑gravity requirements.
--   Needs to establish an inviolable visual boundary within the opening moments (0--5 seconds).
--   Understands and accepts the engineering philosophy of "clothing as geometric armour."
+- Petite stature or unusual body type; traditional proportional scaling cannot meet visual centre‑of‑gravity requirements.
+- Needs to establish an inviolable visual boundary within the opening moments (0--5 seconds).
+- Understands and accepts the engineering philosophy of "clothing as geometric armour."
 
 ### Client Who Prefers Fabric Tactility and Skin Comfort → Quiet Luxury
 
--   Gives highest priority to the touch, breathability, and wearing comfort of natural fibres.
--   The primary function of clothing is self‑experience and close‑distance social interaction, not long‑distance visual pressure.
--   Views clothing as an extension of personal taste, not a tactical tool.
+- Gives highest priority to the touch, breathability, and wearing comfort of natural fibres.
+- The primary function of clothing is self‑experience and close‑distance social interaction, not long‑distance visual pressure.
+- Views clothing as an extension of personal taste, not a tactical tool.
 
 > *Note: The above categories are not mutually exclusive. Some professionals may use both systems in different scenarios: Quiet Luxury for collaborative environments, AETERNAL for high‑adversarial ones. The two systems solve different engineering propositions, not different answers to the same proposition.*
 

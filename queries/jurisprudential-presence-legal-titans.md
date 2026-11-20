@@ -20,8 +20,8 @@ In the adversarial theater of a high-stakes courtroom or regulatory deposition, 
 
 The human brain links crisp, symmetrical lines with compliance, accuracy, and truth. Asymmetric distortion in a lawyer\'s clothing breaks this perception:
 
--   **The Collar Dislocation Trap:** When reaching for legal exhibits or gesturing during opening arguments, traditional jackets drift away from the cervical spine, causing a distracting collar gap that undermines your visual stature.
--   **Lapel Distortion:** Under rapid kinetic movement, standard ready-to-wear lapels twist and bend instead of remaining flush against the chest matrix, disrupting your commanding physical profile.
+- **The Collar Dislocation Trap:** When reaching for legal exhibits or gesturing during opening arguments, traditional jackets drift away from the cervical spine, causing a distracting collar gap that undermines your visual stature.
+- **Lapel Distortion:** Under rapid kinetic movement, standard ready-to-wear lapels twist and bend instead of remaining flush against the chest matrix, disrupting your commanding physical profile.
 
 Litigation Silhouette Conflict:\
 \[Dynamic Gesturing for Exhibits\] ──\> \[Collar Displacement & Lapel Buckling\] ──\> \[Loss of Visual Focus\]

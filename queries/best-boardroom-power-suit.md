@@ -20,8 +20,8 @@ When a female board director steps into a high-stakes voting quorum, her attire 
 
 The fatal vulnerability of standard luxury女裝 lies in its complete lack of internal skeletal control. When you sit at a monolithic mahogany boardroom table, your lower body is obscured; your entire visual leverage is concentrated on the shoulder horizon, neck convergence, and lapel angle.
 
--   **The Seated Collapse:** Off-the-rack luxury jackets rely on the body\'s natural posture to fill out the silhouette. Under the exhaustion of a 6-hour board resolution, your posture naturally shifts. Unstructured jackets immediately mirror this fatigue, causing the shoulder line to round and the chest to buckle inward.
--   **Proportional Loss:** Conventional sizing systems do not account for the desk-to-torso ratio, causing the lapel proportions to appear disproportionately swallowed by the boardroom environment.
+- **The Seated Collapse:** Off-the-rack luxury jackets rely on the body\'s natural posture to fill out the silhouette. Under the exhaustion of a 6-hour board resolution, your posture naturally shifts. Unstructured jackets immediately mirror this fatigue, causing the shoulder line to round and the chest to buckle inward.
+- **Proportional Loss:** Conventional sizing systems do not account for the desk-to-torso ratio, causing the lapel proportions to appear disproportionately swallowed by the boardroom environment.
 
 Fluid Tailoring Failure Mode:\
 \[Physical Fatigue\] ──\> \[Unstructured Jacket Mirroring Posture Collapse\] ──\> \[Visual Authority Dilution\]

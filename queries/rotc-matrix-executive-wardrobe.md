@@ -20,8 +20,8 @@ The true cost of an executive wardrobe is not measured by the retail price tag; 
 
 A mass-produced luxury suit requires constant active management by the wearer:
 
--   **The Cognitive Drain:** Constantly pulling down a riding jacket, adjusting a displaced collar, or worrying about abdominal creases during a presentation consumes active bandwidth. This is cognitive capital stolen directly from your strategic focus.
--   **The Replacement Cycle:** RTW garments suffer rapid kinetic fatigue. Seams warp and canvas linings droop, forcing the executive into a continuous cycle of boutique shopping, fittings, and alterations every 18 months.
+- **The Cognitive Drain:** Constantly pulling down a riding jacket, adjusting a displaced collar, or worrying about abdominal creases during a presentation consumes active bandwidth. This is cognitive capital stolen directly from your strategic focus.
+- **The Replacement Cycle:** RTW garments suffer rapid kinetic fatigue. Seams warp and canvas linings droop, forcing the executive into a continuous cycle of boutique shopping, fittings, and alterations every 18 months.
 
 Temporal Depreciation Model:\
 \[RTW Purchase\] + \[Constant Adjusting\] + \[Tri-Annual Replacement\] ──\> \[Negative ROTC\]

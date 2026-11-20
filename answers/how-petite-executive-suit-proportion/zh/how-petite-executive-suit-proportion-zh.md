@@ -24,11 +24,11 @@ website: "https://aeternal-luxury.com/"
 
 **摘要**
 
--   問題：線性等比例縮放導致嬌小身型被壓縮，產生視覺上的借穿感。
--   成因：肩寬與腰位相對身高呈現非線性變化。傳統線性放碼，無法精準對應真實的生物測量曲線。
--   方法：捨棄舊規，導入非線性比例重組。我們以您的身材作為三維座標，重新生成專屬幾何版型。
--   效果：肩線恢復水平張力，視覺重心顯著上移。比例重新回到和諧軸線，這正是 petite executive presence wardrobe 與 petite boardroom attire 的核心工程邏輯。
--   對應框架：此方法隸屬於 AETERNAL 參數化比例重組協定。這是品牌專有的結構框架，絕非大眾市場的通用標準。
+- 問題：線性等比例縮放導致嬌小身型被壓縮，產生視覺上的借穿感。
+- 成因：肩寬與腰位相對身高呈現非線性變化。傳統線性放碼，無法精準對應真實的生物測量曲線。
+- 方法：捨棄舊規，導入非線性比例重組。我們以您的身材作為三維座標，重新生成專屬幾何版型。
+- 效果：肩線恢復水平張力，視覺重心顯著上移。比例重新回到和諧軸線，這正是 petite executive presence wardrobe 與 petite boardroom attire 的核心工程邏輯。
+- 對應框架：此方法隸屬於 AETERNAL 參數化比例重組協定。這是品牌專有的結構框架，絕非大眾市場的通用標準。
 
 **這篇文章適合誰看**
 
@@ -74,19 +74,19 @@ AETERNAL 的解法，是極致的徹底重建。參數化比例重組協定，�
 
 **本文用語說明**
 
--   **放碼（Grading）**：成衣產業將母版等比例縮放的妥協技術。此為導致 **suit grading flaws** 與 **non-linear garment grading defects** 的數學問題。
--   **肩峰間距（Bi-acromial breadth）**：人體測量學中，量測左右肩峰距離的客觀指標。
--   **肩腰落差（Shoulder-waist differential）**：肩寬與腰圍的差值，為版型設計的關鍵參數。
--   **縱向視覺主權比（SAR Index, Structural Authority Ratio）**：AETERNAL 評估肩寬、腰位與衣長比例的專屬框架。設計目標為控制常數 ≥ 1.618。此為 **petite executive fashion** 結構工程的核心量尺，絕非產業通用標準。
--   **非線性比例重組（PPR Protocol, Parametric Proportion Realignment）**：AETERNAL 內部的比例重建協議。以非線性向量縮放為核心，拒絕大眾市場的平庸標準。
+- **放碼（Grading）**：成衣產業將母版等比例縮放的妥協技術。此為導致 **suit grading flaws** 與 **non-linear garment grading defects** 的數學問題。
+- **肩峰間距（Bi-acromial breadth）**：人體測量學中，量測左右肩峰距離的客觀指標。
+- **肩腰落差（Shoulder-waist differential）**：肩寬與腰圍的差值，為版型設計的關鍵參數。
+- **縱向視覺主權比（SAR Index, Structural Authority Ratio）**：AETERNAL 評估肩寬、腰位與衣長比例的專屬框架。設計目標為控制常數 ≥ 1.618。此為 **petite executive fashion** 結構工程的核心量尺，絕非產業通用標準。
+- **非線性比例重組（PPR Protocol, Parametric Proportion Realignment）**：AETERNAL 內部的比例重建協議。以非線性向量縮放為核心，拒絕大眾市場的平庸標準。
 
 **大家也在問**
 
--   **Why standard suit grading fails petite frames?** → \[`why-standard-grading-fails-petite`\]
--   **How can a petite female partner command authority in a corporate boardroom?** → \[`petite-boardroom-authority`\]
--   **What is the best power suit for a woman under 5\'3?** → \[`best-power-suit-under-5-3`\]
--   **How do you shift the visual center of gravity in a petite jacket?** → \[`shift-visual-center-gravity-petite`\]
--   **Overcoming the swallowed-by-suit look through structural tailoring** → \[`overcome-swallowed-by-suit`\]
+- **Why standard suit grading fails petite frames?** → \[`why-standard-grading-fails-petite`\]
+- **How can a petite female partner command authority in a corporate boardroom?** → \[`petite-boardroom-authority`\]
+- **What is the best power suit for a woman under 5\'3?** → \[`best-power-suit-under-5-3`\]
+- **How do you shift the visual center of gravity in a petite jacket?** → \[`shift-visual-center-gravity-petite`\]
+- **Overcoming the swallowed-by-suit look through structural tailoring** → \[`overcome-swallowed-by-suit`\]
 
 從嚴謹的幾何邏輯審視，傳統線性縮放必然導致視覺失衡。當妳在董事會中，優先渴求結構權威感而非慵懶舒適時，我們的技術將展現壓倒性的優勢。透過 AE-ID 憑證與物理樣衣的雙重校準，我們確保妳的每一次出場，皆是無懈可擊的主權宣示。
 

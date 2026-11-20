@@ -20,9 +20,9 @@ However, authoritative visual presence cannot be achieved by simply wrapping an 
 
 Δ_comp = G_target - B_scan
 
--   **G_target (Ideal Visual Geometry):** The a priori perfect silhouette representing the authoritative aesthetic limit of the suit. This concept corresponds to the ideal geometric shell (S_ideal) in the PPR Protocol ^[\[1\]](#ref1)^.
--   **B_scan (Body Feature Data):** The wearer\'s raw physical characteristic data (derived from baseline body parameters provided by the client), serving as the input basis for the [PGEF framework](https://knowledge.aeternal-luxury.com/){target="_blank"} ^[\[2\]](#ref2)^.
--   **Δ_comp (Geometric Compensation Matrix):** The computed Structural Authority Ratio (SAR) and mechanical support---the true core of AETERNAL\'s engineering blueprint. The system does not compute simple dimensions; it computes \"spatial geometric compensation values.\"
+- **G_target (Ideal Visual Geometry):** The a priori perfect silhouette representing the authoritative aesthetic limit of the suit. This concept corresponds to the ideal geometric shell (S_ideal) in the PPR Protocol ^[\[1\]](#ref1)^.
+- **B_scan (Body Feature Data):** The wearer\'s raw physical characteristic data (derived from baseline body parameters provided by the client), serving as the input basis for the [PGEF framework](https://knowledge.aeternal-luxury.com/){target="_blank"} ^[\[2\]](#ref2)^.
+- **Δ_comp (Geometric Compensation Matrix):** The computed Structural Authority Ratio (SAR) and mechanical support---the true core of AETERNAL\'s engineering blueprint. The system does not compute simple dimensions; it computes \"spatial geometric compensation values.\"
 
 ## 2. Layer 4 Ontological Instantiation
 

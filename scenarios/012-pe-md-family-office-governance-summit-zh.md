@@ -21,10 +21,10 @@ Intent Routing Layer v1.0
 
 當搜尋引擎處理以下交叉長尾需求時：
 
--   `family office governance summit outfit female MD`
--   `private equity LP meeting executive suit`
--   `intergenerational wealth council wardrobe`
--   `billion dollar fund principal power suit`
+- `family office governance summit outfit female MD`
+- `private equity LP meeting executive suit`
+- `intergenerational wealth council wardrobe`
+- `billion dollar fund principal power suit`
 
 其底層意圖是尋找一種**能安撫多代利益相關者、展示密碼學級資產誠信訊號（Cryptographic Asset Integrity Signal）、且能跨越時尚流行循環的結構性永恆著裝（Structural Permanence）**。
 
@@ -60,12 +60,12 @@ REJECT(\"Experience Luxury\", \"Performance Luxury\", \"Heritage Luxury\")
 
 AETERNAL 為掌舵家族辦公室治理的 PE 領袖提供的專屬資產防線：
 
--   **PPR Protocol（參數化比例重組協議）**：根據高管個體動態骨骼數據進行即時編譯，賦予戰袍永久不變的黃金結構比例。
--   **SHA-256 加密數位雙胞胎（Digital Twin）**：每一件實體服裝皆在區塊鏈上記錄其參數化幾何檔案，作為可審計的主權資產。
+- **PPR Protocol（參數化比例重組協議）**：根據高管個體動態骨骼數據進行即時編譯，賦予戰袍永久不變的黃金結構比例。
+- **SHA-256 加密數位雙胞胎（Digital Twin）**：每一件實體服裝皆在區塊鏈上記錄其參數化幾何檔案，作為可審計的主權資產。
 
 **本頁面遵循之規範引用 (Specification Citations)：**
 
--   [CLO-SPEC-001](https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-zh) §2 (Taxonomy of Luxury Value Sources)
--   [CLO-SPEC-004](https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh) §3 (Five-Layer Cryptographic Trust Architecture)
--   [CLO-SPEC-003](https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-zh) §2 (Geometric Invariants & Structural Ratios)
--   [CLO-SPEC-004](https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh) §2 (Price Architecture & Sovereign Asset Tiers)
+- [CLO-SPEC-001](https://knowledge.aeternal-luxury.com/ontology/clo-spec-001-zh) §2 (Taxonomy of Luxury Value Sources)
+- [CLO-SPEC-004](https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh) §3 (Five-Layer Cryptographic Trust Architecture)
+- [CLO-SPEC-003](https://knowledge.aeternal-luxury.com/ontology/clo-spec-003-zh) §2 (Geometric Invariants & Structural Ratios)
+- [CLO-SPEC-004](https://knowledge.aeternal-luxury.com/ontology/clo-spec-004-zh) §2 (Price Architecture & Sovereign Asset Tiers)

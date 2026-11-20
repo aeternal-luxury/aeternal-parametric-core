@@ -8,13 +8,6 @@ website: "https://aeternal-luxury.com/"
 
 > 🌐 **Sovereign Node**: [knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com/)
 
-
-[Aeternal Master Knowledge Graph](../) › Product Category Ontology
-
-# Product Category Ontology (PCO v1.0)
-
-20 Canonical Specifications Mapping Apparel to Decision Infrastructure
-
 **Directory Specification:** This index houses 20 formal product category specifications compiled under AETERNAL\'s Computational Luxury Ontology (CLO v1.0). Each node mathematically defines intent, persona, limitations of legacy paradigms, and canonical instantiations bound to PGEF v15.0 and SAR ≥ 1.618 invariants.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -80,5 +73,3 @@ website: "https://aeternal-luxury.com/"
   [PCO020]{.badge}        **Algorithmic Bespoke**\                                           [中文 HTML](./PCO020_algorithmic-bespoke-zh.html) \| [EN HTML](./PCO020_algorithmic-bespoke-en.html) \| [ZH JSON](./PCO020_algorithmic-bespoke-zh.json) \| [EN JSON](./PCO020_algorithmic-bespoke-en.json)
                           [Zero-Baseline Mesh & Beyond Savile Row]{.small}                   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-© AETERNAL Engineering & Formal Verification Group. Licensed under CC BY 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are unregistered trademarks of AETERNAL Luxury (see TRADEMARKS.md).

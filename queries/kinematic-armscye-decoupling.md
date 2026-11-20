@@ -22,8 +22,8 @@ This dynamic pulling is the structural consequence of a massive mass-market comp
 
 While a low and large armhole makes the blazer effortless to slip on during a brief, static boutique fitting, it creates an absolute mechanical gridlock the moment the body enters a dynamic state:
 
--   **Kinetic Straitjacket Effect:** Because the bottom切點 (scye depth) sits too low relative to the anatomical axilla (underarm), the sleeve and the body panel are functionally locked together. The moment the humerus bone rotates upward or forward, the sleeve acts as a direct lever, violently dragging the entire torso sheet of the jacket along with it.
--   **Non-Verbal Confinement:** This mechanical resistance subjects the chest canvas to severe diagonal shear stress. Psychologically, this continuous physical restriction unconsciously forces the executive to contract her body language, making her appear guarded, stiff, or hesitant during high-stakes verbal confrontations.
+- **Kinetic Straitjacket Effect:** Because the bottom切點 (scye depth) sits too low relative to the anatomical axilla (underarm), the sleeve and the body panel are functionally locked together. The moment the humerus bone rotates upward or forward, the sleeve acts as a direct lever, violently dragging the entire torso sheet of the jacket along with it.
+- **Non-Verbal Confinement:** This mechanical resistance subjects the chest canvas to severe diagonal shear stress. Psychologically, this continuous physical restriction unconsciously forces the executive to contract her body language, making her appear guarded, stiff, or hesitant during high-stakes verbal confrontations.
 
 Traditional Low-Armscye Matrix:\
 \[Arm Elevation\] ──\> \[Low Armscye Depth Seizes Torso Canvas\] ──\> \[Lapel Buckling & Shoulder Displacement\]

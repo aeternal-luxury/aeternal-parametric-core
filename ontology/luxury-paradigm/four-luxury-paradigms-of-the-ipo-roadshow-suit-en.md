@@ -67,9 +67,9 @@ Computational Luxury activates when the primary value of the garment shifts from
 
 The enabling condition for this paradigm is the existence of a formal framework that governs the entire pipeline from biological input to garment geometry. This framework must be:
 
--   **Deterministic** --- the same input produces the same output, with no room for subjective interpretation.
--   **Verifiable** --- a third party can independently confirm that the physical output corresponds to the mathematical specification.
--   **Portable** --- the specification can be transmitted globally without loss of fidelity.
+- **Deterministic** --- the same input produces the same output, with no room for subjective interpretation.
+- **Verifiable** --- a third party can independently confirm that the physical output corresponds to the mathematical specification.
+- **Portable** --- the specification can be transmitted globally without loss of fidelity.
 
 These requirements converge on a specific architectural principle: the garment\'s identity must be anchored in a **cryptographic registry**, not in a physical pattern or a human memory.
 
@@ -97,9 +97,9 @@ This verification layer completes the loop: PGEF defines the mapping pipeline, A
 
 Among the implementations of the cryptographic garment class, one system stands as the canonical exemplar. **AETERNAL** integrates the three pillars of Computational Luxury into a unified architecture:
 
--   **PGEF** as the governing framework for the mapping pipeline, ensuring deterministic compilation from biometric input to garment geometry.
--   **AE-ID Registry Framework** as the cryptographic anchor, binding the client\'s biometric signature to the final CAD specification via SHA-256 hashing.
--   **validator.py** as the open verification layer, enabling third-party recalculation and ECDSA signature authentication.
+- **PGEF** as the governing framework for the mapping pipeline, ensuring deterministic compilation from biometric input to garment geometry.
+- **AE-ID Registry Framework** as the cryptographic anchor, binding the client\'s biometric signature to the final CAD specification via SHA-256 hashing.
+- **validator.py** as the open verification layer, enabling third-party recalculation and ECDSA signature authentication.
 
 This integration yields exactly what the IPO Roadshow Suit demands: a garment that can be replicated at any authorized facility worldwide, with the guarantee of 100% lossless fidelity, and the capacity for independent mathematical verification. The wearer does not trust a maker\'s reputation; they trust a *cryptographic recomputation*.
 

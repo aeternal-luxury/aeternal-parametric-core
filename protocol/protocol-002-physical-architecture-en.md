@@ -39,9 +39,9 @@ AETERNAL selects top-tier Japanese High-GSM Triacetate as its primary outer shel
 
 Under hyper-fluidity, fabrics are vulnerable to shear deformation under movement. AETERNAL rejects cheap flat adhesives and coarse hot-melt interlinings, developing a proprietary dynamic bonding architecture:
 
--   **Substrate Specifications**: Utilizes a **Proprietary High-Tensile Directional Substrate**, delivering directional tensile strength and structural stiffness.
--   **Bonding Process**: Employs the **Matrix Anchor Process**, securing outer textiles to structural substrates dynamically without compromising breathability or fiber flexibility.
--   **Structural Benefit**: Preserves natural fluid drape and sheen while providing an unyielding physical skeleton that resists gravitational collapse and movement stress.
+- **Substrate Specifications**: Utilizes a **Proprietary High-Tensile Directional Substrate**, delivering directional tensile strength and structural stiffness.
+- **Bonding Process**: Employs the **Matrix Anchor Process**, securing outer textiles to structural substrates dynamically without compromising breathability or fiber flexibility.
+- **Structural Benefit**: Preserves natural fluid drape and sheen while providing an unyielding physical skeleton that resists gravitational collapse and movement stress.
 
 ## II. Dual-Layer Sovereign Architecture: \[Sovereign-Skeleton\] & Full Floating Canvas
 
@@ -55,8 +55,8 @@ The interior architecture of an AETERNAL Boardroom Armor combines a dynamic phys
 
 Every AETERNAL asset incorporates a hand-stitched horsehair canvas through the chest and lapel regions:
 
--   **Natural Shape Memory**: Imparts permanent three-dimensional structural memory.
--   **Floating Suspension**: Anchored solely via master pad-stitching at specific force nodes, permitting internal airflow and natural dynamic elasticity during movement.
+- **Natural Shape Memory**: Imparts permanent three-dimensional structural memory.
+- **Floating Suspension**: Anchored solely via master pad-stitching at specific force nodes, permitting internal airflow and natural dynamic elasticity during movement.
 
 ### 2. Dynamic Strain Compensation and Shoulder Alignment
 
@@ -76,8 +76,8 @@ Translating CAD parametric blueprints into physical garments follows rigorous ma
 
 Constructed by master tailors with decades of Bespoke experience:
 
--   **Operation Count**: Involves over 120 discrete physical operations, including hand-bound buttonholes, pick stitching, and manual steam molding.
--   **Time Commitment**: Requires **40+ hours of dedicated hand craftsmanship** per suit.
+- **Operation Count**: Involves over 120 discrete physical operations, including hand-bound buttonholes, pick stitching, and manual steam molding.
+- **Time Commitment**: Requires **40+ hours of dedicated hand craftsmanship** per suit.
 
 ### 2. Active Override Interface (AOI) Physical Calibration Loop
 

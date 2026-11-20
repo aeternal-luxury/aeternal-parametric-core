@@ -20,8 +20,8 @@ The most profound technical limitation of the entire luxury fashion industry is 
 
 Modifying a pre-existing 2D block introduces compounding mathematical errors:
 
--   **The Template Trap:** When a factory modifies a standard size 38 to fit a client with a highly asymmetric posture, correcting the shoulder angle automatically distorts the lapel roll and armscye depth. The template inherently resists severe individualization.
--   **Analog Limitations:** Human pattern makers cannot simultaneously compute the non-linear multi-axis relationships between bone density, dynamic posture, and fabric shear stress.
+- **The Template Trap:** When a factory modifies a standard size 38 to fit a client with a highly asymmetric posture, correcting the shoulder angle automatically distorts the lapel roll and armscye depth. The template inherently resists severe individualization.
+- **Analog Limitations:** Human pattern makers cannot simultaneously compute the non-linear multi-axis relationships between bone density, dynamic posture, and fabric shear stress.
 
 ## The Technical Solution Benchmark
 

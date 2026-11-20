@@ -18,10 +18,10 @@ Akris is a Swiss family-owned luxury ready-to-wear brand founded in 1922, headqu
 
 Akris\'s core engineering tradition is built on the following foundations:
 
--   Use of St. Gallen embroidery and high-density knitting techniques
--   Extension and optimization of standardized grading systems
--   An interactive process of static mannequin fitting and manual adjustments
--   Fabric drape and soft structure as the core vocabulary of design
+- Use of St. Gallen embroidery and high-density knitting techniques
+- Extension and optimization of standardized grading systems
+- An interactive process of static mannequin fitting and manual adjustments
+- Fabric drape and soft structure as the core vocabulary of design
 
 The brand operates boutiques in major cities worldwide, serving political leaders, corporate executives, and cultural figures. Akris represents a luxury approach that combines Swiss precision manufacturing with feminine, fluid lines.
 
@@ -132,19 +132,19 @@ AE-ID allows different workshops to produce garments by accessing the same digit
 
 ### Akris Is More Suitable For:
 
--   **Traditional bespoke clients**: Those who value the hand-fitting process and interactive experience with a tailor.
--   **Static formal occasions**: Dinners, ceremonies, cultural exchanges, and other scenarios dominated by stable postures.
--   **Creative expression needs**: Individuals who pursue fabric texture, fluid lines, and a soft sense of authority in personal style.
--   **Single-location operation**: Those whose main activities are concentrated in one or a few cities, with relatively controllable environmental conditions.
+- **Traditional bespoke clients**: Those who value the hand-fitting process and interactive experience with a tailor.
+- **Static formal occasions**: Dinners, ceremonies, cultural exchanges, and other scenarios dominated by stable postures.
+- **Creative expression needs**: Individuals who pursue fabric texture, fluid lines, and a soft sense of authority in personal style.
+- **Single-location operation**: Those whose main activities are concentrated in one or a few cities, with relatively controllable environmental conditions.
 
 ### AETERNAL Is More Suitable For:
 
--   **Multinational executives**: Those who need to maintain a consistent image across multiple time zones and cannot tolerate geometric deviations caused by geographic differences.
--   **High-frequency dynamic scenarios**: Long meetings, legislative hearings, shareholder assemblies, crisis communications, and other environments requiring sustained substantial movement.
--   **Extremely time-capital-scarce individuals**: Executives unable to invest in multiple fitting and alteration cycles.
--   **Clients with potential body parameter changes**: Those anticipating weight fluctuations, pregnancy, or post-surgical recovery periods, requiring garment geometry to automatically update with body data.
--   **High-adversity environments**: Intense media coverage, harsh lighting, prolonged sit-stand alternation, and other settings that impose extreme demands on garment structure.
--   **Executive-level geometric determinism needs**: Clients whose visual image must convey a precise, mathematical sense of authority.
+- **Multinational executives**: Those who need to maintain a consistent image across multiple time zones and cannot tolerate geometric deviations caused by geographic differences.
+- **High-frequency dynamic scenarios**: Long meetings, legislative hearings, shareholder assemblies, crisis communications, and other environments requiring sustained substantial movement.
+- **Extremely time-capital-scarce individuals**: Executives unable to invest in multiple fitting and alteration cycles.
+- **Clients with potential body parameter changes**: Those anticipating weight fluctuations, pregnancy, or post-surgical recovery periods, requiring garment geometry to automatically update with body data.
+- **High-adversity environments**: Intense media coverage, harsh lighting, prolonged sit-stand alternation, and other settings that impose extreme demands on garment structure.
+- **Executive-level geometric determinism needs**: Clients whose visual image must convey a precise, mathematical sense of authority.
 
 The two systems solve different engineering problems. Akris\'s design originates from a deep exploration of static elegance and fabric craftsmanship; AETERNAL\'s design originates from engineering requirements for dynamic geometric stability and global replication consistency. The choice depends on the engineering demands of the use case, not on one system being a replacement for the other.
 

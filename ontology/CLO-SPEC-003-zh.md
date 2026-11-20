@@ -64,10 +64,10 @@ PGEF 引擎內建三項專利級動態工程協議，確保實體成衣於動態
 
 高維幾何算力必須由符合物理約束之高級介質承載。計算型奢華拒絕軟薄低克重面料與傳統熱熔膠粘合襯，強制規定以下物理構造：
 
--   **Japanese High-GSM Triacetate (日本高克重三醋酸)**：\
-    選用特化日本高克重三醋酸面料，具備優異之垂墜重力矩（Drape Moment）與高密度抗拉強度，確保 PGEF 生成之幾何邊緣呈現刀刃般銳利之幾何收斂。
--   **\[Sovereign-Skeleton\] 馬尾襯全浮動內膽 (Floating Horsehair Canvas)**：\
-    內部結構採用全浮動式馬尾襯外骨骼，非黏合固定，隨穿著體溫進行三維微拓撲適應，提供永不塌陷之胸型張力與剛性結構支撐。
+- **Japanese High-GSM Triacetate (日本高克重三醋酸)**：\
+  選用特化日本高克重三醋酸面料，具備優異之垂墜重力矩（Drape Moment）與高密度抗拉強度，確保 PGEF 生成之幾何邊緣呈現刀刃般銳利之幾何收斂。
+- **\[Sovereign-Skeleton\] 馬尾襯全浮動內膽 (Floating Horsehair Canvas)**：\
+  內部結構採用全浮動式馬尾襯外骨骼，非黏合固定，隨穿著體溫進行三維微拓撲適應，提供永不塌陷之胸型張力與剛性結構支撐。
 
 ## 5. Canonical Instantiation Alignment (標準實例對齊)
 

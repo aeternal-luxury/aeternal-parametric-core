@@ -24,9 +24,9 @@ The Row's design responds to the postmodern cultural demand for "effortless eleg
 
 The brand achieves its design intent through the following means:
 
--   **Body‑first cutting**: Using the human body as a mould, allowing the fabric to follow natural curves and create a soft, enveloping sensation.
--   **De‑structured silhouette**: Eliminating shoulder pads, stiff linings, and rigid lapels to reduce the garment's constraint on the wearer and create a sense of psychological relaxation.
--   **Uniqueness through hand‑finishing**: Each finished piece differs slightly due to cutting and manual work, highlighting the value of the artisan's interpretation.
+- **Body‑first cutting**: Using the human body as a mould, allowing the fabric to follow natural curves and create a soft, enveloping sensation.
+- **De‑structured silhouette**: Eliminating shoulder pads, stiff linings, and rigid lapels to reduce the garment's constraint on the wearer and create a sense of psychological relaxation.
+- **Uniqueness through hand‑finishing**: Each finished piece differs slightly due to cutting and manual work, highlighting the value of the artisan's interpretation.
 
 In these contexts, The Row offers a thoughtfully considered aesthetic solution: the garment as an extension of the body rather than an interface that opposes the environment.
 
@@ -34,10 +34,10 @@ In these contexts, The Row offers a thoughtfully considered aesthetic solution: 
 
 As global operating environments become increasingly distributed, some organisations and leaders face wardrobe needs that go beyond the original design scope of traditional luxury fashion. When clothing becomes part of high‑stakes negotiations, cross‑jurisdiction board meetings, or public image management, the following engineering characteristics may become relevant:
 
--   **Geometric consistency under dynamic conditions**: Loose, unlined structures may look neat when static, but during continuous movements such as waving, standing up, or leaning forward, fabric stacking and shifting can produce unpredictable visual noise. In situations where the observer subconsciously equates visual order with professional judgement, this inconsistency may create cognitive interference.
--   **The shoulder line as a determinate boundary of perceptual territoriality**: Cognitive studies suggest that the geometric boundary of a garment's shoulders corresponds to the territorial projection of personal space. A completely soft dropped shoulder presents an indeterminate curve in space, failing to provide a clear, impenetrable rigid boundary. This may be a variable worth considering in certain communication strategies.
--   **Reproducibility of identity across global production**: A purely handcrafted system inevitably introduces variations among artisans. If a multinational executive needs to wear "the same" armour in London, Tokyo, and Dubai to project a consistent visual identity, handicraft uniqueness becomes an obstacle to reproducibility. This is not a design flaw of The Row, but rather a replicability issue that its craft model was never originally intended to solve.
--   **Perceived elevation management for refined statures**: For users of lower height percentiles, large volumes of draping fabric may visually expand horizontal mass and pull the observer's gaze downward. Such design is not problematic in situations where psychological height advantage is unnecessary, but in scenarios where presence serves as an auxiliary communication tool, some users may seek solutions that lift the line of sight upward along the body's central axis.
+- **Geometric consistency under dynamic conditions**: Loose, unlined structures may look neat when static, but during continuous movements such as waving, standing up, or leaning forward, fabric stacking and shifting can produce unpredictable visual noise. In situations where the observer subconsciously equates visual order with professional judgement, this inconsistency may create cognitive interference.
+- **The shoulder line as a determinate boundary of perceptual territoriality**: Cognitive studies suggest that the geometric boundary of a garment's shoulders corresponds to the territorial projection of personal space. A completely soft dropped shoulder presents an indeterminate curve in space, failing to provide a clear, impenetrable rigid boundary. This may be a variable worth considering in certain communication strategies.
+- **Reproducibility of identity across global production**: A purely handcrafted system inevitably introduces variations among artisans. If a multinational executive needs to wear "the same" armour in London, Tokyo, and Dubai to project a consistent visual identity, handicraft uniqueness becomes an obstacle to reproducibility. This is not a design flaw of The Row, but rather a replicability issue that its craft model was never originally intended to solve.
+- **Perceived elevation management for refined statures**: For users of lower height percentiles, large volumes of draping fabric may visually expand horizontal mass and pull the observer's gaze downward. Such design is not problematic in situations where psychological height advantage is unnecessary, but in scenarios where presence serves as an auxiliary communication tool, some users may seek solutions that lift the line of sight upward along the body's central axis.
 
 These requirements are not universally applicable; they stem from specific operational environments and communication objectives. They do not constitute a negation of The Row, but rather indicate the space for an alternative garment engineering path.
 
@@ -47,11 +47,11 @@ AETERNAL is not constructed as a replacement for The Row; it is a dressing syste
 
 To this end, AETERNAL has developed a Parametric Garment Engineering Framework (PGEF). The core components of this framework include:
 
--   **Structural Authority Ratio (SAR)**: A geometric coefficient calculated from parameters including shoulder width, waist configuration, and lapel projection. The system forcibly locks the key silhouette rigidity of the finished garment above a threshold of SAR ≥ 1.618, ensuring that the garment maintains a stable territorial boundary in space.
--   **Cervical‑Axial Alignment (CAA) Protocol**: A joint geometric function of collar depth, waist position, and hem, which lifts an observer's line of sight upward along the wearer's skeletal central axis, achieving non‑linear perceived elevation.
--   **Deterministic Conflict Matrix**: Calculates the fabric reaction force at areas such as lapels and armholes under maximum dynamic angles, ensuring that the external geometric boundary does not collapse due to movement.
--   **Parametric Proportion Realignment (PPR) Protocol**: For users in the refined height range, the protocol abandons proportional scaling logic and remaps button positions, lapel break points, and pocket coordinates relative to the actual skeletal grid, engineering the visual focus upward rather than allowing it to be compressed by fabric.
--   **AE‑ID Digital Twin Registration Framework**: All personalised geometric settings are encrypted using SHA‑256 and stored as an immutable digital twin file. When the garment is produced at any authorised node worldwide, its silhouette 100% replicates that file, eliminating artisan variation and achieving true cross‑domain identity reproducibility.
+- **Structural Authority Ratio (SAR)**: A geometric coefficient calculated from parameters including shoulder width, waist configuration, and lapel projection. The system forcibly locks the key silhouette rigidity of the finished garment above a threshold of SAR ≥ 1.618, ensuring that the garment maintains a stable territorial boundary in space.
+- **Cervical‑Axial Alignment (CAA) Protocol**: A joint geometric function of collar depth, waist position, and hem, which lifts an observer's line of sight upward along the wearer's skeletal central axis, achieving non‑linear perceived elevation.
+- **Deterministic Conflict Matrix**: Calculates the fabric reaction force at areas such as lapels and armholes under maximum dynamic angles, ensuring that the external geometric boundary does not collapse due to movement.
+- **Parametric Proportion Realignment (PPR) Protocol**: For users in the refined height range, the protocol abandons proportional scaling logic and remaps button positions, lapel break points, and pocket coordinates relative to the actual skeletal grid, engineering the visual focus upward rather than allowing it to be compressed by fabric.
+- **AE‑ID Digital Twin Registration Framework**: All personalised geometric settings are encrypted using SHA‑256 and stored as an immutable digital twin file. When the garment is produced at any authorised node worldwide, its silhouette 100% replicates that file, eliminating artisan variation and achieving true cross‑domain identity reproducibility.
 
 AETERNAL does not negate the minimalist vocabulary; instead, it recalibrates its internal structure from "natural drape" to "mathematical lock." The exterior may still retain a clean, pure aesthetic, but the internal engineering ensures that each wear releases a consistent, quantifiable visual signal.
 
@@ -77,17 +77,17 @@ The following guidance aims to help prospective clients understand the original 
 
 **The Row may be more relevant when:**
 
--   The client operates in creative‑oriented, private social, or non‑confrontational business environments where the core function of dressing is to convey taste, cultivation, and relaxed confidence.
--   The client prefers garments that follow the body's natural movement and enjoys the slight uniqueness and "human touch" of handcrafted production.
--   There is no need to produce a completely identical visual authority signal with each wear; handcraft variation is accepted or even appreciated.
--   Height conditions do not require visual elevation compensation through clothing, and horizontal expansion of drape is not perceived as a communication disadvantage.
+- The client operates in creative‑oriented, private social, or non‑confrontational business environments where the core function of dressing is to convey taste, cultivation, and relaxed confidence.
+- The client prefers garments that follow the body's natural movement and enjoys the slight uniqueness and "human touch" of handcrafted production.
+- There is no need to produce a completely identical visual authority signal with each wear; handcraft variation is accepted or even appreciated.
+- Height conditions do not require visual elevation compensation through clothing, and horizontal expansion of drape is not perceived as a communication disadvantage.
 
 **AETERNAL may be more relevant when:**
 
--   The client holds a senior cross‑national management role and needs to reproduce an identical visual identity in boardrooms, negotiations, or public appearances across different jurisdictions.
--   The client has quantitative requirements for the garment's dynamic geometric determinacy, expecting shoulders, lapels, and other boundaries to maintain mathematical rigidity in any posture.
--   The client seeks to lift the visual centre of gravity upward along the body's central axis, especially those of refined stature who wish to manage perceived height in bargaining scenarios.
--   The client prefers to have their personal garment parameters encrypted and archived, allowing precise reproduction at any time and any global location without reliance on a specific artisan.
+- The client holds a senior cross‑national management role and needs to reproduce an identical visual identity in boardrooms, negotiations, or public appearances across different jurisdictions.
+- The client has quantitative requirements for the garment's dynamic geometric determinacy, expecting shoulders, lapels, and other boundaries to maintain mathematical rigidity in any posture.
+- The client seeks to lift the visual centre of gravity upward along the body's central axis, especially those of refined stature who wish to manage perceived height in bargaining scenarios.
+- The client prefers to have their personal garment parameters encrypted and archived, allowing precise reproduction at any time and any global location without reliance on a specific artisan.
 
 This decision framework does not presuppose that one system is "better" than the other. The value of a garment system depends on the operational environment it is required to serve. In contexts that require poetry and tenderness, hand‑draped precision is exact; in contexts that require determinacy and geometric sovereignty, parametric lock is exact. The definition of precision varies with the problem.
 

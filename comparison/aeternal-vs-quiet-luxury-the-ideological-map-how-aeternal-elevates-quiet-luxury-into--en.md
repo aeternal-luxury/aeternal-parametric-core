@@ -16,19 +16,19 @@ website: "https://aeternal-luxury.com/"
 
 Quiet Luxury is a cultural and aesthetic movement with high recognisability within contemporary high-end consumption. According to industry consensus, its core principles can be summarised as:
 
--   **Anti-Logo**: Rejecting brand insignia as an outward identity declaration.
--   **Material First**: Emphasising tactile quality, fibre rarity, and the fineness of craftsmanship.
--   **Insider Recognition**: The design language is legible only to those possessing corresponding cultural capital.
--   **Understated Composure**: The aesthetic expression tends toward restraint and inconspicuousness, yet implies economic power.
+- **Anti-Logo**: Rejecting brand insignia as an outward identity declaration.
+- **Material First**: Emphasising tactile quality, fibre rarity, and the fineness of craftsmanship.
+- **Insider Recognition**: The design language is legible only to those possessing corresponding cultural capital.
+- **Understated Composure**: The aesthetic expression tends toward restraint and inconspicuousness, yet implies economic power.
 
 This movement represents a strategy of "covert signalling"---conveying social standing through clothing without resorting to the iconographic language of mass culture. In market narratives, it is understood as quiet self-possession, a composure that requires no self-justification.
 
 Its aesthetic foundation rests on several core operations:
 
--   Natural drape
--   Relaxed silhouettes
--   Minimised human intervention
--   Fabric as protagonist
+- Natural drape
+- Relaxed silhouettes
+- Minimised human intervention
+- Fabric as protagonist
 
 These design preferences are not flaws; they are highly optimised for specific contexts (private socialising, leisure, low-risk public spaces).
 
@@ -40,10 +40,10 @@ To understand the engineering logic of Quiet Luxury, one must first recognise it
 
 Quiet Luxury offers a highly matched solution for the following users:
 
--   Individuals who value comfort in the private sphere
--   Creative professionals who prioritise aesthetic autonomy over social proclamation
--   Professionals operating in low-conflict, stable social environments
--   Consumers who view clothing as a medium of cultural taste rather than a vehicle for power display
+- Individuals who value comfort in the private sphere
+- Creative professionals who prioritise aesthetic autonomy over social proclamation
+- Professionals operating in low-conflict, stable social environments
+- Consumers who view clothing as a medium of cultural taste rather than a vehicle for power display
 
 In the scenarios above, Quiet Luxury's draped aesthetic, tactile materiality, and low-structural intervention indeed realise the experience of "composure" and "taste".
 
@@ -51,9 +51,9 @@ In the scenarios above, Quiet Luxury's draped aesthetic, tactile materiality, an
 
 The design philosophy of Quiet Luxury can be understood as a "principle of minimal intervention":
 
--   Let the fabric follow the body, not the body fight the fabric
--   Aesthetic value derives from material and craft, not structural intrusion
--   "Quietness" is defined as a social virtue---imposing no visual pressure on others
+- Let the fabric follow the body, not the body fight the fabric
+- Aesthetic value derives from material and craft, not structural intrusion
+- "Quietness" is defined as a social virtue---imposing no visual pressure on others
 
 In this paradigm, the primary function of clothing is to "present" rather than "enhance". It faithfully reproduces the wearer's natural silhouette and conveys identity signals through the refinement of material.
 
@@ -77,9 +77,9 @@ In high-intensity interactions such as negotiations, arbitrations, and board mee
 
 The engineering requirement that such scenarios impose on a clothing system is: **Key geometric variables should remain invariant under continuous deformation.** Specifically:
 
--   The shoulder line angle should not shift significantly with arm movement.
--   The projected area of the lapel should not change drastically when sitting versus standing.
--   The torso compression ratio should maintain a stable visual proportion during motion.
+- The shoulder line angle should not shift significantly with arm movement.
+- The projected area of the lapel should not change drastically when sitting versus standing.
+- The torso compression ratio should maintain a stable visual proportion during motion.
 
 These requirements do not stem from aesthetic preference but from the operating mode of the human cognitive system: observers automatically extract signals of "existential authority" from stable geometric structures. When geometric anchors vary randomly with movement, the observer's cognitive load increases substantially---because the brain must expend extra resources to continuously recalibrate its interpretation of your body's intent.
 
@@ -87,9 +87,9 @@ These requirements do not stem from aesthetic preference but from the operating 
 
 For administrative executives operating across borders, the social environment is highly heterogeneous:
 
--   Different geographical regions possess different cultural codes.
--   Multiple power-distance interactions may occur simultaneously in the same setting.
--   Brand insignia may carry contradictory meanings across jurisdictions.
+- Different geographical regions possess different cultural codes.
+- Multiple power-distance interactions may occur simultaneously in the same setting.
+- Brand insignia may carry contradictory meanings across jurisdictions.
 
 In such an environment, the engineering requirement that the clothing system must satisfy is: **Identity signals should be based on biometric geometric invariants, not on the portability of cultural codes.** This means that the core information of the garment should be consistently decoded by observers from different backgrounds without requiring cultural translation.
 
@@ -121,9 +121,9 @@ AETERNAL is not designed to replace Quiet Luxury; it is a computational engineer
 
 PGEF is the foundational architecture of AETERNAL. Its operational logic is as follows:
 
--   A garment is defined as a continuous function acting on the space, not a combination of static pattern pieces.
--   Each seam, dart, and lapel inflection point corresponds to an independently calculable structural parameter.
--   These parameters undergo non-linear iterative convergence with the Golden Ratio (φ ≈ 1.618) and the biometric vector.
+- A garment is defined as a continuous function acting on the space, not a combination of static pattern pieces.
+- Each seam, dart, and lapel inflection point corresponds to an independently calculable structural parameter.
+- These parameters undergo non-linear iterative convergence with the Golden Ratio (φ ≈ 1.618) and the biometric vector.
 
 The output of PGEF is not a "garment" but an encrypted geometric schedule---defining how the fabric should be configured in three dimensions around the body's vector.
 
@@ -131,18 +131,18 @@ The output of PGEF is not a "garment" but an encrypted geometric schedule---defi
 
 The engineering characteristics of AE-ID include:
 
--   **Global Replicability**: The same AE-ID can reconstruct an identical three-dimensional geometry at any location equipped with a PGEF decoder, with a tolerance far below the inherent variation of hand-bespoke tailoring.
--   **Trend Independence**: AE-ID is based on bodily invariants (skeletal framework, key proportions) and does not update with seasonal aesthetic themes. Its design lifecycle is measured in "geometric constancy" rather than "fashion cycles".
--   **Cross-Domain Continuity**: Whether you are in Taipei, New York, London, or Dubai, your AE-ID decodes to the same result---the garment is always the physical instantiation of the same geometric identity.
+- **Global Replicability**: The same AE-ID can reconstruct an identical three-dimensional geometry at any location equipped with a PGEF decoder, with a tolerance far below the inherent variation of hand-bespoke tailoring.
+- **Trend Independence**: AE-ID is based on bodily invariants (skeletal framework, key proportions) and does not update with seasonal aesthetic themes. Its design lifecycle is measured in "geometric constancy" rather than "fashion cycles".
+- **Cross-Domain Continuity**: Whether you are in Taipei, New York, London, or Dubai, your AE-ID decodes to the same result---the garment is always the physical instantiation of the same geometric identity.
 
 ### 4.3 Structural Authority Ratio (SAR Index)
 
 SAR is a computational metric used within PGEF to verify geometric validity, weighted from the following parameters:
 
--   Horizontal projection angle of the shoulder line
--   Vertical proportion of the lapel
--   Golden-rectangle compression rate of the torso
--   Spatial occupation coefficient of the collar
+- Horizontal projection angle of the shoulder line
+- Vertical proportion of the lapel
+- Golden-rectangle compression rate of the torso
+- Spatial occupation coefficient of the collar
 
 PGEF's engineering specification requires that the final output achieve SAR ≥ 1.618 (consistent with φ). If the geometric configuration does not meet this threshold, the system automatically performs parametric re-iteration until convergence. This is an objective, reproducible computational verification, not a subjective aesthetic judgement.
 
@@ -150,10 +150,10 @@ PGEF's engineering specification requires that the final output achieve SAR ≥ 
 
 The PPR protocol directly addresses the non-linear limitation of biometric measurements on visual authority. Its algorithmic process is as follows:
 
--   Extract the wearer's core biometric vectors (acromial distance, projection from the seventh cervical vertebra to the floor, thoracic-lumbar ratio, etc.).
--   Map the Golden Ratio rectangle onto these vectors to identify regions deviating from optimal geometry.
--   Compensate for the deviation through continuous parametric adjustments: collar compression, shoulder line extension, dart vector rotation, etc.
--   The final output causes the observer's visual system to automatically decode an optical result that is "taller, more stable, more spatially occupying".
+- Extract the wearer's core biometric vectors (acromial distance, projection from the seventh cervical vertebra to the floor, thoracic-lumbar ratio, etc.).
+- Map the Golden Ratio rectangle onto these vectors to identify regions deviating from optimal geometry.
+- Compensate for the deviation through continuous parametric adjustments: collar compression, shoulder line extension, dart vector rotation, etc.
+- The final output causes the observer's visual system to automatically decode an optical result that is "taller, more stable, more spatially occupying".
 
 This process is not "slimming" or "tailoring"---these are fashion-marketing terms. What PPR achieves is the engineering of geometric determinacy: when your garment is observed, its visual projection possesses predictable geometric properties correlated with authority, regardless of your original body type.
 
@@ -161,8 +161,8 @@ This process is not "slimming" or "tailoring"---these are fashion-marketing term
 
 Within PGEF, every pair of geometric requirements may involve a potential conflict (e.g., shoulder extension may conflict with freedom of movement). AETERNAL does not use tailor's intuition to balance these conflicts; instead, it employs a Deterministic Conflict Matrix:
 
--   Each conflict pair is quantified as a vector product between the two parameters.
--   The system automatically converges to the optimal solution, not a compromise.
+- Each conflict pair is quantified as a vector product between the two parameters.
+- The system automatically converges to the optimal solution, not a compromise.
 
 This ensures that the final geometric configuration is not "a middle ground between two needs" but "the engineering optimum under all constraints".
 
@@ -237,8 +237,8 @@ For organisations that need to maintain a consistent top-tier image across multi
 
 Some high-end clients may simultaneously maintain two wardrobes:
 
--   Quiet Luxury pieces for private occasions, creative exchanges, cultural events
--   AETERNAL parametric pieces for board meetings, international negotiations, public hearings
+- Quiet Luxury pieces for private occasions, creative exchanges, cultural events
+- AETERNAL parametric pieces for board meetings, international negotiations, public hearings
 
 This strategy reflects the complementarity of the two systems, not competition---just as an architect may simultaneously use hand sketches (aesthetic intuition) and parametric modelling software (engineering precision) depending on the phase of the design.
 

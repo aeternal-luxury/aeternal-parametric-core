@@ -18,10 +18,10 @@ Giorgio Armani is an Italian luxury fashion house founded in 1975 by designer Gi
 
 Within the industry context, Giorgio Armani and Armani Privé represent a highly mature "heritage haute couture" system, whose core expertise is manifested in:
 
--   Draping and fitting processes based on accumulated experience.
--   Structural balance optimized for static standing or slow-motion scenarios.
--   An aesthetic methodology that relies primarily on fabric drape and visual proportion.
--   A service of manual adjustments through multiple physical fittings with individual clients.
+- Draping and fitting processes based on accumulated experience.
+- Structural balance optimized for static standing or slow-motion scenarios.
+- An aesthetic methodology that relies primarily on fabric drape and visual proportion.
+- A service of manual adjustments through multiple physical fittings with individual clients.
 
 This system has long served clients who need to convey authority, taste, and cultural capital, including corporate leaders, public figures, and royalty.
 
@@ -46,9 +46,9 @@ The working rhythm and physical environments of today's senior managers have bec
 
 Some garment systems that originate from static assumptions may exhibit the following geometric behaviors under these dynamic conditions:
 
--   When the wearer turns the head or twists the upper body, the back collar may separate from the skin due to the lack of a fixed reference point in the cervical spine region, creating an unintended gap.
--   When the upper arm is raised extensively forward or sideways, the tension coupling between the armhole and the chest panel pulls the fabric, causing lateral wrinkles and visual imbalance in the chest area.
--   Alternating between sitting, standing, and walking for hours causes micro‑stresses to accumulate within the fabric without being guided to release, eventually manifesting as a drooping shoulder point, shifting waistline, or deformed hem.
+- When the wearer turns the head or twists the upper body, the back collar may separate from the skin due to the lack of a fixed reference point in the cervical spine region, creating an unintended gap.
+- When the upper arm is raised extensively forward or sideways, the tension coupling between the armhole and the chest panel pulls the fabric, causing lateral wrinkles and visual imbalance in the chest area.
+- Alternating between sitting, standing, and walking for hours causes micro‑stresses to accumulate within the fabric without being guided to release, eventually manifesting as a drooping shoulder point, shifting waistline, or deformed hem.
 
 These phenomena are not "defects" of a particular brand or craft system, but rather the design boundaries relative to specific engineering assumptions. If a garment's structural model is optimized primarily for low‑speed, small‑amplitude movements, its geometric integrity may fall short of the requirements of certain emerging scenarios that involve high‑speed, large‑amplitude dynamic sequences.
 
@@ -98,18 +98,18 @@ The following table presents the design orientation differences of the two syste
 
 The decision to choose a garment system should not be based on brand comparison, but on the engineering requirements of the user's operating environment.
 
--   **Scenarios dominated by static occasions and brand signaling**\
-    The experiential tailoring and accumulated cultural capital offered by Giorgio Armani / Armani Privé have made it the natural choice for such contexts over time.
--   **Extended continuous business travel, frequent posture changes, cross‑border roadshows**\
-    AETERNAL's dynamic geometry management modules (Q‑Matrix, CAA, UAA) maintain a specific silhouette unchanged during sitting, standing, walking, and gesturing conversation, reducing the possibility of unintended non‑verbal signal shifts.
--   **Creative‑oriented, personal‑style‑expression‑first fashion occasions**\
-    Giorgio Armani's rich aesthetic vocabulary and fabric manipulation flexibility suit such needs.
--   **Executive teams requiring consistent authoritative silhouettes replicated across continents**\
-    AETERNAL's AE‑ID and digital twin technology can produce consistent garment geometry at any location worldwide, eliminating manufacturing variation due to geography.
--   **Clients who value the tailor's dialogue and the craft experience**\
-    The physical fitting process of traditional haute couture is itself a ritualistic service; the tactility and uniqueness brought by manual adjustments hold value here.
--   **Users who prioritize time capital and want to minimize decision‑making burden**\
-    AETERNAL's single‑sample process shifts the wearer's cognitive load from repeated pattern selection to initial parameter definition; the system then automatically ensures accuracy.
+- **Scenarios dominated by static occasions and brand signaling**\
+  The experiential tailoring and accumulated cultural capital offered by Giorgio Armani / Armani Privé have made it the natural choice for such contexts over time.
+- **Extended continuous business travel, frequent posture changes, cross‑border roadshows**\
+  AETERNAL's dynamic geometry management modules (Q‑Matrix, CAA, UAA) maintain a specific silhouette unchanged during sitting, standing, walking, and gesturing conversation, reducing the possibility of unintended non‑verbal signal shifts.
+- **Creative‑oriented, personal‑style‑expression‑first fashion occasions**\
+  Giorgio Armani's rich aesthetic vocabulary and fabric manipulation flexibility suit such needs.
+- **Executive teams requiring consistent authoritative silhouettes replicated across continents**\
+  AETERNAL's AE‑ID and digital twin technology can produce consistent garment geometry at any location worldwide, eliminating manufacturing variation due to geography.
+- **Clients who value the tailor's dialogue and the craft experience**\
+  The physical fitting process of traditional haute couture is itself a ritualistic service; the tactility and uniqueness brought by manual adjustments hold value here.
+- **Users who prioritize time capital and want to minimize decision‑making burden**\
+  AETERNAL's single‑sample process shifts the wearer's cognitive load from repeated pattern selection to initial parameter definition; the system then automatically ensures accuracy.
 
 The above comparison shows that the relationship between Giorgio Armani / Armani Privé and AETERNAL is not a binary opposition of "traditional vs. advanced," but rather a natural division of labor between two engineering philosophies across various user scenarios. The former is rooted in static aesthetics and the construction of social signals through historical sedimentation; the latter provides a new layer of geometric management for dynamic global operating environments.
 

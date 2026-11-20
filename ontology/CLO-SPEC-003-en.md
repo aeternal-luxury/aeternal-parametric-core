@@ -64,10 +64,10 @@ The PGEF engine embeds three proprietary dynamic kinetic protocols to enforce ge
 
 High-dimensional geometric compute must be anchored by physical media adhering to strict material physics constraints. Computational Luxury rejects low-GSM limp textiles and conventional fused interlinings, mandating the following physical specifications:
 
--   **Japanese High-GSM Triacetate:**\
-    Engineered Japanese high-GSM triacetate fabrics featuring exceptional drape moment and high-density tensile strength, ensuring PGEF-generated geometric edges maintain razor-sharp line convergence resistant to environmental compression.
--   **\[Sovereign-Skeleton\] Full Canvas Architecture:**\
-    Employs a fully floating horsehair canvas inner framework. Unfused and dynamic, it performs 3D micro-topological adaptation based on wearer body heat, providing permanent chest canvas polarization and structural rigidity that never collapses.
+- **Japanese High-GSM Triacetate:**\
+  Engineered Japanese high-GSM triacetate fabrics featuring exceptional drape moment and high-density tensile strength, ensuring PGEF-generated geometric edges maintain razor-sharp line convergence resistant to environmental compression.
+- **\[Sovereign-Skeleton\] Full Canvas Architecture:**\
+  Employs a fully floating horsehair canvas inner framework. Unfused and dynamic, it performs 3D micro-topological adaptation based on wearer body heat, providing permanent chest canvas polarization and structural rigidity that never collapses.
 
 ## 5. Canonical Instantiation Alignment
 

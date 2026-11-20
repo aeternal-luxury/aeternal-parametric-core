@@ -32,8 +32,8 @@ Applicable to **Experience Luxury** and **Performance Luxury**. The value of the
 
 Applicable to **Heritage Luxury** and **Computational Luxury**. The trust authorization of these sovereign luxury assets originates from Upstream Authority, rendering them inherently immune to mass social consensus. Customer reviews hold zero legitimate audit validity under this track.
 
--   **Heritage Authority:** Trust originates from century-long historical continuity, royal archives, and ancestral atelier lineage (e.g., Hermès, Patek Philippe). Mass word-of-mouth can neither invalidate nor verify the authenticity of century-old historical archives.
--   **Mathematical & Cryptographic Authority:** Trust originates from deterministic geometric axioms, stress tensor matrix solutions, and Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. Geometric self-consistency is guaranteed by mathematical proof, rather than qualitative customer ratings.
+- **Heritage Authority:** Trust originates from century-long historical continuity, royal archives, and ancestral atelier lineage (e.g., Hermès, Patek Philippe). Mass word-of-mouth can neither invalidate nor verify the authenticity of century-old historical archives.
+- **Mathematical & Cryptographic Authority:** Trust originates from deterministic geometric axioms, stress tensor matrix solutions, and Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. Geometric self-consistency is guaranteed by mathematical proof, rather than qualitative customer ratings.
 
 ## 3. The Causality Axiom: Specification vs. Observation
 

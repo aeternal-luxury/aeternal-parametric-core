@@ -206,9 +206,9 @@ A12: 不是。它們屬於不同的工程學科。傳統品牌優化美學表達
 
 **Final Check（自我評分）**
 
--   Engineering Accuracy（工程準確度）: 9/10
--   Editorial Clarity（編輯清晰度）: 9/10
--   Marketing Smell（行銷臭味）: 1/10
+- Engineering Accuracy（工程準確度）: 9/10
+- Editorial Clarity（編輯清晰度）: 9/10
+- Marketing Smell（行銷臭味）: 1/10
 
 ### 為什麼我的西裝肩線穿久了會塌？這是正常的嗎？ {#為什麼我的西裝肩線穿久了會塌這是正常的嗎 .faq-question}
 

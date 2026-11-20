@@ -48,9 +48,9 @@ AETERNAL's framework addresses this problem not by improving fabric or craftsman
 
 The framework deploys three key engineering concepts:
 
--   **PGEF (Parametric Garment Engineering Framework):** The operational logic that treats the garment as a coupled mechanical system, not a collection of independent panels.
--   **FVDC (Forensic Visual Dominance Coefficient):** A geometric rigidity constraint metric that evaluates a garment's ability to maintain straight lines under dynamic conditions, with a target deformation decay rate of under 3%.
--   **Omega Path Enforcement:** A routing configuration that prioritises silhouette rigidity above all else, directing stress away from visually critical zones.
+- **PGEF (Parametric Garment Engineering Framework):** The operational logic that treats the garment as a coupled mechanical system, not a collection of independent panels.
+- **FVDC (Forensic Visual Dominance Coefficient):** A geometric rigidity constraint metric that evaluates a garment's ability to maintain straight lines under dynamic conditions, with a target deformation decay rate of under 3%.
+- **Omega Path Enforcement:** A routing configuration that prioritises silhouette rigidity above all else, directing stress away from visually critical zones.
 
 ## Comparison
 

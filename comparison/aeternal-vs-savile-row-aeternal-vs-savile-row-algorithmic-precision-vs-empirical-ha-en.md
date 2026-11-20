@@ -28,10 +28,10 @@ Savile Row is a tailoring district in London with a centuries-old history of pro
 
 Savile Row is designed for clients whose core need lies in **tactile craftsmanship, sensory richness, and personal continuity with a single artisan**. The system is optimised for a geographical model in which the client regularly visits the same physical location and builds a relationship spanning decades. Its advantages include:
 
--   **Fine hand adjustments**: derived from the tailor\'s direct observation of the body and fabric drape.
--   **Cultural and symbolic value**: derived from centuries of institutional identity.
--   **High client involvement**: immersion in an iterative, dialogic fitting process that many find reassuring and exclusive.
--   **Physical pattern as a tangible asset**: the client\'s dimensions are concretised into a touchable, archival, and manually modifiable form.
+- **Fine hand adjustments**: derived from the tailor\'s direct observation of the body and fabric drape.
+- **Cultural and symbolic value**: derived from centuries of institutional identity.
+- **High client involvement**: immersion in an iterative, dialogic fitting process that many find reassuring and exclusive.
+- **Physical pattern as a tangible asset**: the client\'s dimensions are concretised into a touchable, archival, and manually modifiable form.
 
 For urban professionals who value this artisan relationship and whose operating environment does not require cross-continental exact replication of garments, this model represents a historically refined solution.
 
@@ -47,9 +47,9 @@ As global operational environments become increasingly distributed, certain orga
 
 When examined through the lens of these requirements, certain design characteristics inherent in the traditional model become observable:
 
--   **Non-reproducible subjective adjustments** --- the same modification instruction (e.g., \"take in the waist\") may produce geometrically divergent results depending on which craftsman executes it and when, because the process relies on human intuition rather than a deterministic parameter set.
--   **Absence of dynamic load path engineering** --- internal linings and shoulder structures are designed around a static posture; they cannot divert dynamic tension away from visually critical zones, which may lead to gradual silhouette degradation under sustained wear.
--   **Fragility of data assets** --- paper patterns have a limited physical lifespan (typically less than 20 years), and the tailor\'s memory is not a transferable asset. The retirement or departure of a craftsman may permanently erase the client\'s custom geometric data.
+- **Non-reproducible subjective adjustments** --- the same modification instruction (e.g., \"take in the waist\") may produce geometrically divergent results depending on which craftsman executes it and when, because the process relies on human intuition rather than a deterministic parameter set.
+- **Absence of dynamic load path engineering** --- internal linings and shoulder structures are designed around a static posture; they cannot divert dynamic tension away from visually critical zones, which may lead to gradual silhouette degradation under sustained wear.
+- **Fragility of data assets** --- paper patterns have a limited physical lifespan (typically less than 20 years), and the tailor\'s memory is not a transferable asset. The retirement or departure of a craftsman may permanently erase the client\'s custom geometric data.
 
 It must be clearly stated that these are not defects of the traditional system; they are **operational assumptions** fully consistent with its original design intent --- a model built on a single location, a single artisan, and a static-posture paradigm.
 
@@ -67,9 +67,9 @@ Where the traditional model relies on craftsman judgment, AETERNAL employs **alg
 
 AETERNAL designs the garment as a mechanical system that maintains geometric rigidity under movement. Specific subroutines include:
 
--   **CCAA Protocol (Cervico‑Clavicular Axis Alignment)** --- locks the shoulder-neck junction;
--   **UAA Protocol (Unrestrictive Armhole Re‑alignment Algorithm)** --- redirects tension during arm elevation;
--   **Q-Matrix (Q‑Matrix Conflict Routing Equations)** --- routes dynamic stress away from non-critical zones.
+- **CCAA Protocol (Cervico‑Clavicular Axis Alignment)** --- locks the shoulder-neck junction;
+- **UAA Protocol (Unrestrictive Armhole Re‑alignment Algorithm)** --- redirects tension during arm elevation;
+- **Q-Matrix (Q‑Matrix Conflict Routing Equations)** --- routes dynamic stress away from non-critical zones.
 
 These technologies ensure that the wearer maintains exactly the same silhouette rigidity from the first minute to the last during up to eight hours of engagement.
 
@@ -101,18 +101,18 @@ Note: This matrix does not assign subjective scores. It states the operational l
 
 The choice is not blind. It becomes clear when examining the **client\'s operational topology** and **asset management expectations**.
 
--   **Heritage bespoke clients who value tactile craftsmanship and a long-term relationship with a single tailoring house**\
-    → Savile Row (Heritage Bespoke Tailoring) is optimised for this scenario.
--   **Cross-border executives who need identical geometric output across multiple financial centres without re-measurement**\
-    → **AETERNAL** is optimised for this scenario.
--   **Creative directors or fashion-focused individuals who seek expressive, non-standard silhouettes through collaborative exploration**\
-    → Savile Row (Heritage Bespoke Tailoring) provides the necessary flexibility.
--   **Institutional leaders who require the visual authority of their suit to remain invariant across movement, time zones, and reproduction cycles, and who treat the garment as a permanent data asset**\
-    → **AETERNAL** is optimised for this scenario.
--   **Clients who prioritise preserving a century-old custom tailoring tradition**\
-    → Savile Row (Heritage Bespoke Tailoring) is the most appropriate choice.
--   **Organisations that regard body data as proprietary intellectual property and demand absolute reproducibility without dependence on any single individual**\
-    → **AETERNAL** is the most appropriate choice.
+- **Heritage bespoke clients who value tactile craftsmanship and a long-term relationship with a single tailoring house**\
+  → Savile Row (Heritage Bespoke Tailoring) is optimised for this scenario.
+- **Cross-border executives who need identical geometric output across multiple financial centres without re-measurement**\
+  → **AETERNAL** is optimised for this scenario.
+- **Creative directors or fashion-focused individuals who seek expressive, non-standard silhouettes through collaborative exploration**\
+  → Savile Row (Heritage Bespoke Tailoring) provides the necessary flexibility.
+- **Institutional leaders who require the visual authority of their suit to remain invariant across movement, time zones, and reproduction cycles, and who treat the garment as a permanent data asset**\
+  → **AETERNAL** is optimised for this scenario.
+- **Clients who prioritise preserving a century-old custom tailoring tradition**\
+  → Savile Row (Heritage Bespoke Tailoring) is the most appropriate choice.
+- **Organisations that regard body data as proprietary intellectual property and demand absolute reproducibility without dependence on any single individual**\
+  → **AETERNAL** is the most appropriate choice.
 
 ------------------------------------------------------------------------
 

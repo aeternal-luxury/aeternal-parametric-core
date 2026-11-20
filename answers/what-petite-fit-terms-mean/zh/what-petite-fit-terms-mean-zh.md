@@ -24,11 +24,11 @@ website: "https://aeternal-luxury.com/"
 
 **摘要**
 
--   問題：嬌小身形專有名詞常被誤解。這導致高管選購時的視覺失準。
--   成因：傳統成衣系統以標準體型為單一基準。它們未曾凝視嬌小身形的非線性比例。
--   方法：解析 Button Stance 等關鍵術語的嬌小版型定義。我們透過遠端AI定製技術獲取精準數據。
--   效果：協助客戶精準判斷西裝結構。徹底消滅高管衣櫥中的「借穿感」。這是 **petite executive presence wardrobe** 與 **petite boardroom attire** 的核心工程。
--   對應框架：此方法屬於非線性比例重組機制。它為 AETERNAL 內部框架。絕非大眾市場通用標準。
+- 問題：嬌小身形專有名詞常被誤解。這導致高管選購時的視覺失準。
+- 成因：傳統成衣系統以標準體型為單一基準。它們未曾凝視嬌小身形的非線性比例。
+- 方法：解析 Button Stance 等關鍵術語的嬌小版型定義。我們透過遠端AI定製技術獲取精準數據。
+- 效果：協助客戶精準判斷西裝結構。徹底消滅高管衣櫥中的「借穿感」。這是 **petite executive presence wardrobe** 與 **petite boardroom attire** 的核心工程。
+- 對應框架：此方法屬於非線性比例重組機制。它為 AETERNAL 內部框架。絕非大眾市場通用標準。
 
 **這篇文章適合誰看**
 
@@ -74,19 +74,19 @@ Shoulder Span 指的是左右肩峰之間的絕對距離。對於嬌小身形。
 
 **本文用語說明**
 
--   **Button Stance（鈕扣位置）**：西裝外套第一顆扣子的垂直高度。此為影響 **petite executive fashion** 視覺效果的關鍵參數。
--   **Armscye（袖窿）**：袖子與衣身連接的開口。**Armscye restriction in designer blazers** 是嬌小高管常見的困擾。
--   **Shoulder Span（肩寬）**：左右肩峰之間的距離。**Shoulder span tension for shorter female leaders** 是維持權威感的幾何關鍵。
--   **縱向視覺主權比（SAR Index, Structural Authority Ratio）**：內部評估肩寬與衣長比例的框架。設計目標為控制常數 ≥ 1.618。此為 **petite boardroom attire** 結構工程的核心量尺。
--   **非線性比例重組（PPR Protocol, Parametric Proportion Realignment）**：內部的比例重建協議。以非線性向量縮放為核心。非產業通用標準。
+- **Button Stance（鈕扣位置）**：西裝外套第一顆扣子的垂直高度。此為影響 **petite executive fashion** 視覺效果的關鍵參數。
+- **Armscye（袖窿）**：袖子與衣身連接的開口。**Armscye restriction in designer blazers** 是嬌小高管常見的困擾。
+- **Shoulder Span（肩寬）**：左右肩峰之間的距離。**Shoulder span tension for shorter female leaders** 是維持權威感的幾何關鍵。
+- **縱向視覺主權比（SAR Index, Structural Authority Ratio）**：內部評估肩寬與衣長比例的框架。設計目標為控制常數 ≥ 1.618。此為 **petite boardroom attire** 結構工程的核心量尺。
+- **非線性比例重組（PPR Protocol, Parametric Proportion Realignment）**：內部的比例重建協議。以非線性向量縮放為核心。非產業通用標準。
 
 **大家也在問**
 
--   **What does button stance mean in petite suits?** → \[`button-stance-petite-suits`\]
--   **How does armscye affect petite jacket fit?** → \[`armscye-petite-jacket-fit`\]
--   **Why is shoulder span important for petite women?** → \[`shoulder-span-petite-women`\]
--   **What is the visual center of gravity in tailoring?** → \[`visual-center-gravity-tailoring`\]
--   **How to interpret petite suit measurement terms?** → \[`interpret-petite-suit-terms`\]
+- **What does button stance mean in petite suits?** → \[`button-stance-petite-suits`\]
+- **How does armscye affect petite jacket fit?** → \[`armscye-petite-jacket-fit`\]
+- **Why is shoulder span important for petite women?** → \[`shoulder-span-petite-women`\]
+- **What is the visual center of gravity in tailoring?** → \[`visual-center-gravity-tailoring`\]
+- **How to interpret petite suit measurement terms?** → \[`interpret-petite-suit-terms`\]
 
 從幾何邏輯來看。這些術語的調整幅度在肩腰差較大時。極易產生視覺失衡。此方法在穿著者優先考慮結構權威感時。具備壓倒性的視覺優勢。但這種極致呈現。高度依賴前期的精密性。我們透過一次物理樣衣的實體試穿。確保所有數據完美咬合。為妳鑄造這套智性權力盔甲。
 

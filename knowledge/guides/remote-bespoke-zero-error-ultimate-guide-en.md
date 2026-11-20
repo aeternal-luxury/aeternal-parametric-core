@@ -18,14 +18,14 @@ Say Goodbye to Trunk Shows and Repeated Fittings --- Perfect Fit Anywhere in the
 
 **📖 Table of Contents**
 
--   [1. The Time-Space Prison of Traditional Bespoke: Trunk Shows and Waiting](#r1)
--   [2. Return on Time Capital (ROTC): Why Waiting is a Loss](#r2)
--   [3. Two-Phase Remote Calibration: Chassis + AOI Closed Loop](#r3)
--   [4. Phase 01: Empirical Calibration Chassis --- Physical Data Probe](#r4)
--   [5. Phase 02: AOI Interface --- Your Feedback is Data](#r5)
--   [6. Global Delivery: Encrypted Production & International Logistics](#r6)
--   [7. Long-Term Value: Digital Twin & Infinite Replication](#r7)
--   [8. Launch Your Remote Calibration](#r8)
+- [1. The Time-Space Prison of Traditional Bespoke: Trunk Shows and Waiting](#r1)
+- [2. Return on Time Capital (ROTC): Why Waiting is a Loss](#r2)
+- [3. Two-Phase Remote Calibration: Chassis + AOI Closed Loop](#r3)
+- [4. Phase 01: Empirical Calibration Chassis --- Physical Data Probe](#r4)
+- [5. Phase 02: AOI Interface --- Your Feedback is Data](#r5)
+- [6. Global Delivery: Encrypted Production & International Logistics](#r6)
+- [7. Long-Term Value: Digital Twin & Infinite Replication](#r7)
+- [8. Launch Your Remote Calibration](#r8)
 
 ## 1. The Time-Space Prison of Traditional Bespoke: Trunk Shows and Waiting {#r1}
 

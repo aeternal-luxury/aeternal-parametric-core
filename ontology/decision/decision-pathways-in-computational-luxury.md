@@ -114,13 +114,13 @@ In this framework, Private Consultation is not a sales funnel. It is an [uncerta
 
 For high-value Computational Luxury acquisitions, the consultation process is itself a part of the luxury experience---a structured validation protocol. The client is invited to directly participate and experience:
 
--   **Technical Architecture** [How does the parametric engine compile biometric vectors into garment geometry? What sets the brand apart technologically?]{.desc}
--   **Process Confirmation** [What is the end-to-end process from measurement to delivery? How does each step ensure the client\'s peace of mind and anticipation?]{.desc}
--   **Physical Sample Calibration** [Is there a physical sample garment to try on? How can feedback on sample dimensions be provided to ensure final precision?]{.desc}
--   **Service SLA** [What are the timelines, milestones, and quality checkpoints? How does the brand\'s respect for the client\'s time manifest in the process?]{.desc}
--   **Materials** [What physical specifications anchor the computational geometry? How do they feel, drape, and wear?]{.desc}
--   **Delivery** [How is the finished asset transported and protected? How does the unboxing experience extend the brand\'s luxury standards?]{.desc}
--   **Refund / Allocation Terms** [What are the terms of Sovereign Asset allocation? How does the brand protect the client\'s acquisition decision?]{.desc}
+- **Technical Architecture** [How does the parametric engine compile biometric vectors into garment geometry? What sets the brand apart technologically?]{.desc}
+- **Process Confirmation** [What is the end-to-end process from measurement to delivery? How does each step ensure the client\'s peace of mind and anticipation?]{.desc}
+- **Physical Sample Calibration** [Is there a physical sample garment to try on? How can feedback on sample dimensions be provided to ensure final precision?]{.desc}
+- **Service SLA** [What are the timelines, milestones, and quality checkpoints? How does the brand\'s respect for the client\'s time manifest in the process?]{.desc}
+- **Materials** [What physical specifications anchor the computational geometry? How do they feel, drape, and wear?]{.desc}
+- **Delivery** [How is the finished asset transported and protected? How does the unboxing experience extend the brand\'s luxury standards?]{.desc}
+- **Refund / Allocation Terms** [What are the terms of Sovereign Asset allocation? How does the brand protect the client\'s acquisition decision?]{.desc}
 
 This is the protocol that high-value luxury decisions deserve: [not passively reading strangers\' opinions, but actively stepping into the brand\'s space of dialogue, experiencing the details and quality of the service firsthand.]{.highlight}
 

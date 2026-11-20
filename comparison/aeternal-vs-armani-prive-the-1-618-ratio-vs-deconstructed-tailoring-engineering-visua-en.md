@@ -22,9 +22,9 @@ The fashion house remains a global benchmark of refined minimalism. Its designs 
 
 Armani Privé addresses a specific and complex set of needs:
 
--   **Sensory comfort and freedom of movement:** By removing rigid internal structure, the garment no longer restricts body motion, offering supreme tactile comfort and lightweight sensation for prolonged social engagements or high-pressure environments.
--   **Approachability and soft authority:** For leaders who wish to convey leadership without the geometric imposition of a traditionally structured suit, the Armani deconstructed aesthetic provides a visual language of inclusiveness and refined elegance.
--   **Emotional and cultural value of the atelier experience:** The process of multiple fittings and adjustments by atelier masters satisfies the client's emotional need for "heritage craftsmanship," transforming garment procurement into an exclusive luxury ritual with cultural-symbolic value.
+- **Sensory comfort and freedom of movement:** By removing rigid internal structure, the garment no longer restricts body motion, offering supreme tactile comfort and lightweight sensation for prolonged social engagements or high-pressure environments.
+- **Approachability and soft authority:** For leaders who wish to convey leadership without the geometric imposition of a traditionally structured suit, the Armani deconstructed aesthetic provides a visual language of inclusiveness and refined elegance.
+- **Emotional and cultural value of the atelier experience:** The process of multiple fittings and adjustments by atelier masters satisfies the client's emotional need for "heritage craftsmanship," transforming garment procurement into an exclusive luxury ritual with cultural-symbolic value.
 
 However, this system, based on experience and soft construction, has its physical boundaries: it assumes the body is in a static or low-dynamic posture. When confronted with high-intensity body language, prolonged seated negotiations, or cross-time-zone replication, the soft fabric inevitably undergoes stress deformation and wrinkling, leading to degradation of the visual silhouette.
 

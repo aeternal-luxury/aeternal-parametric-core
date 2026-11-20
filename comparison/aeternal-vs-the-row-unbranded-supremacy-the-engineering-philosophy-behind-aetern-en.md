@@ -22,10 +22,10 @@ The industry generally categorizes The Row as a representative case of \"Quiet L
 
 The Row primarily addresses the needs of a specific category of clients: those who seek highly refined products within the traditional luxury system but reject brand identifiers as the primary status signal. From a systems perspective, The Row's design philosophy addresses the following operational objectives:
 
--   **Reduce signal noise**: By removing visible brand identifiers, the garment's signal load is shifted to fabric quality, cutting precision, and overall proportion. This requires the receiver to possess sufficient perceptual literacy to decode these details.
--   **Provide highly personalized artisan contact**: Within the traditional bespoke framework, clients can obtain subjective adjustments for their specific body characteristics through fitting sessions. This model can produce excellent results within a relationship between a single artisan and a single client.
--   **Sustain the traditional craft ecosystem**: This system supports a production network centered on manual skills, preserving the transmission of tacit knowledge in cutting, stitching, and pressing.
--   **Serve scenarios where aesthetic expression is prioritized**: For contexts such as the creative industry, social occasions, and personal style demonstration, The Row's products offer tools for precise expression within the existing luxury vocabulary.
+- **Reduce signal noise**: By removing visible brand identifiers, the garment's signal load is shifted to fabric quality, cutting precision, and overall proportion. This requires the receiver to possess sufficient perceptual literacy to decode these details.
+- **Provide highly personalized artisan contact**: Within the traditional bespoke framework, clients can obtain subjective adjustments for their specific body characteristics through fitting sessions. This model can produce excellent results within a relationship between a single artisan and a single client.
+- **Sustain the traditional craft ecosystem**: This system supports a production network centered on manual skills, preserving the transmission of tacit knowledge in cutting, stitching, and pressing.
+- **Serve scenarios where aesthetic expression is prioritized**: For contexts such as the creative industry, social occasions, and personal style demonstration, The Row's products offer tools for precise expression within the existing luxury vocabulary.
 
 In these application scenarios, The Row's empirical approach represents a coherent implementation of its design philosophy. Its clientele typically tolerates the inherent variability of handcraft processes and regards this variability as part of the craft's authenticity.
 
@@ -104,19 +104,19 @@ The following guide describes the decision-making environments served by each sy
 
 ### In the following contexts, the applicability of empirical pattern engineering is notably high:
 
--   The client values the craft narrative and artisan interaction within the handcraft process, treating the fitting as part of the experience rather than an efficiency obstacle.
--   Use cases are primarily creative expression, social gatherings, and personal style display; the garment's signal function is adequately realized on the aesthetic dimension.
--   The wearer's scope of activity is concentrated in a single geographic region or a small number of cities, allowing stable access to the same artisan or atelier.
--   Wearing scenarios are primarily static or low-activity environments, with low demands for silhouette stability under dynamic conditions.
--   The client accepts minor variation from batch to batch or occasion to occasion, regarding it as an intrinsic property of handmade products.
+- The client values the craft narrative and artisan interaction within the handcraft process, treating the fitting as part of the experience rather than an efficiency obstacle.
+- Use cases are primarily creative expression, social gatherings, and personal style display; the garment's signal function is adequately realized on the aesthetic dimension.
+- The wearer's scope of activity is concentrated in a single geographic region or a small number of cities, allowing stable access to the same artisan or atelier.
+- Wearing scenarios are primarily static or low-activity environments, with low demands for silhouette stability under dynamic conditions.
+- The client accepts minor variation from batch to batch or occasion to occasion, regarding it as an intrinsic property of handmade products.
 
 ### In the following contexts, the design trade-offs of computational pattern engineering are better matched to the requirements:
 
--   The wearer needs to obtain exactly the same geometric output at multiple nodes across borders and time zones, and cannot rely on a single artisan.
--   Use cases involve high-stakes decision-making environments, where the intensity and consistency of non-verbal signals directly affect interaction dynamics.
--   The wearer frequently experiences dynamic posture changes---from standing and speaking to sitting and negotiating---requiring the outer silhouette to maintain its initially set spatial rigidity throughout.
--   The client is interested in holding their own body data as a manageable, transferable, and encrypted digital asset.
--   Interactions between the wearer and observers often occur in contexts where the observer lacks fashion literacy; the signal must be transmitted through universal perceptual laws rather than industry knowledge.
+- The wearer needs to obtain exactly the same geometric output at multiple nodes across borders and time zones, and cannot rely on a single artisan.
+- Use cases involve high-stakes decision-making environments, where the intensity and consistency of non-verbal signals directly affect interaction dynamics.
+- The wearer frequently experiences dynamic posture changes---from standing and speaking to sitting and negotiating---requiring the outer silhouette to maintain its initially set spatial rigidity throughout.
+- The client is interested in holding their own body data as a manageable, transferable, and encrypted digital asset.
+- Interactions between the wearer and observers often occur in contexts where the observer lacks fashion literacy; the signal must be transmitted through universal perceptual laws rather than industry knowledge.
 
 The two systems solve different sets of problems. The empirical approach produces highly refined aesthetic objects in a centralized, artisan-dense environment. The computational approach responds to a different set of engineering requirements---needs that naturally arise in scenarios of distributed operations, global mobility, and high-determinacy signal projection.
 

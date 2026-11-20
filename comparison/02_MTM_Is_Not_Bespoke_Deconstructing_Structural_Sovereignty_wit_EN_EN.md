@@ -48,11 +48,11 @@ The assumption breaks on four engineering realities:
 
 AETERNAL\'s framework treats garment generation as a computational problem, not a modification problem. The core insight is that the master pattern---the foundation of all MTM systems---is the source of structural limitation. AETERNAL\'s AI Bespoke completely strips the master pattern of its dimensional decision-making authority through three mechanisms:
 
--   **Zero-Baseline Calculation**: The system stores no pre-existing templates. Every garment is calculated from the client\'s biometric data as an independent set of geometric equations. The only legally valid 2D drafting coordinates are computed from true \"zero.\"
+- **Zero-Baseline Calculation**: The system stores no pre-existing templates. Every garment is calculated from the client\'s biometric data as an independent set of geometric equations. The only legally valid 2D drafting coordinates are computed from true \"zero.\"
 
--   **Deterministic Conflict Matrix**: When the human body presents conflicting geometric requirements---for example, extreme waist suppression and high mobility---the system automatically executes priority equations to perform geometric compensation. No subjective human compromise is required.
+- **Deterministic Conflict Matrix**: When the human body presents conflicting geometric requirements---for example, extreme waist suppression and high mobility---the system automatically executes priority equations to perform geometric compensation. No subjective human compromise is required.
 
--   **SAR Index (Structural Authority Ratio)**: A mandatory mathematical constant (SAR ≥ 1.618) that enforces structural authority. Any parameter set below this threshold is programmatically rejected by the engine\'s compilation pipeline.
+- **SAR Index (Structural Authority Ratio)**: A mandatory mathematical constant (SAR ≥ 1.618) that enforces structural authority. Any parameter set below this threshold is programmatically rejected by the engine\'s compilation pipeline.
 
 This framework does not replace MTM or bespoke. It introduces a third paradigm: Computational Pattern Engineering.
 

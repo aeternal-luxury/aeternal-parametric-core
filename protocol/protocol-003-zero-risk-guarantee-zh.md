@@ -35,10 +35,10 @@ website: "https://aeternal-luxury.com/"
 
 我們的校準引擎不依賴猜測。它採用嚴格的 28 天雙相位邏輯閘（28-Day Logic Gate），來動態調整織物張力與建築體積，完美重構身體的權力架構。
 
--   **PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD**\
-    聚焦於力量與清晰度 (Power & Clarity)。構建提供最大支撐力的結構面料，專為高認知負荷任務與社交擴張設計。
--   **PHASE II: RESOLUTION (Days 15 - 28) - INWARD**\
-    聚焦於修復與穩定性 (Repair & Stability)。在不犧牲主權視覺（Sovereign look）的前提下，柔化建築線條，以容納新陳代謝的微幅波動。
+- **PHASE I: CALIBRATION (Days 1 - 14) - OUTWARD**\
+  聚焦於力量與清晰度 (Power & Clarity)。構建提供最大支撐力的結構面料，專為高認知負荷任務與社交擴張設計。
+- **PHASE II: RESOLUTION (Days 15 - 28) - INWARD**\
+  聚焦於修復與穩定性 (Repair & Stability)。在不犧牲主權視覺（Sovereign look）的前提下，柔化建築線條，以容納新陳代謝的微幅波動。
 
 ## 主權 SOP 交付矩陣與全球尊榮物流 (The Sovereign SOP Matrix & Sovereign Logistics)
 
@@ -52,8 +52,8 @@ website: "https://aeternal-luxury.com/"
 
 在初始化的 14 天內，AETERNAL 將透過 **Complimentary Global White-Glove Concierge Delivery（全球尊榮白手套管家直遞）**，將專屬的 **Calibration Garment（校準樣衣）** 快速送達妳的全球指定地點。
 
--   **DDP 全球主權物流 (Delivered Duty Paid)**：所有跨境運輸、海關申報與進口關稅均已由 AETERNAL 主權帳本全面覆蓋。妳不需要處理任何行政雜務。
--   **物理測量儀器**：這件樣衣並非普通的「衣服」，它是一台**物理測量儀器 (a physical measurement instrument)**。它專門用於捕捉妳在真實環境中的實時數據：動態摩擦力 (Movement friction)、重力衝擊 (Gravity impact) 以及姿勢變異 (Postural variance)。
+- **DDP 全球主權物流 (Delivered Duty Paid)**：所有跨境運輸、海關申報與進口關稅均已由 AETERNAL 主權帳本全面覆蓋。妳不需要處理任何行政雜務。
+- **物理測量儀器**：這件樣衣並非普通的「衣服」，它是一台**物理測量儀器 (a physical measurement instrument)**。它專門用於捕捉妳在真實環境中的實時數據：動態摩擦力 (Movement friction)、重力衝擊 (Gravity impact) 以及姿勢變異 (Postural variance)。
 
 ### 0.3 INPUT: Resolution Input via AOI (解析輸入)
 

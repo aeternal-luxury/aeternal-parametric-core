@@ -18,13 +18,13 @@ From the Failure of Linear Grading to Unassailable Visual Authority
 
 **📖 Table of Contents**
 
--   [1. The Crisis: \"Visual Inflation\" in Traditional RTW](#section1)
--   [2. Anatomizing Failure: Linear Grading and the \"Borrowed Clothes Effect\"](#section2)
--   [3. The Petite Executive\'s Dilemma: Authority Scaled Down](#section3)
--   [4. The Quiet Luxury Trap: When Minimalism Becomes Weakness](#section4)
--   [5. The Solution: Geometric Sovereignty and the SAR Index](#section5)
--   [6. The PPR Protocol: Golden-Section Re-Proportioning](#section6)
--   [7. Your Next Step: Activating Geometric Sovereignty](#section7)
+- [1. The Crisis: \"Visual Inflation\" in Traditional RTW](#section1)
+- [2. Anatomizing Failure: Linear Grading and the \"Borrowed Clothes Effect\"](#section2)
+- [3. The Petite Executive\'s Dilemma: Authority Scaled Down](#section3)
+- [4. The Quiet Luxury Trap: When Minimalism Becomes Weakness](#section4)
+- [5. The Solution: Geometric Sovereignty and the SAR Index](#section5)
+- [6. The PPR Protocol: Golden-Section Re-Proportioning](#section6)
+- [7. Your Next Step: Activating Geometric Sovereignty](#section7)
 
 ## 1. The Crisis: \"Visual Inflation\" in Traditional RTW {#section1}
 
@@ -39,9 +39,9 @@ Traditional RTW brands rely on a crude mathematical shortcut---**Linear Grading*
 **⚡ The Fatal Flaw of Linear Grading**\
 The human body is not a uniformly inflating balloon. Shoulder width, waist position, arm length, and bone inclination are non-linearly related. Linear grading causes:
 
--   **Depressed Button Stance:** Visual center of gravity drops, shortening the torso visually.
--   **Dislocated Pocket Coordinates:** Pockets sit too low, \"cutting\" the legs visually.
--   **Distorted Lapel Proportions:** Oversized lapels make the wearer look \"swallowed\" by the garment.
+- **Depressed Button Stance:** Visual center of gravity drops, shortening the torso visually.
+- **Dislocated Pocket Coordinates:** Pockets sit too low, \"cutting\" the legs visually.
+- **Distorted Lapel Proportions:** Oversized lapels make the wearer look \"swallowed\" by the garment.
 
 When a petite leader (under 160cm) wears a proportionally distorted jacket, she isn\'t \"wearing\" it---she\'s \"borrowing\" it. This is the **\"Borrowed Clothes Effect.\"** Visually, she appears smaller, more cramped, and her authority is severely diluted.
 
@@ -75,9 +75,9 @@ SAR = f(Shoulder Width, Waist Position, Length) [≥ 1.618]{style="color: #7ee78
 
 **PPR Protocol (Parametric Proportion Realignment)** is the execution engine for Geometric Sovereignty. When the system detects a deviation between your biometric vectors and the ideal shell, PPR performs a \"geometric surgery\":
 
--   **Elevate Button Stance:** Shift visual focus upward by 15%, optically elongating the legs.
--   **Adjust Lapel Angle:** Use steeper lapel lines to guide the eye upward, increasing perceived height.
--   **Reallocate Volume:** Move redundant volume from the chest to the back, keeping the front profile absolutely flat.
+- **Elevate Button Stance:** Shift visual focus upward by 15%, optically elongating the legs.
+- **Adjust Lapel Angle:** Use steeper lapel lines to guide the eye upward, increasing perceived height.
+- **Reallocate Volume:** Move redundant volume from the chest to the back, keeping the front profile absolutely flat.
 
 **⚡ PPR Protocol Core Logic**\
 IF Δ(B~base~, S~ideal~) \> 0.02% THEN\

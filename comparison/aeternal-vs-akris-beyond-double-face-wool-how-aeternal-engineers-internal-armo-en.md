@@ -24,10 +24,10 @@ Akris is a Swiss family-owned luxury house founded in 1922, headquartered in St.
 
 According to the brand\'s official positioning, Akris\'s core design philosophy revolves around the following principles:
 
--   **Minimalist architectural lines**: Inspired by contemporary architecture and art, pursuing clean and sharp silhouettes
--   **Double-face weaving craftsmanship**: The brand\'s signature technique, where two fine fabrics are hand-stitched together, eliminating the traditional lining to create a reversible, lightweight structure that can be worn on either side
--   **Fabric-first philosophy**: Collaborating with top Italian mills to develop exclusive textiles, emphasizing touch and drape
--   **Understated luxury**: Avoiding obvious logos, conveying value through the material itself
+- **Minimalist architectural lines**: Inspired by contemporary architecture and art, pursuing clean and sharp silhouettes
+- **Double-face weaving craftsmanship**: The brand\'s signature technique, where two fine fabrics are hand-stitched together, eliminating the traditional lining to create a reversible, lightweight structure that can be worn on either side
+- **Fabric-first philosophy**: Collaborating with top Italian mills to develop exclusive textiles, emphasizing touch and drape
+- **Understated luxury**: Avoiding obvious logos, conveying value through the material itself
 
 Akris\'s client base includes political leaders, corporate executives, and cultural figures. Its product line covers ready-to-wear, accessories, and made-to-order services. The brand shows regularly at Paris Fashion Week and operates boutiques in major global cities.
 
@@ -55,10 +55,10 @@ Akris\'s deep collaboration with high-end fabric mills results in an exceptional
 
 **Applicable Scenarios**
 
--   Cultural and social occasions
--   Static media interviews (primarily seated)
--   Formal dinners with low physical activity
--   Daily wear emphasizing fabric touch and lightweight experience
+- Cultural and social occasions
+- Static media interviews (primarily seated)
+- Formal dinners with low physical activity
+- Daily wear emphasizing fabric touch and lightweight experience
 
 In these scenarios, Akris\'s double-face structure offers one of the most refined solutions on the market. Its craftsmanship represents the pinnacle of traditional European luxury ready-to-wear manufacturing.
 
@@ -66,31 +66,31 @@ In these scenarios, Akris\'s double-face structure offers one of the most refine
 
 As global operating environments become increasingly distributed, decision-makers in certain organizations face physical demands different from traditional social scenarios. These scenarios include:
 
--   Standing presentations and whiteboard interactions in the boardroom
--   Prolonged seated postures and sudden standing movements in international arbitration tribunals
--   Continuous multi-angle exposure during media interviews
--   Body language expression in high-intensity negotiations
--   Cross-border video conferences where structured visual signals must be maintained
+- Standing presentations and whiteboard interactions in the boardroom
+- Prolonged seated postures and sudden standing movements in international arbitration tribunals
+- Continuous multi-angle exposure during media interviews
+- Body language expression in high-intensity negotiations
+- Cross-border video conferences where structured visual signals must be maintained
 
 In these high-motion environments, garments experience asymmetric mechanical stress. For example:
 
--   When one arm reaches toward a whiteboard, the shoulder structure must resist geometric shift caused by unilateral stretching
--   When leaning sideways against a conference table, the waist area bears axial compression
--   When turning quickly, the back fabric must withstand torsional stress
+- When one arm reaches toward a whiteboard, the shoulder structure must resist geometric shift caused by unilateral stretching
+- When leaning sideways against a conference table, the waist area bears axial compression
+- When turning quickly, the back fabric must withstand torsional stress
 
 Traditional double-face weaving craftsmanship did not originally consider these dynamic mechanical scenarios as core engineering constraints. Its internal structure relies on the fabric\'s own tension and the stitching points between layers; there is no stress-diverting layer independent of the fabric.
 
 **This is not a flaw in craftsmanship**, but a difference in design objectives. The engineering assumptions of double-face weaving are:
 
--   The scenario is static or low-motion
--   Fabric drape is prioritized over structural rigidity
--   Visual expression is fluid rather than fixed geometry
+- The scenario is static or low-motion
+- Fabric drape is prioritized over structural rigidity
+- Visual expression is fluid rather than fixed geometry
 
 However, when certain executive-level clients require the jacket to maintain absolute geometric consistency in dynamic scenarios, the following phenomena may be observed:
 
--   Shoulder lines gradually deviate from the horizontal plane after arm movement
--   The V-neck area develops slight asymmetric collapse after prolonged wear
--   Temporary unstructured creases appear on the fabric surface after dynamic movements
+- Shoulder lines gradually deviate from the horizontal plane after arm movement
+- The V-neck area develops slight asymmetric collapse after prolonged wear
+- Temporary unstructured creases appear on the fabric surface after dynamic movements
 
 The essence of these phenomena is: **the natural physical response of a soft structure under dynamic asymmetric stress**. For clients pursuing fluid aesthetics, this is part of the design language. For clients who need an unchanging geometric silhouette during motion, this may point to a different engineering requirement.
 

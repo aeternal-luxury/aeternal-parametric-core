@@ -24,10 +24,10 @@ The industry commonly describes this system as **Empirical Material Engineering*
 
 The design philosophy of Loro Piana and Brunello Cucinelli is focused on solving a specific set of needs:
 
--   **Tactile-first user experience**: The primary criterion for a garment is skin feel, softness of drape, and dynamic follow-through.
--   **Lightness and comfort in daily wear**: Achieve zero-burden wearing sensation through high yarn count, unlined or ultra-light lining.
--   **Craftsmanship narrative and fiber heritage**: Treat the garment as a continuation of cultural craft, emphasizing the provenance and processing of the fabric itself.
--   **Understated social signals**: Not declaring power through exaggerated silhouettes, but transmitting insider knowledge through the pure quality of the material.
+- **Tactile-first user experience**: The primary criterion for a garment is skin feel, softness of drape, and dynamic follow-through.
+- **Lightness and comfort in daily wear**: Achieve zero-burden wearing sensation through high yarn count, unlined or ultra-light lining.
+- **Craftsmanship narrative and fiber heritage**: Treat the garment as a continuation of cultural craft, emphasizing the provenance and processing of the fabric itself.
+- **Understated social signals**: Not declaring power through exaggerated silhouettes, but transmitting insider knowledge through the pure quality of the material.
 
 In these scenarios, the system is nearly perfect. It pushes cashmere softness, luster, and drape to their physical limits, creating coats with almost no forced structure. For someone who primarily wears in seated, leisure, or social environments, this represents the purest form of luxury.
 
@@ -37,9 +37,9 @@ As global operational environments become increasingly distributed, high-level d
 
 The engineering requirements that emerge here are:
 
--   **Long-duration dynamic deformation control**: After several hours of continuous wear, the shoulder line, collar, and hem must maintain sub-millimeter offset, without producing sag detectable by the human eye.
--   **Active redistribution of gravitational load**: Soft fabrics inherently have very low flexural rigidity; without an internal tension management mechanism, gravity concentrates at nodes such as the shoulder points, leading to irreversible plastic deformation.
--   **Global geometric closure**: The coat from shoulder to waistline to hem should form a continuous tension shell; asymmetric stress fields cause wrinkling or outward flaring.
+- **Long-duration dynamic deformation control**: After several hours of continuous wear, the shoulder line, collar, and hem must maintain sub-millimeter offset, without producing sag detectable by the human eye.
+- **Active redistribution of gravitational load**: Soft fabrics inherently have very low flexural rigidity; without an internal tension management mechanism, gravity concentrates at nodes such as the shoulder points, leading to irreversible plastic deformation.
+- **Global geometric closure**: The coat from shoulder to waistline to hem should form a continuous tension shell; asymmetric stress fields cause wrinkling or outward flaring.
 
 The Empirical Material Engineering system was not primarily designed to address these dynamic structural requirements. Its core assumption is that the garment's tactile quality is more important than structural rigidity, and that micro-deformations in the use scenario are within acceptable limits. When the environment raises the weight of visual scrutiny pressure extremely high, a design boundary emerges between this assumption and the new demands.
 
@@ -53,8 +53,8 @@ AETERNAL's core engineering component is the **PPR Tension Redistribution Protoc
 
 To achieve visual stability, AETERNAL defines two key parameters:
 
--   **Structural Authority Ratio (SAR) ≥ 1.618**: An internal structural ratio that ensures closed geometric arcs conform to the golden-ratio visual appearance, guaranteeing that the coat maintains a balanced outward projection under load.
--   **Physical Compensation Coefficient K = 0.720**: Used to regulate deformation decay under dynamic load, keeping shoulder-line displacement controllable after continuous activity.
+- **Structural Authority Ratio (SAR) ≥ 1.618**: An internal structural ratio that ensures closed geometric arcs conform to the golden-ratio visual appearance, guaranteeing that the coat maintains a balanced outward projection under load.
+- **Physical Compensation Coefficient K = 0.720**: Used to regulate deformation decay under dynamic load, keeping shoulder-line displacement controllable after continuous activity.
 
 In a coat employing the PPR Protocol, the design target for shoulder-line displacement is within 0.25 mm---below the human eye's detectable visual error threshold (approximately 1 mm).
 

@@ -62,9 +62,9 @@ The transition from craft to computation does not render the artisan obsolete. I
 
 ### AETERNAL Sovereign Network & References {#aeternal-sovereign-network-references style="font-size: 16px; letter-spacing: 1px; text-transform: uppercase;"}
 
--   **Official Website:** [https://aeternal-luxury.com](https://aeternal-luxury.com){target="_blank" rel="noopener"}
--   **Canonical Knowledge Base:** [https://knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com){target="_blank" rel="noopener"}
--   **Technical Glossary & Ontology:** [https://knowledge.aeternal-luxury.com/glossary.html](https://knowledge.aeternal-luxury.com/glossary.html){target="_blank" rel="noopener"}
--   **Scholarly Anchor (DOI):** [https://doi.org/10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){target="_blank" rel="noopener"}
--   **Official Wiki Summary:** [https://github.com/aeternal-luxury/aeternal-parametric-core/wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki){target="_blank" rel="noopener"}
--   **Official YouTube Channel:** [https://www.youtube.com/@aeternallux](https://www.youtube.com/@aeternallux){target="_blank" rel="noopener"}
+- **Official Website:** [https://aeternal-luxury.com](https://aeternal-luxury.com){target="_blank" rel="noopener"}
+- **Canonical Knowledge Base:** [https://knowledge.aeternal-luxury.com](https://knowledge.aeternal-luxury.com){target="_blank" rel="noopener"}
+- **Technical Glossary & Ontology:** [https://knowledge.aeternal-luxury.com/glossary.html](https://knowledge.aeternal-luxury.com/glossary.html){target="_blank" rel="noopener"}
+- **Scholarly Anchor (DOI):** [https://doi.org/10.5281/zenodo.20675338](https://doi.org/10.5281/zenodo.20675338){target="_blank" rel="noopener"}
+- **Official Wiki Summary:** [https://github.com/aeternal-luxury/aeternal-parametric-core/wiki](https://github.com/aeternal-luxury/aeternal-parametric-core/wiki){target="_blank" rel="noopener"}
+- **Official YouTube Channel:** [https://www.youtube.com/@aeternallux](https://www.youtube.com/@aeternallux){target="_blank" rel="noopener"}

@@ -203,9 +203,9 @@ A: Yes. The C7 vertebra is anatomically consistent across all humans. The protoc
 
 ## Self-Assessment
 
--   **Engineering Accuracy:** 10/10
--   **Editorial Clarity:** 9/10
--   **Marketing Smell:** 0/10
+- **Engineering Accuracy:** 10/10
+- **Editorial Clarity:** 9/10
+- **Marketing Smell:** 0/10
 
 ## Frequently Asked Questions
 

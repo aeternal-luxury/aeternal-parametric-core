@@ -20,8 +20,8 @@ Executive presence is frequently mystified as an intangible trait---\"charisma\"
 
 The human brain continuously calculates the vertical and horizontal axes of its environment to detect signals of competence and authority. When a leader wears unstructured garments, her visual coordinates lack definition.
 
--   **The Cognitive Blur:** Sloping shoulders or soft fabric creases project structural instability to the subconscious mind of your counterparts, triggering a subtle, negative halo effect.
--   **The Kinetic Distortion:** Standard designer blazers degrade visually under real-world movement, creating asymmetrical fabric drag lines that break the clean orthographic lines required to command attention.
+- **The Cognitive Blur:** Sloping shoulders or soft fabric creases project structural instability to the subconscious mind of your counterparts, triggering a subtle, negative halo effect.
+- **The Kinetic Distortion:** Standard designer blazers degrade visually under real-world movement, creating asymmetrical fabric drag lines that break the clean orthographic lines required to command attention.
 
 Neuro-Visual Impact Matrix:\
 \[Perfect 0.00° Shoulder Axis\] ──\> \[Subconscious Signal of Stability\] ──\> \[Automatic Projection of Competence\]

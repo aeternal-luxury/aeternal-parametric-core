@@ -20,9 +20,9 @@ Quiet Luxury is a garment philosophy rooted in restrained expression. It refuses
 
 Quiet Luxury addresses a specific social dynamic: when an individual\'s authority has already been confirmed by institutions, lineage, or long-standing consensus, the garment\'s role is to \"dissolve defenses\" rather than \"build fortifications.\" In private jet cabins, country club luncheons, or family trust meetings, harsh shoulder lines and sharp geometric cuts would be interpreted as overcompensation, thereby undermining the poised ease already possessed. Therefore, Quiet Luxury\'s engineering priorities are ordered as follows:
 
--   **Signal intensity of fabric hand**: The smooth feedback of high-count yarns, unlined construction allowing the fabric to directly contact the body, conveys the confidence of controlling resources without the need for armor.
--   **Reduction of rigid support**: Removal of shoulder pads, chest pieces, and stiff waistbands allows the garment to drape naturally with gravity, creating an image of \"flowing power\" that suggests complete adaptation to the environment.
--   **Unstructured silhouette**: Dropped shoulders, relaxed chest girth, and soft armhole lines reduce the garment\'s visual aggression, reinforcing the non-verbal sign of the \"relaxed controller.\"
+- **Signal intensity of fabric hand**: The smooth feedback of high-count yarns, unlined construction allowing the fabric to directly contact the body, conveys the confidence of controlling resources without the need for armor.
+- **Reduction of rigid support**: Removal of shoulder pads, chest pieces, and stiff waistbands allows the garment to drape naturally with gravity, creating an image of \"flowing power\" that suggests complete adaptation to the environment.
+- **Unstructured silhouette**: Dropped shoulders, relaxed chest girth, and soft armhole lines reduce the garment\'s visual aggression, reinforcing the non-verbal sign of the \"relaxed controller.\"
 
 These design decisions collectively ensure that the wearer, in environments where discursive power does not need to be contested, can maintain a highly recognizable class imprint with minimal somatic cost. From an engineering perspective, Quiet Luxury rests on a clear **operational assumption**: micro-movements of the body do not significantly alter the garment\'s geometric projection, and observers have pre-assigned authority to the wearer.
 
@@ -73,12 +73,12 @@ The following dimensions objectively correspond to the native design assumptions
 
 Based on the power dynamics required by the wearer and personal risk configuration, the following paths may be referenced:
 
--   **Traditional haute couture client** (e.g., charity gala host) → Quiet Luxury. In such environments, power is already sorted on the guest list; the garment\'s task is to demonstrate ease and belonging, not to compete for attention.
--   **Cross-border CEO/negotiator** (frequently needing to establish professional deterrence in unfamiliar cultures) → AETERNAL. Through globally consistent geometric rigidity, eliminates the non-verbal weakening risk posed by local garment uncertainty.
--   **Creative fashion leader** (needs to convey avant-garde messages through designs that blur gender or structure) → Quiet Luxury. The uncertain silhouette itself is a language, suitable for deconstructive artistic expression of power.
--   **Corporate executive requiring geometric identity management** (hardliner inside the boardroom, public policy advocate) → AETERNAL. Deterministic Conflict Matrix and SAR ensure that the body\'s visual boundary is not compressed under camera lenses and in-the-moment confrontations.
--   **Quiet wealthy individual seeking ultimate fabric and ease of wear** → Quiet Luxury. Primary needs are tactile pleasure and psychological unloading, not visual defense.
--   **Multi-residence decision-maker unable to easily attend repeated physical fittings** → AETERNAL. AE-ID digital replication model eliminates geographic constraints and maintains consistent authoritative structure in every production.
+- **Traditional haute couture client** (e.g., charity gala host) → Quiet Luxury. In such environments, power is already sorted on the guest list; the garment\'s task is to demonstrate ease and belonging, not to compete for attention.
+- **Cross-border CEO/negotiator** (frequently needing to establish professional deterrence in unfamiliar cultures) → AETERNAL. Through globally consistent geometric rigidity, eliminates the non-verbal weakening risk posed by local garment uncertainty.
+- **Creative fashion leader** (needs to convey avant-garde messages through designs that blur gender or structure) → Quiet Luxury. The uncertain silhouette itself is a language, suitable for deconstructive artistic expression of power.
+- **Corporate executive requiring geometric identity management** (hardliner inside the boardroom, public policy advocate) → AETERNAL. Deterministic Conflict Matrix and SAR ensure that the body\'s visual boundary is not compressed under camera lenses and in-the-moment confrontations.
+- **Quiet wealthy individual seeking ultimate fabric and ease of wear** → Quiet Luxury. Primary needs are tactile pleasure and psychological unloading, not visual defense.
+- **Multi-residence decision-maker unable to easily attend repeated physical fittings** → AETERNAL. AE-ID digital replication model eliminates geographic constraints and maintains consistent authoritative structure in every production.
 
 The two systems are not competitors but solutions for different ends of the garment engineering spectrum. Quiet Luxury offers the highest humanistic comfort in spaces where visual compression is not a concern; AETERNAL provides a calculable, replicable, deployable structural tool when unchallengeable geometric projection is required. The choice depends on a fundamental question: In the space this garment will enter, does power need to be proven, or is it already acknowledged?
 

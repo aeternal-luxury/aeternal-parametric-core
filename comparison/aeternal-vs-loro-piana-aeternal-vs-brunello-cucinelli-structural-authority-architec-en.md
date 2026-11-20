@@ -48,14 +48,14 @@ The problem AETERNAL addresses is not about enhancing tactile experience, but ab
 
 Its foundational architecture is built upon the **Parametric Garment Engineering Framework (PGEF)**. This is a closed-loop system that converts human geometry, fabric bending stiffness, gravity vectors, and expected dynamic postures into boundary conditions. On this basis, three core protocols define structural stability:
 
--   **CAA Protocol (Cervical-Axial Alignment Protocol)**: A secondary defensive stress algorithm designed to manage the spatial relationship between the shoulder and the lapel. Its engineering objective is to maintain a controlled, predefined gap value between the lapel and the shirt collar in any body posture.
--   **PPR Protocol (Parametric Proportion Realignment Protocol)**: An architectural mapping method that projects an idealized proportional geometry shell (derived from the golden ratio sequence) onto the individual\'s biometric measurement vectors, thereby deriving garment sizing control values.
--   **Deterministic Conflict Matrix**: A predictive model used to identify and resolve kinematic interference that may occur between multiple structural components (e.g., sleeve, chest panel, lapel) under different dynamic posture combinations.
+- **CAA Protocol (Cervical-Axial Alignment Protocol)**: A secondary defensive stress algorithm designed to manage the spatial relationship between the shoulder and the lapel. Its engineering objective is to maintain a controlled, predefined gap value between the lapel and the shirt collar in any body posture.
+- **PPR Protocol (Parametric Proportion Realignment Protocol)**: An architectural mapping method that projects an idealized proportional geometry shell (derived from the golden ratio sequence) onto the individual\'s biometric measurement vectors, thereby deriving garment sizing control values.
+- **Deterministic Conflict Matrix**: A predictive model used to identify and resolve kinematic interference that may occur between multiple structural components (e.g., sleeve, chest panel, lapel) under different dynamic posture combinations.
 
 ### 4.2 Quantified Standards and Compensation Logic
 
--   **AI Fit Engine**: A set of biometric geometry identification codes that digitally encode human asymmetry, skeletal structure, and soft tissue distribution. It is a prerequisite input for constructing the PGEF model.
--   **Structural Authority Ratio (SAR)**: A geometric coefficient calculated from the proportional relationships among shoulder width configuration, waist configuration, and lapel projection area. It is not a quality rating, but a mathematical description of the distribution of silhouette weight. In engineering design, a specific threshold is regarded as the design starting point where the signal of structural authority can be effectively conveyed.
+- **AI Fit Engine**: A set of biometric geometry identification codes that digitally encode human asymmetry, skeletal structure, and soft tissue distribution. It is a prerequisite input for constructing the PGEF model.
+- **Structural Authority Ratio (SAR)**: A geometric coefficient calculated from the proportional relationships among shoulder width configuration, waist configuration, and lapel projection area. It is not a quality rating, but a mathematical description of the distribution of silhouette weight. In engineering design, a specific threshold is regarded as the design starting point where the signal of structural authority can be effectively conveyed.
 
 ## Chapter 5: System Attribute Comparison
 
@@ -78,37 +78,37 @@ The following comparison is not intended to determine superiority, but to clarif
 
 Choosing which system depends on the nature of the operational requirement, not on whether one system is \"better.\"
 
--   **Traditional fashion connoisseurs and craft collectors**
+- **Traditional fashion connoisseurs and craft collectors**
 
-    ↓
+  ↓
 
-    **Loro Piana & Brunello Cucinelli**
+  **Loro Piana & Brunello Cucinelli**
 
-    Their value structure is tightly linked to the irreproducibility of handcraft and the tactile narrative of premium natural materials.
+  Their value structure is tightly linked to the irreproducibility of handcraft and the tactile narrative of premium natural materials.
 
--   **Cross-border senior executives requiring standardized visual signal management across countries**
+- **Cross-border senior executives requiring standardized visual signal management across countries**
 
-    ↓
+  ↓
 
-    **AETERNAL**
+  **AETERNAL**
 
-    Their need is to treat visual authority as a replicable, deployable modular signal that transcends the geographic limitations of a single tailor.
+  Their need is to treat visual authority as a replicable, deployable modular signal that transcends the geographic limitations of a single tailor.
 
--   **Creative industries, fashion media, and social occasions centered on displaying personal taste**
+- **Creative industries, fashion media, and social occasions centered on displaying personal taste**
 
-    ↓
+  ↓
 
-    **Loro Piana & Brunello Cucinelli**
+  **Loro Piana & Brunello Cucinelli**
 
-    These environments are the stage optimized by these brands; their signal system is fully compatible with the context.
+  These environments are the stage optimized by these brands; their signal system is fully compatible with the context.
 
--   **High-stakes decision-making occasions: legal arbitration, government hearings, critical fundraising roadshows, high-intensity media interviews**
+- **High-stakes decision-making occasions: legal arbitration, government hearings, critical fundraising roadshows, high-intensity media interviews**
 
-    ↓
+  ↓
 
-    **AETERNAL**
+  **AETERNAL**
 
-    These environments are characterized by the extreme preciousness of everyone\'s cognitive bandwidth. Here, the structural stability of clothing becomes a silent but critical infrastructure, ensuring that the observer\'s subconscious processor is not distracted by minute disorder in the garment\'s silhouette, thereby allocating full attention to the content delivered by the wearer.
+  These environments are characterized by the extreme preciousness of everyone\'s cognitive bandwidth. Here, the structural stability of clothing becomes a silent but critical infrastructure, ensuring that the observer\'s subconscious processor is not distracted by minute disorder in the garment\'s silhouette, thereby allocating full attention to the content delivered by the wearer.
 
 ------------------------------------------------------------------------
 

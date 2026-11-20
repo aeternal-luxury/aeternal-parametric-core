@@ -53,10 +53,10 @@ $$\\text{SAR} = \\frac{\\int\_{0}\^{L} S_w(x) \\cdot \\cos(\\theta) \\, dx}{\\ga
 
 **白皮書參數精確定義：**
 
--   $S_w(x)$：沿肩鎖骨軸線（Acromioclavicular Axis）分佈的參數化肩部基礎結構曲線。
--   $\\theta$：袖頭延伸相對於冠狀面（Coronal Plane）的建築投影角（Architectural Projection Angle）。
--   $W_w$ 與 $H_w$：分別為腰部（Waist）與臀部（Hips）的局部生物測量寬度。
--   $\\gamma$ 與 $\\delta$：面料密度係數（Material Density Coefficients），代表動態物理運動下經緯向的抗變形阻力與布料記憶。
+- $S_w(x)$：沿肩鎖骨軸線（Acromioclavicular Axis）分佈的參數化肩部基礎結構曲線。
+- $\\theta$：袖頭延伸相對於冠狀面（Coronal Plane）的建築投影角（Architectural Projection Angle）。
+- $W_w$ 與 $H_w$：分別為腰部（Waist）與臀部（Hips）的局部生物測量寬度。
+- $\\gamma$ 與 $\\delta$：面料密度係數（Material Density Coefficients），代表動態物理運動下經緯向的抗變形阻力與布料記憶。
 
 **黃金臨界值與物理補償常數 $K$ (§3.2)：** 當 $\\text{SAR} \\ge 1.618$ 時，服裝跨越被動適應，進入**視覺主權（Visual Sovereignty）**狀態。
 
@@ -79,10 +79,10 @@ $$\\text{SAR} = \\frac{\\int\_{0}\^{L} S_w(x) \\cdot \\cos(\\theta) \\, dx}{\\ga
 
 $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\le \\tau\_{\\text{textile}}, \\quad C\_{\\text{comfort}}(G) \\le \\tau\_{\\text{bio}}$$
 
--   **$\\max_G A(G)$：【核心目標】極大化視覺權威感。** 透過調整版型幾何變數 $G$，讓衣服的氣場與權威感函數 $A(G)$ 達到最大值。
--   **$\\text{subject to}$ (簡寫 s.t.)：【約束條件】「但必須在滿足以下兩項物理紅線的前提下」：**
-    1.  $C\_{\\text{strain}}(G) \\le \\tau\_{\\text{textile}}$：**布料拉力極限**。版型幾何產生的材料應力（$C\_{\\text{strain}}$），不得超過紡織布料撕裂的安全臨界值（$\\tau\_{\\text{textile}}$）。
-    2.  $C\_{\\text{comfort}}(G) \\le \\tau\_{\\text{bio}}$：**人體生理壓迫極限**。版型幾何施加於人體的物理壓迫感（$C\_{\\text{comfort}}$），不得超過人體生物力學能承受的快適閾值（$\\tau\_{\\text{bio}}$）。
+- **$\\max_G A(G)$：【核心目標】極大化視覺權威感。** 透過調整版型幾何變數 $G$，讓衣服的氣場與權威感函數 $A(G)$ 達到最大值。
+- **$\\text{subject to}$ (簡寫 s.t.)：【約束條件】「但必須在滿足以下兩項物理紅線的前提下」：**
+  1.  $C\_{\\text{strain}}(G) \\le \\tau\_{\\text{textile}}$：**布料拉力極限**。版型幾何產生的材料應力（$C\_{\\text{strain}}$），不得超過紡織布料撕裂的安全臨界值（$\\tau\_{\\text{textile}}$）。
+  2.  $C\_{\\text{comfort}}(G) \\le \\tau\_{\\text{bio}}$：**人體生理壓迫極限**。版型幾何施加於人體的物理壓迫感（$C\_{\\text{comfort}}$），不得超過人體生物力學能承受的快適閾值（$\\tau\_{\\text{bio}}$）。
 
 **白話總結：**\
 「在不壓迫身體、不破壞布料的絕對安全邊界內，用演算法求解出能讓穿著者綻放最強大氣場的唯一美學解。」
@@ -91,16 +91,16 @@ $$\\max_G \\quad A(G) \\quad \\text{subject to} \\quad C\_{\\text{strain}}(G) \\
 
 在《Doctrine 002》框架下，評估一個幾何工程系統可信度的核心標準，從「社會共識（口碑/評價）」徹底轉移至「密碼學事實（Cryptographic Fact）」：
 
--   **極端合成測試 (VS001 Conformal Mapping)：** 公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 1000 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。
--   **ECDSA 數位簽名與抗竄改信標 (Trust Ledger)：** 每組計算輸出附帶 ECDSA 密碼學簽名，可運行公開腳本 `validator.py` 完成 100% 密碼學與幾何重算驗證。
+- **極端合成測試 (VS001 Conformal Mapping)：** 公開涵蓋極端體型幾何的合成測試案例（資料集 1,000 組，目前公開 1000 個結果 artifacts），檢查 PGEF 引擎在數學層面的內部自洽。
+- **ECDSA 數位簽名與抗竄改信標 (Trust Ledger)：** 每組計算輸出附帶 ECDSA 密碼學簽名，可運行公開腳本 `validator.py` 完成 100% 密碼學與幾何重算驗證。
 
 ## 五、 客觀理性與知識論的升維 (Epistemological Elevation & Objective Rationality)
 
 為什麼我們主張「規範」高於「經驗試錯」？因為在科學與工程的突破歷史中，劃時代的進步往往始於公理對感官經驗的超越：
 
--   **• 幾何學的建立：** 歐幾里得定義「線與面」，從不依賴畫筆手顫的經驗，而是建立嚴謹的公理體系。
--   **• 航空工程學：** 飛機機翼的升力計算靠的是流體力學與風洞實驗，而非乘客的滿意度問卷。
--   **• AETERNAL 的堅持：** 我們不將高級剪裁降維成隨機的主觀評價試錯，而是用可驗證的幾何公理與密碼學簽名（ECDSA），為每一件作品賦予真實、穩定且不可動搖的美學靈魂。
+- **• 幾何學的建立：** 歐幾里得定義「線與面」，從不依賴畫筆手顫的經驗，而是建立嚴謹的公理體系。
+- **• 航空工程學：** 飛機機翼的升力計算靠的是流體力學與風洞實驗，而非乘客的滿意度問卷。
+- **• AETERNAL 的堅持：** 我們不將高級剪裁降維成隨機的主觀評價試錯，而是用可驗證的幾何公理與密碼學簽名（ECDSA），為每一件作品賦予真實、穩定且不可動搖的美學靈魂。
 
 © 2026 AETERNAL LUXURY. Sovereign Technical Governance. Licensed under CC BY 4.0. AETERNAL, ÆTERNAL, The Axiom, The Singularity and PGEF are unregistered trademarks of AETERNAL Luxury (see TRADEMARKS.md).
 
